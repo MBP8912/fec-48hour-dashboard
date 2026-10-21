@@ -71,10 +71,6 @@
     $('conley-total').textContent=dollars(conley);
     $('lawler-count').textContent=data.contributions.filter(x=>x.committee_id===COMMITTEE_IDS.lawler).length.toLocaleString();
     $('conley-count').textContent=data.contributions.filter(x=>x.committee_id===COMMITTEE_IDS.conley).length.toLocaleString();
-    $('notice-count').textContent=data.filings.length.toLocaleString();
-    $('difference').textContent=dollars(Math.abs(lawler-conley));
-    $('difference-note').textContent= lawler===conley ? 'Both committees report the same total' :
-       `${lawler>conley?LABELS.lawler:LABELS.conley} reports more qualifying contributions`;
   }
 
   function openDetails(day, slug) {

@@ -28,7 +28,7 @@ h1 em { font-style:normal; color:#65748a }
 .status-pending { border:1px solid #e9d9b6; background:#fbf8ed; color:#886b3d }
 .status-good { border:1px solid #dceadf; background:#f2faf3; color:#3c7053 }
 .status-error { border:1px solid #f0d1ce; background:#fdf3f2; color:#ad4943 }
-.summary { display:grid; grid-template-columns:1fr 1fr .81fr; gap:16px }
+.summary { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:16px }
 .metric-card { background:var(--paper); border:1px solid var(--line); box-shadow:var(--shadow); padding:26px 26px 21px; border-radius:14px; min-width:0 }
 .metric-top { display:flex; align-items:center; gap:9px; letter-spacing:.11em; font-size:10px; font-weight:800; color:#5c687b; white-space:nowrap }
 .person-mark { width:9px; height:9px; border-radius:50%; display:block; flex:none }
@@ -116,5 +116,5 @@ tr:hover td { background:#fbfcfe }
 .dialog-amount { text-align:right; font-size:15px; font-weight:770; white-space:nowrap }
 .dialog-amount a { display:block; font-size:11px; margin-top:7px; color:#547aa6; font-weight:650 }
 .dialog-footer { padding:14px 29px 20px; background:#f8fafc; color:#8a99a7; font-size:11px; border-top:1px solid #e8edf1 }
-@media (max-width:1110px) { .summary { grid-template-columns:1fr 1fr } .metric-card.compare { grid-column:1 / -1 } .charts { grid-template-columns:1fr } .chart-host { height:310px } }
-@media (max-width:680px) { .page { padding:0 17px } .topbar { height:68px } .brand div span { font-size:9px } .hero { padding:37px 0 24px } .hero-sub { font-size:14px } .hero-details { gap:12px; flex-direction:column; margin-top:19px } .summary { grid-template-columns:1fr } .metric-card.compare { grid-column:auto } .metric-card { padding:23px 21px 18px } .charts { margin-top:14px } .chart-panel { padding:21px 13px 9px } .chart-host { height:240px } .panel-head { padding:0 8px } .legend { margin-left:8px } .ledger-head { padding:23px 18px; align-items:start } .ledger-head h2 { font-size:18px } .export-button { padding:8px } .table-foot { padding:15px 18px; flex-direction:column } .explainer { padding:22px 20px } .explainer-grid { grid-template-columns:1fr; gap:18px } .footer { flex-direction:column } .footer-links { flex-wrap:wrap; gap:14px } }
+@media (max-width:1110px) { .summary { grid-template-columns:1fr 1fr } .charts { grid-template-columns:1fr } .chart-host { height:310px } }
+@media (max-width:680px) { .page { padding:0 17px } .topbar { height:68px } .brand div span { font-size:9px } .hero { padding:37px 0 24px } .hero-sub { font-size:14px } .hero-details { gap:12px; flex-direction:column; margin-top:19px } .summary { grid-template-columns:1fr } .metric-card { padding:23px 21px 18px } .charts { margin-top:14px } .chart-panel { padding:21px 13px 9px } .chart-host { height:240px } .panel-head { padding:0 8px } .legend { margin-left:8px } .ledger-head { padding:23px 18px; align-items:start } .ledger-head h2 { font-size:18px } .export-button { padding:8px } .table-foot { padding:15px 18px; flex-direction:column } .explainer { padding:22px 20px } .explainer-grid { grid-template-columns:1fr; gap:18px } .footer { flex-direction:column } .footer-links { flex-wrap:wrap; gap:14px } }
