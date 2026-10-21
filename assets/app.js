@@ -97,14 +97,12 @@
 
   function updateTable(data) {
     const body=$('daily-table');body.replaceChildren();
-    if(!data.daily.length) {const tr=html('tr'),td=html('td','table-pending','No contribution dates available.');td.colSpan=6;tr.append(td);body.append(tr);return;}
+    if(!data.daily.length) {const tr=html('tr'),td=html('td','table-pending','No contribution dates available.');td.colSpan=4;tr.append(td);body.append(tr);return;}
     for(const r of [...data.daily].reverse()){
       const tr=html('tr');
       const dateCell=html('td','date-cell',formatDay(r.date,true));tr.append(dateCell);
       tr.append(html('td','right lawler-cell',dollars(r.totals.lawler)));
-      tr.append(html('td','right cum-cell',dollars(r.cumulative.lawler)));
       tr.append(html('td','right conley-cell',dollars(r.totals.conley)));
-      tr.append(html('td','right cum-cell',dollars(r.cumulative.conley)));
       const records=html('td');
       for(const slug of ['lawler','conley']) {
         const n=r.counts[slug];
