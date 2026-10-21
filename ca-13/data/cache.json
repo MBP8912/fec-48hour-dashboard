@@ -1,4 +1,461 @@
 {
   "schema_version": 1,
-  "filings": {}
+  "filings": {
+    "C00801431/2017097": {
+      "form_type": "F6A",
+      "original_amendment_date": "2026-05-22",
+      "contributions": [
+        {
+          "date": "2026-05-20",
+          "amount_cents": 100000,
+          "contributor": "FAA Managers Association Inc. PAC",
+          "state": "FL",
+          "transaction_id": "9974716",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-05-20",
+          "amount_cents": 105110,
+          "contributor": "Famiglietti, Michele",
+          "state": "DC",
+          "transaction_id": "10461026",
+          "entity_type": "IND",
+          "employer": "Wine Institute",
+          "occupation": "Senior Director"
+        },
+        {
+          "date": "2026-05-20",
+          "amount_cents": 200000,
+          "contributor": "Casten for Congress",
+          "state": "IL",
+          "transaction_id": "9976147",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-05-20",
+          "amount_cents": 250000,
+          "contributor": "UBS Americas Inc. Political Action Committee (UBS PAC)",
+          "state": "DC",
+          "transaction_id": "9974719",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2017097,
+      "committee_id": "C00801431",
+      "sha256": "bc4b8c99b823081fa5c4627c43172d7ded31deae6eee619810bdd2deaf84aad1",
+      "filed_date": "2026-10-05"
+    },
+    "C00801431/2029243": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-15",
+          "amount_cents": 250000,
+          "contributor": "Chamber of Commerce of The United States of America PAC (US Chamber PAC)",
+          "state": "DC",
+          "transaction_id": "11353097",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-15",
+          "amount_cents": 300000,
+          "contributor": "Timber PAC",
+          "state": "WA",
+          "transaction_id": "11351398",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2029243,
+      "committee_id": "C00801431",
+      "sha256": "b8e19a0d35c65ab2d33a2c52864987a9532da80cc6d8a813dadee903c2c5d12a",
+      "amendment_chain": [
+        2029243
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2029243,
+      "is_amended": false,
+      "filed_date": "2026-10-17"
+    },
+    "C00801431/2029814": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-16",
+          "amount_cents": 125000,
+          "contributor": "McKeon, Michael",
+          "state": "NY",
+          "transaction_id": "11363244",
+          "entity_type": "IND",
+          "employer": "Actum LLC",
+          "occupation": "Consultant"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 100000,
+          "contributor": "Olsen, Kristin",
+          "state": "CA",
+          "transaction_id": "11363245",
+          "entity_type": "IND",
+          "employer": "California Strategies",
+          "occupation": "Partner"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 150000,
+          "contributor": "Parrott, Richard",
+          "state": "CA",
+          "transaction_id": "11363466",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 500000,
+          "contributor": "American Israel Public Affairs Committee Political Action Committee",
+          "state": "DC",
+          "transaction_id": "11363537",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 100000,
+          "contributor": "Golden State Democracy PAC",
+          "state": "CA",
+          "transaction_id": "11363468",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2029814,
+      "committee_id": "C00801431",
+      "sha256": "52e2e5d52a3277dca7bb8fa48da4af4b440222711ed390063e12508106fa10ee",
+      "amendment_chain": [
+        2029814
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2029814,
+      "is_amended": false,
+      "filed_date": "2026-10-18"
+    },
+    "C00801431/2034894": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Allen, Laurence E.",
+          "state": "CA",
+          "transaction_id": "11406103",
+          "entity_type": "IND",
+          "employer": "Terranova Inc.",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Sunshine Organization for Tremendous Opportunities",
+          "state": "FL",
+          "transaction_id": "11399924",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 200000,
+          "contributor": "International Dairy Foods Association (IDFA) PAC",
+          "state": "DC",
+          "transaction_id": "11399905",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 350000,
+          "contributor": "Friends of the University",
+          "state": "CA",
+          "transaction_id": "11405765",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Case for Congress",
+          "state": "HI",
+          "transaction_id": "11407775",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 250000,
+          "contributor": "Build Political Action Committee of the National Association of Home Builders (BuildPAC)",
+          "state": "DC",
+          "transaction_id": "11399885",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 300000,
+          "contributor": "Mooretown Rancheria Forestry Contract Services",
+          "state": "CA",
+          "transaction_id": "11405787",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 120000,
+          "contributor": "Jaffe, Doug",
+          "state": "CA",
+          "transaction_id": "11400008",
+          "entity_type": "IND",
+          "employer": "Doug Jaffe Law",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 250000,
+          "contributor": "Writers Guild of America West Inc. PAC (WGAW PAC)",
+          "state": "CA",
+          "transaction_id": "11399878",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "American Defense and Military PAC (ADAM PAC)",
+          "state": "WA",
+          "transaction_id": "11399888",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2034894,
+      "committee_id": "C00801431",
+      "sha256": "3cb7a00b8e0d70ce4d9bbe2d313fce10268fdb454aaf5fa365068fc281f7aaa4",
+      "amendment_chain": [
+        2034894
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2034894,
+      "is_amended": false,
+      "filed_date": "2026-10-21"
+    },
+    "C00845826/2028899": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-15",
+          "amount_cents": 350000,
+          "contributor": "Beadles, Robert",
+          "state": "CA",
+          "transaction_id": "F65-1388732",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-15",
+          "amount_cents": 350000,
+          "contributor": "Duhovic, Jerome",
+          "state": "CA",
+          "transaction_id": "F65-1388670",
+          "entity_type": "IND",
+          "employer": "Centaurus Financial, Inc.",
+          "occupation": "Executive"
+        },
+        {
+          "date": "2026-10-15",
+          "amount_cents": 100000,
+          "contributor": "Hakeem, David",
+          "state": "CA",
+          "transaction_id": "F65-1388731",
+          "entity_type": "IND",
+          "employer": "F.J. Dietrich Insurance",
+          "occupation": "Insurance Agent"
+        },
+        {
+          "date": "2026-10-15",
+          "amount_cents": 350000,
+          "contributor": "Hart, Mike",
+          "state": "CA",
+          "transaction_id": "F65-1388733",
+          "entity_type": "IND",
+          "employer": "Sierra Energy",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-15",
+          "amount_cents": 100000,
+          "contributor": "Wilson, Joel",
+          "state": "CA",
+          "transaction_id": "F65-1388734",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 100000,
+          "contributor": "Penry, Matthew",
+          "state": "CA",
+          "transaction_id": "F65-1388735",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 100000,
+          "contributor": "Pinney, Russell Jan",
+          "state": "CA",
+          "transaction_id": "F65-1388736",
+          "entity_type": "IND",
+          "employer": "Pinney Insurance",
+          "occupation": "President"
+        }
+      ],
+      "file_number": 2028899,
+      "committee_id": "C00845826",
+      "sha256": "8c4e4e75e920a502d981b3ecd307afde7775148e726c8c29e6f889ecd93740d0",
+      "amendment_chain": [
+        2028899
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2028899,
+      "is_amended": false,
+      "filed_date": "2026-10-16"
+    },
+    "C00845826/2029745": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-16",
+          "amount_cents": 100000,
+          "contributor": "Scinto, Francine",
+          "state": "CA",
+          "transaction_id": "F65-1388810",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-17",
+          "amount_cents": 100000,
+          "contributor": "Craig-Hensley, Lisa",
+          "state": "CA",
+          "transaction_id": "F65-1389016",
+          "entity_type": "IND",
+          "employer": "City of Lodi",
+          "occupation": "Councilwoman"
+        },
+        {
+          "date": "2026-10-17",
+          "amount_cents": 100000,
+          "contributor": "Minor, David",
+          "state": "CA",
+          "transaction_id": "F65-1389018",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-17",
+          "amount_cents": 100000,
+          "contributor": "Sambado, Timothy",
+          "state": "CA",
+          "transaction_id": "F65-1389017",
+          "entity_type": "IND",
+          "employer": "Comstock Management",
+          "occupation": "Agriculture"
+        }
+      ],
+      "file_number": 2029745,
+      "committee_id": "C00845826",
+      "sha256": "732cf631ac618958423f6b1158cf2583d6eb7e1ce8445ff7baa3337d8362fc6e",
+      "amendment_chain": [
+        2029745
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2029745,
+      "is_amended": false,
+      "filed_date": "2026-10-18"
+    },
+    "C00845826/2031510": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Basso, Kevin",
+          "state": "CA",
+          "transaction_id": "F65-1389557",
+          "entity_type": "IND",
+          "employer": "Cal-Waste",
+          "occupation": "Manager"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Ratto, Melvin V",
+          "state": "CA",
+          "transaction_id": "F65-1389556",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Weibel, Fred",
+          "state": "CA",
+          "transaction_id": "F65-1389558",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        }
+      ],
+      "file_number": 2031510,
+      "committee_id": "C00845826",
+      "sha256": "d33e7d3e3e84819bc46b0588ce086f15b2b28351c933754c617a2bc2b621a3c0",
+      "amendment_chain": [
+        2031510
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2031510,
+      "is_amended": false,
+      "filed_date": "2026-10-20"
+    }
+  }
 }

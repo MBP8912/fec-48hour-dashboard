@@ -1,4 +1,203 @@
 {
   "schema_version": 1,
-  "filings": {}
+  "filings": {
+    "C00793760/2029354": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-15",
+          "amount_cents": 100000,
+          "contributor": "Strohman, Charles",
+          "state": "NY",
+          "transaction_id": "11370551",
+          "entity_type": "IND",
+          "employer": "Cornell University",
+          "occupation": "Engineer"
+        },
+        {
+          "date": "2026-10-15",
+          "amount_cents": 450000,
+          "contributor": "Air Line Pilots Association PAC",
+          "state": "VA",
+          "transaction_id": "11339978",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2029354,
+      "committee_id": "C00793760",
+      "sha256": "fd133864b6c8f11534466b3abb638b99c0c7352b3ad8444f3bb191987bb9e2cb",
+      "amendment_chain": [
+        2029354
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2029354,
+      "is_amended": false,
+      "filed_date": "2026-10-17"
+    },
+    "C00793760/2029809": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-16",
+          "amount_cents": 250000,
+          "contributor": "Amalgamated Transit Union - COPE",
+          "state": "MD",
+          "transaction_id": "11371465",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 100000,
+          "contributor": "Haggard, Michael",
+          "state": "FL",
+          "transaction_id": "11361799",
+          "entity_type": "IND",
+          "employer": "The Haggard Law Firm",
+          "occupation": "Attorney"
+        }
+      ],
+      "file_number": 2029809,
+      "committee_id": "C00793760",
+      "sha256": "db1f058a864d188a77b813715613ae937c879170b897539cb3519a7dca057e41",
+      "amendment_chain": [
+        2029809
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2029809,
+      "is_amended": false,
+      "filed_date": "2026-10-18"
+    },
+    "C00793760/2034842": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Reed, Tricia",
+          "state": "NY",
+          "transaction_id": "11378781",
+          "entity_type": "IND",
+          "employer": "Basilica Hudson",
+          "occupation": "Director"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "National Association of Postal Supervisors PAC",
+          "state": "VA",
+          "transaction_id": "11400722",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Cecil, Rachel",
+          "state": "NY",
+          "transaction_id": "11378782",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Green, Douglas J.",
+          "state": "NY",
+          "transaction_id": "11428523",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 350000,
+          "contributor": "Gerry, Sandra",
+          "state": "NY",
+          "transaction_id": "11378863",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 350000,
+          "contributor": "Gerry, Alan",
+          "state": "NY",
+          "transaction_id": "11378864",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "American Defense & Military PAC",
+          "state": "WA",
+          "transaction_id": "11428526",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 350000,
+          "contributor": "Kirchman, Dana",
+          "state": "NY",
+          "transaction_id": "11378937",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Management Consulting"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 250000,
+          "contributor": "International Dairy Foods Association (IDFA) PAC",
+          "state": "DC",
+          "transaction_id": "11400718",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Adamis, Anthony",
+          "state": "NY",
+          "transaction_id": "11378938",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Photographer"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 250000,
+          "contributor": "Sheet Metal & Air Conditioning Contractors' National Assoc., Inc. Political Action Committee",
+          "state": "VA",
+          "transaction_id": "11437449",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2034842,
+      "committee_id": "C00793760",
+      "sha256": "6b84f199cb071491313146970fd04ebe95d9d02be041f37f25799df8f9719503",
+      "amendment_chain": [
+        2034842
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2034842,
+      "is_amended": false,
+      "filed_date": "2026-10-21"
+    }
+  }
 }

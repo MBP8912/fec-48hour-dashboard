@@ -1,12 +1,431 @@
 {
-  "status": "not_initialized",
-  "generated_at": null,
+  "status": "ok",
+  "generated_at": "2026-10-21T23:01:52+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
   },
-  "daily": [],
-  "filings": [],
-  "contributions": [],
-  "warnings": []
+  "committee_info": {
+    "lawler": {
+      "name": "Brinker Harding for Congress",
+      "id": "C00909515",
+      "candidate": "Brinker Harding"
+    },
+    "conley": {
+      "name": "Denise Powell for Congress",
+      "id": "C00903948",
+      "candidate": "Denise Powell"
+    }
+  },
+  "daily": [
+    {
+      "date": "2026-10-15",
+      "totals": {
+        "lawler": 0,
+        "conley": 200000
+      },
+      "cumulative": {
+        "lawler": 0,
+        "conley": 200000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 2
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "totals": {
+        "lawler": 0,
+        "conley": 3273333
+      },
+      "cumulative": {
+        "lawler": 0,
+        "conley": 3473333
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 18
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "totals": {
+        "lawler": 100000,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 100000,
+        "conley": 3473333
+      },
+      "counts": {
+        "lawler": 1,
+        "conley": 0
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "totals": {
+        "lawler": 150000,
+        "conley": 150000
+      },
+      "cumulative": {
+        "lawler": 250000,
+        "conley": 3623333
+      },
+      "counts": {
+        "lawler": 1,
+        "conley": 1
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "totals": {
+        "lawler": 0,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 250000,
+        "conley": 3623333
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 0
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "totals": {
+        "lawler": 0,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 250000,
+        "conley": 3623333
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 0
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "totals": {
+        "lawler": 0,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 250000,
+        "conley": 3623333
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 0
+      }
+    }
+  ],
+  "filings": [
+    {
+      "committee_id": "C00903948",
+      "file_number": 2029670,
+      "filed_date": "2026-10-17",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00903948/2029670/f65"
+    },
+    {
+      "committee_id": "C00903948",
+      "file_number": 2030705,
+      "filed_date": "2026-10-19",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00903948/2030705/f65"
+    },
+    {
+      "committee_id": "C00909515",
+      "file_number": 2031155,
+      "filed_date": "2026-10-19",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00909515/2031155/f65"
+    }
+  ],
+  "contributions": [
+    {
+      "date": "2026-10-15",
+      "amount_cents": 100000,
+      "contributor": "Kovner, Victor",
+      "state": "NY",
+      "transaction_id": "14206093",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00903948",
+      "file_number": 2029670
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 100000,
+      "contributor": "Rosenberg, Sheli",
+      "state": "IL",
+      "transaction_id": "14207485",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00903948",
+      "file_number": 2029670
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "Chavkin, Arnold",
+      "state": "NY",
+      "transaction_id": "14206097",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00903948",
+      "file_number": 2029670
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "Eule, Daniel",
+      "state": "NY",
+      "transaction_id": "14307809",
+      "entity_type": "IND",
+      "employer": "Soros Fund Management",
+      "occupation": "CPA",
+      "committee_id": "C00903948",
+      "file_number": 2029670
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "Greenberg, Mary Kay",
+      "state": "NE",
+      "transaction_id": "14251626",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00903948",
+      "file_number": 2029670
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 350000,
+      "contributor": "Grimm, Matt",
+      "state": "CA",
+      "transaction_id": "14286778",
+      "entity_type": "IND",
+      "employer": "Anduril Industries",
+      "occupation": "Chief Operating Officer",
+      "committee_id": "C00903948",
+      "file_number": 2029670
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "JASMINE CLARK FOR GEORGIA",
+      "state": "GA",
+      "transaction_id": "14209438",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2029670
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 133333,
+      "contributor": "Jones, Alan Kent",
+      "state": "NY",
+      "transaction_id": "14296604",
+      "entity_type": "IND",
+      "employer": "Wells Fargo",
+      "occupation": "Banker",
+      "committee_id": "C00903948",
+      "file_number": 2029670
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "Kaplan, Craig",
+      "state": "NY",
+      "transaction_id": "14307810",
+      "entity_type": "IND",
+      "employer": "RBSKL Law Firm",
+      "occupation": "Attorney",
+      "committee_id": "C00903948",
+      "file_number": 2029670
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 350000,
+      "contributor": "McCollum, Kevin",
+      "state": "NY",
+      "transaction_id": "14296602",
+      "entity_type": "IND",
+      "employer": "Alchemation LLC",
+      "occupation": "Producer",
+      "committee_id": "C00903948",
+      "file_number": 2029670
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "Pearl, Barbara",
+      "state": "NY",
+      "transaction_id": "14206095",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00903948",
+      "file_number": 2029670
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "Pearl, Morris",
+      "state": "NY",
+      "transaction_id": "14206098",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00903948",
+      "file_number": 2029670
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "Pitchford, Dean",
+      "state": "CA",
+      "transaction_id": "14296605",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Writer",
+      "committee_id": "C00903948",
+      "file_number": 2029670
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 140000,
+      "contributor": "SQUARE ONE POLITICS",
+      "state": "DC",
+      "transaction_id": "14295088",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2029670
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 350000,
+      "contributor": "Seller, Jeffrey",
+      "state": "NY",
+      "transaction_id": "14296601",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Theatre Producer",
+      "committee_id": "C00903948",
+      "file_number": 2029670
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 350000,
+      "contributor": "Simons, Elizabeth",
+      "state": "CA",
+      "transaction_id": "14286798",
+      "entity_type": "IND",
+      "employer": "Medley Partners LLC",
+      "occupation": "Managing Director",
+      "committee_id": "C00903948",
+      "file_number": 2029670
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "Smith, Amy",
+      "state": "NY",
+      "transaction_id": "14206094",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Mental Health Provider",
+      "committee_id": "C00903948",
+      "file_number": 2029670
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 250000,
+      "contributor": "Streisand, Barbra",
+      "state": "CA",
+      "transaction_id": "14307709",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00903948",
+      "file_number": 2029670
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 250000,
+      "contributor": "Stuntz, Mayo",
+      "state": "NY",
+      "transaction_id": "14296603",
+      "entity_type": "IND",
+      "employer": "Pilot Group",
+      "occupation": "Investor",
+      "committee_id": "C00903948",
+      "file_number": 2029670
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 200000,
+      "contributor": "Witty, Joanne",
+      "state": "NY",
+      "transaction_id": "14206096",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00903948",
+      "file_number": 2029670
+    },
+    {
+      "date": "2026-10-17",
+      "amount_cents": 100000,
+      "contributor": "TAPIO, CARMEN",
+      "state": "NE",
+      "transaction_id": "600F5AEB902D1416BA79",
+      "entity_type": "IND",
+      "employer": "NORTH END TELESERVICES",
+      "occupation": "CEO",
+      "committee_id": "C00909515",
+      "file_number": 2031155
+    },
+    {
+      "date": "2026-10-18",
+      "amount_cents": 150000,
+      "contributor": "Dinsmore, Richard",
+      "state": "NE",
+      "transaction_id": "14393352",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00903948",
+      "file_number": 2030705
+    },
+    {
+      "date": "2026-10-18",
+      "amount_cents": 150000,
+      "contributor": "JAVITCH, GARY",
+      "state": "NE",
+      "transaction_id": "6FA1347D7CA3E4760A57",
+      "entity_type": "IND",
+      "employer": "RETIRED",
+      "occupation": "RETIRED",
+      "committee_id": "C00909515",
+      "file_number": 2031155
+    }
+  ],
+  "report_count": 3,
+  "warnings": [],
+  "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

@@ -1,12 +1,1047 @@
 {
-  "status": "not_initialized",
-  "generated_at": null,
+  "status": "ok",
+  "generated_at": "2026-10-21T23:01:53+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
   },
-  "daily": [],
-  "filings": [],
-  "contributions": [],
-  "warnings": []
+  "committee_info": {
+    "lawler": {
+      "name": "Steil for Wisconsin, Inc.",
+      "id": "C00677286",
+      "candidate": "Bryan Steil"
+    },
+    "conley": {
+      "name": "Mitchell Berman for Congress",
+      "id": "C00915637",
+      "candidate": "Mitchell Berman"
+    }
+  },
+  "daily": [
+    {
+      "date": "2026-10-15",
+      "totals": {
+        "lawler": 750000,
+        "conley": 2545000
+      },
+      "cumulative": {
+        "lawler": 750000,
+        "conley": 2545000
+      },
+      "counts": {
+        "lawler": 7,
+        "conley": 9
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "totals": {
+        "lawler": 1650000,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 2400000,
+        "conley": 2545000
+      },
+      "counts": {
+        "lawler": 5,
+        "conley": 0
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "totals": {
+        "lawler": 0,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 2400000,
+        "conley": 2545000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 0
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "totals": {
+        "lawler": 0,
+        "conley": 1400000
+      },
+      "cumulative": {
+        "lawler": 2400000,
+        "conley": 3945000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 9
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "totals": {
+        "lawler": 2564356,
+        "conley": 5200000
+      },
+      "cumulative": {
+        "lawler": 4964356,
+        "conley": 9145000
+      },
+      "counts": {
+        "lawler": 14,
+        "conley": 20
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "totals": {
+        "lawler": 1975000,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 6939356,
+        "conley": 9145000
+      },
+      "counts": {
+        "lawler": 8,
+        "conley": 0
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "totals": {
+        "lawler": 0,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 6939356,
+        "conley": 9145000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 0
+      }
+    }
+  ],
+  "filings": [
+    {
+      "committee_id": "C00915637",
+      "file_number": 2029346,
+      "filed_date": "2026-10-17",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00915637/2029346/f65"
+    },
+    {
+      "committee_id": "C00677286",
+      "file_number": 2029387,
+      "filed_date": "2026-10-17",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00677286/2029387/f65"
+    },
+    {
+      "committee_id": "C00677286",
+      "file_number": 2031885,
+      "filed_date": "2026-10-20",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00677286/2031885/f65"
+    },
+    {
+      "committee_id": "C00677286",
+      "file_number": 2031999,
+      "filed_date": "2026-10-20",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00677286/2031999/f65"
+    },
+    {
+      "committee_id": "C00915637",
+      "file_number": 2032485,
+      "filed_date": "2026-10-20",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00915637/2032485/f65"
+    },
+    {
+      "committee_id": "C00677286",
+      "file_number": 2034242,
+      "filed_date": "2026-10-21",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00677286/2034242/f65"
+    },
+    {
+      "committee_id": "C00915637",
+      "file_number": 2034637,
+      "filed_date": "2026-10-21",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00915637/2034637/f65"
+    }
+  ],
+  "contributions": [
+    {
+      "date": "2026-10-15",
+      "amount_cents": 100000,
+      "contributor": "AJMERI, AKIL I.",
+      "state": "WI",
+      "transaction_id": "TX93954",
+      "entity_type": "IND",
+      "employer": "AYRA'S LIQUOR & CIGAR",
+      "occupation": "OWNER",
+      "committee_id": "C00677286",
+      "file_number": 2029387
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 100000,
+      "contributor": "ANDRABI, IMRAN",
+      "state": "WI",
+      "transaction_id": "TX93941",
+      "entity_type": "IND",
+      "employer": "FROEDTERT THEDACARE",
+      "occupation": "PRESIDENT & CEO",
+      "committee_id": "C00677286",
+      "file_number": 2029387
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 150000,
+      "contributor": "JANSSON, PETER N",
+      "state": "WI",
+      "transaction_id": "TX93951",
+      "entity_type": "IND",
+      "employer": "JANSSON MUNGER MCKINLEY & LIRBU LTD",
+      "occupation": "ATTORNEY",
+      "committee_id": "C00677286",
+      "file_number": 2029387
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 100000,
+      "contributor": "LYNOTT, JAMES V.",
+      "state": "WI",
+      "transaction_id": "TX93959",
+      "entity_type": "IND",
+      "employer": "FOREFRONT DERMETOLOGY",
+      "occupation": "PHYSICIAN",
+      "committee_id": "C00677286",
+      "file_number": 2029387
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 100000,
+      "contributor": "ROHRBACH, DAN",
+      "state": "WI",
+      "transaction_id": "TX93938",
+      "entity_type": "IND",
+      "employer": "SOUTHWEST HEALTH",
+      "occupation": "PRESIDENT & CEO",
+      "committee_id": "C00677286",
+      "file_number": 2029387
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 100000,
+      "contributor": "SCHAEFER, WENDY S",
+      "state": "WI",
+      "transaction_id": "TX93960",
+      "entity_type": "IND",
+      "employer": "PIONEER PRODUCTS",
+      "occupation": "EXECUTIVE",
+      "committee_id": "C00677286",
+      "file_number": 2029387
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 100000,
+      "contributor": "STANFORD, MATTHEW",
+      "state": "WI",
+      "transaction_id": "TX93934",
+      "entity_type": "IND",
+      "employer": "WISCONSIN HOSPITAL ASSOCIATION",
+      "occupation": "GENERAL COUNSEL",
+      "committee_id": "C00677286",
+      "file_number": 2029387
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 100000,
+      "contributor": "Avery, Christopher",
+      "state": "NM",
+      "transaction_id": "14252533",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2029346
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 245000,
+      "contributor": "Dagbjartsson, Eggert",
+      "state": "MA",
+      "transaction_id": "14252504",
+      "entity_type": "IND",
+      "employer": "Equity Resources Investments",
+      "occupation": "Managing Partner",
+      "committee_id": "C00915637",
+      "file_number": 2029346
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 100000,
+      "contributor": "Goldberg, William",
+      "state": "IL",
+      "transaction_id": "14252578",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2029346
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 200000,
+      "contributor": "Granvold, Patrick",
+      "state": "CA",
+      "transaction_id": "14252667",
+      "entity_type": "IND",
+      "employer": "Apple",
+      "occupation": "Software Engineer",
+      "committee_id": "C00915637",
+      "file_number": 2029346
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 350000,
+      "contributor": "Lawrence, Dee",
+      "state": "CA",
+      "transaction_id": "14148586",
+      "entity_type": "IND",
+      "employer": "Cool Effect",
+      "occupation": "Director",
+      "committee_id": "C00915637",
+      "file_number": 2029346
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 350000,
+      "contributor": "Lawrence, Richard",
+      "state": "CA",
+      "transaction_id": "14148606",
+      "entity_type": "IND",
+      "employer": "High Tide Foundation",
+      "occupation": "Director",
+      "committee_id": "C00915637",
+      "file_number": 2029346
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 350000,
+      "contributor": "Snowdon, Edward",
+      "state": "NY",
+      "transaction_id": "14252675",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Theatrical Producer",
+      "committee_id": "C00915637",
+      "file_number": 2029346
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 500000,
+      "contributor": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+      "state": "DC",
+      "transaction_id": "14147175",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2029346
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 350000,
+      "contributor": "Yount, Richard",
+      "state": "TX",
+      "transaction_id": "14252679",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2029346
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 200000,
+      "contributor": "FALLON FOR CONGRESS",
+      "state": "TX",
+      "transaction_id": "TX93948",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00677286",
+      "file_number": 2029387
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 350000,
+      "contributor": "FREEDOM FORCE PAC",
+      "state": "FL",
+      "transaction_id": "TX93950",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00677286",
+      "file_number": 2029387
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "HESS, DANIEL M.",
+      "state": "WI",
+      "transaction_id": "TX93947",
+      "entity_type": "IND",
+      "employer": "FOLEY + LARDNER LLP",
+      "occupation": "LAWYER",
+      "committee_id": "C00677286",
+      "file_number": 2029387
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 500000,
+      "contributor": "PATRIOTS ALWAYS TRIUMPH",
+      "state": "OH",
+      "transaction_id": "TX93949",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00677286",
+      "file_number": 2029387
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 500000,
+      "contributor": "ROSNER, BRANDON",
+      "state": "WI",
+      "transaction_id": "TX93946",
+      "entity_type": "IND",
+      "employer": "HUMANA",
+      "occupation": "DIRECTOR",
+      "committee_id": "C00677286",
+      "file_number": 2029387
+    },
+    {
+      "date": "2026-10-18",
+      "amount_cents": 100000,
+      "contributor": "BRIDGE THE GAP PAC",
+      "state": "DC",
+      "transaction_id": "14441123",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2032485
+    },
+    {
+      "date": "2026-10-18",
+      "amount_cents": 100000,
+      "contributor": "Cohen, Howard",
+      "state": "MA",
+      "transaction_id": "14420090",
+      "entity_type": "IND",
+      "employer": "Beacon",
+      "occupation": "Executive",
+      "committee_id": "C00915637",
+      "file_number": 2032485
+    },
+    {
+      "date": "2026-10-18",
+      "amount_cents": 100000,
+      "contributor": "HILDA SOLIS FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "14441144",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2032485
+    },
+    {
+      "date": "2026-10-18",
+      "amount_cents": 100000,
+      "contributor": "Higginbottom, Elzie",
+      "state": "IL",
+      "transaction_id": "14420391",
+      "entity_type": "IND",
+      "employer": "East Lake Management",
+      "occupation": "Real Estate",
+      "committee_id": "C00915637",
+      "file_number": 2032485
+    },
+    {
+      "date": "2026-10-18",
+      "amount_cents": 350000,
+      "contributor": "McKellar, Archie",
+      "state": "IL",
+      "transaction_id": "14420307",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2032485
+    },
+    {
+      "date": "2026-10-18",
+      "amount_cents": 100000,
+      "contributor": "Milburn, Rob M.",
+      "state": "IL",
+      "transaction_id": "14420174",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Composer & Sound Designer",
+      "committee_id": "C00915637",
+      "file_number": 2032485
+    },
+    {
+      "date": "2026-10-18",
+      "amount_cents": 100000,
+      "contributor": "READY TO FIGHT PAC",
+      "state": "VA",
+      "transaction_id": "14441095",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2032485
+    },
+    {
+      "date": "2026-10-18",
+      "amount_cents": 250000,
+      "contributor": "Ryan, David",
+      "state": "WI",
+      "transaction_id": "14420313",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Retired",
+      "committee_id": "C00915637",
+      "file_number": 2032485
+    },
+    {
+      "date": "2026-10-18",
+      "amount_cents": 200000,
+      "contributor": "Ryan, David",
+      "state": "WI",
+      "transaction_id": "14420404",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Retired",
+      "committee_id": "C00915637",
+      "file_number": 2032485
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 350000,
+      "contributor": "1848 PAC",
+      "state": "WI",
+      "transaction_id": "TX94636",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00677286",
+      "file_number": 2031885
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 200000,
+      "contributor": "COLEMAN PROPERTY GROUP LLC",
+      "state": "WI",
+      "transaction_id": "TX94649",
+      "entity_type": "ORG",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00677286",
+      "file_number": 2031885
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "CURRAN-MEULI, JANE",
+      "state": "WI",
+      "transaction_id": "TX95136",
+      "entity_type": "IND",
+      "employer": "SSM HEALTH MONROE CLINIC",
+      "occupation": "PRESIDENT",
+      "committee_id": "C00677286",
+      "file_number": 2031999
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "DHILLON, KULWANT",
+      "state": "WI",
+      "transaction_id": "TX94645",
+      "entity_type": "IND",
+      "employer": "OPEN PANTRY",
+      "occupation": "EXECUTIVE",
+      "committee_id": "C00677286",
+      "file_number": 2031885
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 200000,
+      "contributor": "FALBO, MICHAEL J.",
+      "state": "WI",
+      "transaction_id": "TX94647",
+      "entity_type": "IND",
+      "employer": "RETIRED",
+      "occupation": "RETIRED",
+      "committee_id": "C00677286",
+      "file_number": 2031885
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "KACHEL, MICHAEL S.",
+      "state": "WI",
+      "transaction_id": "TX94646",
+      "entity_type": "IND",
+      "employer": "DLK ENTERPRISE",
+      "occupation": "SELF EMPLOYED",
+      "committee_id": "C00677286",
+      "file_number": 2031885
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "MCWHINNEY, BRENT A.",
+      "state": "WI",
+      "transaction_id": "TX94641",
+      "entity_type": "IND",
+      "employer": "GENCORE POWER SOLUTIONS",
+      "occupation": "PRESIDENT",
+      "committee_id": "C00677286",
+      "file_number": 2031885
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "MISRA, SURESH",
+      "state": "WI",
+      "transaction_id": "TX94651",
+      "entity_type": "IND",
+      "employer": "ASCENSION",
+      "occupation": "PHYSICIAN",
+      "committee_id": "C00677286",
+      "file_number": 2031885
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "SINGH, BACHAN",
+      "state": "WI",
+      "transaction_id": "TX94644",
+      "entity_type": "IND",
+      "employer": "RETIRED",
+      "occupation": "RETIRED",
+      "committee_id": "C00677286",
+      "file_number": 2031885
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "SINGH, GURINDER",
+      "state": "WI",
+      "transaction_id": "TX94643",
+      "entity_type": "IND",
+      "employer": "INFORMATION REQUESTED PER BEST EFFORTS",
+      "occupation": "INFORMATION REQUESTED PER BEST EFFORTS",
+      "committee_id": "C00677286",
+      "file_number": 2031885
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 300000,
+      "contributor": "SINGH, RUPINDER",
+      "state": "WI",
+      "transaction_id": "TX94648",
+      "entity_type": "IND",
+      "employer": "RETIRED",
+      "occupation": "RETIRED",
+      "committee_id": "C00677286",
+      "file_number": 2031885
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 350000,
+      "contributor": "STANTON, JAMES M",
+      "state": "TX",
+      "transaction_id": "TX94642",
+      "entity_type": "IND",
+      "employer": "STANTON LLP",
+      "occupation": "PARTNER",
+      "committee_id": "C00677286",
+      "file_number": 2031885
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 364356,
+      "contributor": "UNDERWOOD, PETER",
+      "state": "WA",
+      "transaction_id": "TX94653",
+      "entity_type": "IND",
+      "employer": "FORTIVE CORPORATION",
+      "occupation": "ATTORNEY",
+      "committee_id": "C00677286",
+      "file_number": 2031885
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "VINEY, WILLIAM",
+      "state": "VA",
+      "transaction_id": "TX94654",
+      "entity_type": "IND",
+      "employer": "BGR",
+      "occupation": "PRINCIPAL",
+      "committee_id": "C00677286",
+      "file_number": 2031885
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 250000,
+      "contributor": "AMERICAN FEDERATION OF TEACHERS, AFL-CIO COMMITTEE ON POLITICAL EDUCATION",
+      "state": "DC",
+      "transaction_id": "14577022",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2034637
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 200000,
+      "contributor": "BONAMICI FOR CONGRESS",
+      "state": "OR",
+      "transaction_id": "14469058",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2034637
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 200000,
+      "contributor": "CHRISSY HOULAHAN FOR CONGRESS",
+      "state": "MD",
+      "transaction_id": "14577055",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2034637
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "ERIC SORENSEN FOR ILLINOIS",
+      "state": "IL",
+      "transaction_id": "14577104",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2034637
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 350000,
+      "contributor": "Evans, April",
+      "state": "MA",
+      "transaction_id": "14596370",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2034637
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "Foltz, Mark",
+      "state": "WA",
+      "transaction_id": "14598931",
+      "entity_type": "IND",
+      "employer": "Google Inc.",
+      "occupation": "Software Engineer",
+      "committee_id": "C00915637",
+      "file_number": 2034637
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 200000,
+      "contributor": "Heide, Charles H.",
+      "state": "WI",
+      "transaction_id": "14598926",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Farmland Management",
+      "committee_id": "C00915637",
+      "file_number": 2034637
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 250000,
+      "contributor": "INT'L UNION OF BRICKLAYERS AND ALLIED CRAFTWORKERS",
+      "state": "DC",
+      "transaction_id": "14443392",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2034637
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 250000,
+      "contributor": "Lubar, Marianne",
+      "state": "WI",
+      "transaction_id": "14598925",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2034637
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 500000,
+      "contributor": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+      "state": "MD",
+      "transaction_id": "14443384",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2034637
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 150000,
+      "contributor": "McGuire, Mark R.",
+      "state": "WI",
+      "transaction_id": "14598928",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2034637
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 150000,
+      "contributor": "Munger, Barry",
+      "state": "NY",
+      "transaction_id": "14598927",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2034637
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 500000,
+      "contributor": "PAC TO THE FUTURE",
+      "state": "DC",
+      "transaction_id": "14577140",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2034637
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "Spottswood, Lydia",
+      "state": "WI",
+      "transaction_id": "14598929",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2034637
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 350000,
+      "contributor": "Torres, Tomas",
+      "state": "TX",
+      "transaction_id": "14598924",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Retired",
+      "committee_id": "C00915637",
+      "file_number": 2034637
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 500000,
+      "contributor": "UNITED STEELWORKERS POLITICAL ACTION FUND",
+      "state": "PA",
+      "transaction_id": "14443335",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2034637
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 250000,
+      "contributor": "UPLIFT PAC",
+      "state": "MI",
+      "transaction_id": "14577074",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2034637
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 350000,
+      "contributor": "Weil, Sage",
+      "state": "WI",
+      "transaction_id": "14594336",
+      "entity_type": "IND",
+      "employer": "Civic Media",
+      "occupation": "CEO",
+      "committee_id": "C00915637",
+      "file_number": 2034637
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 350000,
+      "contributor": "Wolthuis, John",
+      "state": "CA",
+      "transaction_id": "14598923",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2034637
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "Zelden, Karen",
+      "state": "IL",
+      "transaction_id": "14598930",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2034637
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 350000,
+      "contributor": "ARMSTRONG, KELLY",
+      "state": "ND",
+      "transaction_id": "TX95147",
+      "entity_type": "IND",
+      "employer": "US HOUSE",
+      "occupation": "CONGRESSMAN",
+      "committee_id": "C00677286",
+      "file_number": 2034242
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 250000,
+      "contributor": "ELECTING REPUBLICANS INDIANA PAC",
+      "state": "IN",
+      "transaction_id": "TX95140",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00677286",
+      "file_number": 2034242
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 150000,
+      "contributor": "GLENN GROTHMAN FOR CONGRESS",
+      "state": "WI",
+      "transaction_id": "TX95149",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00677286",
+      "file_number": 2034242
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 100000,
+      "contributor": "HEITZ, MARK V.",
+      "state": "KS",
+      "transaction_id": "TX95137",
+      "entity_type": "IND",
+      "employer": "RETIRED",
+      "occupation": "RETIRED",
+      "committee_id": "C00677286",
+      "file_number": 2034242
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 100000,
+      "contributor": "KARLOVICS, SARA",
+      "state": "IL",
+      "transaction_id": "TX95148",
+      "entity_type": "IND",
+      "employer": "SELF",
+      "occupation": "PARTNER",
+      "committee_id": "C00677286",
+      "file_number": 2034242
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 275000,
+      "contributor": "PFRANG, STEVEN",
+      "state": "VA",
+      "transaction_id": "TX95144",
+      "entity_type": "IND",
+      "employer": "BGR GROUP",
+      "occupation": "CONSULTANT",
+      "committee_id": "C00677286",
+      "file_number": 2034242
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 400000,
+      "contributor": "REPUBLICAN MAINSTREET PARTNERSHIP PAC",
+      "state": "DC",
+      "transaction_id": "TX95142",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00677286",
+      "file_number": 2034242
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 350000,
+      "contributor": "WOOD, CARRIE",
+      "state": "VA",
+      "transaction_id": "TX95143",
+      "entity_type": "IND",
+      "employer": "HOMEMAKER",
+      "occupation": "HOMEMAKER",
+      "committee_id": "C00677286",
+      "file_number": 2034242
+    }
+  ],
+  "report_count": 7,
+  "warnings": [],
+  "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

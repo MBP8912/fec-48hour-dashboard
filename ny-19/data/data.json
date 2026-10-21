@@ -1,12 +1,335 @@
 {
-  "status": "not_initialized",
-  "generated_at": null,
+  "status": "ok",
+  "generated_at": "2026-10-21T23:01:54+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
   },
-  "daily": [],
-  "filings": [],
-  "contributions": [],
-  "warnings": []
+  "committee_info": {
+    "lawler": {
+      "name": "Peter for NY Inc",
+      "id": "C00921668",
+      "candidate": "Peter Oberacker"
+    },
+    "conley": {
+      "name": "Josh Riley for Congress",
+      "id": "C00793760",
+      "candidate": "Josh Riley"
+    }
+  },
+  "daily": [
+    {
+      "date": "2026-10-15",
+      "totals": {
+        "lawler": 0,
+        "conley": 550000
+      },
+      "cumulative": {
+        "lawler": 0,
+        "conley": 550000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 2
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "totals": {
+        "lawler": 0,
+        "conley": 350000
+      },
+      "cumulative": {
+        "lawler": 0,
+        "conley": 900000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 2
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "totals": {
+        "lawler": 0,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 0,
+        "conley": 900000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 0
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "totals": {
+        "lawler": 0,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 0,
+        "conley": 900000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 0
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "totals": {
+        "lawler": 0,
+        "conley": 2150000
+      },
+      "cumulative": {
+        "lawler": 0,
+        "conley": 3050000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 11
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "totals": {
+        "lawler": 0,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 0,
+        "conley": 3050000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 0
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "totals": {
+        "lawler": 0,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 0,
+        "conley": 3050000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 0
+      }
+    }
+  ],
+  "filings": [
+    {
+      "committee_id": "C00793760",
+      "file_number": 2029354,
+      "filed_date": "2026-10-17",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00793760/2029354/f65"
+    },
+    {
+      "committee_id": "C00793760",
+      "file_number": 2029809,
+      "filed_date": "2026-10-18",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00793760/2029809/f65"
+    },
+    {
+      "committee_id": "C00793760",
+      "file_number": 2034842,
+      "filed_date": "2026-10-21",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00793760/2034842/f65"
+    }
+  ],
+  "contributions": [
+    {
+      "date": "2026-10-15",
+      "amount_cents": 450000,
+      "contributor": "Air Line Pilots Association PAC",
+      "state": "VA",
+      "transaction_id": "11339978",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00793760",
+      "file_number": 2029354
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 100000,
+      "contributor": "Strohman, Charles",
+      "state": "NY",
+      "transaction_id": "11370551",
+      "entity_type": "IND",
+      "employer": "Cornell University",
+      "occupation": "Engineer",
+      "committee_id": "C00793760",
+      "file_number": 2029354
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 250000,
+      "contributor": "Amalgamated Transit Union - COPE",
+      "state": "MD",
+      "transaction_id": "11371465",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00793760",
+      "file_number": 2029809
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "Haggard, Michael",
+      "state": "FL",
+      "transaction_id": "11361799",
+      "entity_type": "IND",
+      "employer": "The Haggard Law Firm",
+      "occupation": "Attorney",
+      "committee_id": "C00793760",
+      "file_number": 2029809
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "Adamis, Anthony",
+      "state": "NY",
+      "transaction_id": "11378938",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Photographer",
+      "committee_id": "C00793760",
+      "file_number": 2034842
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "American Defense & Military PAC",
+      "state": "WA",
+      "transaction_id": "11428526",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00793760",
+      "file_number": 2034842
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "Cecil, Rachel",
+      "state": "NY",
+      "transaction_id": "11378782",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00793760",
+      "file_number": 2034842
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 350000,
+      "contributor": "Gerry, Alan",
+      "state": "NY",
+      "transaction_id": "11378864",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00793760",
+      "file_number": 2034842
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 350000,
+      "contributor": "Gerry, Sandra",
+      "state": "NY",
+      "transaction_id": "11378863",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00793760",
+      "file_number": 2034842
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "Green, Douglas J.",
+      "state": "NY",
+      "transaction_id": "11428523",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00793760",
+      "file_number": 2034842
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 250000,
+      "contributor": "International Dairy Foods Association (IDFA) PAC",
+      "state": "DC",
+      "transaction_id": "11400718",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00793760",
+      "file_number": 2034842
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 350000,
+      "contributor": "Kirchman, Dana",
+      "state": "NY",
+      "transaction_id": "11378937",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Management Consulting",
+      "committee_id": "C00793760",
+      "file_number": 2034842
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "National Association of Postal Supervisors PAC",
+      "state": "VA",
+      "transaction_id": "11400722",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00793760",
+      "file_number": 2034842
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "Reed, Tricia",
+      "state": "NY",
+      "transaction_id": "11378781",
+      "entity_type": "IND",
+      "employer": "Basilica Hudson",
+      "occupation": "Director",
+      "committee_id": "C00793760",
+      "file_number": 2034842
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 250000,
+      "contributor": "Sheet Metal & Air Conditioning Contractors' National Assoc., Inc. Political Action Committee",
+      "state": "VA",
+      "transaction_id": "11437449",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00793760",
+      "file_number": 2034842
+    }
+  ],
+  "report_count": 3,
+  "warnings": [],
+  "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

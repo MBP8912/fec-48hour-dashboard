@@ -1,12 +1,548 @@
 {
-  "status": "not_initialized",
-  "generated_at": null,
+  "status": "ok",
+  "generated_at": "2026-10-21T23:01:55+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
   },
-  "daily": [],
-  "filings": [],
-  "contributions": [],
-  "warnings": []
+  "committee_info": {
+    "lawler": {
+      "name": "Kevin Lincoln for Congress",
+      "id": "C00845826",
+      "candidate": "Kevin Lincoln"
+    },
+    "conley": {
+      "name": "Adam Gray for Congress",
+      "id": "C00801431",
+      "candidate": "Adam Gray"
+    }
+  },
+  "daily": [
+    {
+      "date": "2026-10-15",
+      "totals": {
+        "lawler": 1250000,
+        "conley": 550000
+      },
+      "cumulative": {
+        "lawler": 1250000,
+        "conley": 550000
+      },
+      "counts": {
+        "lawler": 5,
+        "conley": 2
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "totals": {
+        "lawler": 300000,
+        "conley": 975000
+      },
+      "cumulative": {
+        "lawler": 1550000,
+        "conley": 1525000
+      },
+      "counts": {
+        "lawler": 3,
+        "conley": 5
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "totals": {
+        "lawler": 300000,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 1850000,
+        "conley": 1525000
+      },
+      "counts": {
+        "lawler": 3,
+        "conley": 0
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "totals": {
+        "lawler": 0,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 1850000,
+        "conley": 1525000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 0
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "totals": {
+        "lawler": 300000,
+        "conley": 1870000
+      },
+      "cumulative": {
+        "lawler": 2150000,
+        "conley": 3395000
+      },
+      "counts": {
+        "lawler": 3,
+        "conley": 10
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "totals": {
+        "lawler": 0,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 2150000,
+        "conley": 3395000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 0
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "totals": {
+        "lawler": 0,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 2150000,
+        "conley": 3395000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 0
+      }
+    }
+  ],
+  "filings": [
+    {
+      "committee_id": "C00845826",
+      "file_number": 2028899,
+      "filed_date": "2026-10-16",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00845826/2028899/f65"
+    },
+    {
+      "committee_id": "C00801431",
+      "file_number": 2029243,
+      "filed_date": "2026-10-17",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00801431/2029243/f65"
+    },
+    {
+      "committee_id": "C00845826",
+      "file_number": 2029745,
+      "filed_date": "2026-10-18",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00845826/2029745/f65"
+    },
+    {
+      "committee_id": "C00801431",
+      "file_number": 2029814,
+      "filed_date": "2026-10-18",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00801431/2029814/f65"
+    },
+    {
+      "committee_id": "C00845826",
+      "file_number": 2031510,
+      "filed_date": "2026-10-20",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00845826/2031510/f65"
+    },
+    {
+      "committee_id": "C00801431",
+      "file_number": 2034894,
+      "filed_date": "2026-10-21",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00801431/2034894/f65"
+    }
+  ],
+  "contributions": [
+    {
+      "date": "2026-10-15",
+      "amount_cents": 250000,
+      "contributor": "Chamber of Commerce of The United States of America PAC (US Chamber PAC)",
+      "state": "DC",
+      "transaction_id": "11353097",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2029243
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 300000,
+      "contributor": "Timber PAC",
+      "state": "WA",
+      "transaction_id": "11351398",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2029243
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 350000,
+      "contributor": "Beadles, Robert",
+      "state": "CA",
+      "transaction_id": "F65-1388732",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00845826",
+      "file_number": 2028899
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 350000,
+      "contributor": "Duhovic, Jerome",
+      "state": "CA",
+      "transaction_id": "F65-1388670",
+      "entity_type": "IND",
+      "employer": "Centaurus Financial, Inc.",
+      "occupation": "Executive",
+      "committee_id": "C00845826",
+      "file_number": 2028899
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 100000,
+      "contributor": "Hakeem, David",
+      "state": "CA",
+      "transaction_id": "F65-1388731",
+      "entity_type": "IND",
+      "employer": "F.J. Dietrich Insurance",
+      "occupation": "Insurance Agent",
+      "committee_id": "C00845826",
+      "file_number": 2028899
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 350000,
+      "contributor": "Hart, Mike",
+      "state": "CA",
+      "transaction_id": "F65-1388733",
+      "entity_type": "IND",
+      "employer": "Sierra Energy",
+      "occupation": "CEO",
+      "committee_id": "C00845826",
+      "file_number": 2028899
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 100000,
+      "contributor": "Wilson, Joel",
+      "state": "CA",
+      "transaction_id": "F65-1388734",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00845826",
+      "file_number": 2028899
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 500000,
+      "contributor": "American Israel Public Affairs Committee Political Action Committee",
+      "state": "DC",
+      "transaction_id": "11363537",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2029814
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "Golden State Democracy PAC",
+      "state": "CA",
+      "transaction_id": "11363468",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2029814
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 125000,
+      "contributor": "McKeon, Michael",
+      "state": "NY",
+      "transaction_id": "11363244",
+      "entity_type": "IND",
+      "employer": "Actum LLC",
+      "occupation": "Consultant",
+      "committee_id": "C00801431",
+      "file_number": 2029814
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "Olsen, Kristin",
+      "state": "CA",
+      "transaction_id": "11363245",
+      "entity_type": "IND",
+      "employer": "California Strategies",
+      "occupation": "Partner",
+      "committee_id": "C00801431",
+      "file_number": 2029814
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 150000,
+      "contributor": "Parrott, Richard",
+      "state": "CA",
+      "transaction_id": "11363466",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Retired",
+      "committee_id": "C00801431",
+      "file_number": 2029814
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "Penry, Matthew",
+      "state": "CA",
+      "transaction_id": "F65-1388735",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00845826",
+      "file_number": 2028899
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "Pinney, Russell Jan",
+      "state": "CA",
+      "transaction_id": "F65-1388736",
+      "entity_type": "IND",
+      "employer": "Pinney Insurance",
+      "occupation": "President",
+      "committee_id": "C00845826",
+      "file_number": 2028899
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "Scinto, Francine",
+      "state": "CA",
+      "transaction_id": "F65-1388810",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00845826",
+      "file_number": 2029745
+    },
+    {
+      "date": "2026-10-17",
+      "amount_cents": 100000,
+      "contributor": "Craig-Hensley, Lisa",
+      "state": "CA",
+      "transaction_id": "F65-1389016",
+      "entity_type": "IND",
+      "employer": "City of Lodi",
+      "occupation": "Councilwoman",
+      "committee_id": "C00845826",
+      "file_number": 2029745
+    },
+    {
+      "date": "2026-10-17",
+      "amount_cents": 100000,
+      "contributor": "Minor, David",
+      "state": "CA",
+      "transaction_id": "F65-1389018",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00845826",
+      "file_number": 2029745
+    },
+    {
+      "date": "2026-10-17",
+      "amount_cents": 100000,
+      "contributor": "Sambado, Timothy",
+      "state": "CA",
+      "transaction_id": "F65-1389017",
+      "entity_type": "IND",
+      "employer": "Comstock Management",
+      "occupation": "Agriculture",
+      "committee_id": "C00845826",
+      "file_number": 2029745
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "Allen, Laurence E.",
+      "state": "CA",
+      "transaction_id": "11406103",
+      "entity_type": "IND",
+      "employer": "Terranova Inc.",
+      "occupation": "CEO",
+      "committee_id": "C00801431",
+      "file_number": 2034894
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "American Defense and Military PAC (ADAM PAC)",
+      "state": "WA",
+      "transaction_id": "11399888",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2034894
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 250000,
+      "contributor": "Build Political Action Committee of the National Association of Home Builders (BuildPAC)",
+      "state": "DC",
+      "transaction_id": "11399885",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2034894
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "Case for Congress",
+      "state": "HI",
+      "transaction_id": "11407775",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2034894
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 350000,
+      "contributor": "Friends of the University",
+      "state": "CA",
+      "transaction_id": "11405765",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2034894
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 200000,
+      "contributor": "International Dairy Foods Association (IDFA) PAC",
+      "state": "DC",
+      "transaction_id": "11399905",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2034894
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 120000,
+      "contributor": "Jaffe, Doug",
+      "state": "CA",
+      "transaction_id": "11400008",
+      "entity_type": "IND",
+      "employer": "Doug Jaffe Law",
+      "occupation": "Attorney",
+      "committee_id": "C00801431",
+      "file_number": 2034894
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 300000,
+      "contributor": "Mooretown Rancheria Forestry Contract Services",
+      "state": "CA",
+      "transaction_id": "11405787",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2034894
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "Sunshine Organization for Tremendous Opportunities",
+      "state": "FL",
+      "transaction_id": "11399924",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2034894
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 250000,
+      "contributor": "Writers Guild of America West Inc. PAC (WGAW PAC)",
+      "state": "CA",
+      "transaction_id": "11399878",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2034894
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "Basso, Kevin",
+      "state": "CA",
+      "transaction_id": "F65-1389557",
+      "entity_type": "IND",
+      "employer": "Cal-Waste",
+      "occupation": "Manager",
+      "committee_id": "C00845826",
+      "file_number": 2031510
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "Ratto, Melvin V",
+      "state": "CA",
+      "transaction_id": "F65-1389556",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00845826",
+      "file_number": 2031510
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "Weibel, Fred",
+      "state": "CA",
+      "transaction_id": "F65-1389558",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00845826",
+      "file_number": 2031510
+    }
+  ],
+  "report_count": 6,
+  "warnings": [],
+  "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

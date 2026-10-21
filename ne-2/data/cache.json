@@ -1,4 +1,283 @@
 {
   "schema_version": 1,
-  "filings": {}
+  "filings": {
+    "C00903948/2029670": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-16",
+          "amount_cents": 100000,
+          "contributor": "Kaplan, Craig",
+          "state": "NY",
+          "transaction_id": "14307810",
+          "entity_type": "IND",
+          "employer": "RBSKL Law Firm",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 350000,
+          "contributor": "Seller, Jeffrey",
+          "state": "NY",
+          "transaction_id": "14296601",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Theatre Producer"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 350000,
+          "contributor": "McCollum, Kevin",
+          "state": "NY",
+          "transaction_id": "14296602",
+          "entity_type": "IND",
+          "employer": "Alchemation LLC",
+          "occupation": "Producer"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 250000,
+          "contributor": "Stuntz, Mayo",
+          "state": "NY",
+          "transaction_id": "14296603",
+          "entity_type": "IND",
+          "employer": "Pilot Group",
+          "occupation": "Investor"
+        },
+        {
+          "date": "2026-10-15",
+          "amount_cents": 100000,
+          "contributor": "Kovner, Victor",
+          "state": "NY",
+          "transaction_id": "14206093",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 133333,
+          "contributor": "Jones, Alan Kent",
+          "state": "NY",
+          "transaction_id": "14296604",
+          "entity_type": "IND",
+          "employer": "Wells Fargo",
+          "occupation": "Banker"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 100000,
+          "contributor": "Smith, Amy",
+          "state": "NY",
+          "transaction_id": "14206094",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Mental Health Provider"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 100000,
+          "contributor": "Pitchford, Dean",
+          "state": "CA",
+          "transaction_id": "14296605",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Writer"
+        },
+        {
+          "date": "2026-10-15",
+          "amount_cents": 100000,
+          "contributor": "Rosenberg, Sheli",
+          "state": "IL",
+          "transaction_id": "14207485",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 100000,
+          "contributor": "Pearl, Barbara",
+          "state": "NY",
+          "transaction_id": "14206095",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 100000,
+          "contributor": "Greenberg, Mary Kay",
+          "state": "NE",
+          "transaction_id": "14251626",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 200000,
+          "contributor": "Witty, Joanne",
+          "state": "NY",
+          "transaction_id": "14206096",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 100000,
+          "contributor": "Chavkin, Arnold",
+          "state": "NY",
+          "transaction_id": "14206097",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 100000,
+          "contributor": "JASMINE CLARK FOR GEORGIA",
+          "state": "GA",
+          "transaction_id": "14209438",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 350000,
+          "contributor": "Grimm, Matt",
+          "state": "CA",
+          "transaction_id": "14286778",
+          "entity_type": "IND",
+          "employer": "Anduril Industries",
+          "occupation": "Chief Operating Officer"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 140000,
+          "contributor": "SQUARE ONE POLITICS",
+          "state": "DC",
+          "transaction_id": "14295088",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 100000,
+          "contributor": "Pearl, Morris",
+          "state": "NY",
+          "transaction_id": "14206098",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 350000,
+          "contributor": "Simons, Elizabeth",
+          "state": "CA",
+          "transaction_id": "14286798",
+          "entity_type": "IND",
+          "employer": "Medley Partners LLC",
+          "occupation": "Managing Director"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 250000,
+          "contributor": "Streisand, Barbra",
+          "state": "CA",
+          "transaction_id": "14307709",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 100000,
+          "contributor": "Eule, Daniel",
+          "state": "NY",
+          "transaction_id": "14307809",
+          "entity_type": "IND",
+          "employer": "Soros Fund Management",
+          "occupation": "CPA"
+        }
+      ],
+      "file_number": 2029670,
+      "committee_id": "C00903948",
+      "sha256": "1bdb13f3d718678147db03ce51c672347b9a332747fca076444e2344a222a532",
+      "amendment_chain": [
+        2029670
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2029670,
+      "is_amended": false,
+      "filed_date": "2026-10-17"
+    },
+    "C00903948/2030705": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-18",
+          "amount_cents": 150000,
+          "contributor": "Dinsmore, Richard",
+          "state": "NE",
+          "transaction_id": "14393352",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        }
+      ],
+      "file_number": 2030705,
+      "committee_id": "C00903948",
+      "sha256": "a7f88475ad108802545b69f8f165eacdb2bd60e19495a15049fa68bb5d379f58",
+      "amendment_chain": [
+        2030705
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2030705,
+      "is_amended": false,
+      "filed_date": "2026-10-19"
+    },
+    "C00909515/2031155": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-17",
+          "amount_cents": 100000,
+          "contributor": "TAPIO, CARMEN",
+          "state": "NE",
+          "transaction_id": "600F5AEB902D1416BA79",
+          "entity_type": "IND",
+          "employer": "NORTH END TELESERVICES",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-18",
+          "amount_cents": 150000,
+          "contributor": "JAVITCH, GARY",
+          "state": "NE",
+          "transaction_id": "6FA1347D7CA3E4760A57",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        }
+      ],
+      "file_number": 2031155,
+      "committee_id": "C00909515",
+      "sha256": "483b4a83a461012994216a49aa68a53959482aa05d9ffff1f7ac56396d6fa405",
+      "amendment_chain": [
+        2031155
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2031155,
+      "is_amended": false,
+      "filed_date": "2026-10-19"
+    }
+  }
 }
