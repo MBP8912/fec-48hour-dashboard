@@ -1,12 +1,256 @@
 {
-  "status": "not_initialized",
-  "generated_at": null,
+  "status": "ok",
+  "generated_at": "2026-10-21T21:53:45+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
   },
-  "daily": [],
-  "filings": [],
-  "contributions": [],
-  "warnings": []
+  "committee_info": {
+    "lawler": {
+      "name": "Lauren Boebert for Congress",
+      "id": "C00728238",
+      "candidate": "Lauren Boebert"
+    },
+    "conley": {
+      "name": "Eileen for Colorado",
+      "id": "C00904284",
+      "candidate": "Eileen Laubacher"
+    }
+  },
+  "daily": [
+    {
+      "date": "2026-10-15",
+      "totals": {
+        "lawler": 500000,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 500000,
+        "conley": 0
+      },
+      "counts": {
+        "lawler": 1,
+        "conley": 0
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "totals": {
+        "lawler": 500000,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 1000000,
+        "conley": 0
+      },
+      "counts": {
+        "lawler": 2,
+        "conley": 0
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "totals": {
+        "lawler": 0,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 1000000,
+        "conley": 0
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 0
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "totals": {
+        "lawler": 0,
+        "conley": 1200000
+      },
+      "cumulative": {
+        "lawler": 1000000,
+        "conley": 1200000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 6
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "totals": {
+        "lawler": 0,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 1000000,
+        "conley": 1200000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 0
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "totals": {
+        "lawler": 0,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 1000000,
+        "conley": 1200000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 0
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "totals": {
+        "lawler": 0,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 1000000,
+        "conley": 1200000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 0
+      }
+    }
+  ],
+  "filings": [
+    {
+      "committee_id": "C00728238",
+      "file_number": 2029595,
+      "filed_date": "2026-10-17",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00728238/2029595/f65"
+    },
+    {
+      "committee_id": "C00904284",
+      "file_number": 2031974,
+      "filed_date": "2026-10-20",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00904284/2031974/f65"
+    }
+  ],
+  "contributions": [
+    {
+      "date": "2026-10-15",
+      "amount_cents": 500000,
+      "contributor": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+      "state": "MD",
+      "transaction_id": "6B18484D1137A4FFEAAA",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00728238",
+      "file_number": 2029595
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 250000,
+      "contributor": "SMITH, CONNIE",
+      "state": "CO",
+      "transaction_id": "63AE7BDF0592840E0A3E",
+      "entity_type": "IND",
+      "employer": "RETIRED",
+      "occupation": "RETIRED",
+      "committee_id": "C00728238",
+      "file_number": 2029595
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 250000,
+      "contributor": "SMITH, SHANNON",
+      "state": "CO",
+      "transaction_id": "6D3DAAC3AB7334A0B934",
+      "entity_type": "IND",
+      "employer": "RETIRED",
+      "occupation": "RETIRED",
+      "committee_id": "C00728238",
+      "file_number": 2029595
+    },
+    {
+      "date": "2026-10-18",
+      "amount_cents": 200000,
+      "contributor": "Cannon, Henry",
+      "state": "AL",
+      "transaction_id": "14109159",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Real Estate",
+      "committee_id": "C00904284",
+      "file_number": 2031974
+    },
+    {
+      "date": "2026-10-18",
+      "amount_cents": 100000,
+      "contributor": "Cranbourne, Nancy",
+      "state": "CO",
+      "transaction_id": "14324062",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Dancer",
+      "committee_id": "C00904284",
+      "file_number": 2031974
+    },
+    {
+      "date": "2026-10-18",
+      "amount_cents": 350000,
+      "contributor": "Culhane, James",
+      "state": "CO",
+      "transaction_id": "14147485",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00904284",
+      "file_number": 2031974
+    },
+    {
+      "date": "2026-10-18",
+      "amount_cents": 350000,
+      "contributor": "Culhane, Sara",
+      "state": "CO",
+      "transaction_id": "14147253",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00904284",
+      "file_number": 2031974
+    },
+    {
+      "date": "2026-10-18",
+      "amount_cents": 100000,
+      "contributor": "Higgins, David",
+      "state": "AZ",
+      "transaction_id": "14294890",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00904284",
+      "file_number": 2031974
+    },
+    {
+      "date": "2026-10-18",
+      "amount_cents": 100000,
+      "contributor": "Schultheisz, Elizabeth",
+      "state": "CO",
+      "transaction_id": "14119010",
+      "entity_type": "IND",
+      "employer": "Broadcom Inc.",
+      "occupation": "Product Marketer",
+      "committee_id": "C00904284",
+      "file_number": 2031974
+    }
+  ],
+  "report_count": 2,
+  "warnings": [],
+  "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

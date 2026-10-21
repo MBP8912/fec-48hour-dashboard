@@ -1,4 +1,127 @@
 {
   "schema_version": 1,
-  "filings": {}
+  "filings": {
+    "C00728238/2029595": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-15",
+          "amount_cents": 500000,
+          "contributor": "MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC",
+          "state": "MD",
+          "transaction_id": "6B18484D1137A4FFEAAA",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 250000,
+          "contributor": "SMITH, CONNIE",
+          "state": "CO",
+          "transaction_id": "63AE7BDF0592840E0A3E",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 250000,
+          "contributor": "SMITH, SHANNON",
+          "state": "CO",
+          "transaction_id": "6D3DAAC3AB7334A0B934",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        }
+      ],
+      "file_number": 2029595,
+      "committee_id": "C00728238",
+      "sha256": "4dc30e2995eaf6bd2aa25011175f28986f23d000de0b720db22c2403ad99df01",
+      "amendment_chain": [
+        2029595
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2029595,
+      "is_amended": false,
+      "filed_date": "2026-10-17"
+    },
+    "C00904284/2031974": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-18",
+          "amount_cents": 200000,
+          "contributor": "Cannon, Henry",
+          "state": "AL",
+          "transaction_id": "14109159",
+          "entity_type": "IND",
+          "employer": "Self-Employed",
+          "occupation": "Real Estate"
+        },
+        {
+          "date": "2026-10-18",
+          "amount_cents": 100000,
+          "contributor": "Cranbourne, Nancy",
+          "state": "CO",
+          "transaction_id": "14324062",
+          "entity_type": "IND",
+          "employer": "Self-Employed",
+          "occupation": "Dancer"
+        },
+        {
+          "date": "2026-10-18",
+          "amount_cents": 350000,
+          "contributor": "Culhane, James",
+          "state": "CO",
+          "transaction_id": "14147485",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-18",
+          "amount_cents": 350000,
+          "contributor": "Culhane, Sara",
+          "state": "CO",
+          "transaction_id": "14147253",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-18",
+          "amount_cents": 100000,
+          "contributor": "Higgins, David",
+          "state": "AZ",
+          "transaction_id": "14294890",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-18",
+          "amount_cents": 100000,
+          "contributor": "Schultheisz, Elizabeth",
+          "state": "CO",
+          "transaction_id": "14119010",
+          "entity_type": "IND",
+          "employer": "Broadcom Inc.",
+          "occupation": "Product Marketer"
+        }
+      ],
+      "file_number": 2031974,
+      "committee_id": "C00904284",
+      "sha256": "431270f643ed48b8f98b5a748c07d8b9cd139bf1caa3ac37c8aee847c61d15c6",
+      "amendment_chain": [
+        2031974
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2031974,
+      "is_amended": false,
+      "filed_date": "2026-10-20"
+    }
+  }
 }

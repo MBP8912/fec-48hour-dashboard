@@ -1,4 +1,503 @@
 {
   "schema_version": 1,
-  "filings": {}
+  "filings": {
+    "C00865592/2029335": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-15",
+          "amount_cents": 350000,
+          "contributor": "COLORADO WESTERN POLITICAL ACTION COMMITTEE",
+          "state": "CO",
+          "transaction_id": "179936393",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2029335,
+      "committee_id": "C00865592",
+      "sha256": "73ec959a20050522b8995e2cbd9bd349cc8282660564758b5fbc11adcfdd56cd",
+      "amendment_chain": [
+        2029335
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2029335,
+      "is_amended": false,
+      "filed_date": "2026-10-17"
+    },
+    "C00865592/2029994": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-16",
+          "amount_cents": 200000,
+          "contributor": "OLD NORTH LEADERSHIP PAC",
+          "state": "NC",
+          "transaction_id": "180020677",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2029994,
+      "committee_id": "C00865592",
+      "sha256": "93b8aeb7d29eb8a54289b0a7815597ad61114619937efb2fe047b334733c0d4b",
+      "amendment_chain": [
+        2029994
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2029994,
+      "is_amended": false,
+      "filed_date": "2026-10-18"
+    },
+    "C00865592/2033971": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-19",
+          "amount_cents": 150000,
+          "contributor": "TUTHILL, MARY LU",
+          "state": "CO",
+          "transaction_id": "261019001",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 150000,
+          "contributor": "UNION PACIFIC CORP. FUND FOR EFFECTIVE GOVERNMENT",
+          "state": "DC",
+          "transaction_id": "180022938",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2033971,
+      "committee_id": "C00865592",
+      "sha256": "549a2b27b3595fae384f399333aee8a1e7dd3407e016dd69dc8d9031b6135ac3",
+      "amendment_chain": [
+        2033971
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2033971,
+      "is_amended": false,
+      "filed_date": "2026-10-21"
+    },
+    "C00911941/2029444": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-15",
+          "amount_cents": 200000,
+          "contributor": "Braham, Tor",
+          "state": "CA",
+          "transaction_id": "14210586",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Investor"
+        },
+        {
+          "date": "2026-10-15",
+          "amount_cents": 200000,
+          "contributor": "Freis, James",
+          "state": "DC",
+          "transaction_id": "14210587",
+          "entity_type": "IND",
+          "employer": "Market Integrity Solutions LLC",
+          "occupation": "Consultant"
+        },
+        {
+          "date": "2026-10-15",
+          "amount_cents": 100000,
+          "contributor": "HOPE PAC",
+          "state": "CO",
+          "transaction_id": "14176017",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-15",
+          "amount_cents": 350000,
+          "contributor": "Lawrence, Dee",
+          "state": "CA",
+          "transaction_id": "14122725",
+          "entity_type": "IND",
+          "employer": "Cool Effect",
+          "occupation": "Director"
+        },
+        {
+          "date": "2026-10-15",
+          "amount_cents": 350000,
+          "contributor": "Lawrence, Richard",
+          "state": "CA",
+          "transaction_id": "14122726",
+          "entity_type": "IND",
+          "employer": "High Tide Foundation",
+          "occupation": "Director"
+        },
+        {
+          "date": "2026-10-15",
+          "amount_cents": 200000,
+          "contributor": "Murawski, Emily",
+          "state": "CO",
+          "transaction_id": "14210588",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-15",
+          "amount_cents": 100000,
+          "contributor": "Naughton, Hank",
+          "state": "MA",
+          "transaction_id": "14210585",
+          "entity_type": "IND",
+          "employer": "Napoli Shkolnik PLLC",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-15",
+          "amount_cents": 100000,
+          "contributor": "Shambo, James",
+          "state": "CO",
+          "transaction_id": "14176020",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-15",
+          "amount_cents": 100000,
+          "contributor": "Solomont, Alan",
+          "state": "MA",
+          "transaction_id": "14210584",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-15",
+          "amount_cents": 350000,
+          "contributor": "Yount, Richard",
+          "state": "TX",
+          "transaction_id": "14210589",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Self Employed"
+        }
+      ],
+      "file_number": 2029444,
+      "committee_id": "C00911941",
+      "sha256": "21303db392fab488d26d462626ee2d8c32e8e9120efa0fe54b9f9107c41e45b2",
+      "amendment_chain": [
+        2029444
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2029444,
+      "is_amended": false,
+      "filed_date": "2026-10-17"
+    },
+    "C00911941/2029998": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-16",
+          "amount_cents": 350000,
+          "contributor": "French Gates, Melinda",
+          "state": "WA",
+          "transaction_id": "14217752",
+          "entity_type": "IND",
+          "employer": "Pivotal Ventures",
+          "occupation": "Founder"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 100000,
+          "contributor": "PROGRESSIVE TURNOUT PROJECT",
+          "state": "IL",
+          "transaction_id": "14255852",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 500000,
+          "contributor": "UNITED FOR VIRGINIA'S FUTURE FEDERAL PAC",
+          "state": "VA",
+          "transaction_id": "14209492",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 100000,
+          "contributor": "Willis, Christine",
+          "state": "CO",
+          "transaction_id": "14217751",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        }
+      ],
+      "file_number": 2029998,
+      "committee_id": "C00911941",
+      "sha256": "5332ee0294674f6e4dbd1c8f29ef8be360ceb8888d68b678852e612e680256eb",
+      "amendment_chain": [
+        2029998
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2029998,
+      "is_amended": false,
+      "filed_date": "2026-10-18"
+    },
+    "C00911941/2030543": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-17",
+          "amount_cents": 100000,
+          "contributor": "WIN THE HOUSE NOW PAC",
+          "state": "DC",
+          "transaction_id": "14316102",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2030543,
+      "committee_id": "C00911941",
+      "sha256": "59cbec9251e2a7ce9f3896a60f0ed9cc2e35da1b196dfddd1fa1a1e55278f5d5",
+      "amendment_chain": [
+        2030543
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2030543,
+      "is_amended": false,
+      "filed_date": "2026-10-19"
+    },
+    "C00911941/2032445": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-18",
+          "amount_cents": 100000,
+          "contributor": "Calderone, Jeff",
+          "state": "CO",
+          "transaction_id": "14461762",
+          "entity_type": "IND",
+          "employer": "Elevated Third",
+          "occupation": "Marketing"
+        },
+        {
+          "date": "2026-10-18",
+          "amount_cents": 350000,
+          "contributor": "Henry, Shawn",
+          "state": "FL",
+          "transaction_id": "14461740",
+          "entity_type": "IND",
+          "employer": "Crowdstrike",
+          "occupation": "Advisor"
+        },
+        {
+          "date": "2026-10-18",
+          "amount_cents": 100000,
+          "contributor": "Hovet, Michelle",
+          "state": "CO",
+          "transaction_id": "14462355",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-18",
+          "amount_cents": 100000,
+          "contributor": "Milburn, Rob",
+          "state": "IL",
+          "transaction_id": "14462671",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Composer/Sound Designer"
+        },
+        {
+          "date": "2026-10-18",
+          "amount_cents": 100000,
+          "contributor": "Polis, Jared",
+          "state": "CO",
+          "transaction_id": "14462753",
+          "entity_type": "IND",
+          "employer": "State Of Colorado",
+          "occupation": "Executive"
+        }
+      ],
+      "file_number": 2032445,
+      "committee_id": "C00911941",
+      "sha256": "8f630e467bffba15356a68a956fcf84117a147fb4d8ade9b9d1c7a04687f4f21",
+      "amendment_chain": [
+        2032445
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2032445,
+      "is_amended": false,
+      "filed_date": "2026-10-20"
+    },
+    "C00911941/2034710": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "AMERICAN DEFENSE AND MILITARY PAC",
+          "state": "DC",
+          "transaction_id": "14565837",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "ANIMAL WELLNESS ACTION PAC",
+          "state": "DC",
+          "transaction_id": "14408224",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Armstrong, Katherine",
+          "state": "CO",
+          "transaction_id": "14558430",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Consultant"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Clark, Katherine",
+          "state": "CO",
+          "transaction_id": "14558397",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 350000,
+          "contributor": "Cowan, Shahla",
+          "state": "CA",
+          "transaction_id": "14568898",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Forbes, Jeffrey",
+          "state": "MD",
+          "transaction_id": "14558631",
+          "entity_type": "IND",
+          "employer": "FTP",
+          "occupation": "Chairman"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Hrdy, Alice",
+          "state": "DC",
+          "transaction_id": "14558623",
+          "entity_type": "IND",
+          "employer": "Morgan Lewis & Bockius LLP",
+          "occupation": "Lawyer"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Miracle, Robert",
+          "state": "CO",
+          "transaction_id": "14568897",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 500000,
+          "contributor": "NO SURRENDER FUND",
+          "state": "DC",
+          "transaction_id": "14407604",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Sanders, Joanne",
+          "state": "CA",
+          "transaction_id": "14558429",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 200000,
+          "contributor": "STRONG FLOOR NO CEILING ACTION PAC",
+          "state": "DC",
+          "transaction_id": "14566304",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "SUPPORTING EFFECTIVE THOUGHTFUL LEADERSHIP PAC",
+          "state": "RI",
+          "transaction_id": "14565946",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 350000,
+          "contributor": "Wolthuis, John",
+          "state": "CA",
+          "transaction_id": "14558417",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        }
+      ],
+      "file_number": 2034710,
+      "committee_id": "C00911941",
+      "sha256": "28d0079e60857d618078eea7060dde8c4913bbd4e2e3896a2cb309626d1a7eb5",
+      "amendment_chain": [
+        2034710
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2034710,
+      "is_amended": false,
+      "filed_date": "2026-10-21"
+    }
+  }
 }

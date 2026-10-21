@@ -1,12 +1,656 @@
 {
-  "status": "not_initialized",
-  "generated_at": null,
+  "status": "ok",
+  "generated_at": "2026-10-21T21:53:48+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
   },
-  "daily": [],
-  "filings": [],
-  "contributions": [],
-  "warnings": []
+  "committee_info": {
+    "lawler": {
+      "name": "Finstad for Congress",
+      "id": "C00807743",
+      "candidate": "Brad Finstad"
+    },
+    "conley": {
+      "name": "Jake Johnson for Congress",
+      "id": "C00902684",
+      "candidate": "Jake Johnson"
+    }
+  },
+  "daily": [
+    {
+      "date": "2026-10-15",
+      "totals": {
+        "lawler": 0,
+        "conley": 1175000
+      },
+      "cumulative": {
+        "lawler": 0,
+        "conley": 1175000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 6
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "totals": {
+        "lawler": 0,
+        "conley": 3100000
+      },
+      "cumulative": {
+        "lawler": 0,
+        "conley": 4275000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 13
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "totals": {
+        "lawler": 1550000,
+        "conley": 315000
+      },
+      "cumulative": {
+        "lawler": 1550000,
+        "conley": 4590000
+      },
+      "counts": {
+        "lawler": 4,
+        "conley": 2
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "totals": {
+        "lawler": 0,
+        "conley": 950000
+      },
+      "cumulative": {
+        "lawler": 1550000,
+        "conley": 5540000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 3
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "totals": {
+        "lawler": 0,
+        "conley": 1900000
+      },
+      "cumulative": {
+        "lawler": 1550000,
+        "conley": 7440000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 12
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "totals": {
+        "lawler": 0,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 1550000,
+        "conley": 7440000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 0
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "totals": {
+        "lawler": 0,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 1550000,
+        "conley": 7440000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 0
+      }
+    }
+  ],
+  "filings": [
+    {
+      "committee_id": "C00902684",
+      "file_number": 2028853,
+      "filed_date": "2026-10-16",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00902684/2028853/f65"
+    },
+    {
+      "committee_id": "C00902684",
+      "file_number": 2029462,
+      "filed_date": "2026-10-17",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00902684/2029462/f65"
+    },
+    {
+      "committee_id": "C00902684",
+      "file_number": 2029834,
+      "filed_date": "2026-10-18",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00902684/2029834/f65"
+    },
+    {
+      "committee_id": "C00902684",
+      "file_number": 2031035,
+      "filed_date": "2026-10-19",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00902684/2031035/f65"
+    },
+    {
+      "committee_id": "C00807743",
+      "file_number": 2031444,
+      "filed_date": "2026-10-19",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00807743/2031444/f65"
+    },
+    {
+      "committee_id": "C00902684",
+      "file_number": 2033384,
+      "filed_date": "2026-10-20",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00902684/2033384/f65"
+    }
+  ],
+  "contributions": [
+    {
+      "date": "2026-10-15",
+      "amount_cents": 100000,
+      "contributor": "Casey, Tim",
+      "state": "MN",
+      "transaction_id": "14212412",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00902684",
+      "file_number": 2028853
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 100000,
+      "contributor": "Davis, Catherine",
+      "state": "MN",
+      "transaction_id": "14202786",
+      "entity_type": "IND",
+      "employer": "Think Bank",
+      "occupation": "Learning And Development Director",
+      "committee_id": "C00902684",
+      "file_number": 2028853
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 200000,
+      "contributor": "McCulloch, LAIRD",
+      "state": "WA",
+      "transaction_id": "14212413",
+      "entity_type": "IND",
+      "employer": "NSW Corp",
+      "occupation": "Engineer",
+      "committee_id": "C00902684",
+      "file_number": 2028853
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 175000,
+      "contributor": "Steves, Buddy",
+      "state": "TX",
+      "transaction_id": "14212143",
+      "entity_type": "IND",
+      "employer": "RT Specialty",
+      "occupation": "Insurance",
+      "committee_id": "C00902684",
+      "file_number": 2028853
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 250000,
+      "contributor": "Watt, Kym",
+      "state": "MN",
+      "transaction_id": "14212414",
+      "entity_type": "IND",
+      "employer": "Mayo Clinic",
+      "occupation": "Md",
+      "committee_id": "C00902684",
+      "file_number": 2028853
+    },
+    {
+      "date": "2026-10-15",
+      "amount_cents": 350000,
+      "contributor": "Yount, Richard",
+      "state": "TX",
+      "transaction_id": "14212415",
+      "entity_type": "IND",
+      "employer": "Self",
+      "occupation": "Freestanding Emergency Medical Care Fa",
+      "committee_id": "C00902684",
+      "file_number": 2028853
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "Cowles, John",
+      "state": "MN",
+      "transaction_id": "14258638",
+      "entity_type": "IND",
+      "employer": "Unemployed",
+      "occupation": "Retired",
+      "committee_id": "C00902684",
+      "file_number": 2029462
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 350000,
+      "contributor": "Delong, Christopher",
+      "state": "NY",
+      "transaction_id": "14304447",
+      "entity_type": "IND",
+      "employer": "Birman Oak Advisors LP",
+      "occupation": "Investor",
+      "committee_id": "C00902684",
+      "file_number": 2029462
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 350000,
+      "contributor": "Delong, Michelle",
+      "state": "NY",
+      "transaction_id": "14304437",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Attorney",
+      "committee_id": "C00902684",
+      "file_number": 2029462
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 500000,
+      "contributor": "FOLLOW THE NORTH STAR FUND",
+      "state": "DC",
+      "transaction_id": "14304590",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2029462
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "Fox, Jean",
+      "state": "MN",
+      "transaction_id": "14211921",
+      "entity_type": "IND",
+      "employer": "Mayo Clinic",
+      "occupation": "Professor",
+      "committee_id": "C00902684",
+      "file_number": 2029462
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "Herrmann, Joerg",
+      "state": "MN",
+      "transaction_id": "14211920",
+      "entity_type": "IND",
+      "employer": "Mayo",
+      "occupation": "Physician",
+      "committee_id": "C00902684",
+      "file_number": 2029462
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 350000,
+      "contributor": "Honaas, Christine",
+      "state": "MN",
+      "transaction_id": "14314241",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00902684",
+      "file_number": 2029462
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "Kosiak, John",
+      "state": "MN",
+      "transaction_id": "14304392",
+      "entity_type": "IND",
+      "employer": "MINNEAPOLIS RADIATION ONCOLOGY",
+      "occupation": "Physician",
+      "committee_id": "C00902684",
+      "file_number": 2029462
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 500000,
+      "contributor": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+      "state": "DC",
+      "transaction_id": "14314253",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2029462
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "PROGRESSIVE TURNOUT PROJECT",
+      "state": "IL",
+      "transaction_id": "14258546",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2029462
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "Tilbury, Deborah",
+      "state": "MN",
+      "transaction_id": "14258647",
+      "entity_type": "IND",
+      "employer": "N/A",
+      "occupation": "Retired",
+      "committee_id": "C00902684",
+      "file_number": 2029462
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 350000,
+      "contributor": "Torres, Tomas",
+      "state": "TX",
+      "transaction_id": "14304376",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00902684",
+      "file_number": 2029462
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 100000,
+      "contributor": "Wildfang, K. Craig",
+      "state": "MN",
+      "transaction_id": "14314233",
+      "entity_type": "IND",
+      "employer": "Robins Kaplan L.L.P.",
+      "occupation": "Attorney",
+      "committee_id": "C00902684",
+      "file_number": 2029462
+    },
+    {
+      "date": "2026-10-17",
+      "amount_cents": 500000,
+      "contributor": "31 DAYS PAC",
+      "state": "MD",
+      "transaction_id": "6D5955161AEDD4126857",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2031444
+    },
+    {
+      "date": "2026-10-17",
+      "amount_cents": 500000,
+      "contributor": "CARRY ON PAC",
+      "state": "GA",
+      "transaction_id": "6904C4DBBB3FB4D6BB5D",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2031444
+    },
+    {
+      "date": "2026-10-17",
+      "amount_cents": 200000,
+      "contributor": "OLD NORTH LEADERSHIP PAC",
+      "state": "NC",
+      "transaction_id": "62BCC4C8513134322862",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2031444
+    },
+    {
+      "date": "2026-10-17",
+      "amount_cents": 350000,
+      "contributor": "RIGHT TRACK USA PAC",
+      "state": "ND",
+      "transaction_id": "6197C9F9DCF694FA1AC1",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2031444
+    },
+    {
+      "date": "2026-10-17",
+      "amount_cents": 150000,
+      "contributor": "Henley, Donald",
+      "state": "VA",
+      "transaction_id": "14328065",
+      "entity_type": "IND",
+      "employer": "Donald Henley",
+      "occupation": "Professional Musician",
+      "committee_id": "C00902684",
+      "file_number": 2029834
+    },
+    {
+      "date": "2026-10-17",
+      "amount_cents": 165000,
+      "contributor": "Seavey, Avery",
+      "state": "NY",
+      "transaction_id": "14328084",
+      "entity_type": "IND",
+      "employer": "Self",
+      "occupation": "Attorney",
+      "committee_id": "C00902684",
+      "file_number": 2029834
+    },
+    {
+      "date": "2026-10-18",
+      "amount_cents": 250000,
+      "contributor": "Haahr, Paul",
+      "state": "CA",
+      "transaction_id": "14396073",
+      "entity_type": "IND",
+      "employer": "Google",
+      "occupation": "Programmer",
+      "committee_id": "C00902684",
+      "file_number": 2031035
+    },
+    {
+      "date": "2026-10-18",
+      "amount_cents": 350000,
+      "contributor": "Mandel, Steve",
+      "state": "CT",
+      "transaction_id": "14396075",
+      "entity_type": "IND",
+      "employer": "Lone Pine Capital",
+      "occupation": "Founder",
+      "committee_id": "C00902684",
+      "file_number": 2031035
+    },
+    {
+      "date": "2026-10-18",
+      "amount_cents": 350000,
+      "contributor": "Mandel, Sue",
+      "state": "CT",
+      "transaction_id": "14396074",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00902684",
+      "file_number": 2031035
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "BLUE MAJORITY PAC",
+      "state": "WI",
+      "transaction_id": "14565685",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2033384
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "Birkeland, Karin",
+      "state": "MN",
+      "transaction_id": "14567519",
+      "entity_type": "IND",
+      "employer": "RETIRED",
+      "occupation": "RETIRED",
+      "committee_id": "C00902684",
+      "file_number": 2033384
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 200000,
+      "contributor": "Gorman, Richard",
+      "state": "MN",
+      "transaction_id": "14563843",
+      "entity_type": "IND",
+      "employer": "Self",
+      "occupation": "Lawyer",
+      "committee_id": "C00902684",
+      "file_number": 2033384
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "Hales, Cherie",
+      "state": "MN",
+      "transaction_id": "14563820",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00902684",
+      "file_number": 2033384
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "Hall, Leda McIntyre",
+      "state": "FL",
+      "transaction_id": "14563835",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00902684",
+      "file_number": 2033384
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 200000,
+      "contributor": "JUDY CHU FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "14563832",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2033384
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 350000,
+      "contributor": "Knight, Eric",
+      "state": "NY",
+      "transaction_id": "14563842",
+      "entity_type": "IND",
+      "employer": "Jane Street",
+      "occupation": "Trading",
+      "committee_id": "C00902684",
+      "file_number": 2033384
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "MAKING A DIFFERENCE PAC",
+      "state": "DC",
+      "transaction_id": "14565297",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2033384
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "McKenzie, Kyle",
+      "state": "MN",
+      "transaction_id": "14563856",
+      "entity_type": "IND",
+      "employer": "Mayo Clinic",
+      "occupation": "Physician",
+      "committee_id": "C00902684",
+      "file_number": 2033384
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "NOT SO OLD FASHIONED PAC",
+      "state": "RI",
+      "transaction_id": "14571967",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2033384
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 200000,
+      "contributor": "Shakopee Mdewakanton Sioux Community",
+      "state": "MN",
+      "transaction_id": "14565723",
+      "entity_type": "ORG",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2033384
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 250000,
+      "contributor": "UPLIFT PAC",
+      "state": "MI",
+      "transaction_id": "14425432",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2033384
+    }
+  ],
+  "report_count": 6,
+  "warnings": [],
+  "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
