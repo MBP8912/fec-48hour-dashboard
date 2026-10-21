@@ -1,4 +1,4 @@
-name: Refresh FEC filings and publish dashboard
+name: Refresh nine 2026 FEC district dashboards
 
 on:
   push:
@@ -13,7 +13,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: ny17-pages
+  group: 2026-district-pages
   cancel-in-progress: false
 
 jobs:
@@ -36,12 +36,18 @@ jobs:
         env:
           FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
         run: python scripts/update_data.py
+      - name: Refresh eight independent 2026 district datasets
+        id: multirace
+        continue-on-error: true
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        run: python scripts/update_races.py
       - name: Archive verified filing data
-        if: steps.refresh.outcome == 'success'
+        if: steps.refresh.outcome == 'success' || steps.multirace.outcome == 'success'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/cache.json data/data.json
+          git add data/cache.json data/data.json co-4/data co-5/data ia-1/data mn-1/data ne-2/data wi-1/data ny-19/data ca-13/data
           if ! git diff --cached --quiet; then
             git commit -m 'Update Form 6 dataset [skip ci]'
             git pull --rebase -X theirs origin main
@@ -50,12 +56,22 @@ jobs:
       - name: Explain upstream data failures
         if: steps.refresh.outcome != 'success'
         run: echo "FEC refresh was unavailable; deploying the last verified dataset. Check the refresh step logs."
+      - name: Report other race refresh exceptions
+        if: steps.multirace.outcome != 'success'
+        run: echo "Some districts were unavailable; their last verified data is preserved."
       - name: Assemble website
         run: |
           mkdir -p _site/assets _site/data
           cp index.html _site/
           cp assets/* _site/assets/
           cp data/data.json _site/data/
+          mkdir -p _site/race-assets
+          cp race-assets/app.js race-assets/styles.css _site/race-assets/
+          for district in co-4 co-5 ia-1 mn-1 ne-2 wi-1 ny-19 ca-13; do
+            mkdir -p "_site/$district/data"
+            cp "$district/index.html" "_site/$district/"
+            cp "$district/data/data.json" "_site/$district/data/"
+          done
           touch _site/.nojekyll
       - name: Set up GitHub Pages
         uses: actions/configure-pages@v5
