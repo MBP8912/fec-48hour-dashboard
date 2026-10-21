@@ -83,5 +83,7 @@ jobs:
       - name: Deploy public dashboard
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Check out repository for URL verification
+        uses: actions/checkout@v4
       - name: Verify all nine live URLs after repository rename
         run: python scripts/verify_live_pages.py
