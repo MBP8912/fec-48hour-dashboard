@@ -766,6 +766,692 @@
       "most_recent_filing": 2031336,
       "is_amended": false,
       "filed_date": "2026-10-19"
+    },
+    "C00815415/2035102": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Abbi, Jethinder K.",
+          "state": "NY",
+          "transaction_id": "F65-3321332",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 250000,
+          "contributor": "Abramowitz, Steven",
+          "state": "NJ",
+          "transaction_id": "F65-3321283",
+          "entity_type": "IND",
+          "employer": "Vinson & Elkins",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 500000,
+          "contributor": "America's First PAC",
+          "state": "VA",
+          "transaction_id": "F65-3320663",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 500000,
+          "contributor": "Americans4Hindus PAC (Multi-Candidate)",
+          "state": "CA",
+          "transaction_id": "F65-3320289",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Auerbach, Hilary",
+          "state": "NY",
+          "transaction_id": "F65-3321265",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Brandeis, Nancy",
+          "state": "NY",
+          "transaction_id": "F65-3321251",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 275000,
+          "contributor": "Burian, Lawrence",
+          "state": "NY",
+          "transaction_id": "F65-3321269",
+          "entity_type": "IND",
+          "employer": "Production Resource Group",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 350000,
+          "contributor": "Burian, Saul",
+          "state": "NY",
+          "transaction_id": "F65-3321291",
+          "entity_type": "IND",
+          "employer": "Houlihan Lokey",
+          "occupation": "Banker"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 250000,
+          "contributor": "Callaghan, Michael",
+          "state": "NY",
+          "transaction_id": "F65-3321317",
+          "entity_type": "IND",
+          "employer": "Exact Capital Group LLC",
+          "occupation": "Real Estate Developer"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 150000,
+          "contributor": "Cappell, Marcie",
+          "state": "NY",
+          "transaction_id": "F65-3321245",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 150000,
+          "contributor": "Daniels, Jennifer",
+          "state": "NY",
+          "transaction_id": "F65-3321280",
+          "entity_type": "IND",
+          "employer": "None",
+          "occupation": "None"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Dhiman, Om P.",
+          "state": "NY",
+          "transaction_id": "F65-3321306",
+          "entity_type": "IND",
+          "employer": "OK Management Inc",
+          "occupation": "Physician"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 160800,
+          "contributor": "Elman, Howard",
+          "state": "NY",
+          "transaction_id": "F65-3321253",
+          "entity_type": "IND",
+          "employer": "Elman Freiberg PLLC",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Ezrapour, Robert",
+          "state": "NY",
+          "transaction_id": "F65-3321250",
+          "entity_type": "IND",
+          "employer": "Robico Mgmt",
+          "occupation": "Real estate developer"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Florio, Dale",
+          "state": "NJ",
+          "transaction_id": "F65-3321316",
+          "entity_type": "IND",
+          "employer": "Princeton Public Affairs Group",
+          "occupation": "Consulting"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 350000,
+          "contributor": "Getz, Mordechai",
+          "state": "NY",
+          "transaction_id": "F65-3321312",
+          "entity_type": "IND",
+          "employer": "Self",
+          "occupation": "Real Estate"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 200000,
+          "contributor": "Grossman, Robert",
+          "state": "NY",
+          "transaction_id": "F65-3321275",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 150000,
+          "contributor": "Gupta, Seema",
+          "state": "NY",
+          "transaction_id": "F65-3321333",
+          "entity_type": "IND",
+          "employer": "AFC Urgent Care",
+          "occupation": "Administrator"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 350000,
+          "contributor": "Hager, Faigy",
+          "state": "NY",
+          "transaction_id": "F65-3321303",
+          "entity_type": "IND",
+          "employer": "Homemaker",
+          "occupation": "Homemaker"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 150000,
+          "contributor": "Harris, Scott",
+          "state": "NY",
+          "transaction_id": "F65-3321252",
+          "entity_type": "IND",
+          "employer": "Magnetic",
+          "occupation": "Real estate"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 350000,
+          "contributor": "Hur, Jin",
+          "state": "NY",
+          "transaction_id": "F65-3321276",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 200000,
+          "contributor": "Jacobson, Bruce",
+          "state": "NY",
+          "transaction_id": "F65-3321290",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Jonas, Isaac",
+          "state": "NY",
+          "transaction_id": "F65-3321237",
+          "entity_type": "IND",
+          "employer": "Loews Corp.",
+          "occupation": "Investor"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 160800,
+          "contributor": "Katz, Gary",
+          "state": "NY",
+          "transaction_id": "F65-3321289",
+          "entity_type": "IND",
+          "employer": "Downtown Capital Partners LLC",
+          "occupation": "President to several entities"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Khanna, Suresh",
+          "state": "NY",
+          "transaction_id": "F65-3321328",
+          "entity_type": "IND",
+          "employer": "Northwell health",
+          "occupation": "Physican"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 350000,
+          "contributor": "Kohen, Ruth",
+          "state": "WA",
+          "transaction_id": "F65-3321262",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 160800,
+          "contributor": "Landau, David",
+          "state": "NY",
+          "transaction_id": "F65-3321274",
+          "entity_type": "IND",
+          "employer": "LNK Partners",
+          "occupation": "Private equity"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 350000,
+          "contributor": "Lane, Curtis",
+          "state": "NY",
+          "transaction_id": "F65-3321248",
+          "entity_type": "IND",
+          "employer": "Founder",
+          "occupation": "MTS Partners"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Lane, Sean Patrick",
+          "state": "CT",
+          "transaction_id": "F65-3321325",
+          "entity_type": "IND",
+          "employer": "Kinsale Advisors,LLC",
+          "occupation": "Executive"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 150000,
+          "contributor": "Lavitsky, Eric",
+          "state": "NJ",
+          "transaction_id": "F65-3321288",
+          "entity_type": "IND",
+          "employer": "Lavitsky Computer Laboratories, Inc.",
+          "occupation": "Consultant"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Leff, Allison",
+          "state": "NY",
+          "transaction_id": "F65-3321284",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 150000,
+          "contributor": "Levine, Andrew",
+          "state": "NY",
+          "transaction_id": "F65-3321273",
+          "entity_type": "IND",
+          "employer": "SL Green Realty Corp",
+          "occupation": "General Counsel"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 166700,
+          "contributor": "Luxenberg-Grant, Mindy",
+          "state": "NY",
+          "transaction_id": "F65-3321282",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 250000,
+          "contributor": "Macklowitz, Daniel",
+          "state": "NY",
+          "transaction_id": "F65-3321334",
+          "entity_type": "IND",
+          "employer": "Jane Street Capital",
+          "occupation": "Trader"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 166767,
+          "contributor": "Maryles, David",
+          "state": "NY",
+          "transaction_id": "F65-3321254",
+          "entity_type": "IND",
+          "employer": "BlackRock",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 200000,
+          "contributor": "Melnick, Michael",
+          "state": "FL",
+          "transaction_id": "F65-3321329",
+          "entity_type": "IND",
+          "employer": "Self employed",
+          "occupation": "Self employed"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 150000,
+          "contributor": "Mermelstein, Edward",
+          "state": "NY",
+          "transaction_id": "F65-3321239",
+          "entity_type": "IND",
+          "employer": "Cambea",
+          "occupation": "Consulting"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "National Fisheries Institute (FISHPAC)",
+          "state": "VA",
+          "transaction_id": "F65-3320574",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 150000,
+          "contributor": "Neuman, Emanuel",
+          "state": "NY",
+          "transaction_id": "F65-3321238",
+          "entity_type": "IND",
+          "employer": "Spandrel Development",
+          "occupation": "Real Estate"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Newman, Joshua",
+          "state": "NY",
+          "transaction_id": "F65-3321279",
+          "entity_type": "IND",
+          "employer": "Hudson Bay Capital Management",
+          "occupation": "Finance"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 104102,
+          "contributor": "Pash, Jeffrey",
+          "state": "NY",
+          "transaction_id": "F65-3320987",
+          "entity_type": "IND",
+          "employer": "Proskauer Rose LLP",
+          "occupation": "Lawyer"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 166700,
+          "contributor": "Porat, Samuel",
+          "state": "NY",
+          "transaction_id": "F65-3321240",
+          "entity_type": "IND",
+          "employer": "Neuberger",
+          "occupation": "Investments"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 150000,
+          "contributor": "Puccio, Michael",
+          "state": "NY",
+          "transaction_id": "F65-3321321",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 121800,
+          "contributor": "Reicin, Glenn",
+          "state": "CT",
+          "transaction_id": "F65-3321258",
+          "entity_type": "IND",
+          "employer": "Harmony Biosciences",
+          "occupation": "CFO"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Rosen, Gary",
+          "state": "FL",
+          "transaction_id": "F65-3321311",
+          "entity_type": "IND",
+          "employer": "Rosen Law LLC",
+          "occupation": "Owner"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 200000,
+          "contributor": "Rosenberg, David",
+          "state": "NY",
+          "transaction_id": "F65-3321261",
+          "entity_type": "IND",
+          "employer": "Self",
+          "occupation": "Facial Plastic Surgeon"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 150000,
+          "contributor": "Ross, Ivan",
+          "state": "NY",
+          "transaction_id": "F65-3321267",
+          "entity_type": "IND",
+          "employer": "Ardea Partners",
+          "occupation": "Finance"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 121800,
+          "contributor": "Rubin, Rachel",
+          "state": "CT",
+          "transaction_id": "F65-3321287",
+          "entity_type": "IND",
+          "employer": "Adelphi Data, Inc",
+          "occupation": "COO"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Rush, Stephen",
+          "state": "NY",
+          "transaction_id": "F65-3321243",
+          "entity_type": "IND",
+          "employer": "Usafr",
+          "occupation": "Md"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 150000,
+          "contributor": "Saporta, Hy",
+          "state": "CT",
+          "transaction_id": "F65-3321259",
+          "entity_type": "IND",
+          "employer": "Steward Partners",
+          "occupation": "Co-Founder"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Schackner, Jeffrey",
+          "state": "NY",
+          "transaction_id": "F65-3321286",
+          "entity_type": "IND",
+          "employer": "Ardea Partners",
+          "occupation": "Investment Banker"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 150000,
+          "contributor": "Schwartz, Lauren",
+          "state": "NY",
+          "transaction_id": "F65-3321281",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 187500,
+          "contributor": "Senderowicz, Eric",
+          "state": "NY",
+          "transaction_id": "F65-3321247",
+          "entity_type": "IND",
+          "employer": "Idaho Freez Pak Corp",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Shiff, Jane",
+          "state": "NJ",
+          "transaction_id": "F65-3321244",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Shreedhar, Rakesh",
+          "state": "NY",
+          "transaction_id": "F65-3321320",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Sieber, Joseph",
+          "state": "MA",
+          "transaction_id": "F65-3321257",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 121800,
+          "contributor": "Slade, Gadi",
+          "state": "CT",
+          "transaction_id": "F65-3321272",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 160800,
+          "contributor": "Smith, Laurence",
+          "state": "NY",
+          "transaction_id": "F65-3321260",
+          "entity_type": "IND",
+          "employer": "Rolling Tags",
+          "occupation": "Entrepreneur"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 300000,
+          "contributor": "Sosnick, Fred",
+          "state": "NY",
+          "transaction_id": "F65-3321241",
+          "entity_type": "IND",
+          "employer": "A&O Shearman",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Steinberg, Jay",
+          "state": "NY",
+          "transaction_id": "F65-3321271",
+          "entity_type": "IND",
+          "employer": "NYU Langone Health Huntington Medical",
+          "occupation": "Physician"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 300000,
+          "contributor": "Sternberg, Marc",
+          "state": "NY",
+          "transaction_id": "F65-3321255",
+          "entity_type": "IND",
+          "employer": "A-Street",
+          "occupation": "Investor"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 500000,
+          "contributor": "The Peter Norbeck Leadership PAC",
+          "state": "SD",
+          "transaction_id": "F65-3320662",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 160800,
+          "contributor": "Trump, Joshua",
+          "state": "NY",
+          "transaction_id": "F65-3321246",
+          "entity_type": "IND",
+          "employer": "Contrarian Capital",
+          "occupation": "Financial analyst"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 150000,
+          "contributor": "Waldman, Adam",
+          "state": "NY",
+          "transaction_id": "F65-3321266",
+          "entity_type": "IND",
+          "employer": "Portage Point Partners",
+          "occupation": "Investment Banker"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Wasserstein, Moshe",
+          "state": "NY",
+          "transaction_id": "F65-3321307",
+          "entity_type": "IND",
+          "employer": "Opus operations",
+          "occupation": "Director of operations"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 166700,
+          "contributor": "Wohl, Alexander",
+          "state": "NY",
+          "transaction_id": "F65-3321268",
+          "entity_type": "IND",
+          "employer": "IMC Trading",
+          "occupation": "Finance"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Zervas, John",
+          "state": "NJ",
+          "transaction_id": "F65-3321302",
+          "entity_type": "IND",
+          "employer": "Zervas Law LLC",
+          "occupation": "Legal Services"
+        }
+      ],
+      "file_number": 2035102,
+      "committee_id": "C00815415",
+      "sha256": "8c02a26a0d78d9e755add55d9688ffe8a173108377f1ea9722aa71c81270d64c",
+      "amendment_chain": [
+        2035102
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2035102,
+      "is_amended": false,
+      "filed_date": "2026-10-21"
     }
   }
 }
