@@ -10,14 +10,20 @@
           "amount_cents": 500000,
           "contributor": "Peach State PAC",
           "state": "GA",
-          "transaction_id": "F65-3320044"
+          "transaction_id": "F65-3320044",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
         },
         {
           "date": "2026-10-15",
           "amount_cents": 500000,
           "contributor": "Restoring Our Nation (RON) PAC",
           "state": "KS",
-          "transaction_id": "F65-3320043"
+          "transaction_id": "F65-3320043",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
         }
       ],
       "file_number": 2029315,
@@ -40,35 +46,50 @@
           "amount_cents": 500000,
           "contributor": "American Dental Association Political Action Committee",
           "state": "DC",
-          "transaction_id": "F65-3320047"
+          "transaction_id": "F65-3320047",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
         },
         {
           "date": "2026-10-16",
           "amount_cents": 500000,
           "contributor": "Giving US Security Political Action Committee (gus Pac)",
           "state": "VA",
-          "transaction_id": "F65-3320049"
+          "transaction_id": "F65-3320049",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
         },
         {
           "date": "2026-10-16",
           "amount_cents": 500000,
           "contributor": "Indianaengrpac",
           "state": "IN",
-          "transaction_id": "F65-3320177"
+          "transaction_id": "F65-3320177",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
         },
         {
           "date": "2026-10-16",
           "amount_cents": 500000,
           "contributor": "Kentucky First Fund",
           "state": "GA",
-          "transaction_id": "F65-3320058"
+          "transaction_id": "F65-3320058",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
         },
         {
           "date": "2026-10-16",
           "amount_cents": 200000,
           "contributor": "RVFPAC",
           "state": "GA",
-          "transaction_id": "F65-3320053"
+          "transaction_id": "F65-3320053",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
         }
       ],
       "file_number": 2030067,
@@ -91,70 +112,100 @@
           "amount_cents": 100000,
           "contributor": "Azzariti, John",
           "state": "NJ",
-          "transaction_id": "F65-3320605"
+          "transaction_id": "F65-3320605",
+          "entity_type": "IND",
+          "employer": "Bergen Anesthesia Group, PC",
+          "occupation": "Physician-Anesthesiologist"
         },
         {
           "date": "2026-10-17",
           "amount_cents": 350000,
           "contributor": "Baker, James",
           "state": "NY",
-          "transaction_id": "F65-3320491"
+          "transaction_id": "F65-3320491",
+          "entity_type": "IND",
+          "employer": "Neuberger Berman",
+          "occupation": "Investment Management"
         },
         {
           "date": "2026-10-17",
           "amount_cents": 100000,
           "contributor": "Carney, Conor",
           "state": "DC",
-          "transaction_id": "F65-3320563"
+          "transaction_id": "F65-3320563",
+          "entity_type": "IND",
+          "employer": "Sternhell Group",
+          "occupation": "Principal"
         },
         {
           "date": "2026-10-17",
           "amount_cents": 100000,
           "contributor": "Cook, David L",
           "state": "NJ",
-          "transaction_id": "F65-3320607"
+          "transaction_id": "F65-3320607",
+          "entity_type": "IND",
+          "employer": "Sills Cummis & Gross",
+          "occupation": "Attorney"
         },
         {
           "date": "2026-10-17",
           "amount_cents": 100000,
           "contributor": "Foley Raia, Joan",
           "state": "NJ",
-          "transaction_id": "F65-3320608"
+          "transaction_id": "F65-3320608",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
         },
         {
           "date": "2026-10-17",
           "amount_cents": 100000,
           "contributor": "Gilmartin, Stephen",
           "state": "NY",
-          "transaction_id": "F65-3320610"
+          "transaction_id": "F65-3320610",
+          "entity_type": "IND",
+          "employer": "Moc",
+          "occupation": "Cpa"
         },
         {
           "date": "2026-10-17",
           "amount_cents": 100000,
           "contributor": "Halkidis, Panagiotis",
           "state": "NY",
-          "transaction_id": "F65-3320609"
+          "transaction_id": "F65-3320609",
+          "entity_type": "IND",
+          "employer": "FOS Development",
+          "occupation": "GC, Self"
         },
         {
           "date": "2026-10-17",
           "amount_cents": 350000,
           "contributor": "New York Alliance PAC",
           "state": "VA",
-          "transaction_id": "F65-3320185"
+          "transaction_id": "F65-3320185",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
         },
         {
           "date": "2026-10-17",
           "amount_cents": 100000,
           "contributor": "Rnj Pac",
           "state": "NJ",
-          "transaction_id": "F65-3320606"
+          "transaction_id": "F65-3320606",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
         },
         {
           "date": "2026-10-17",
           "amount_cents": 250000,
           "contributor": "Vicens, Richard",
           "state": "NJ",
-          "transaction_id": "F65-3320611"
+          "transaction_id": "F65-3320611",
+          "entity_type": "IND",
+          "employer": "Olympus Power, LLC",
+          "occupation": "CEO"
         }
       ],
       "file_number": 2030784,
@@ -177,21 +228,30 @@
           "amount_cents": 100000,
           "contributor": "Adcock, Carson",
           "state": "PA",
-          "transaction_id": "F65-3320816"
+          "transaction_id": "F65-3320816",
+          "entity_type": "IND",
+          "employer": "Rydal Ventures LLC",
+          "occupation": "Vice President"
         },
         {
           "date": "2026-10-18",
           "amount_cents": 100000,
           "contributor": "Lewis, Edward G.",
           "state": "CA",
-          "transaction_id": "F65-3320344"
+          "transaction_id": "F65-3320344",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
         },
         {
           "date": "2026-10-18",
           "amount_cents": 150000,
           "contributor": "Upton, William",
           "state": "AL",
-          "transaction_id": "F65-3320797"
+          "transaction_id": "F65-3320797",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
         }
       ],
       "file_number": 2033856,
@@ -214,189 +274,270 @@
           "amount_cents": 350000,
           "contributor": "BRIGHT, CLAUDIA",
           "state": "CA",
-          "transaction_id": "F65-136485"
+          "transaction_id": "F65-136485",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
         },
         {
           "date": "2026-10-15",
           "amount_cents": 350000,
           "contributor": "BRIGHT, KEVIN",
           "state": "CA",
-          "transaction_id": "F65-136482"
+          "transaction_id": "F65-136482",
+          "entity_type": "IND",
+          "employer": "SELF",
+          "occupation": "PRODUCTION"
         },
         {
           "date": "2026-10-16",
           "amount_cents": 250000,
           "contributor": "CALKINS, LUCY",
           "state": "NY",
-          "transaction_id": "F65-137051"
+          "transaction_id": "F65-137051",
+          "entity_type": "IND",
+          "employer": "COLUMBIA UNIVERSITY",
+          "occupation": "PROFESSOR"
         },
         {
           "date": "2026-10-16",
           "amount_cents": 200000,
           "contributor": "CECIL, RACHEL",
           "state": "NY",
-          "transaction_id": "F65-137052"
+          "transaction_id": "F65-137052",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
         },
         {
           "date": "2026-10-15",
           "amount_cents": 100000,
           "contributor": "CHENG, ANN",
           "state": "OR",
-          "transaction_id": "F65-136314"
+          "transaction_id": "F65-136314",
+          "entity_type": "IND",
+          "employer": "SELF",
+          "occupation": "LIFE COACH"
         },
         {
           "date": "2026-10-15",
           "amount_cents": 245000,
           "contributor": "DAGBJARTSSON, EGGERT",
           "state": "MA",
-          "transaction_id": "F65-136279"
+          "transaction_id": "F65-136279",
+          "entity_type": "IND",
+          "employer": "EQUITY RESOURCES INVESTMENTS",
+          "occupation": "MANAGING PARTNER"
         },
         {
           "date": "2026-10-15",
           "amount_cents": 100000,
           "contributor": "FOLCHMAN, RUTH",
           "state": "MA",
-          "transaction_id": "F65-136089"
+          "transaction_id": "F65-136089",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
         },
         {
           "date": "2026-10-15",
           "amount_cents": 100000,
           "contributor": "GORDON, LORRAINE",
           "state": "CT",
-          "transaction_id": "F65-135775"
+          "transaction_id": "F65-135775",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
         },
         {
           "date": "2026-10-16",
           "amount_cents": 350000,
           "contributor": "GURAL, JEFFREY",
           "state": "NY",
-          "transaction_id": "F65-137049"
+          "transaction_id": "F65-137049",
+          "entity_type": "IND",
+          "employer": "GFP REAL ESTATE",
+          "occupation": "REAL ESTATE"
         },
         {
           "date": "2026-10-16",
           "amount_cents": 350000,
           "contributor": "JAMES, MADDIE",
           "state": "WA",
-          "transaction_id": "F65-137048"
+          "transaction_id": "F65-137048",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
         },
         {
           "date": "2026-10-14",
           "amount_cents": 133334,
           "contributor": "JONES, ALAN",
           "state": "NY",
-          "transaction_id": "F65-135549"
+          "transaction_id": "F65-135549",
+          "entity_type": "IND",
+          "employer": "WELLS FARGO",
+          "occupation": "BANKER"
         },
         {
           "date": "2026-10-15",
           "amount_cents": 250000,
           "contributor": "KADEN, ALLISON",
           "state": "NY",
-          "transaction_id": "F65-136297"
+          "transaction_id": "F65-136297",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
         },
         {
           "date": "2026-10-15",
           "amount_cents": 100000,
           "contributor": "KLEEMAN, JAN",
           "state": "CT",
-          "transaction_id": "F65-136430"
+          "transaction_id": "F65-136430",
+          "entity_type": "IND",
+          "employer": "SELF",
+          "occupation": "ATTORNEY PROFESSOR VOLUNTEER"
         },
         {
           "date": "2026-10-15",
           "amount_cents": 200000,
           "contributor": "LEVIN, LEWIS",
           "state": "WA",
-          "transaction_id": "F65-136232"
+          "transaction_id": "F65-136232",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
         },
         {
           "date": "2026-10-16",
           "amount_cents": 130000,
           "contributor": "LIEBERMAN, CLYDE M",
           "state": "CA",
-          "transaction_id": "F65-137053"
+          "transaction_id": "F65-137053",
+          "entity_type": "IND",
+          "employer": "SELF-EMPLOYED",
+          "occupation": "TV PRODUCER"
         },
         {
           "date": "2026-10-14",
           "amount_cents": 350000,
           "contributor": "MCCOLLUM, KEVIN",
           "state": "NY",
-          "transaction_id": "F65-135552"
+          "transaction_id": "F65-135552",
+          "entity_type": "IND",
+          "employer": "ALCHEMATION LLC",
+          "occupation": "PRODUCER"
         },
         {
           "date": "2026-10-15",
           "amount_cents": 100000,
           "contributor": "MIRABELLI, IVAN",
           "state": "CA",
-          "transaction_id": "F65-136565"
+          "transaction_id": "F65-136565",
+          "entity_type": "IND",
+          "employer": "CAPITAL GROUP",
+          "occupation": "PARTNER"
         },
         {
           "date": "2026-10-14",
           "amount_cents": 100000,
           "contributor": "MIRANDA, LIN-MANUEL",
           "state": "NY",
-          "transaction_id": "F65-135564"
+          "transaction_id": "F65-135564",
+          "entity_type": "IND",
+          "employer": "5000 BROADWAY PRODUCTIONS",
+          "occupation": "CEO"
         },
         {
           "date": "2026-10-15",
           "amount_cents": 100000,
           "contributor": "NALEBUFF, BARRY",
           "state": "CT",
-          "transaction_id": "F65-136935"
+          "transaction_id": "F65-136935",
+          "entity_type": "IND",
+          "employer": "YALE UNIVERSITY",
+          "occupation": "PROFESSOR"
         },
         {
           "date": "2026-10-15",
           "amount_cents": 100000,
           "contributor": "ORSON, FRANK",
           "state": "CA",
-          "transaction_id": "F65-136434"
+          "transaction_id": "F65-136434",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
         },
         {
           "date": "2026-10-14",
           "amount_cents": 100000,
           "contributor": "PITCHFORD, DEAN",
           "state": "CA",
-          "transaction_id": "F65-135557"
+          "transaction_id": "F65-135557",
+          "entity_type": "IND",
+          "employer": "SELF EMPLOYED",
+          "occupation": "WRITER"
         },
         {
           "date": "2026-10-16",
           "amount_cents": 100000,
           "contributor": "RASENBERGER, MARY",
           "state": "NY",
-          "transaction_id": "F65-137054"
+          "transaction_id": "F65-137054",
+          "entity_type": "IND",
+          "employer": "THE AUTHORS GUILD",
+          "occupation": "ATTORNEY"
         },
         {
           "date": "2026-10-15",
           "amount_cents": 100000,
           "contributor": "ROGERS, GRANT",
           "state": "NY",
-          "transaction_id": "F65-136563"
+          "transaction_id": "F65-136563",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
         },
         {
           "date": "2026-10-14",
           "amount_cents": 350000,
           "contributor": "SELLER, JEFFREY",
           "state": "NY",
-          "transaction_id": "F65-135560"
+          "transaction_id": "F65-135560",
+          "entity_type": "IND",
+          "employer": "SELF EMPLOYED",
+          "occupation": "THEATRE PRODUCER"
         },
         {
           "date": "2026-10-15",
           "amount_cents": 350000,
           "contributor": "SNOWDON, EDWARD",
           "state": "NY",
-          "transaction_id": "F65-136559"
+          "transaction_id": "F65-136559",
+          "entity_type": "IND",
+          "employer": "EDWARD SNOWDON JR.",
+          "occupation": "THEATRICAL PRODUCER"
         },
         {
           "date": "2026-10-14",
           "amount_cents": 250000,
           "contributor": "STUNTZ, MAYO",
           "state": "NY",
-          "transaction_id": "F65-135561"
+          "transaction_id": "F65-135561",
+          "entity_type": "IND",
+          "employer": "PILOT GROUP",
+          "occupation": "INVESTOR"
         },
         {
           "date": "2026-10-16",
           "amount_cents": 350000,
           "contributor": "SULLIVAN, JOHN",
           "state": "NY",
-          "transaction_id": "F65-137050"
+          "transaction_id": "F65-137050",
+          "entity_type": "IND",
+          "employer": "EXEC/COMM LLC",
+          "occupation": "CONSULTANT"
         }
       ],
       "file_number": 2029698,
@@ -419,140 +560,200 @@
           "amount_cents": 100000,
           "contributor": "ADAMIS, ANTHONY",
           "state": "NY",
-          "transaction_id": "F65-137287"
+          "transaction_id": "F65-137287",
+          "entity_type": "IND",
+          "employer": "ANTHONY ADAMIS",
+          "occupation": "FREELANCE PHOTOGRAPHER"
         },
         {
           "date": "2026-10-17",
           "amount_cents": 350000,
           "contributor": "BARON, TRACY",
           "state": "NY",
-          "transaction_id": "F65-137826"
+          "transaction_id": "F65-137826",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
         },
         {
           "date": "2026-10-18",
           "amount_cents": 350000,
           "contributor": "BERGMAN, MARION",
           "state": "NY",
-          "transaction_id": "F65-137958"
+          "transaction_id": "F65-137958",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
         },
         {
           "date": "2026-10-17",
           "amount_cents": 100000,
           "contributor": "CHANDRASEKHAR, CHARU",
           "state": "NY",
-          "transaction_id": "F65-137344"
+          "transaction_id": "F65-137344",
+          "entity_type": "IND",
+          "employer": "DEBEVOISE",
+          "occupation": "LAWYER"
         },
         {
           "date": "2026-10-18",
           "amount_cents": 100000,
           "contributor": "COHEN, HOWARD",
           "state": "MA",
-          "transaction_id": "F65-139412"
+          "transaction_id": "F65-139412",
+          "entity_type": "IND",
+          "employer": "BEACON",
+          "occupation": "EXECUTIVE"
         },
         {
           "date": "2026-10-17",
           "amount_cents": 300000,
           "contributor": "DAVID, CAROL",
           "state": "CA",
-          "transaction_id": "F65-138331"
+          "transaction_id": "F65-138331",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
         },
         {
           "date": "2026-10-18",
           "amount_cents": 200000,
           "contributor": "DAVID, VICKRAM",
           "state": "NY",
-          "transaction_id": "F65-138785"
+          "transaction_id": "F65-138785",
+          "entity_type": "IND",
+          "employer": "PALESTRA CAPITAL MANAGEMENT",
+          "occupation": "FINANCE"
         },
         {
           "date": "2026-10-17",
           "amount_cents": 350000,
           "contributor": "HAQUE, SHOMA",
           "state": "MA",
-          "transaction_id": "F65-137769"
+          "transaction_id": "F65-137769",
+          "entity_type": "IND",
+          "employer": "SELF-EMPLOYED",
+          "occupation": "LANDSCAPE DESIGNER"
         },
         {
           "date": "2026-10-18",
           "amount_cents": 350000,
           "contributor": "KIRCHMAN, DANA",
           "state": "NY",
-          "transaction_id": "F65-137524"
+          "transaction_id": "F65-137524",
+          "entity_type": "IND",
+          "employer": "CONSULTING",
+          "occupation": "SELF"
         },
         {
           "date": "2026-10-17",
           "amount_cents": 100000,
           "contributor": "LONGMAN, ROGER",
           "state": "CT",
-          "transaction_id": "F65-139225"
+          "transaction_id": "F65-139225",
+          "entity_type": "IND",
+          "employer": "REAL ENDPOINTS",
+          "occupation": "CHAIRMAN"
         },
         {
           "date": "2026-10-18",
           "amount_cents": 100000,
           "contributor": "MACGILL, SUSAN",
           "state": "NY",
-          "transaction_id": "F65-139333"
+          "transaction_id": "F65-139333",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
         },
         {
           "date": "2026-10-17",
           "amount_cents": 100000,
           "contributor": "MCCABE, DAVID",
           "state": "NY",
-          "transaction_id": "F65-138825"
+          "transaction_id": "F65-138825",
+          "entity_type": "IND",
+          "employer": "WILLKIE FARR & GALLAGHER LLP",
+          "occupation": "ATTORNEY"
         },
         {
           "date": "2026-10-17",
           "amount_cents": 350000,
           "contributor": "SCHULTZ, JOSHUA",
           "state": "MA",
-          "transaction_id": "F65-137767"
+          "transaction_id": "F65-137767",
+          "entity_type": "IND",
+          "employer": "ARSENAL CAPITAL",
+          "occupation": "PRIVATE EQUITY"
         },
         {
           "date": "2026-10-17",
           "amount_cents": 100000,
           "contributor": "SCHWARZ, ERIC",
           "state": "MA",
-          "transaction_id": "F65-137336"
+          "transaction_id": "F65-137336",
+          "entity_type": "IND",
+          "employer": "COLLEGE FOR SOCIAL INNOVATION",
+          "occupation": "EDUCATION"
         },
         {
           "date": "2026-10-17",
           "amount_cents": 100000,
           "contributor": "SHASTID, LUCINDA",
           "state": "NY",
-          "transaction_id": "F65-139767"
+          "transaction_id": "F65-139767",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
         },
         {
           "date": "2026-10-18",
           "amount_cents": 150000,
           "contributor": "SMITH, FRAN",
           "state": "NY",
-          "transaction_id": "F65-139082"
+          "transaction_id": "F65-139082",
+          "entity_type": "IND",
+          "employer": "FRAN SMITH MEDIA",
+          "occupation": "WRITER"
         },
         {
           "date": "2026-10-18",
           "amount_cents": 150000,
           "contributor": "SMITH, FRAN",
           "state": "NY",
-          "transaction_id": "F65-139634"
+          "transaction_id": "F65-139634",
+          "entity_type": "IND",
+          "employer": "SELF",
+          "occupation": "WRITER"
         },
         {
           "date": "2026-10-18",
           "amount_cents": 100000,
           "contributor": "TOEVS, ALDEN",
           "state": "NY",
-          "transaction_id": "F65-137286"
+          "transaction_id": "F65-137286",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
         },
         {
           "date": "2026-10-17",
           "amount_cents": 100000,
           "contributor": "WEBB, CAROLYN",
           "state": "WA",
-          "transaction_id": "F65-139218"
+          "transaction_id": "F65-139218",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
         },
         {
           "date": "2026-10-17",
           "amount_cents": 100000,
           "contributor": "WELLDE, GEORGE W",
           "state": "NY",
-          "transaction_id": "F65-139442"
+          "transaction_id": "F65-139442",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
         }
       ],
       "file_number": 2031336,
