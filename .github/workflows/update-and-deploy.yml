@@ -30,20 +30,14 @@ jobs:
           python-version: '3.12'
       - name: Test FEC parser
         run: python -m unittest discover -s tests -v
-      - name: Refresh original FEC Form 6 notices
-        id: refresh
-        continue-on-error: true # Preserve an accessible public page if the upstream FEC API is unavailable
-        env:
-          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
-        run: python scripts/update_data.py
-      - name: Refresh eight independent 2026 district datasets
+      - name: Refresh all nine district datasets with batched FEC discovery
         id: multirace
         continue-on-error: true
         env:
           FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
         run: python scripts/update_races.py
       - name: Archive verified filing data
-        if: steps.refresh.outcome == 'success' || steps.multirace.outcome == 'success'
+        if: always() && steps.multirace.outcome != 'skipped'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -53,9 +47,6 @@ jobs:
             git pull --rebase -X theirs origin main
             git push
           fi
-      - name: Explain upstream data failures
-        if: steps.refresh.outcome != 'success'
-        run: echo "FEC refresh was unavailable; deploying the last verified dataset. Check the refresh step logs."
       - name: Report other race refresh exceptions
         if: steps.multirace.outcome != 'success'
         run: echo "Some districts were unavailable; their last verified data is preserved."

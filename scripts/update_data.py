@@ -242,12 +242,12 @@ def build_public_data(cache, now=None):
             'method': 'FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions.'}
 
 
-def main():
+def main(prefetched_by_committee=None):
     cache = load_cache()
     key = os.environ.get('FEC_API_KEY') or 'DEMO_KEY'
     discovered = {}
     for slug, committee in COMMITTEES.items():
-        for r in discover_f6(committee['id'], key):
+        for r in (prefetched_by_committee.get(committee['id'], []) if prefetched_by_committee is not None else discover_f6(committee['id'], key)):
             file_num = positive_int(r.get('file_number'))
             if file_num:
                 discovered[f"{committee['id']}/{file_num}"] = (committee['id'], file_num, r)
