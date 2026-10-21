@@ -1,9 +1,5 @@
 # NY-17: 48-hour fundraising notices (October 2026)
 
-A public, nonpartisan GitHub Pages dashboard tracking **Lawler for Congress, Inc. (C00815415)** and **Cait for New York (C00900431)**. It charts qualifying contributions reported on Form 6 by the **dates received**, with cumulative sums and direct links to the original F65 contribution pages.
-
-**These are not overall campaign fundraising totals.** Federal Form 6 covers qualifying transactions of $1,000 or more within the final pre-election reporting window and can include in-kind contributions and loans. They will also be itemized in later regular filings; do not add these figures to Form 3 totals.
-
 ## One-time publication steps
 
 1. Publish these files to an existing public GitHub repository, including `.github/workflows/update-and-deploy.yml`.
