@@ -119,10 +119,17 @@ def parse_f6(raw_bytes: bytes, committee_id: str, filing_id: int):
                 raise InvalidOperation()
         except InvalidOperation as exc:
             raise ValueError(f'{filing_id}: bad contribution amount {amount_text!r}') from exc
+        entity_type = cell(r, 3).upper()
+        is_individual = entity_type in ('IND', 'I', 'CAN')
         contributions.append({'date': receipt_date,
                               'amount_cents': int((amount * 100).quantize(Decimal('1'))),
                               'contributor': contributor or 'Contributor not named',
-                              'state': cell(r, 13), 'transaction_id': cell(r, 2)})
+                              'state': cell(r, 13), 'transaction_id': cell(r, 2),
+                              # F65 columns 19 and 20 (1-indexed) disclose employer
+                              # and occupation for individual donors, when reported.
+                              'entity_type': entity_type,
+                              'employer': cell(r, 18) if is_individual else '',
+                              'occupation': cell(r, 19) if is_individual else ''})
     if not contributions:
         raise ValueError(f'{filing_id}: no F65 records; check original notice manually')
     return {'form_type': form_type, 'original_amendment_date': original_amendment_date,
@@ -248,16 +255,32 @@ def main():
             label = f"{committee['id']}/{file_num}"
             if label not in discovered and label not in cache['filings']:
                 discovered[label] = (committee['id'], file_num, {'file_number': file_num})
+    # Some archived filings may have aged out of the real-time filing index.
+    # Backfill those as well, so donor disclosures appear for every existing entry.
+    valid_ids = {c['id'] for c in COMMITTEES.values()}
+    for label, archived in cache['filings'].items():
+        cid, file_num = archived.get('committee_id'), positive_int(archived.get('file_number'))
+        if cid in valid_ids and file_num is not None:
+            discovered.setdefault(label, (cid, file_num, {}))
     for label, (cid, file_num, meta) in sorted(discovered.items()):
         filing = cache['filings'].get(label)
-        if filing is None:
+        needs_enrichment = filing is not None and any(
+            not all(field in item for field in ('entity_type', 'employer', 'occupation'))
+            for item in filing.get('contributions', [])
+        )
+        if filing is None or needs_enrichment:
             raw_url = str(meta.get('fec_url') or '')
             if not (raw_url.startswith('https://docquery.fec.gov/dcdev/posted/') and raw_url.endswith('.fec')):
                 raw_url = f'https://docquery.fec.gov/dcdev/posted/{file_num}.fec'
             raw = fetch_url(raw_url, binary=True)
-            filing = dict(parse_f6(raw, cid, file_num), file_number=file_num, committee_id=cid,
-                          sha256=hashlib.sha256(raw).hexdigest())
-            print(f"Validated raw Form 6 {label}: {len(filing['contributions'])} entries")
+            digest = hashlib.sha256(raw).hexdigest()
+            if filing is not None and filing.get('sha256') and filing['sha256'] != digest:
+                raise RuntimeError(f'Form 6 {label} raw source differs from archived version; manual review needed')
+            refreshed = parse_f6(raw, cid, file_num)
+            filing = dict(filing or {}, **refreshed, file_number=file_num,
+                          committee_id=cid, sha256=digest)
+            label_action = 'Backfilled' if needs_enrichment else 'Validated'
+            print(f"{label_action} raw Form 6 {label}: {len(filing['contributions'])} entries")
         for field in ('amendment_chain', 'amended_by', 'most_recent', 'most_recent_filing', 'is_amended'):
             if meta.get(field) is not None:
                 filing[field] = meta[field]

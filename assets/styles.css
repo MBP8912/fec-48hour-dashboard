@@ -109,6 +109,10 @@ tr:hover td { background:#fbfcfe }
 .dialog-row { padding:15px 0; border-bottom:1px solid #edf0f4; display:flex; justify-content:space-between; gap:20px; align-items:center }
 .dialog-row strong { display:block; font-size:13px }
 .dialog-row span { display:block; font-size:11px; color:#9ba4b0; margin-top:5px }
+.dialog-row > div:first-child { min-width:0; }
+.donor-meta { margin-top:8px; font-size:11px; color:#738196; line-height:1.45; overflow-wrap:anywhere }
+.donor-meta-line + .donor-meta-line { margin-top:2px }
+.dialog-row .donor-meta-label { display:inline; font-size:inherit; color:#5b6d83; font-weight:750; margin-top:0 }
 .dialog-amount { text-align:right; font-size:15px; font-weight:770; white-space:nowrap }
 .dialog-amount a { display:block; font-size:11px; margin-top:7px; color:#547aa6; font-weight:650 }
 .dialog-footer { padding:14px 29px 20px; background:#f8fafc; color:#8a99a7; font-size:11px; border-top:1px solid #e8edf1 }

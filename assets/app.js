@@ -86,6 +86,21 @@
       const wrapper=html('div','dialog-row'), left=html('div'),right=html('div','dialog-amount');
       left.append(html('strong','',contribution.contributor));
       left.append(html('span','',contribution.state||'State not reported'));
+      // Form 6 reports employer and occupation for individual contributors.
+      // Organization/PAC entries should not display these individual-only fields.
+      if (['IND', 'I', 'CAN'].includes(String(contribution.entity_type||'').toUpperCase())) {
+        const meta=html('div','donor-meta');
+        for (const [label,value] of [
+          ['Employer', contribution.employer],
+          ['Occupation', contribution.occupation]
+        ]) {
+          const line=html('div','donor-meta-line');
+          line.append(html('span','donor-meta-label',label+': '));
+          line.append(document.createTextNode(String(value||'').trim()||'Not reported'));
+          meta.append(line);
+        }
+        left.append(meta);
+      }
       right.append(document.createTextNode(exact(contribution.amount_cents)));
       const url=safeFecUrl(contribution.committee_id,contribution.file_number);
       if(url){const link=html('a','',`FEC filing ${contribution.file_number} ↗`);link.href=url;link.target='_blank';link.rel='noopener noreferrer';right.append(link);}

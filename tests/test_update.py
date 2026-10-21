@@ -9,9 +9,11 @@ CID = 'C00815415'
 C2 = 'C00900431'
 
 
-def f65(cid, txid='X123', donor='Person Example', dt='20261019', amount='3000.00'):
+def f65(cid, txid='X123', donor='Person Example', dt='20261019', amount='3000.00',
+        entity_type='IND', employer='Acme Inc', occupation='Engineer'):
     x = [''] * 22
-    x[0], x[1], x[2], x[4], x[13], x[16], x[17] = 'F65', cid, txid, donor, 'NY', dt, amount
+    x[0], x[1], x[2], x[3], x[4], x[13], x[16], x[17] = 'F65', cid, txid, entity_type, donor, 'NY', dt, amount
+    x[18], x[19] = employer, occupation
     return '\x1c'.join(x)
 
 
@@ -30,6 +32,35 @@ class TestF6(unittest.TestCase):
         x = parse_f6(sample(), CID, 1)
         self.assertEqual(x['contributions'][0]['amount_cents'], 300000)
         self.assertEqual(x['contributions'][0]['date'], '2026-10-19')
+    def test_discloses_individual_employer_and_occupation(self):
+        parsed = parse_f6(sample(), CID, 1)
+        item = parsed['contributions'][0]
+        self.assertEqual(item['entity_type'], 'IND')
+        self.assertEqual(item['employer'], 'Acme Inc')
+        self.assertEqual(item['occupation'], 'Engineer')
+        report = dict(parsed, committee_id=CID, file_number=1, filed_date='2026-10-20')
+        displayed = build_public_data({'filings': {'1': report}},
+                                      datetime(2026, 10, 21, tzinfo=timezone.utc))
+        self.assertEqual(displayed['contributions'][0]['employer'], 'Acme Inc')
+        self.assertEqual(displayed['contributions'][0]['occupation'], 'Engineer')
+        self.assertEqual(displayed['daily'][-1]['cumulative']['lawler'], 300000)
+
+    def test_empty_individual_fields_preserved_as_missing(self):
+        doc = sample(additional=f65(CID, txid='X999', entity_type='IND',
+                                     employer='', occupation=''))
+        parsed = parse_f6(doc, CID, 1)
+        self.assertEqual(parsed['contributions'][1]['employer'], '')
+        self.assertEqual(parsed['contributions'][1]['occupation'], '')
+
+    def test_organization_does_not_receive_individual_metadata(self):
+        doc = sample(additional=f65(CID, txid='X999', donor='Another PAC',
+                                     entity_type='PAC', employer='N/A', occupation='N/A'))
+        parsed = parse_f6(doc, CID, 1)
+        item = parsed['contributions'][1]
+        self.assertEqual(item['entity_type'], 'PAC')
+        self.assertEqual(item['employer'], '')
+        self.assertEqual(item['occupation'], '')
+
     def test_wrong_committee_rejected(self):
         with self.assertRaises(ValueError):
             parse_f6(sample(), C2, 1)
