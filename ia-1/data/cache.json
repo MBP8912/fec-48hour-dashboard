@@ -954,6 +954,122 @@
       "most_recent_filing": 2036139,
       "is_amended": false,
       "filed_date": "2026-10-22"
+    },
+    "C00787820/2039137": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-20",
+          "amount_cents": 100000,
+          "contributor": "ADAM Pac",
+          "state": "DC",
+          "transaction_id": "20862438",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 100000,
+          "contributor": "AMERICAN FEDERATION OF GOVT. EMPL. POLITICAL ACTION COMMITTEE",
+          "state": "DC",
+          "transaction_id": "20862509",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 100000,
+          "contributor": "Bates, Belinda",
+          "state": "IA",
+          "transaction_id": "20862439",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 200000,
+          "contributor": "Deike, Ronald",
+          "state": "MN",
+          "transaction_id": "20862093",
+          "entity_type": "IND",
+          "employer": "Self",
+          "occupation": "Writer"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 100000,
+          "contributor": "DR. RAUL RUIZ FOR CONGRESS",
+          "state": "CA",
+          "transaction_id": "20862515",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 200000,
+          "contributor": "JULIA BROWNLEY FOR CONGRESS",
+          "state": "CA",
+          "transaction_id": "20862749",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 100000,
+          "contributor": "Sigal, Ruth",
+          "state": "NJ",
+          "transaction_id": "20862397",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 350000,
+          "contributor": "Skloff, Cynthia",
+          "state": "CA",
+          "transaction_id": "20862487",
+          "entity_type": "IND",
+          "employer": "No Employer",
+          "occupation": "No Employer"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 350000,
+          "contributor": "Skloff, Michael",
+          "state": "CA",
+          "transaction_id": "20862488",
+          "entity_type": "IND",
+          "employer": "Self",
+          "occupation": "Musician"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 100000,
+          "contributor": "TOMORROW PAC",
+          "state": "DC",
+          "transaction_id": "20862510",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2039137,
+      "committee_id": "C00787820",
+      "sha256": "2589d8dde0889ab930d992495bb7ca556e9bcf46a693cd3cb9d089a5a8bcc829",
+      "amendment_chain": [
+        2039137
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2039137,
+      "is_amended": false,
+      "filed_date": "2026-10-22"
     }
   }
 }

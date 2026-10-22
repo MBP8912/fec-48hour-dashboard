@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-22T22:31:44+00:00",
+  "generated_at": "2026-10-22T23:31:38+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -112,15 +112,15 @@
       "date": "2026-10-21",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 825000
       },
       "cumulative": {
         "lawler": 4454102,
-        "conley": 8570000
+        "conley": 9395000
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 6
       }
     },
     {
@@ -131,7 +131,7 @@
       },
       "cumulative": {
         "lawler": 4454102,
-        "conley": 8570000
+        "conley": 9395000
       },
       "counts": {
         "lawler": 0,
@@ -195,6 +195,13 @@
       "filed_date": "2026-10-21",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00807743/2035160/f65"
+    },
+    {
+      "committee_id": "C00902684",
+      "file_number": 2039217,
+      "filed_date": "2026-10-22",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00902684/2039217/f65"
     }
   ],
   "contributions": [
@@ -977,9 +984,81 @@
       "occupation": "Not Employed",
       "committee_id": "C00902684",
       "file_number": 2035156
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 200000,
+      "contributor": "COMMON GOOD PAC",
+      "state": "NY",
+      "transaction_id": "14777677",
+      "entity_type": "ORG",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2039217
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 150000,
+      "contributor": "Huggett, Jeff",
+      "state": "MN",
+      "transaction_id": "14786729",
+      "entity_type": "IND",
+      "employer": "Dominium",
+      "occupation": "Real Estate Development",
+      "committee_id": "C00902684",
+      "file_number": 2039217
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "PATRIOT PAC",
+      "state": "NY",
+      "transaction_id": "14672315",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2039217
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 175000,
+      "contributor": "Seavey, Avery",
+      "state": "NY",
+      "transaction_id": "14786807",
+      "entity_type": "IND",
+      "employer": "Self",
+      "occupation": "Attorney",
+      "committee_id": "C00902684",
+      "file_number": 2039217
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "Snyder, Ann",
+      "state": "MN",
+      "transaction_id": "14786800",
+      "entity_type": "IND",
+      "employer": "Self",
+      "occupation": "Retired",
+      "committee_id": "C00902684",
+      "file_number": 2039217
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "Wong, Michael",
+      "state": "WA",
+      "transaction_id": "14786583",
+      "entity_type": "IND",
+      "employer": "Self",
+      "occupation": "Woodworker",
+      "committee_id": "C00902684",
+      "file_number": 2039217
     }
   ],
-  "report_count": 8,
+  "report_count": 9,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

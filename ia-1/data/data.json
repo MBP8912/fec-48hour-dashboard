@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-22T22:31:44+00:00",
+  "generated_at": "2026-10-22T23:31:38+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -97,15 +97,15 @@
       "date": "2026-10-20",
       "totals": {
         "lawler": 100000,
-        "conley": 0
+        "conley": 1700000
       },
       "cumulative": {
         "lawler": 4940000,
-        "conley": 6750000
+        "conley": 8450000
       },
       "counts": {
         "lawler": 1,
-        "conley": 0
+        "conley": 10
       }
     },
     {
@@ -116,7 +116,7 @@
       },
       "cumulative": {
         "lawler": 9800000,
-        "conley": 6750000
+        "conley": 8450000
       },
       "counts": {
         "lawler": 21,
@@ -131,7 +131,7 @@
       },
       "cumulative": {
         "lawler": 9800000,
-        "conley": 6750000
+        "conley": 8450000
       },
       "counts": {
         "lawler": 0,
@@ -202,6 +202,13 @@
       "filed_date": "2026-10-22",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00558825/2036139/f65"
+    },
+    {
+      "committee_id": "C00787820",
+      "file_number": 2039137,
+      "filed_date": "2026-10-22",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00787820/2039137/f65"
     }
   ],
   "contributions": [
@@ -926,6 +933,126 @@
       "file_number": 2036139
     },
     {
+      "date": "2026-10-20",
+      "amount_cents": 100000,
+      "contributor": "ADAM Pac",
+      "state": "DC",
+      "transaction_id": "20862438",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2039137
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 100000,
+      "contributor": "AMERICAN FEDERATION OF GOVT. EMPL. POLITICAL ACTION COMMITTEE",
+      "state": "DC",
+      "transaction_id": "20862509",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2039137
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 100000,
+      "contributor": "Bates, Belinda",
+      "state": "IA",
+      "transaction_id": "20862439",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00787820",
+      "file_number": 2039137
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 100000,
+      "contributor": "DR. RAUL RUIZ FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "20862515",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2039137
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 200000,
+      "contributor": "Deike, Ronald",
+      "state": "MN",
+      "transaction_id": "20862093",
+      "entity_type": "IND",
+      "employer": "Self",
+      "occupation": "Writer",
+      "committee_id": "C00787820",
+      "file_number": 2039137
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 200000,
+      "contributor": "JULIA BROWNLEY FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "20862749",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2039137
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 100000,
+      "contributor": "Sigal, Ruth",
+      "state": "NJ",
+      "transaction_id": "20862397",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00787820",
+      "file_number": 2039137
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 350000,
+      "contributor": "Skloff, Cynthia",
+      "state": "CA",
+      "transaction_id": "20862487",
+      "entity_type": "IND",
+      "employer": "No Employer",
+      "occupation": "No Employer",
+      "committee_id": "C00787820",
+      "file_number": 2039137
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 350000,
+      "contributor": "Skloff, Michael",
+      "state": "CA",
+      "transaction_id": "20862488",
+      "entity_type": "IND",
+      "employer": "Self",
+      "occupation": "Musician",
+      "committee_id": "C00787820",
+      "file_number": 2039137
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 100000,
+      "contributor": "TOMORROW PAC",
+      "state": "DC",
+      "transaction_id": "20862510",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2039137
+    },
+    {
       "date": "2026-10-21",
       "amount_cents": 100000,
       "contributor": "AMALGAMATED SUGAR COMPANY PAC",
@@ -1178,7 +1305,7 @@
       "file_number": 2036139
     }
   ],
-  "report_count": 9,
+  "report_count": 10,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

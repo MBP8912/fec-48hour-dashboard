@@ -778,6 +778,82 @@
       "most_recent_filing": 2035156,
       "is_amended": false,
       "filed_date": "2026-10-21"
+    },
+    "C00902684/2039217": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-21",
+          "amount_cents": 200000,
+          "contributor": "COMMON GOOD PAC",
+          "state": "NY",
+          "transaction_id": "14777677",
+          "entity_type": "ORG",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 150000,
+          "contributor": "Huggett, Jeff",
+          "state": "MN",
+          "transaction_id": "14786729",
+          "entity_type": "IND",
+          "employer": "Dominium",
+          "occupation": "Real Estate Development"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "PATRIOT PAC",
+          "state": "NY",
+          "transaction_id": "14672315",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 175000,
+          "contributor": "Seavey, Avery",
+          "state": "NY",
+          "transaction_id": "14786807",
+          "entity_type": "IND",
+          "employer": "Self",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Snyder, Ann",
+          "state": "MN",
+          "transaction_id": "14786800",
+          "entity_type": "IND",
+          "employer": "Self",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Wong, Michael",
+          "state": "WA",
+          "transaction_id": "14786583",
+          "entity_type": "IND",
+          "employer": "Self",
+          "occupation": "Woodworker"
+        }
+      ],
+      "file_number": 2039217,
+      "committee_id": "C00902684",
+      "sha256": "0523946d84530a7a99facbbbb470d93df8863f9768778927e696631e37ce158d",
+      "amendment_chain": [
+        2039217
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2039217,
+      "is_amended": false,
+      "filed_date": "2026-10-22"
     }
   }
 }
