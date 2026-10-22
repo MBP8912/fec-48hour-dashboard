@@ -718,6 +718,242 @@
       "most_recent_filing": 2035309,
       "is_amended": false,
       "filed_date": "2026-10-21"
+    },
+    "C00558825/2036139": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-20",
+          "amount_cents": 100000,
+          "contributor": "WAGNER, KAY",
+          "state": "IA",
+          "transaction_id": "655E06DCD24AC4DC9A82",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "WILLIAMS, MARK",
+          "state": "GA",
+          "transaction_id": "6C5FFD6EB2F4541668A6",
+          "entity_type": "IND",
+          "employer": "SOUTHERN HERITAGE",
+          "occupation": "OWNER"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 120000,
+          "contributor": "MUIR-TAYLOR, ALASTAIR",
+          "state": "AL",
+          "transaction_id": "682F96605204B41EB88B",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "WARD, T. B.",
+          "state": "AL",
+          "transaction_id": "6E0EBCB76EB50479992C",
+          "entity_type": "IND",
+          "employer": "SELF EMPLOYED",
+          "occupation": "ENTREPRENEUR"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 500000,
+          "contributor": "LEININGER, JAMES",
+          "state": "TX",
+          "transaction_id": "6AE920DD0E60F41748E6",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 125000,
+          "contributor": "SCOTT, WILLIAM",
+          "state": "AL",
+          "transaction_id": "6E034B09F291241A9856",
+          "entity_type": "IND",
+          "employer": "THETALONSGROUP",
+          "occupation": "ASSOCIATE BROKER"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 120000,
+          "contributor": "BAKKEN, BRIAN",
+          "state": "AL",
+          "transaction_id": "63EB8DEDA1903425DB09",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 250000,
+          "contributor": "SCOTT, ISAAC",
+          "state": "AL",
+          "transaction_id": "6925FE0FB53944C73941",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 200000,
+          "contributor": "BROOKS, RICHARD",
+          "state": "AL",
+          "transaction_id": "6DC49590E58214E89B77",
+          "entity_type": "IND",
+          "employer": "BRASFIELD & GORRIE LLC",
+          "occupation": "CHIEF ESTIMATOR"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 125000,
+          "contributor": "SCOTT, CHARLES DAVID",
+          "state": "AL",
+          "transaction_id": "6013487F2DD81410EB4C",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 350000,
+          "contributor": "RIPPS, HAROLD",
+          "state": "AL",
+          "transaction_id": "624F4759AAAF44455AFD",
+          "entity_type": "IND",
+          "employer": "SELF EMPLOYED",
+          "occupation": "ENTREPRENEUR"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 120000,
+          "contributor": "KEY, ALBERT",
+          "state": "AL",
+          "transaction_id": "6BE8A2C0C91EE4C669E3",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "BHFS-E, PC PAC (BROWNSTEIN HYATT FARBER SCHRECK PAC)",
+          "state": "CO",
+          "transaction_id": "69367CB657CA247E78E0",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "EMPLOYEES OF RTX CORPORATION PAC",
+          "state": "VA",
+          "transaction_id": "64C53F8DBC9184C58BD1",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 500000,
+          "contributor": "SENIOR CARE PHARMACY COALITION PAC",
+          "state": "KY",
+          "transaction_id": "61545F19E577B4817BFA",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 500000,
+          "contributor": "CHEVRON EMPLOYEES PAC - CHEVRON CORPORATION",
+          "state": "CA",
+          "transaction_id": "67F54F3115D7F48808B6",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 350000,
+          "contributor": "AMERICAN CONSERVATION COALITION PAC (ACC PAC)",
+          "state": "DC",
+          "transaction_id": "6D29D4B2967224A958C5",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 150000,
+          "contributor": "NATIONAL MULTIFAMILY HOUSING COUNCIL PAC",
+          "state": "DC",
+          "transaction_id": "672314C09AD7947BDB44",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "USA RICE FEDERATION PAC",
+          "state": "VA",
+          "transaction_id": "6755101039F074FEC862",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 350000,
+          "contributor": "SAVE NEW YORK PAC",
+          "state": "WI",
+          "transaction_id": "684C6D58B17544F73AA0",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 500000,
+          "contributor": "PAC FOR NEW LEADERSHIP",
+          "state": "CA",
+          "transaction_id": "603FE5F70076E4A8985D",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "AMALGAMATED SUGAR COMPANY PAC",
+          "state": "ID",
+          "transaction_id": "621FC5577696B4DC9B2E",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2036139,
+      "committee_id": "C00558825",
+      "sha256": "4a130ee99b6ad3c049fba03aa1fdf64a085bc9ad99024e033a354bea625a4a20",
+      "amendment_chain": [
+        2036139
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2036139,
+      "is_amended": false,
+      "filed_date": "2026-10-22"
     }
   }
 }
