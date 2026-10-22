@@ -978,6 +978,552 @@
       "most_recent_filing": 2037491,
       "is_amended": false,
       "filed_date": "2026-10-22"
+    },
+    "C00677286/2038238": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-09-30",
+          "amount_cents": 200000,
+          "contributor": "REPUBLICAN PARTY OF DANE COUNTY",
+          "state": "WI",
+          "transaction_id": "JG92209",
+          "entity_type": "PTY",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 250000,
+          "contributor": "BE VICTORIOUS OVER DEMOCRATS PAC",
+          "state": "TX",
+          "transaction_id": "TX95138",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 250000,
+          "contributor": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+          "state": "DC",
+          "transaction_id": "TX95157",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 250000,
+          "contributor": "INTERNATIONAL DAIRY FOODS ASSOCIATION (IDFA) PAC",
+          "state": "DC",
+          "transaction_id": "TX95158",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 250000,
+          "contributor": "NATIONAL CONFECTIONERS ASSOCIATION OF THE UNITED STATES, INC. POLITICAL ACTION C",
+          "state": "DC",
+          "transaction_id": "TX95159",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 500000,
+          "contributor": "FIRST AMERICAN FINANCIAL CORPORATION PAC",
+          "state": "CA",
+          "transaction_id": "TX95160",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 250000,
+          "contributor": "RAZOR PAC",
+          "state": "AR",
+          "transaction_id": "TX95171",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-11",
+          "amount_cents": 250000,
+          "contributor": "ANTONNEAU, SANDY",
+          "state": "WI",
+          "transaction_id": "JG92549",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-09-21",
+          "amount_cents": 100000,
+          "contributor": "ARMSTRONG, PERRY",
+          "state": "WI",
+          "transaction_id": "JG92190",
+          "entity_type": "IND",
+          "employer": "PREFERRED TITLE LLC",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-09-30",
+          "amount_cents": 200000,
+          "contributor": "BATTEN, JANE",
+          "state": "WI",
+          "transaction_id": "JG95152",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-09-30",
+          "amount_cents": 200000,
+          "contributor": "BATTEN, JOHN H.",
+          "state": "WI",
+          "transaction_id": "JG95151",
+          "entity_type": "IND",
+          "employer": "TWIN DISK",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-14",
+          "amount_cents": 250000,
+          "contributor": "BELL, BRUCE A.",
+          "state": "WI",
+          "transaction_id": "JG93981",
+          "entity_type": "IND",
+          "employer": "BELMARK",
+          "occupation": "FOUNDER"
+        },
+        {
+          "date": "2026-09-28",
+          "amount_cents": 100000,
+          "contributor": "BUKACEK, ANDREA M.",
+          "state": "WI",
+          "transaction_id": "JG92195",
+          "entity_type": "IND",
+          "employer": "BUKACEK CONSTRUCTION GROUP",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "CARAPIET, JOSEPH",
+          "state": "DC",
+          "transaction_id": "TX95168",
+          "entity_type": "IND",
+          "employer": "BLACKSTONE",
+          "occupation": "MANAGING DIRECTOR"
+        },
+        {
+          "date": "2026-10-14",
+          "amount_cents": 200000,
+          "contributor": "CHARLES, DAVID R.",
+          "state": "WI",
+          "transaction_id": "JG93976",
+          "entity_type": "IND",
+          "employer": "CASH DEPOT",
+          "occupation": "OWNER"
+        },
+        {
+          "date": "2026-09-28",
+          "amount_cents": 200000,
+          "contributor": "COPE, JAMES",
+          "state": "WI",
+          "transaction_id": "JG92187",
+          "entity_type": "IND",
+          "employer": "WALKER & DUNLAP",
+          "occupation": "PRESIDENT"
+        },
+        {
+          "date": "2026-09-30",
+          "amount_cents": 129132,
+          "contributor": "CULLEN, GEORGE L.",
+          "state": "WI",
+          "transaction_id": "JG95154",
+          "entity_type": "IND",
+          "employer": "JP CULLEN",
+          "occupation": "MANAGEMENT"
+        },
+        {
+          "date": "2026-09-30",
+          "amount_cents": 129132,
+          "contributor": "CULLEN, MARY CATHERINE",
+          "state": "WI",
+          "transaction_id": "JG95153",
+          "entity_type": "IND",
+          "employer": "THE ALEXANDER COMPANY",
+          "occupation": "ASSET MANAGER"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 350000,
+          "contributor": "DONOVAN, LIAM",
+          "state": "NY",
+          "transaction_id": "TX95170",
+          "entity_type": "IND",
+          "employer": "SELF EMPLOYED",
+          "occupation": "TRADER"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 350000,
+          "contributor": "DUNHAM, WILL",
+          "state": "VA",
+          "transaction_id": "TX95164",
+          "entity_type": "IND",
+          "employer": "AIC",
+          "occupation": "GOVERNMENT AFFAIRS"
+        },
+        {
+          "date": "2026-09-30",
+          "amount_cents": 350000,
+          "contributor": "FETTIG, MARYELLEN",
+          "state": "WI",
+          "transaction_id": "JG95155",
+          "entity_type": "IND",
+          "employer": "HOMEMAKER",
+          "occupation": "HOMEMAKER"
+        },
+        {
+          "date": "2026-09-30",
+          "amount_cents": 350000,
+          "contributor": "FETTIG, ROBERT P.",
+          "state": "WI",
+          "transaction_id": "JG95156",
+          "entity_type": "IND",
+          "employer": "TANKCRAFT CORP.",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-09-29",
+          "amount_cents": 350000,
+          "contributor": "FORSYTHE, ROBERT STANTON",
+          "state": "FL",
+          "transaction_id": "JG92203",
+          "entity_type": "IND",
+          "employer": "THIRD LAKE CAPITAL",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-14",
+          "amount_cents": 150000,
+          "contributor": "FRANKE, JEROLD P.",
+          "state": "WI",
+          "transaction_id": "JG93982",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-11",
+          "amount_cents": 350000,
+          "contributor": "GARD, JOHN",
+          "state": "WI",
+          "transaction_id": "JG92554",
+          "entity_type": "IND",
+          "employer": "GARD BUSINESS GROUP",
+          "occupation": "CONSULTANT"
+        },
+        {
+          "date": "2026-10-11",
+          "amount_cents": 100000,
+          "contributor": "GEERTSEN, DAVID M.",
+          "state": "WI",
+          "transaction_id": "JG92556",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-11",
+          "amount_cents": 100000,
+          "contributor": "GILBANK, MARY L.",
+          "state": "WI",
+          "transaction_id": "JG92562",
+          "entity_type": "IND",
+          "employer": "REALTORS",
+          "occupation": "REALTOR"
+        },
+        {
+          "date": "2026-10-02",
+          "amount_cents": 350000,
+          "contributor": "HARRIS, RYAN DAVID",
+          "state": "IL",
+          "transaction_id": "JG92204",
+          "entity_type": "IND",
+          "employer": "SIMPSON THACHER & BARTLETT LLP",
+          "occupation": "ATTORNEY"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 200000,
+          "contributor": "HELD, JEFFERY P.",
+          "state": "WI",
+          "transaction_id": "TX95165",
+          "entity_type": "IND",
+          "employer": "NEW BERLIN PLASTICS",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "HESS, DANIEL M.",
+          "state": "WI",
+          "transaction_id": "TX95166",
+          "entity_type": "IND",
+          "employer": "FOLEY + LARDNER LLP",
+          "occupation": "LAWYER"
+        },
+        {
+          "date": "2026-10-14",
+          "amount_cents": 350000,
+          "contributor": "HILLIS, ROBERT J.",
+          "state": "WI",
+          "transaction_id": "JG93975",
+          "entity_type": "IND",
+          "employer": "DIRECT SUPPLY",
+          "occupation": "PRESIDENT & CEO"
+        },
+        {
+          "date": "2026-10-12",
+          "amount_cents": 350000,
+          "contributor": "HOVDE, ERIC",
+          "state": "WI",
+          "transaction_id": "JG93966",
+          "entity_type": "IND",
+          "employer": "HOVDE PROPERTIES LLC",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-09-28",
+          "amount_cents": 103306,
+          "contributor": "INDGJER, LISA J.",
+          "state": "WI",
+          "transaction_id": "JG92186",
+          "entity_type": "IND",
+          "employer": "ABC SUPPLY",
+          "occupation": "VP HR"
+        },
+        {
+          "date": "2026-08-24",
+          "amount_cents": 103686,
+          "contributor": "KANATSIZ, SINAN",
+          "state": "CA",
+          "transaction_id": "JG92325",
+          "entity_type": "IND",
+          "employer": "KCOMM",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 100000,
+          "contributor": "KARLOVICS, SARA",
+          "state": "IL",
+          "transaction_id": "JG95148",
+          "entity_type": "IND",
+          "employer": "SELF",
+          "occupation": "PARTNER"
+        },
+        {
+          "date": "2026-10-14",
+          "amount_cents": 100000,
+          "contributor": "KORNDOERFER, WOLF E.",
+          "state": "WI",
+          "transaction_id": "JG93980",
+          "entity_type": "IND",
+          "employer": "KORNDOERFER HOMES",
+          "occupation": "HOME BUILDER"
+        },
+        {
+          "date": "2026-09-21",
+          "amount_cents": 104102,
+          "contributor": "KRUEGER, BARBARA",
+          "state": "WI",
+          "transaction_id": "JG92193",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-14",
+          "amount_cents": 103306,
+          "contributor": "LINDAU, TIMOTHY",
+          "state": "WI",
+          "transaction_id": "JG94599",
+          "entity_type": "IND",
+          "employer": "NOWLAN LAW",
+          "occupation": "LAWYER"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 250000,
+          "contributor": "MILLIS, DON M.",
+          "state": "WI",
+          "transaction_id": "TX95175",
+          "entity_type": "IND",
+          "employer": "REINHART BOERNER VAN DEUREN S.C.",
+          "occupation": "ATTORNEY"
+        },
+        {
+          "date": "2026-09-20",
+          "amount_cents": 100000,
+          "contributor": "MOEHLE, M SANDRA",
+          "state": "WI",
+          "transaction_id": "JG91348",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-09-20",
+          "amount_cents": 250000,
+          "contributor": "OAKES, CHRISTINE J.",
+          "state": "WI",
+          "transaction_id": "JG91344",
+          "entity_type": "IND",
+          "employer": "SELF",
+          "occupation": "OWNER"
+        },
+        {
+          "date": "2026-09-21",
+          "amount_cents": 100000,
+          "contributor": "QUICK, PATRICK",
+          "state": "WI",
+          "transaction_id": "JG92189",
+          "entity_type": "IND",
+          "employer": "FOLEY & LARDNER",
+          "occupation": "PARTNER"
+        },
+        {
+          "date": "2026-10-11",
+          "amount_cents": 100000,
+          "contributor": "ROE, CHRISTOPHER P.",
+          "state": "WI",
+          "transaction_id": "JG92547",
+          "entity_type": "IND",
+          "employer": "CMFG LIFE INSURANCE CO",
+          "occupation": "ATTORNEY"
+        },
+        {
+          "date": "2026-09-30",
+          "amount_cents": 250000,
+          "contributor": "RUUD, CHRISTOPHER",
+          "state": "WI",
+          "transaction_id": "JG92543",
+          "entity_type": "IND",
+          "employer": "DELTAHAWK ENGINES, INC.",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-11",
+          "amount_cents": 100000,
+          "contributor": "SCHWERTFEGER, FREDERICK F.",
+          "state": "WI",
+          "transaction_id": "JG92551",
+          "entity_type": "IND",
+          "employer": "HORICON BANK",
+          "occupation": "BANKER"
+        },
+        {
+          "date": "2026-09-30",
+          "amount_cents": 250000,
+          "contributor": "SOMMERHAUSER, PETER M.",
+          "state": "WI",
+          "transaction_id": "JG92207",
+          "entity_type": "IND",
+          "employer": "GODFREY & KAHN",
+          "occupation": "ATTORNEY"
+        },
+        {
+          "date": "2026-09-14",
+          "amount_cents": 103306,
+          "contributor": "TEDUITS, ERIC",
+          "state": "WI",
+          "transaction_id": "JG90344",
+          "entity_type": "IND",
+          "employer": "SELF",
+          "occupation": "PEDIATRIC DENTIST"
+        },
+        {
+          "date": "2026-09-28",
+          "amount_cents": 350000,
+          "contributor": "UIHLEIN, DAVID V.",
+          "state": "WI",
+          "transaction_id": "JG92196",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-09-29",
+          "amount_cents": 350000,
+          "contributor": "WANEK, JOYCE",
+          "state": "FL",
+          "transaction_id": "JG92202",
+          "entity_type": "IND",
+          "employer": "HOMEMAKER",
+          "occupation": "HOMEMAKER"
+        },
+        {
+          "date": "2026-09-29",
+          "amount_cents": 350000,
+          "contributor": "WANEK, RONALD",
+          "state": "FL",
+          "transaction_id": "JG92201",
+          "entity_type": "IND",
+          "employer": "ASHLEY FURNITURE INDUSTRIES, INC.",
+          "occupation": "FOUNDER/CHAIRMAN"
+        },
+        {
+          "date": "2026-09-28",
+          "amount_cents": 100000,
+          "contributor": "WEYERS, RUSSELL C.",
+          "state": "WI",
+          "transaction_id": "JG92197",
+          "entity_type": "IND",
+          "employer": "FIRST AMERICAN BANK",
+          "occupation": "PRESIDENT"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "WITTENWYLER, MICHAEL B.",
+          "state": "WI",
+          "transaction_id": "TX95167",
+          "entity_type": "IND",
+          "employer": "GODFREY & KAHN",
+          "occupation": "ATTORNEY"
+        },
+        {
+          "date": "2026-10-11",
+          "amount_cents": 350000,
+          "contributor": "ZEUSKE, CATHY",
+          "state": "WI",
+          "transaction_id": "JG92555",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        }
+      ],
+      "file_number": 2038238,
+      "committee_id": "C00677286",
+      "sha256": "fc4a49856a1c21521b3c891fe229bdabbc2c744c93c0df4f4741b35a7c986fa9",
+      "amendment_chain": [
+        2038238
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2038238,
+      "is_amended": false,
+      "filed_date": "2026-10-22"
     }
   }
 }

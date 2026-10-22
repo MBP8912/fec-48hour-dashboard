@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-22T20:32:46+00:00",
+  "generated_at": "2026-10-22T21:32:58+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -96,15 +96,15 @@
     {
       "date": "2026-10-20",
       "totals": {
-        "lawler": 0,
+        "lawler": 4925000,
         "conley": 2900000
       },
       "cumulative": {
-        "lawler": 17402869,
+        "lawler": 22327869,
         "conley": 14275000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 16,
         "conley": 13
       }
     },
@@ -115,7 +115,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 17402869,
+        "lawler": 22327869,
         "conley": 14275000
       },
       "counts": {
@@ -130,7 +130,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 17402869,
+        "lawler": 22327869,
         "conley": 14275000
       },
       "counts": {
@@ -195,6 +195,13 @@
       "filed_date": "2026-10-21",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00900431/2035433/f65"
+    },
+    {
+      "committee_id": "C00815415",
+      "file_number": 2038563,
+      "filed_date": "2026-10-22",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00815415/2038563/f65"
     }
   ],
   "contributions": [
@@ -2000,6 +2007,198 @@
     },
     {
       "date": "2026-10-20",
+      "amount_cents": 250000,
+      "contributor": "American Seniors Housing Association (Seniors Housing PAC)",
+      "state": "DC",
+      "transaction_id": "F65-3320669",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00815415",
+      "file_number": 2038563
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 175000,
+      "contributor": "Burt, Robert",
+      "state": "SC",
+      "transaction_id": "F65-3320843",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00815415",
+      "file_number": 2038563
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 500000,
+      "contributor": "Carry on PAC",
+      "state": "GA",
+      "transaction_id": "F65-3320676",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00815415",
+      "file_number": 2038563
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 350000,
+      "contributor": "Chen, Brian",
+      "state": "CA",
+      "transaction_id": "F65-3321522",
+      "entity_type": "IND",
+      "employer": "Anthropic",
+      "occupation": "Research Engineer",
+      "committee_id": "C00815415",
+      "file_number": 2038563
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 350000,
+      "contributor": "Crow, Katherine Raymond",
+      "state": "TX",
+      "transaction_id": "F65-3321525",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00815415",
+      "file_number": 2038563
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 350000,
+      "contributor": "Drenis, Jerry",
+      "state": "NY",
+      "transaction_id": "F65-3321521",
+      "entity_type": "IND",
+      "employer": "Energo",
+      "occupation": "CEO",
+      "committee_id": "C00815415",
+      "file_number": 2038563
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 350000,
+      "contributor": "McLean, Terrence",
+      "state": "CA",
+      "transaction_id": "F65-3321524",
+      "entity_type": "IND",
+      "employer": "SageSure",
+      "occupation": "Insurance",
+      "committee_id": "C00815415",
+      "file_number": 2038563
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 250000,
+      "contributor": "Merck & Co., Inc., Employees Political Action Committee (merck Pac)",
+      "state": "DC",
+      "transaction_id": "F65-3320667",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00815415",
+      "file_number": 2038563
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 500000,
+      "contributor": "Oorah! Political Action Committee",
+      "state": "IN",
+      "transaction_id": "F65-3320846",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00815415",
+      "file_number": 2038563
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 100000,
+      "contributor": "Perez, Radame",
+      "state": "NY",
+      "transaction_id": "F65-3321520",
+      "entity_type": "IND",
+      "employer": "Mastermind",
+      "occupation": "Real Estate Development",
+      "committee_id": "C00815415",
+      "file_number": 2038563
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 500000,
+      "contributor": "Regeneron Pharmaceuticals, Inc. PAC",
+      "state": "NY",
+      "transaction_id": "F65-3320670",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00815415",
+      "file_number": 2038563
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 200000,
+      "contributor": "Republican Mainstreet Partnership PAC",
+      "state": "DC",
+      "transaction_id": "F65-3321497",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00815415",
+      "file_number": 2038563
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 500000,
+      "contributor": "Sock it to em PAC",
+      "state": "UT",
+      "transaction_id": "F65-3320850",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00815415",
+      "file_number": 2038563
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 350000,
+      "contributor": "Sohl-Dickstein, Jascha",
+      "state": "CA",
+      "transaction_id": "F65-3321523",
+      "entity_type": "IND",
+      "employer": "Anthropic",
+      "occupation": "Scientist",
+      "committee_id": "C00815415",
+      "file_number": 2038563
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 100000,
+      "contributor": "THE INSTITUTE OF INTERNAL AUDITORS  POLITICAL ACTION COMMITTEE",
+      "state": "FL",
+      "transaction_id": "F65-3320668",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00815415",
+      "file_number": 2038563
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 100000,
+      "contributor": "Taylor, Steve",
+      "state": "NJ",
+      "transaction_id": "F65-3321519",
+      "entity_type": "IND",
+      "employer": "Geodesic Solutions",
+      "occupation": "Consulting",
+      "committee_id": "C00815415",
+      "file_number": 2038563
+    },
+    {
+      "date": "2026-10-20",
       "amount_cents": 100000,
       "contributor": "FORTUNE, BRIAN",
       "state": "NY",
@@ -2155,7 +2354,7 @@
       "file_number": 2035433
     }
   ],
-  "report_count": 8,
+  "report_count": 9,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

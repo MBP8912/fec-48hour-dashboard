@@ -1818,6 +1818,182 @@
       "most_recent_filing": 2035433,
       "is_amended": false,
       "filed_date": "2026-10-21"
+    },
+    "C00815415/2038563": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-20",
+          "amount_cents": 250000,
+          "contributor": "American Seniors Housing Association (Seniors Housing PAC)",
+          "state": "DC",
+          "transaction_id": "F65-3320669",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 175000,
+          "contributor": "Burt, Robert",
+          "state": "SC",
+          "transaction_id": "F65-3320843",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 500000,
+          "contributor": "Carry on PAC",
+          "state": "GA",
+          "transaction_id": "F65-3320676",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 350000,
+          "contributor": "Chen, Brian",
+          "state": "CA",
+          "transaction_id": "F65-3321522",
+          "entity_type": "IND",
+          "employer": "Anthropic",
+          "occupation": "Research Engineer"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 350000,
+          "contributor": "Crow, Katherine Raymond",
+          "state": "TX",
+          "transaction_id": "F65-3321525",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 350000,
+          "contributor": "Drenis, Jerry",
+          "state": "NY",
+          "transaction_id": "F65-3321521",
+          "entity_type": "IND",
+          "employer": "Energo",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 350000,
+          "contributor": "McLean, Terrence",
+          "state": "CA",
+          "transaction_id": "F65-3321524",
+          "entity_type": "IND",
+          "employer": "SageSure",
+          "occupation": "Insurance"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 250000,
+          "contributor": "Merck & Co., Inc., Employees Political Action Committee (merck Pac)",
+          "state": "DC",
+          "transaction_id": "F65-3320667",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 500000,
+          "contributor": "Oorah! Political Action Committee",
+          "state": "IN",
+          "transaction_id": "F65-3320846",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 100000,
+          "contributor": "Perez, Radame",
+          "state": "NY",
+          "transaction_id": "F65-3321520",
+          "entity_type": "IND",
+          "employer": "Mastermind",
+          "occupation": "Real Estate Development"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 500000,
+          "contributor": "Regeneron Pharmaceuticals, Inc. PAC",
+          "state": "NY",
+          "transaction_id": "F65-3320670",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 200000,
+          "contributor": "Republican Mainstreet Partnership PAC",
+          "state": "DC",
+          "transaction_id": "F65-3321497",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 500000,
+          "contributor": "Sock it to em PAC",
+          "state": "UT",
+          "transaction_id": "F65-3320850",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 350000,
+          "contributor": "Sohl-Dickstein, Jascha",
+          "state": "CA",
+          "transaction_id": "F65-3321523",
+          "entity_type": "IND",
+          "employer": "Anthropic",
+          "occupation": "Scientist"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 100000,
+          "contributor": "Taylor, Steve",
+          "state": "NJ",
+          "transaction_id": "F65-3321519",
+          "entity_type": "IND",
+          "employer": "Geodesic Solutions",
+          "occupation": "Consulting"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 100000,
+          "contributor": "THE INSTITUTE OF INTERNAL AUDITORS  POLITICAL ACTION COMMITTEE",
+          "state": "FL",
+          "transaction_id": "F65-3320668",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2038563,
+      "committee_id": "C00815415",
+      "sha256": "78760ab46239e2fdaa0b6645d008e9252442f7437cc6b366f595c3f8d645da5a",
+      "amendment_chain": [
+        2038563
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2038563,
+      "is_amended": false,
+      "filed_date": "2026-10-22"
     }
   }
 }

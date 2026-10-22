@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-22T20:32:46+00:00",
+  "generated_at": "2026-10-22T21:32:58+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -96,30 +96,30 @@
     {
       "date": "2026-10-20",
       "totals": {
-        "lawler": 1975000,
+        "lawler": 2075000,
         "conley": 3050000
       },
       "cumulative": {
-        "lawler": 6939356,
+        "lawler": 7039356,
         "conley": 12195000
       },
       "counts": {
-        "lawler": 8,
+        "lawler": 9,
         "conley": 13
       }
     },
     {
       "date": "2026-10-21",
       "totals": {
-        "lawler": 0,
+        "lawler": 3200000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 6939356,
+        "lawler": 10239356,
         "conley": 12195000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 13,
         "conley": 0
       }
     },
@@ -130,7 +130,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 6939356,
+        "lawler": 10239356,
         "conley": 12195000
       },
       "counts": {
@@ -195,6 +195,13 @@
       "filed_date": "2026-10-22",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00915637/2037491/f65"
+    },
+    {
+      "committee_id": "C00677286",
+      "file_number": 2038238,
+      "filed_date": "2026-10-22",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00677286/2038238/f65"
     }
   ],
   "contributions": [
@@ -1028,6 +1035,18 @@
     },
     {
       "date": "2026-10-20",
+      "amount_cents": 100000,
+      "contributor": "KARLOVICS, SARA",
+      "state": "IL",
+      "transaction_id": "JG95148",
+      "entity_type": "IND",
+      "employer": "SELF",
+      "occupation": "PARTNER",
+      "committee_id": "C00677286",
+      "file_number": 2038238
+    },
+    {
+      "date": "2026-10-20",
       "amount_cents": 275000,
       "contributor": "PFRANG, STEVEN",
       "state": "VA",
@@ -1217,9 +1236,165 @@
       "occupation": "Not Employed",
       "committee_id": "C00915637",
       "file_number": 2037491
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 250000,
+      "contributor": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+      "state": "DC",
+      "transaction_id": "TX95157",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00677286",
+      "file_number": 2038238
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 250000,
+      "contributor": "BE VICTORIOUS OVER DEMOCRATS PAC",
+      "state": "TX",
+      "transaction_id": "TX95138",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00677286",
+      "file_number": 2038238
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "CARAPIET, JOSEPH",
+      "state": "DC",
+      "transaction_id": "TX95168",
+      "entity_type": "IND",
+      "employer": "BLACKSTONE",
+      "occupation": "MANAGING DIRECTOR",
+      "committee_id": "C00677286",
+      "file_number": 2038238
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 350000,
+      "contributor": "DONOVAN, LIAM",
+      "state": "NY",
+      "transaction_id": "TX95170",
+      "entity_type": "IND",
+      "employer": "SELF EMPLOYED",
+      "occupation": "TRADER",
+      "committee_id": "C00677286",
+      "file_number": 2038238
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 350000,
+      "contributor": "DUNHAM, WILL",
+      "state": "VA",
+      "transaction_id": "TX95164",
+      "entity_type": "IND",
+      "employer": "AIC",
+      "occupation": "GOVERNMENT AFFAIRS",
+      "committee_id": "C00677286",
+      "file_number": 2038238
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 500000,
+      "contributor": "FIRST AMERICAN FINANCIAL CORPORATION PAC",
+      "state": "CA",
+      "transaction_id": "TX95160",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00677286",
+      "file_number": 2038238
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 200000,
+      "contributor": "HELD, JEFFERY P.",
+      "state": "WI",
+      "transaction_id": "TX95165",
+      "entity_type": "IND",
+      "employer": "NEW BERLIN PLASTICS",
+      "occupation": "CEO",
+      "committee_id": "C00677286",
+      "file_number": 2038238
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "HESS, DANIEL M.",
+      "state": "WI",
+      "transaction_id": "TX95166",
+      "entity_type": "IND",
+      "employer": "FOLEY + LARDNER LLP",
+      "occupation": "LAWYER",
+      "committee_id": "C00677286",
+      "file_number": 2038238
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 250000,
+      "contributor": "INTERNATIONAL DAIRY FOODS ASSOCIATION (IDFA) PAC",
+      "state": "DC",
+      "transaction_id": "TX95158",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00677286",
+      "file_number": 2038238
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 250000,
+      "contributor": "MILLIS, DON M.",
+      "state": "WI",
+      "transaction_id": "TX95175",
+      "entity_type": "IND",
+      "employer": "REINHART BOERNER VAN DEUREN S.C.",
+      "occupation": "ATTORNEY",
+      "committee_id": "C00677286",
+      "file_number": 2038238
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 250000,
+      "contributor": "NATIONAL CONFECTIONERS ASSOCIATION OF THE UNITED STATES, INC. POLITICAL ACTION C",
+      "state": "DC",
+      "transaction_id": "TX95159",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00677286",
+      "file_number": 2038238
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 250000,
+      "contributor": "RAZOR PAC",
+      "state": "AR",
+      "transaction_id": "TX95171",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00677286",
+      "file_number": 2038238
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "WITTENWYLER, MICHAEL B.",
+      "state": "WI",
+      "transaction_id": "TX95167",
+      "entity_type": "IND",
+      "employer": "GODFREY & KAHN",
+      "occupation": "ATTORNEY",
+      "committee_id": "C00677286",
+      "file_number": 2038238
     }
   ],
-  "report_count": 8,
+  "report_count": 9,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
