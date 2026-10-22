@@ -582,6 +582,142 @@
       "most_recent_filing": 2033367,
       "is_amended": false,
       "filed_date": "2026-10-20"
+    },
+    "C00787820/2035309": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-19",
+          "amount_cents": 350000,
+          "contributor": "Andrews, Chad",
+          "state": "IA",
+          "transaction_id": "20851125",
+          "entity_type": "IND",
+          "employer": "Andrews Financial Group Inc",
+          "occupation": "Business Owner"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 150000,
+          "contributor": "Cape, William E.",
+          "state": "IL",
+          "transaction_id": "20856421",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Darrow, Brian D",
+          "state": "IA",
+          "transaction_id": "20851127",
+          "entity_type": "IND",
+          "employer": "Anamosa Veterinary Clinic",
+          "occupation": "Veterinarian"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 200000,
+          "contributor": "Davis Democratic Club",
+          "state": "CA",
+          "transaction_id": "20856426",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Edlow, Jack",
+          "state": "FL",
+          "transaction_id": "20851128",
+          "entity_type": "IND",
+          "employer": "Edlow International Company",
+          "occupation": "Consultant"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 200000,
+          "contributor": "Friends Of Tom Byrne",
+          "state": "NJ",
+          "transaction_id": "20856427",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 200000,
+          "contributor": "HIMES FOR CONGRESS",
+          "state": "CT",
+          "transaction_id": "20823950",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "JASMINE CLARK FOR GEORGIA",
+          "state": "GA",
+          "transaction_id": "20823963",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "MANATT, KATHLEEN",
+          "state": "MD",
+          "transaction_id": "20851129",
+          "entity_type": "IND",
+          "employer": "NA",
+          "occupation": "Retired."
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 100000,
+          "contributor": "Moog, Thomas",
+          "state": "IL",
+          "transaction_id": "20851126",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 350000,
+          "contributor": "Paglieri, Wayne",
+          "state": "NJ",
+          "transaction_id": "20851124",
+          "entity_type": "IND",
+          "employer": "Covenant House New Jersey",
+          "occupation": "Non-Profit"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 350000,
+          "contributor": "Shepard, Rachelle E",
+          "state": "IA",
+          "transaction_id": "20856420",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        }
+      ],
+      "file_number": 2035309,
+      "committee_id": "C00787820",
+      "sha256": "539720d2e2eb4b867894dac79adb99704f983f21baf0304bc3f8484975bb5c3d",
+      "amendment_chain": [
+        2035309
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2035309,
+      "is_amended": false,
+      "filed_date": "2026-10-21"
     }
   }
 }

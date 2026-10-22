@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-21T23:31:13+00:00",
+  "generated_at": "2026-10-22T00:43:22+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -81,15 +81,15 @@
     {
       "date": "2026-10-19",
       "totals": {
-        "lawler": 0,
+        "lawler": 800000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 1000000,
+        "lawler": 1800000,
         "conley": 1200000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 3,
         "conley": 0
       }
     },
@@ -100,7 +100,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 1000000,
+        "lawler": 1800000,
         "conley": 1200000
       },
       "counts": {
@@ -115,7 +115,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 1000000,
+        "lawler": 1800000,
         "conley": 1200000
       },
       "counts": {
@@ -138,6 +138,13 @@
       "filed_date": "2026-10-20",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00904284/2031974/f65"
+    },
+    {
+      "committee_id": "C00728238",
+      "file_number": 2035240,
+      "filed_date": "2026-10-21",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00728238/2035240/f65"
     }
   ],
   "contributions": [
@@ -248,9 +255,45 @@
       "occupation": "Product Marketer",
       "committee_id": "C00904284",
       "file_number": 2031974
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 500000,
+      "contributor": "AMERICAN REVIVAL PAC",
+      "state": "LA",
+      "transaction_id": "683CC58249D824D9B838",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00728238",
+      "file_number": 2035240
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 200000,
+      "contributor": "MIKE JOHNSON FOR LOUISIANA",
+      "state": "VA",
+      "transaction_id": "6578AD27C50394E7786E",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00728238",
+      "file_number": 2035240
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "SAVOIE, DAVID",
+      "state": "LA",
+      "transaction_id": "60FD60B0244624A1C8AF",
+      "entity_type": "IND",
+      "employer": "LCCU",
+      "occupation": "CPA",
+      "committee_id": "C00728238",
+      "file_number": 2035240
     }
   ],
-  "report_count": 2,
+  "report_count": 3,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-21T23:31:13+00:00",
+  "generated_at": "2026-10-22T00:43:22+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -82,15 +82,15 @@
       "date": "2026-10-19",
       "totals": {
         "lawler": 3140000,
-        "conley": 0
+        "conley": 2300000
       },
       "cumulative": {
         "lawler": 4840000,
-        "conley": 4450000
+        "conley": 6750000
       },
       "counts": {
         "lawler": 13,
-        "conley": 0
+        "conley": 12
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "cumulative": {
         "lawler": 4840000,
-        "conley": 4450000
+        "conley": 6750000
       },
       "counts": {
         "lawler": 0,
@@ -116,7 +116,7 @@
       },
       "cumulative": {
         "lawler": 4840000,
-        "conley": 4450000
+        "conley": 6750000
       },
       "counts": {
         "lawler": 0,
@@ -173,6 +173,13 @@
       "filed_date": "2026-10-20",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00787820/2033367/f65"
+    },
+    {
+      "committee_id": "C00787820",
+      "file_number": 2035309,
+      "filed_date": "2026-10-21",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00787820/2035309/f65"
     }
   ],
   "contributions": [
@@ -739,9 +746,153 @@
       "occupation": "INFORMATION REQUESTED",
       "committee_id": "C00558825",
       "file_number": 2033298
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 350000,
+      "contributor": "Andrews, Chad",
+      "state": "IA",
+      "transaction_id": "20851125",
+      "entity_type": "IND",
+      "employer": "Andrews Financial Group Inc",
+      "occupation": "Business Owner",
+      "committee_id": "C00787820",
+      "file_number": 2035309
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 150000,
+      "contributor": "Cape, William E.",
+      "state": "IL",
+      "transaction_id": "20856421",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00787820",
+      "file_number": 2035309
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "Darrow, Brian D",
+      "state": "IA",
+      "transaction_id": "20851127",
+      "entity_type": "IND",
+      "employer": "Anamosa Veterinary Clinic",
+      "occupation": "Veterinarian",
+      "committee_id": "C00787820",
+      "file_number": 2035309
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 200000,
+      "contributor": "Davis Democratic Club",
+      "state": "CA",
+      "transaction_id": "20856426",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2035309
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "Edlow, Jack",
+      "state": "FL",
+      "transaction_id": "20851128",
+      "entity_type": "IND",
+      "employer": "Edlow International Company",
+      "occupation": "Consultant",
+      "committee_id": "C00787820",
+      "file_number": 2035309
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 200000,
+      "contributor": "Friends Of Tom Byrne",
+      "state": "NJ",
+      "transaction_id": "20856427",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2035309
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 200000,
+      "contributor": "HIMES FOR CONGRESS",
+      "state": "CT",
+      "transaction_id": "20823950",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2035309
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "JASMINE CLARK FOR GEORGIA",
+      "state": "GA",
+      "transaction_id": "20823963",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2035309
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "MANATT, KATHLEEN",
+      "state": "MD",
+      "transaction_id": "20851129",
+      "entity_type": "IND",
+      "employer": "NA",
+      "occupation": "Retired.",
+      "committee_id": "C00787820",
+      "file_number": 2035309
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "Moog, Thomas",
+      "state": "IL",
+      "transaction_id": "20851126",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00787820",
+      "file_number": 2035309
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 350000,
+      "contributor": "Paglieri, Wayne",
+      "state": "NJ",
+      "transaction_id": "20851124",
+      "entity_type": "IND",
+      "employer": "Covenant House New Jersey",
+      "occupation": "Non-Profit",
+      "committee_id": "C00787820",
+      "file_number": 2035309
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 350000,
+      "contributor": "Shepard, Rachelle E",
+      "state": "IA",
+      "transaction_id": "20856420",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00787820",
+      "file_number": 2035309
     }
   ],
-  "report_count": 7,
+  "report_count": 8,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

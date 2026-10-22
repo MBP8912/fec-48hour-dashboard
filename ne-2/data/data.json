@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-21T23:31:13+00:00",
+  "generated_at": "2026-10-22T00:43:22+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -81,31 +81,31 @@
     {
       "date": "2026-10-19",
       "totals": {
-        "lawler": 0,
-        "conley": 0
+        "lawler": 2859985,
+        "conley": 1058334
       },
       "cumulative": {
-        "lawler": 250000,
-        "conley": 3623333
+        "lawler": 3109985,
+        "conley": 4681667
       },
       "counts": {
-        "lawler": 0,
-        "conley": 0
+        "lawler": 4,
+        "conley": 7
       }
     },
     {
       "date": "2026-10-20",
       "totals": {
-        "lawler": 0,
-        "conley": 0
+        "lawler": 950000,
+        "conley": 1150000
       },
       "cumulative": {
-        "lawler": 250000,
-        "conley": 3623333
+        "lawler": 4059985,
+        "conley": 5831667
       },
       "counts": {
-        "lawler": 0,
-        "conley": 0
+        "lawler": 3,
+        "conley": 5
       }
     },
     {
@@ -115,8 +115,8 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 250000,
-        "conley": 3623333
+        "lawler": 4059985,
+        "conley": 5831667
       },
       "counts": {
         "lawler": 0,
@@ -145,6 +145,20 @@
       "filed_date": "2026-10-19",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00909515/2031155/f65"
+    },
+    {
+      "committee_id": "C00903948",
+      "file_number": 2035246,
+      "filed_date": "2026-10-21",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00903948/2035246/f65"
+    },
+    {
+      "committee_id": "C00909515",
+      "file_number": 2035273,
+      "filed_date": "2026-10-21",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00909515/2035273/f65"
     }
   ],
   "contributions": [
@@ -423,9 +437,237 @@
       "occupation": "RETIRED",
       "committee_id": "C00909515",
       "file_number": 2031155
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "Clarke, Barbara",
+      "state": "MA",
+      "transaction_id": "14728464",
+      "entity_type": "IND",
+      "employer": "Egeria Enterprises",
+      "occupation": "Founder",
+      "committee_id": "C00903948",
+      "file_number": 2035246
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "Gottshcalk, Wanda",
+      "state": "NE",
+      "transaction_id": "14600428",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00903948",
+      "file_number": 2035246
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 200000,
+      "contributor": "JULIA BROWNLEY FOR CONGRESS",
+      "state": "DC",
+      "transaction_id": "14600751",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2035246
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 100000,
+      "contributor": "MAKING A DIFFERENCE PAC",
+      "state": "DC",
+      "transaction_id": "14600779",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2035246
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 104167,
+      "contributor": "Newmann, Emily",
+      "state": "MA",
+      "transaction_id": "14716114",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Social Worker",
+      "committee_id": "C00903948",
+      "file_number": 2035246
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 104167,
+      "contributor": "Newmann, Emily",
+      "state": "MA",
+      "transaction_id": "14716130",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Social Worker",
+      "committee_id": "C00903948",
+      "file_number": 2035246
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 350000,
+      "contributor": "Wachsman, Lauren",
+      "state": "NY",
+      "transaction_id": "14728463",
+      "entity_type": "IND",
+      "employer": "Russell Reynolds Associates",
+      "occupation": "Consultant",
+      "committee_id": "C00903948",
+      "file_number": 2035246
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 1659985,
+      "contributor": "BRINKER VICTORY FUND",
+      "state": "VA",
+      "transaction_id": "60A56B73488594633984",
+      "entity_type": "COM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2035273
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 350000,
+      "contributor": "OVER THE TARGET PAC",
+      "state": "VA",
+      "transaction_id": "6EB34A7E16A094A538BE",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2035273
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 500000,
+      "contributor": "REPUBLICAN JEWISH COALITION PAC (RJC-PAC)",
+      "state": "DC",
+      "transaction_id": "6E460920160134F5CB6E",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2035273
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 350000,
+      "contributor": "ZORROPAC",
+      "state": "VA",
+      "transaction_id": "67C93B7D49C88429395D",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2035273
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 350000,
+      "contributor": "BUILDING RELATIONSHIPS IN DIVERSE GEOGRAPHIC ENVIRONMENTS PAC (BRIDGE PAC)",
+      "state": "DC",
+      "transaction_id": "14670219",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2035246
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 500000,
+      "contributor": "CFFE PAC",
+      "state": "DC",
+      "transaction_id": "14670352",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2035246
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 100000,
+      "contributor": "DO THE WORK PAC",
+      "state": "MA",
+      "transaction_id": "14670313",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2035246
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 100000,
+      "contributor": "END CITIZENS UNITED",
+      "state": "DC",
+      "transaction_id": "14670292",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2035246
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 100000,
+      "contributor": "SCIENCE TRUTH AND EXPERTISE MATTER PAC",
+      "state": "IL",
+      "transaction_id": "14670372",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2035246
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 200000,
+      "contributor": "JOHNSTONE, GORDY",
+      "state": "IA",
+      "transaction_id": "6584DCFCF91364CB2933",
+      "entity_type": "IND",
+      "employer": "MIDWESTERN EQUIPMENT",
+      "occupation": "M/D",
+      "committee_id": "C00909515",
+      "file_number": 2035273
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 250000,
+      "contributor": "TIMBERLINE PAC",
+      "state": "WA",
+      "transaction_id": "682E4524C1E7B4A2A8B3",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2035273
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 500000,
+      "contributor": "VICTORY AND FREEDOM PAC (VAF PAC)",
+      "state": "DC",
+      "transaction_id": "68E15FB9884474E8996A",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2035273
     }
   ],
-  "report_count": 3,
+  "report_count": 5,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
