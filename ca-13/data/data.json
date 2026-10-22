@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-22T17:32:30+00:00",
+  "generated_at": "2026-10-22T18:43:58+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -96,15 +96,15 @@
     {
       "date": "2026-10-20",
       "totals": {
-        "lawler": 0,
+        "lawler": 200000,
         "conley": 770000
       },
       "cumulative": {
-        "lawler": 2150000,
+        "lawler": 2350000,
         "conley": 4865000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 1,
         "conley": 3
       }
     },
@@ -115,7 +115,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 2150000,
+        "lawler": 2350000,
         "conley": 4865000
       },
       "counts": {
@@ -126,15 +126,15 @@
     {
       "date": "2026-10-22",
       "totals": {
-        "lawler": 0,
+        "lawler": 350000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 2150000,
+        "lawler": 2700000,
         "conley": 4865000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 1,
         "conley": 0
       }
     }
@@ -188,6 +188,13 @@
       "filed_date": "2026-10-22",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00801431/2035934/f65"
+    },
+    {
+      "committee_id": "C00845826",
+      "file_number": 2037080,
+      "filed_date": "2026-10-22",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00845826/2037080/f65"
     }
   ],
   "contributions": [
@@ -622,9 +629,33 @@
       "occupation": "AI Researcher",
       "committee_id": "C00801431",
       "file_number": 2035934
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 200000,
+      "contributor": "Fullmer, James",
+      "state": "CA",
+      "transaction_id": "F65-1389575",
+      "entity_type": "IND",
+      "employer": "Fullmer Construction",
+      "occupation": "Real Estate",
+      "committee_id": "C00845826",
+      "file_number": 2037080
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 350000,
+      "contributor": "Leach, Howard",
+      "state": "FL",
+      "transaction_id": "F65-1390013",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00845826",
+      "file_number": 2037080
     }
   ],
-  "report_count": 7,
+  "report_count": 8,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

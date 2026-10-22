@@ -522,6 +522,42 @@
       "most_recent_filing": 2035934,
       "is_amended": false,
       "filed_date": "2026-10-22"
+    },
+    "C00845826/2037080": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-20",
+          "amount_cents": 200000,
+          "contributor": "Fullmer, James",
+          "state": "CA",
+          "transaction_id": "F65-1389575",
+          "entity_type": "IND",
+          "employer": "Fullmer Construction",
+          "occupation": "Real Estate"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 350000,
+          "contributor": "Leach, Howard",
+          "state": "FL",
+          "transaction_id": "F65-1390013",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        }
+      ],
+      "file_number": 2037080,
+      "committee_id": "C00845826",
+      "sha256": "f251c43f269b3d12bb38cf401e22b4754a6091a23e65742fcae02f8e5ebbef41",
+      "amendment_chain": [
+        2037080
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2037080,
+      "is_amended": false,
+      "filed_date": "2026-10-22"
     }
   }
 }
