@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-22T12:42:20+00:00",
+  "generated_at": "2026-10-22T13:46:19+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -37,15 +37,15 @@
       "date": "2026-10-16",
       "totals": {
         "lawler": 300000,
-        "conley": 975000
+        "conley": 1675000
       },
       "cumulative": {
         "lawler": 1550000,
-        "conley": 1525000
+        "conley": 2225000
       },
       "counts": {
         "lawler": 3,
-        "conley": 5
+        "conley": 7
       }
     },
     {
@@ -56,7 +56,7 @@
       },
       "cumulative": {
         "lawler": 1850000,
-        "conley": 1525000
+        "conley": 2225000
       },
       "counts": {
         "lawler": 3,
@@ -71,7 +71,7 @@
       },
       "cumulative": {
         "lawler": 1850000,
-        "conley": 1525000
+        "conley": 2225000
       },
       "counts": {
         "lawler": 0,
@@ -86,7 +86,7 @@
       },
       "cumulative": {
         "lawler": 2150000,
-        "conley": 3395000
+        "conley": 4095000
       },
       "counts": {
         "lawler": 3,
@@ -97,15 +97,15 @@
       "date": "2026-10-20",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 770000
       },
       "cumulative": {
         "lawler": 2150000,
-        "conley": 3395000
+        "conley": 4865000
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 3
       }
     },
     {
@@ -116,7 +116,7 @@
       },
       "cumulative": {
         "lawler": 2150000,
-        "conley": 3395000
+        "conley": 4865000
       },
       "counts": {
         "lawler": 0,
@@ -131,7 +131,7 @@
       },
       "cumulative": {
         "lawler": 2150000,
-        "conley": 3395000
+        "conley": 4865000
       },
       "counts": {
         "lawler": 0,
@@ -181,6 +181,13 @@
       "filed_date": "2026-10-21",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00801431/2034894/f65"
+    },
+    {
+      "committee_id": "C00801431",
+      "file_number": 2035934,
+      "filed_date": "2026-10-22",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00801431/2035934/f65"
     }
   ],
   "contributions": [
@@ -327,6 +334,30 @@
       "occupation": "Retired",
       "committee_id": "C00801431",
       "file_number": 2029814
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 350000,
+      "contributor": "Tsukamoto-Weissman, Anne",
+      "state": "CA",
+      "transaction_id": "11456414",
+      "entity_type": "IND",
+      "employer": "Stanford University",
+      "occupation": "Scientist",
+      "committee_id": "C00801431",
+      "file_number": 2035934
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 350000,
+      "contributor": "Weissman, Irving",
+      "state": "CA",
+      "transaction_id": "11456415",
+      "entity_type": "IND",
+      "employer": "Stanford University",
+      "occupation": "Scientist",
+      "committee_id": "C00801431",
+      "file_number": 2035934
     },
     {
       "date": "2026-10-16",
@@ -555,9 +586,45 @@
       "occupation": "Retired",
       "committee_id": "C00845826",
       "file_number": 2031510
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 300000,
+      "contributor": "BHFS-E, PC PAC (Brownstein Hyatt Farber Schreck Political Action Committee)",
+      "state": "CO",
+      "transaction_id": "11457506",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2035934
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 120000,
+      "contributor": "Jaffe, Doug",
+      "state": "CA",
+      "transaction_id": "11457405",
+      "entity_type": "IND",
+      "employer": "Doug Jaffe Law",
+      "occupation": "Attorney",
+      "committee_id": "C00801431",
+      "file_number": 2035934
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 350000,
+      "contributor": "Saunders, William",
+      "state": "CA",
+      "transaction_id": "11445961",
+      "entity_type": "IND",
+      "employer": "Anthropic",
+      "occupation": "AI Researcher",
+      "committee_id": "C00801431",
+      "file_number": 2035934
     }
   ],
-  "report_count": 6,
+  "report_count": 7,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

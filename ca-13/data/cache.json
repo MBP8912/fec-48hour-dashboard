@@ -456,6 +456,72 @@
       "most_recent_filing": 2031510,
       "is_amended": false,
       "filed_date": "2026-10-20"
+    },
+    "C00801431/2035934": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-20",
+          "amount_cents": 350000,
+          "contributor": "Saunders, William",
+          "state": "CA",
+          "transaction_id": "11445961",
+          "entity_type": "IND",
+          "employer": "Anthropic",
+          "occupation": "AI Researcher"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 350000,
+          "contributor": "Tsukamoto-Weissman, Anne",
+          "state": "CA",
+          "transaction_id": "11456414",
+          "entity_type": "IND",
+          "employer": "Stanford University",
+          "occupation": "Scientist"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 120000,
+          "contributor": "Jaffe, Doug",
+          "state": "CA",
+          "transaction_id": "11457405",
+          "entity_type": "IND",
+          "employer": "Doug Jaffe Law",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 350000,
+          "contributor": "Weissman, Irving",
+          "state": "CA",
+          "transaction_id": "11456415",
+          "entity_type": "IND",
+          "employer": "Stanford University",
+          "occupation": "Scientist"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 300000,
+          "contributor": "BHFS-E, PC PAC (Brownstein Hyatt Farber Schreck Political Action Committee)",
+          "state": "CO",
+          "transaction_id": "11457506",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2035934,
+      "committee_id": "C00801431",
+      "sha256": "364a7bb8d1e54cf14936dd8c3a8ffb028ef4a737dda7867c0b592a191e1d4886",
+      "amendment_chain": [
+        2035934
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2035934,
+      "is_amended": false,
+      "filed_date": "2026-10-22"
     }
   }
 }

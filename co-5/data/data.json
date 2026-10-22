@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-22T12:42:20+00:00",
+  "generated_at": "2026-10-22T13:46:19+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -96,15 +96,15 @@
     {
       "date": "2026-10-20",
       "totals": {
-        "lawler": 0,
+        "lawler": 100000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 850000,
+        "lawler": 950000,
         "conley": 6250000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 1,
         "conley": 0
       }
     },
@@ -115,7 +115,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 850000,
+        "lawler": 950000,
         "conley": 6250000
       },
       "counts": {
@@ -130,7 +130,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 850000,
+        "lawler": 950000,
         "conley": 6250000
       },
       "counts": {
@@ -195,6 +195,13 @@
       "filed_date": "2026-10-21",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00911941/2034710/f65"
+    },
+    {
+      "committee_id": "C00865592",
+      "file_number": 2035855,
+      "filed_date": "2026-10-22",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00865592/2035855/f65"
     }
   ],
   "contributions": [
@@ -641,9 +648,21 @@
       "occupation": "Not Employed",
       "committee_id": "C00911941",
       "file_number": 2034710
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 100000,
+      "contributor": "HARVEY, TIMOTHY",
+      "state": "NY",
+      "transaction_id": "261020001",
+      "entity_type": "IND",
+      "employer": "VTS",
+      "occupation": "CHAIRMAN",
+      "committee_id": "C00865592",
+      "file_number": 2035855
     }
   ],
-  "report_count": 8,
+  "report_count": 9,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

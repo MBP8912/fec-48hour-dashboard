@@ -498,6 +498,32 @@
       "most_recent_filing": 2034710,
       "is_amended": false,
       "filed_date": "2026-10-21"
+    },
+    "C00865592/2035855": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-20",
+          "amount_cents": 100000,
+          "contributor": "HARVEY, TIMOTHY",
+          "state": "NY",
+          "transaction_id": "261020001",
+          "entity_type": "IND",
+          "employer": "VTS",
+          "occupation": "CHAIRMAN"
+        }
+      ],
+      "file_number": 2035855,
+      "committee_id": "C00865592",
+      "sha256": "d602d4adbe14fca3f2ba60d23db0219e7df027b50ff75a50a644db84af486677",
+      "amendment_chain": [
+        2035855
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2035855,
+      "is_amended": false,
+      "filed_date": "2026-10-22"
     }
   }
 }
