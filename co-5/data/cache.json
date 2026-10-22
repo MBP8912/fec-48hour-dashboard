@@ -524,6 +524,142 @@
       "most_recent_filing": 2035855,
       "is_amended": false,
       "filed_date": "2026-10-22"
+    },
+    "C00911941/2036608": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-20",
+          "amount_cents": 100000,
+          "contributor": "CHRISSY HOULAHAN FOR CONGRESS",
+          "state": "MD",
+          "transaction_id": "14564674",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 350000,
+          "contributor": "Delong, Christopher",
+          "state": "NY",
+          "transaction_id": "14571357",
+          "entity_type": "IND",
+          "employer": "Birnam Oak Advisors",
+          "occupation": "Investments"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 350000,
+          "contributor": "Delong, Michelle",
+          "state": "NY",
+          "transaction_id": "14571356",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 200000,
+          "contributor": "JULIA BROWNLEY FOR CONGRESS",
+          "state": "DC",
+          "transaction_id": "14565257",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 100000,
+          "contributor": "Mcquaid, Nicholas",
+          "state": "DC",
+          "transaction_id": "14672853",
+          "entity_type": "IND",
+          "employer": "Latham & Watkins",
+          "occupation": "Lawyer"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 300000,
+          "contributor": "MISSION TO DELIVER PAC",
+          "state": "NJ",
+          "transaction_id": "14670012",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 250000,
+          "contributor": "Morris, Amy",
+          "state": "CA",
+          "transaction_id": "14571359",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Consultant"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 200000,
+          "contributor": "Nazareth, Annette",
+          "state": "DC",
+          "transaction_id": "14673002",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 100000,
+          "contributor": "REBUILD AMERICA PAC",
+          "state": "DC",
+          "transaction_id": "14576123",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 100000,
+          "contributor": "Regal, Kenneth",
+          "state": "PA",
+          "transaction_id": "14673053",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 100000,
+          "contributor": "Sherwood, Kimberley",
+          "state": "CO",
+          "transaction_id": "14673054",
+          "entity_type": "IND",
+          "employer": "Third Sector Group",
+          "occupation": "Consultant"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 100000,
+          "contributor": "Young, Lynn",
+          "state": "CO",
+          "transaction_id": "14673062",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Life Coach"
+        }
+      ],
+      "file_number": 2036608,
+      "committee_id": "C00911941",
+      "sha256": "cc46afa9be080d48bbea42509b2b09d4505f8087f289bad7b37357c6f0ec4b87",
+      "amendment_chain": [
+        2036608
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2036608,
+      "is_amended": false,
+      "filed_date": "2026-10-22"
     }
   }
 }
