@@ -198,6 +198,72 @@
       "most_recent_filing": 2034842,
       "is_amended": false,
       "filed_date": "2026-10-21"
+    },
+    "C00793760/2037002": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-20",
+          "amount_cents": 100000,
+          "contributor": "Barley, Mary",
+          "state": "FL",
+          "transaction_id": "11439044",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 250000,
+          "contributor": "Fox, Susan",
+          "state": "MD",
+          "transaction_id": "11439064",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 150000,
+          "contributor": "SEIU COPE (Service Employees International Union Committee on Political Education)",
+          "state": "DC",
+          "transaction_id": "11448564",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 350000,
+          "contributor": "Saunders, William",
+          "state": "CA",
+          "transaction_id": "11438856",
+          "entity_type": "IND",
+          "employer": "Anthropic",
+          "occupation": "AI Researcher"
+        },
+        {
+          "date": "2026-10-20",
+          "amount_cents": 350000,
+          "contributor": "SEIU COPE (Service Employees International Union Committee on Political Education)",
+          "state": "DC",
+          "transaction_id": "11448566",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2037002,
+      "committee_id": "C00793760",
+      "sha256": "521ced258199e4aeee887591841707dedc5f7fdfec02c7052fdc1acc51ddd2ee",
+      "amendment_chain": [
+        2037002
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2037002,
+      "is_amended": false,
+      "filed_date": "2026-10-22"
     }
   }
 }

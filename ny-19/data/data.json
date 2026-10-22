@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-22T16:37:03+00:00",
+  "generated_at": "2026-10-22T17:32:30+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -97,15 +97,15 @@
       "date": "2026-10-20",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 1200000
       },
       "cumulative": {
         "lawler": 0,
-        "conley": 3050000
+        "conley": 4250000
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 5
       }
     },
     {
@@ -116,7 +116,7 @@
       },
       "cumulative": {
         "lawler": 0,
-        "conley": 3050000
+        "conley": 4250000
       },
       "counts": {
         "lawler": 0,
@@ -131,7 +131,7 @@
       },
       "cumulative": {
         "lawler": 0,
-        "conley": 3050000
+        "conley": 4250000
       },
       "counts": {
         "lawler": 0,
@@ -160,6 +160,13 @@
       "filed_date": "2026-10-21",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00793760/2034842/f65"
+    },
+    {
+      "committee_id": "C00793760",
+      "file_number": 2037002,
+      "filed_date": "2026-10-22",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00793760/2037002/f65"
     }
   ],
   "contributions": [
@@ -342,9 +349,69 @@
       "occupation": "",
       "committee_id": "C00793760",
       "file_number": 2034842
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 100000,
+      "contributor": "Barley, Mary",
+      "state": "FL",
+      "transaction_id": "11439044",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00793760",
+      "file_number": 2037002
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 250000,
+      "contributor": "Fox, Susan",
+      "state": "MD",
+      "transaction_id": "11439064",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00793760",
+      "file_number": 2037002
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 150000,
+      "contributor": "SEIU COPE (Service Employees International Union Committee on Political Education)",
+      "state": "DC",
+      "transaction_id": "11448564",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00793760",
+      "file_number": 2037002
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 350000,
+      "contributor": "SEIU COPE (Service Employees International Union Committee on Political Education)",
+      "state": "DC",
+      "transaction_id": "11448566",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00793760",
+      "file_number": 2037002
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 350000,
+      "contributor": "Saunders, William",
+      "state": "CA",
+      "transaction_id": "11438856",
+      "entity_type": "IND",
+      "employer": "Anthropic",
+      "occupation": "AI Researcher",
+      "committee_id": "C00793760",
+      "file_number": 2037002
     }
   ],
-  "report_count": 3,
+  "report_count": 4,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
