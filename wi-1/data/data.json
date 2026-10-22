@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-22T18:43:57+00:00",
+  "generated_at": "2026-10-22T19:35:17+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -97,15 +97,15 @@
       "date": "2026-10-20",
       "totals": {
         "lawler": 1975000,
-        "conley": 0
+        "conley": 3050000
       },
       "cumulative": {
         "lawler": 6939356,
-        "conley": 9145000
+        "conley": 12195000
       },
       "counts": {
         "lawler": 8,
-        "conley": 0
+        "conley": 13
       }
     },
     {
@@ -116,7 +116,7 @@
       },
       "cumulative": {
         "lawler": 6939356,
-        "conley": 9145000
+        "conley": 12195000
       },
       "counts": {
         "lawler": 0,
@@ -131,7 +131,7 @@
       },
       "cumulative": {
         "lawler": 6939356,
-        "conley": 9145000
+        "conley": 12195000
       },
       "counts": {
         "lawler": 0,
@@ -188,6 +188,13 @@
       "filed_date": "2026-10-21",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00915637/2034637/f65"
+    },
+    {
+      "committee_id": "C00915637",
+      "file_number": 2037491,
+      "filed_date": "2026-10-22",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00915637/2037491/f65"
     }
   ],
   "contributions": [
@@ -1054,9 +1061,165 @@
       "occupation": "HOMEMAKER",
       "committee_id": "C00677286",
       "file_number": 2034242
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 200000,
+      "contributor": "Buck, Sarah J.",
+      "state": "OH",
+      "transaction_id": "14718484",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Advanced Practitioner",
+      "committee_id": "C00915637",
+      "file_number": 2037491
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 200000,
+      "contributor": "Crouse, Laura",
+      "state": "WI",
+      "transaction_id": "14718485",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2037491
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 200000,
+      "contributor": "DR. RAUL RUIZ FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "14720031",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2037491
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 350000,
+      "contributor": "Delong, Christopher",
+      "state": "NY",
+      "transaction_id": "14722377",
+      "entity_type": "IND",
+      "employer": "Birnam Oak Advisors",
+      "occupation": "Investments",
+      "committee_id": "C00915637",
+      "file_number": 2037491
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 350000,
+      "contributor": "Delong, Michelle",
+      "state": "NY",
+      "transaction_id": "14722378",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2037491
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 250000,
+      "contributor": "END CITIZENS UNITED",
+      "state": "DC",
+      "transaction_id": "14719190",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2037491
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 100000,
+      "contributor": "FIGHT FOR PROGRESS PAC",
+      "state": "DC",
+      "transaction_id": "14719983",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2037491
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 100000,
+      "contributor": "Fortis, Louis",
+      "state": "WI",
+      "transaction_id": "14718488",
+      "entity_type": "IND",
+      "employer": "Alternative Publications",
+      "occupation": "Publisher",
+      "committee_id": "C00915637",
+      "file_number": 2037491
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 100000,
+      "contributor": "Jacquart, Ronald E.",
+      "state": "WI",
+      "transaction_id": "14718486",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2037491
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 250000,
+      "contributor": "Nowicki, Julia M.",
+      "state": "WI",
+      "transaction_id": "14718483",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2037491
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 500000,
+      "contributor": "PROGRESSIVE MAJORITY PAC",
+      "state": "DC",
+      "transaction_id": "14719948",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2037491
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 350000,
+      "contributor": "Sontheim, Gwendolyn",
+      "state": "CA",
+      "transaction_id": "14722379",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Investor",
+      "committee_id": "C00915637",
+      "file_number": 2037491
+    },
+    {
+      "date": "2026-10-20",
+      "amount_cents": 100000,
+      "contributor": "Wood, Elizabeth",
+      "state": "CT",
+      "transaction_id": "14718487",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2037491
     }
   ],
-  "report_count": 7,
+  "report_count": 8,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
