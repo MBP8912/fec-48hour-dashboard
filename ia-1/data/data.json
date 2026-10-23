@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-23T21:32:44+00:00",
+  "generated_at": "2026-10-23T22:15:06+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -126,30 +126,30 @@
     {
       "date": "2026-10-22",
       "totals": {
-        "lawler": 0,
+        "lawler": 1700000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 9800000,
+        "lawler": 11500000,
         "conley": 9696177
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 7,
         "conley": 0
       }
     },
     {
       "date": "2026-10-23",
       "totals": {
-        "lawler": 0,
+        "lawler": 600000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 9800000,
+        "lawler": 12100000,
         "conley": 9696177
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 2,
         "conley": 0
       }
     }
@@ -231,6 +231,13 @@
       "filed_date": "2026-10-23",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00787820/2040629/f65"
+    },
+    {
+      "committee_id": "C00558825",
+      "file_number": 2040826,
+      "filed_date": "2026-10-23",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00558825/2040826/f65"
     }
   ],
   "contributions": [
@@ -1385,9 +1392,117 @@
       "occupation": "Bus. Exec.",
       "committee_id": "C00787820",
       "file_number": 2040629
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "BUCKLEY, ROBERT",
+      "state": "IA",
+      "transaction_id": "6FD1390D164E34ABAB09",
+      "entity_type": "IND",
+      "employer": "INFORMATION REQUESTED",
+      "occupation": "INFORMATION REQUESTED",
+      "committee_id": "C00558825",
+      "file_number": 2040826
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "HEAL AMERICA",
+      "state": "WI",
+      "transaction_id": "65272CB4AA80D4C3AA0C",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00558825",
+      "file_number": 2040826
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 350000,
+      "contributor": "LEACH, GRETCHEN",
+      "state": "FL",
+      "transaction_id": "63D665A4D98994CD48B0",
+      "entity_type": "IND",
+      "employer": "RETIRED",
+      "occupation": "RETIRED",
+      "committee_id": "C00558825",
+      "file_number": 2040826
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 350000,
+      "contributor": "MATTESON, LARRY",
+      "state": "IA",
+      "transaction_id": "60412239772A64FE29F7",
+      "entity_type": "IND",
+      "employer": "PELICAN SHIP YARD",
+      "occupation": "OWNER",
+      "committee_id": "C00558825",
+      "file_number": 2040826
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "SCULLY, MARLYNN",
+      "state": "FL",
+      "transaction_id": "6B0A5920BDAFA4872A2B",
+      "entity_type": "IND",
+      "employer": "INFORMATION REQUESTED",
+      "occupation": "INFORMATION REQUESTED",
+      "committee_id": "C00558825",
+      "file_number": 2040826
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 350000,
+      "contributor": "SLAWSON, MICHELE",
+      "state": "MO",
+      "transaction_id": "67CC4D82994944370843",
+      "entity_type": "IND",
+      "employer": "INFORMATION REQUESTED",
+      "occupation": "INFORMATION REQUESTED",
+      "committee_id": "C00558825",
+      "file_number": 2040826
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 350000,
+      "contributor": "SLAWSON, STEPHEN",
+      "state": "MO",
+      "transaction_id": "65C22567BC74F42229ED",
+      "entity_type": "IND",
+      "employer": "INFORMATION REQUESTED",
+      "occupation": "INFORMATION REQUESTED",
+      "committee_id": "C00558825",
+      "file_number": 2040826
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 350000,
+      "contributor": "FIRST AND TEN",
+      "state": "VA",
+      "transaction_id": "6271E24A397CF40EA991",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00558825",
+      "file_number": 2040826
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 250000,
+      "contributor": "LKQ CORPORATION EMPLOYEE GOOD GOVERNMENT FUND",
+      "state": "DC",
+      "transaction_id": "69BC3A918A4A441DFB9E",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00558825",
+      "file_number": 2040826
     }
   ],
-  "report_count": 11,
+  "report_count": 12,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
