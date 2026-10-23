@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-23T11:34:57+00:00",
+  "generated_at": "2026-10-23T12:38:44+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -111,30 +111,30 @@
     {
       "date": "2026-10-21",
       "totals": {
-        "lawler": 0,
+        "lawler": 1000000,
         "conley": 825000
       },
       "cumulative": {
-        "lawler": 4454102,
+        "lawler": 5454102,
         "conley": 9395000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 2,
         "conley": 6
       }
     },
     {
       "date": "2026-10-22",
       "totals": {
-        "lawler": 0,
+        "lawler": 2400000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 4454102,
+        "lawler": 7854102,
         "conley": 9395000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 7,
         "conley": 0
       }
     },
@@ -145,7 +145,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 4454102,
+        "lawler": 7854102,
         "conley": 9395000
       },
       "counts": {
@@ -217,6 +217,13 @@
       "filed_date": "2026-10-22",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00902684/2039217/f65"
+    },
+    {
+      "committee_id": "C00807743",
+      "file_number": 2040243,
+      "filed_date": "2026-10-23",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00807743/2040243/f65"
     }
   ],
   "contributions": [
@@ -1002,6 +1009,30 @@
     },
     {
       "date": "2026-10-21",
+      "amount_cents": 500000,
+      "contributor": "BUCKEYE LIBERTY PAC",
+      "state": "WI",
+      "transaction_id": "69D280770732A4497B97",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2040243
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 500000,
+      "contributor": "HELPING EXCEPTIONAL LEADERS ORGANIZE PAC (HELO PAC)",
+      "state": "VA",
+      "transaction_id": "61F959D935B8741E4AF0",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2040243
+    },
+    {
+      "date": "2026-10-21",
       "amount_cents": 200000,
       "contributor": "COMMON GOOD PAC",
       "state": "NY",
@@ -1071,9 +1102,93 @@
       "occupation": "Woodworker",
       "committee_id": "C00902684",
       "file_number": 2039217
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "BUILDING AMERICAN CONSERVATISM PAC",
+      "state": "TX",
+      "transaction_id": "64A855FFB00FF4563A29",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2040243
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 500000,
+      "contributor": "DEFENDING AMERICAN VALUES EVERYWHERE PAC",
+      "state": "OH",
+      "transaction_id": "6BA882A51FF85491D965",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2040243
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "ELSE, LENORE M.",
+      "state": "MN",
+      "transaction_id": "6254551E433ED4A6B950",
+      "entity_type": "IND",
+      "employer": "INFORMATION REQUESTED",
+      "occupation": "INFORMATION REQUESTED",
+      "committee_id": "C00807743",
+      "file_number": 2040243
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 500000,
+      "contributor": "FROGMAN PAC",
+      "state": "VA",
+      "transaction_id": "6DF6A52940A264F57ABF",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2040243
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 500000,
+      "contributor": "RESTORING OUR FREEDOM PAC",
+      "state": "OH",
+      "transaction_id": "626A448244AD14CA294F",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2040243
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 200000,
+      "contributor": "SOUTH FLORIDA LEADERSHIP PAC",
+      "state": "FL",
+      "transaction_id": "6A0A34DADB7A649F3AFB",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2040243
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 500000,
+      "contributor": "WATERPAC - NATIONAL RURAL WATER ASSOCIATION POLITICAL COMMITTEE",
+      "state": "OK",
+      "transaction_id": "6737BE13CD0674F14BDA",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2040243
     }
   ],
-  "report_count": 9,
+  "report_count": 10,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
