@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-23T16:37:24+00:00",
+  "generated_at": "2026-10-23T17:32:39+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -82,15 +82,15 @@
       "date": "2026-10-19",
       "totals": {
         "lawler": 0,
-        "conley": 2150000
+        "conley": 2350000
       },
       "cumulative": {
         "lawler": 0,
-        "conley": 3050000
+        "conley": 3250000
       },
       "counts": {
         "lawler": 0,
-        "conley": 11
+        "conley": 12
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "cumulative": {
         "lawler": 0,
-        "conley": 4250000
+        "conley": 4450000
       },
       "counts": {
         "lawler": 0,
@@ -112,15 +112,15 @@
       "date": "2026-10-21",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 700000
       },
       "cumulative": {
         "lawler": 0,
-        "conley": 4250000
+        "conley": 5150000
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 3
       }
     },
     {
@@ -131,7 +131,7 @@
       },
       "cumulative": {
         "lawler": 0,
-        "conley": 4250000
+        "conley": 5150000
       },
       "counts": {
         "lawler": 0,
@@ -146,7 +146,7 @@
       },
       "cumulative": {
         "lawler": 0,
-        "conley": 4250000
+        "conley": 5150000
       },
       "counts": {
         "lawler": 0,
@@ -182,6 +182,13 @@
       "filed_date": "2026-10-22",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00793760/2037002/f65"
+    },
+    {
+      "committee_id": "C00793760",
+      "file_number": 2040421,
+      "filed_date": "2026-10-23",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00793760/2040421/f65"
     }
   ],
   "contributions": [
@@ -256,6 +263,18 @@
       "occupation": "",
       "committee_id": "C00793760",
       "file_number": 2034842
+    },
+    {
+      "date": "2026-10-19",
+      "amount_cents": 200000,
+      "contributor": "Casten for Congress",
+      "state": "IL",
+      "transaction_id": "11495370",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00793760",
+      "file_number": 2040421
     },
     {
       "date": "2026-10-19",
@@ -424,9 +443,45 @@
       "occupation": "AI Researcher",
       "committee_id": "C00793760",
       "file_number": 2037002
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 500000,
+      "contributor": "Planned Parenthood Action Fund Inc PAC",
+      "state": "NY",
+      "transaction_id": "11470328",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00793760",
+      "file_number": 2040421
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "Re-Elect McGovern Committee",
+      "state": "MA",
+      "transaction_id": "11470323",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00793760",
+      "file_number": 2040421
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "Redmond, Ralph",
+      "state": "IN",
+      "transaction_id": "11491700",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Retired",
+      "committee_id": "C00793760",
+      "file_number": 2040421
     }
   ],
-  "report_count": 4,
+  "report_count": 5,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

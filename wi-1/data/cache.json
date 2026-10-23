@@ -1524,6 +1524,132 @@
       "most_recent_filing": 2038238,
       "is_amended": false,
       "filed_date": "2026-10-22"
+    },
+    "C00677286/2040411": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-22",
+          "amount_cents": 350000,
+          "contributor": "GALAXY DIGITAL SERVICES II LLC POLITICAL ACTION COMMITTEE (GALAXY DIGITAL PAC)",
+          "state": "NY",
+          "transaction_id": "TX95193",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 500000,
+          "contributor": "GREATER OPPORTUNITIES FOR LEADERSHIP DEVELOPMENT (GOLD PAC)",
+          "state": "DC",
+          "transaction_id": "TX95194",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 200000,
+          "contributor": "BOUFIS, ELIAS",
+          "state": "IL",
+          "transaction_id": "TX95182",
+          "entity_type": "IND",
+          "employer": "GVC AMERICAS",
+          "occupation": "INVESTOR"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "BROWN, AMY M.",
+          "state": "WI",
+          "transaction_id": "TX95187",
+          "entity_type": "IND",
+          "employer": "HOMEMAKER",
+          "occupation": "HOMEMAKER"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "BRYANT, ANDREA B.",
+          "state": "WI",
+          "transaction_id": "TX95179",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 320000,
+          "contributor": "GEREND, TIMOTHY",
+          "state": "WI",
+          "transaction_id": "TX95178",
+          "entity_type": "IND",
+          "employer": "NORTHWESTERN MUTUAL",
+          "occupation": "EVP & CHIEF DISTRIBUTION OFFICER"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 350000,
+          "contributor": "LEACH, GRETCHEN",
+          "state": "FL",
+          "transaction_id": "TX95184",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 350000,
+          "contributor": "MANDEL, JESSICA",
+          "state": "DC",
+          "transaction_id": "TX95188",
+          "entity_type": "IND",
+          "employer": "MILLER STRATEGIES",
+          "occupation": "LOBBYIST"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "MIN, JAMES",
+          "state": "VA",
+          "transaction_id": "TX95181",
+          "entity_type": "IND",
+          "employer": "MILLER STRATEGIES, LLC",
+          "occupation": "COO"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 208203,
+          "contributor": "PORTER, RICHARD",
+          "state": "IL",
+          "transaction_id": "TX95183",
+          "entity_type": "IND",
+          "employer": "KIRKLAND & ELLIS",
+          "occupation": "PARTNER"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 350000,
+          "contributor": "WILLEMS, CLETE",
+          "state": "MD",
+          "transaction_id": "TX95191",
+          "entity_type": "IND",
+          "employer": "AKIN GUMP",
+          "occupation": "ATTORNEY"
+        }
+      ],
+      "file_number": 2040411,
+      "committee_id": "C00677286",
+      "sha256": "0d8aa2518d81f7b44ec5d9536eedd457f3ee24fb1afdec3860c71e8be5fb323b",
+      "amendment_chain": [
+        2040411
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2040411,
+      "is_amended": false,
+      "filed_date": "2026-10-23"
     }
   }
 }

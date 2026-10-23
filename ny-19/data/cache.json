@@ -264,6 +264,62 @@
       "most_recent_filing": 2037002,
       "is_amended": false,
       "filed_date": "2026-10-22"
+    },
+    "C00793760/2040421": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Redmond, Ralph",
+          "state": "IN",
+          "transaction_id": "11491700",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-19",
+          "amount_cents": 200000,
+          "contributor": "Casten for Congress",
+          "state": "IL",
+          "transaction_id": "11495370",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Re-Elect McGovern Committee",
+          "state": "MA",
+          "transaction_id": "11470323",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 500000,
+          "contributor": "Planned Parenthood Action Fund Inc PAC",
+          "state": "NY",
+          "transaction_id": "11470328",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2040421,
+      "committee_id": "C00793760",
+      "sha256": "22f66e6ab4982a8d6553841b396e36acb1b78557825db82ca7cce93f84923e52",
+      "amendment_chain": [
+        2040421
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2040421,
+      "is_amended": false,
+      "filed_date": "2026-10-23"
     }
   }
 }

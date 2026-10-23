@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-23T16:37:24+00:00",
+  "generated_at": "2026-10-23T17:32:39+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -126,15 +126,15 @@
     {
       "date": "2026-10-22",
       "totals": {
-        "lawler": 0,
+        "lawler": 2928203,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 10239356,
+        "lawler": 13167559,
         "conley": 12195000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 11,
         "conley": 0
       }
     },
@@ -145,7 +145,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 10239356,
+        "lawler": 13167559,
         "conley": 12195000
       },
       "counts": {
@@ -217,6 +217,13 @@
       "filed_date": "2026-10-22",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00677286/2038238/f65"
+    },
+    {
+      "committee_id": "C00677286",
+      "file_number": 2040411,
+      "filed_date": "2026-10-23",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00677286/2040411/f65"
     }
   ],
   "contributions": [
@@ -1407,9 +1414,141 @@
       "occupation": "ATTORNEY",
       "committee_id": "C00677286",
       "file_number": 2038238
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 200000,
+      "contributor": "BOUFIS, ELIAS",
+      "state": "IL",
+      "transaction_id": "TX95182",
+      "entity_type": "IND",
+      "employer": "GVC AMERICAS",
+      "occupation": "INVESTOR",
+      "committee_id": "C00677286",
+      "file_number": 2040411
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "BROWN, AMY M.",
+      "state": "WI",
+      "transaction_id": "TX95187",
+      "entity_type": "IND",
+      "employer": "HOMEMAKER",
+      "occupation": "HOMEMAKER",
+      "committee_id": "C00677286",
+      "file_number": 2040411
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "BRYANT, ANDREA B.",
+      "state": "WI",
+      "transaction_id": "TX95179",
+      "entity_type": "IND",
+      "employer": "RETIRED",
+      "occupation": "RETIRED",
+      "committee_id": "C00677286",
+      "file_number": 2040411
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 350000,
+      "contributor": "GALAXY DIGITAL SERVICES II LLC POLITICAL ACTION COMMITTEE (GALAXY DIGITAL PAC)",
+      "state": "NY",
+      "transaction_id": "TX95193",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00677286",
+      "file_number": 2040411
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 320000,
+      "contributor": "GEREND, TIMOTHY",
+      "state": "WI",
+      "transaction_id": "TX95178",
+      "entity_type": "IND",
+      "employer": "NORTHWESTERN MUTUAL",
+      "occupation": "EVP & CHIEF DISTRIBUTION OFFICER",
+      "committee_id": "C00677286",
+      "file_number": 2040411
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 500000,
+      "contributor": "GREATER OPPORTUNITIES FOR LEADERSHIP DEVELOPMENT (GOLD PAC)",
+      "state": "DC",
+      "transaction_id": "TX95194",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00677286",
+      "file_number": 2040411
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 350000,
+      "contributor": "LEACH, GRETCHEN",
+      "state": "FL",
+      "transaction_id": "TX95184",
+      "entity_type": "IND",
+      "employer": "RETIRED",
+      "occupation": "RETIRED",
+      "committee_id": "C00677286",
+      "file_number": 2040411
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 350000,
+      "contributor": "MANDEL, JESSICA",
+      "state": "DC",
+      "transaction_id": "TX95188",
+      "entity_type": "IND",
+      "employer": "MILLER STRATEGIES",
+      "occupation": "LOBBYIST",
+      "committee_id": "C00677286",
+      "file_number": 2040411
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "MIN, JAMES",
+      "state": "VA",
+      "transaction_id": "TX95181",
+      "entity_type": "IND",
+      "employer": "MILLER STRATEGIES, LLC",
+      "occupation": "COO",
+      "committee_id": "C00677286",
+      "file_number": 2040411
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 208203,
+      "contributor": "PORTER, RICHARD",
+      "state": "IL",
+      "transaction_id": "TX95183",
+      "entity_type": "IND",
+      "employer": "KIRKLAND & ELLIS",
+      "occupation": "PARTNER",
+      "committee_id": "C00677286",
+      "file_number": 2040411
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 350000,
+      "contributor": "WILLEMS, CLETE",
+      "state": "MD",
+      "transaction_id": "TX95191",
+      "entity_type": "IND",
+      "employer": "AKIN GUMP",
+      "occupation": "ATTORNEY",
+      "committee_id": "C00677286",
+      "file_number": 2040411
     }
   ],
-  "report_count": 9,
+  "report_count": 10,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
