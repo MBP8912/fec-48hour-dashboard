@@ -9,11 +9,30 @@
   <link rel="stylesheet" href="../race-assets/styles.css?v=20261021-hide-difference-v2">
   <script id="race-config" type="application/json">{"district":"CA-13","republican":{"name":"Kevin Lincoln","short":"Lincoln","committee":"Kevin Lincoln for Congress","id":"C00845826"},"democratic":{"name":"Adam Gray","short":"Gray","committee":"Adam Gray for Congress","id":"C00801431"},"slug":"ca-13"}</script>
   <script defer src="../race-assets/app.js?v=20261021-hide-difference-v2"></script>
+  <!-- Trial branding is scoped to CA-13, not the shared race theme. -->
+  <style>
+    .ca13-branded-header {height:auto;min-height:120px;padding:11px 0;gap:16px}
+    .ca13-branded-header .brand {gap:12px;min-width:0}
+    .ca13-spiros-logo {display:block;flex:none;width:126px;height:auto;max-width:30vw;padding:4px;border-radius:7px;background:white;box-shadow:0 0 0 1px #e4e9f0}
+    @media (max-width:680px) {
+      .ca13-branded-header {min-height:98px;padding:9px 0;gap:10px}
+      .ca13-spiros-logo {width:92px}
+      .ca13-branded-header .brand {gap:8px}
+      .ca13-branded-header .brand strong {font-size:15px}
+      .ca13-branded-header .brand div span {letter-spacing:.05em;font-size:9px}
+      .ca13-branded-header .header-link {font-size:10px;padding:9px;white-space:nowrap}
+    }
+    @media (max-width:400px) {
+      .ca13-spiros-logo {width:82px}
+      .ca13-branded-header .brand-mark {display:none}
+      .ca13-branded-header .header-link {font-size:9px;padding:8px}
+    }
+  </style>
 </head>
 <body>
   <div class="page">
-    <header class="topbar">
-      <div class="brand"><span class="brand-mark" aria-hidden="true">13</span><div><strong>CA-13</strong><span>2026 Election Data</span></div></div>
+    <header class="topbar ca13-branded-header">
+      <div class="brand"><img class="ca13-spiros-logo" src="./spiros-consulting-logo.png" alt="Spiros Consulting" width="160" height="127"><span class="brand-mark" aria-hidden="true">13</span><div><strong>CA-13</strong><span>2026 Election Data</span></div></div>
       <a class="header-link" href="https://www.fec.gov/data/filings/?data_type=efiling" target="_blank" rel="noopener noreferrer">FEC source <span aria-hidden="true">↗</span></a>
     </header>
     <main>

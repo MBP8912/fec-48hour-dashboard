@@ -29,6 +29,14 @@ def verify():
         html = load(url).decode("utf-8")
         if f"<title>{district} |" not in html:
             raise RuntimeError(f"{district} page has incorrect title at {url}")
+        if district == "CA-13":
+            if 'class="ca13-spiros-logo"' not in html or 'src="./spiros-consulting-logo.png"' not in html:
+                raise RuntimeError("CA-13 trial logo is missing")
+            logo = load(url + "spiros-consulting-logo.png")
+            if not logo.startswith(bytes.fromhex("89504e470d0a1a0a")) or len(logo) < 1000:
+                raise RuntimeError("Spiros Consulting PNG not deployed at CA-13")
+        elif "spiros-consulting-logo.png" in html:
+            raise RuntimeError(f"Trial logo incorrectly appears in {district}")
         data = json.loads(load(url + "data/data.json"))
         if data.get("status") != "ok":
             raise RuntimeError(f"{district} still lacks a verified dataset at {url}")

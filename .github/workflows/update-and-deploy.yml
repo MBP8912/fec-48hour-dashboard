@@ -63,6 +63,8 @@ jobs:
             cp "$district/index.html" "_site/$district/"
             cp "$district/data/data.json" "_site/$district/data/"
           done
+          # One-race branding trial: CA-13 only.
+          cp ca-13/spiros-consulting-logo.png _site/ca-13/
           touch _site/.nojekyll
       - name: Set up GitHub Pages
         uses: actions/configure-pages@v5
