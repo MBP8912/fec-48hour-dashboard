@@ -960,6 +960,182 @@
       "most_recent_filing": 2040243,
       "is_amended": false,
       "filed_date": "2026-10-23"
+    },
+    "C00902684/2040771": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-22",
+          "amount_cents": 350000,
+          "contributor": "Baker, Brenda",
+          "state": "CA",
+          "transaction_id": "14831430",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 500000,
+          "contributor": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+          "state": "DC",
+          "transaction_id": "14826401",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "EQUALITY PAC",
+          "state": "DC",
+          "transaction_id": "14783844",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "GEORGE WHITESIDES FOR CONGRESS",
+          "state": "CA",
+          "transaction_id": "14826420",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "GREEN ON TOP PAC",
+          "state": "NY",
+          "transaction_id": "14781829",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 250000,
+          "contributor": "Hull, Megan",
+          "state": "CA",
+          "transaction_id": "14831595",
+          "entity_type": "IND",
+          "employer": "Self",
+          "occupation": "Activist"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 250000,
+          "contributor": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+          "state": "DC",
+          "transaction_id": "14783859",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "Marda, Rakesh",
+          "state": "MN",
+          "transaction_id": "14795610",
+          "entity_type": "IND",
+          "employer": "IBM",
+          "occupation": "Advisory Software Engineer"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 250000,
+          "contributor": "Rubinstein, Joel",
+          "state": "CA",
+          "transaction_id": "14830023",
+          "entity_type": "IND",
+          "employer": "Self",
+          "occupation": "Real Estate Management"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 250000,
+          "contributor": "Sabel, Sylvia",
+          "state": "CA",
+          "transaction_id": "14830086",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 200000,
+          "contributor": "SILICORN VALLEY PAC",
+          "state": "DC",
+          "transaction_id": "14781793",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "Sternal, Ron",
+          "state": "MN",
+          "transaction_id": "14786891",
+          "entity_type": "IND",
+          "employer": "N/A",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 350000,
+          "contributor": "Stone, Deborah",
+          "state": "NY",
+          "transaction_id": "14807291",
+          "entity_type": "IND",
+          "employer": "Self",
+          "occupation": "PSYCHOLOGIST"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 350000,
+          "contributor": "Stone, Max",
+          "state": "NY",
+          "transaction_id": "14807336",
+          "entity_type": "IND",
+          "employer": "D.E. Shaw & Co, LP",
+          "occupation": "Finance"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 250000,
+          "contributor": "TORCH PAC",
+          "state": "IL",
+          "transaction_id": "14777704",
+          "entity_type": "ORG",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "Winograd, Carol",
+          "state": "CA",
+          "transaction_id": "14829971",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        }
+      ],
+      "file_number": 2040771,
+      "committee_id": "C00902684",
+      "sha256": "841718a3c6b57f677a18d358ea64988d5dc3e26a4fd692b75e3b4050beed4a83",
+      "amendment_chain": [
+        2040771
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2040771,
+      "is_amended": false,
+      "filed_date": "2026-10-23"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-23T20:33:18+00:00",
+  "generated_at": "2026-10-23T21:32:45+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -127,15 +127,15 @@
       "date": "2026-10-22",
       "totals": {
         "lawler": 2400000,
-        "conley": 0
+        "conley": 3600000
       },
       "cumulative": {
         "lawler": 7854102,
-        "conley": 9395000
+        "conley": 12995000
       },
       "counts": {
         "lawler": 7,
-        "conley": 0
+        "conley": 16
       }
     },
     {
@@ -146,7 +146,7 @@
       },
       "cumulative": {
         "lawler": 7854102,
-        "conley": 9395000
+        "conley": 12995000
       },
       "counts": {
         "lawler": 0,
@@ -224,6 +224,13 @@
       "filed_date": "2026-10-23",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00807743/2040243/f65"
+    },
+    {
+      "committee_id": "C00902684",
+      "file_number": 2040771,
+      "filed_date": "2026-10-23",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00902684/2040771/f65"
     }
   ],
   "contributions": [
@@ -1186,9 +1193,201 @@
       "occupation": "",
       "committee_id": "C00807743",
       "file_number": 2040243
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 350000,
+      "contributor": "Baker, Brenda",
+      "state": "CA",
+      "transaction_id": "14831430",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00902684",
+      "file_number": 2040771
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 500000,
+      "contributor": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+      "state": "DC",
+      "transaction_id": "14826401",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2040771
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "EQUALITY PAC",
+      "state": "DC",
+      "transaction_id": "14783844",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2040771
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "GEORGE WHITESIDES FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "14826420",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2040771
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "GREEN ON TOP PAC",
+      "state": "NY",
+      "transaction_id": "14781829",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2040771
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 250000,
+      "contributor": "Hull, Megan",
+      "state": "CA",
+      "transaction_id": "14831595",
+      "entity_type": "IND",
+      "employer": "Self",
+      "occupation": "Activist",
+      "committee_id": "C00902684",
+      "file_number": 2040771
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 250000,
+      "contributor": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+      "state": "DC",
+      "transaction_id": "14783859",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2040771
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "Marda, Rakesh",
+      "state": "MN",
+      "transaction_id": "14795610",
+      "entity_type": "IND",
+      "employer": "IBM",
+      "occupation": "Advisory Software Engineer",
+      "committee_id": "C00902684",
+      "file_number": 2040771
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 250000,
+      "contributor": "Rubinstein, Joel",
+      "state": "CA",
+      "transaction_id": "14830023",
+      "entity_type": "IND",
+      "employer": "Self",
+      "occupation": "Real Estate Management",
+      "committee_id": "C00902684",
+      "file_number": 2040771
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 200000,
+      "contributor": "SILICORN VALLEY PAC",
+      "state": "DC",
+      "transaction_id": "14781793",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2040771
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 250000,
+      "contributor": "Sabel, Sylvia",
+      "state": "CA",
+      "transaction_id": "14830086",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00902684",
+      "file_number": 2040771
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "Sternal, Ron",
+      "state": "MN",
+      "transaction_id": "14786891",
+      "entity_type": "IND",
+      "employer": "N/A",
+      "occupation": "Retired",
+      "committee_id": "C00902684",
+      "file_number": 2040771
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 350000,
+      "contributor": "Stone, Deborah",
+      "state": "NY",
+      "transaction_id": "14807291",
+      "entity_type": "IND",
+      "employer": "Self",
+      "occupation": "PSYCHOLOGIST",
+      "committee_id": "C00902684",
+      "file_number": 2040771
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 350000,
+      "contributor": "Stone, Max",
+      "state": "NY",
+      "transaction_id": "14807336",
+      "entity_type": "IND",
+      "employer": "D.E. Shaw & Co, LP",
+      "occupation": "Finance",
+      "committee_id": "C00902684",
+      "file_number": 2040771
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 250000,
+      "contributor": "TORCH PAC",
+      "state": "IL",
+      "transaction_id": "14777704",
+      "entity_type": "ORG",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2040771
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "Winograd, Carol",
+      "state": "CA",
+      "transaction_id": "14829971",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00902684",
+      "file_number": 2040771
     }
   ],
-  "report_count": 10,
+  "report_count": 11,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
