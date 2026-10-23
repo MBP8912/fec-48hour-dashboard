@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-23T12:38:44+00:00",
+  "generated_at": "2026-10-23T13:41:42+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -111,15 +111,15 @@
     {
       "date": "2026-10-21",
       "totals": {
-        "lawler": 0,
+        "lawler": 100000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 950000,
+        "lawler": 1050000,
         "conley": 8500000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 1,
         "conley": 0
       }
     },
@@ -130,7 +130,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 950000,
+        "lawler": 1050000,
         "conley": 8500000
       },
       "counts": {
@@ -145,7 +145,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 950000,
+        "lawler": 1050000,
         "conley": 8500000
       },
       "counts": {
@@ -224,6 +224,13 @@
       "filed_date": "2026-10-22",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00911941/2036608/f65"
+    },
+    {
+      "committee_id": "C00865592",
+      "file_number": 2040264,
+      "filed_date": "2026-10-23",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00865592/2040264/f65"
     }
   ],
   "contributions": [
@@ -826,9 +833,21 @@
       "occupation": "Life Coach",
       "committee_id": "C00911941",
       "file_number": 2036608
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "MIDKIFF, JOEL S",
+      "state": "CO",
+      "transaction_id": "180098822",
+      "entity_type": "IND",
+      "employer": "RETIRED",
+      "occupation": "RETIRED",
+      "committee_id": "C00865592",
+      "file_number": 2040264
     }
   ],
-  "report_count": 10,
+  "report_count": 11,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

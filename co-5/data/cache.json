@@ -660,6 +660,32 @@
       "most_recent_filing": 2036608,
       "is_amended": false,
       "filed_date": "2026-10-22"
+    },
+    "C00865592/2040264": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "MIDKIFF, JOEL S",
+          "state": "CO",
+          "transaction_id": "180098822",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        }
+      ],
+      "file_number": 2040264,
+      "committee_id": "C00865592",
+      "sha256": "f617a7ba9d3f726636306374733594a6a1781f6c8c0e4d5ab713b71cdfe86106",
+      "amendment_chain": [
+        2040264
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2040264,
+      "is_amended": false,
+      "filed_date": "2026-10-23"
     }
   }
 }
