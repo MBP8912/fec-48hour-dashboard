@@ -57,13 +57,13 @@ jobs:
           cp assets/* _site/assets/
           cp data/data.json _site/data/
           mkdir -p _site/race-assets
-          cp race-assets/app.js race-assets/styles.css _site/race-assets/
+          cp race-assets/app.js race-assets/styles.css race-assets/spiros-consulting-logo.png _site/race-assets/
           for district in co-4 co-5 ia-1 mn-1 ne-2 wi-1 ny-19 ca-13; do
             mkdir -p "_site/$district/data"
             cp "$district/index.html" "_site/$district/"
             cp "$district/data/data.json" "_site/$district/data/"
           done
-          # One-race branding trial: CA-13 only.
+          # Keep the CA-13 trial asset; all other dashboards use the shared identical logo.
           cp ca-13/spiros-consulting-logo.png _site/ca-13/
           touch _site/.nojekyll
       - name: Set up GitHub Pages

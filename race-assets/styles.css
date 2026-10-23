@@ -118,3 +118,21 @@ tr:hover td { background:#fbfcfe }
 .dialog-footer { padding:14px 29px 20px; background:#f8fafc; color:#8a99a7; font-size:11px; border-top:1px solid #e8edf1 }
 @media (max-width:1110px) { .summary { grid-template-columns:1fr 1fr } .charts { grid-template-columns:1fr } .chart-host { height:310px } }
 @media (max-width:680px) { .page { padding:0 17px } .topbar { height:68px } .brand div span { font-size:9px } .hero { padding:37px 0 24px } .hero-sub { font-size:14px } .hero-details { gap:12px; flex-direction:column; margin-top:19px } .summary { grid-template-columns:1fr } .metric-card { padding:23px 21px 18px } .charts { margin-top:14px } .chart-panel { padding:21px 13px 9px } .chart-host { height:240px } .panel-head { padding:0 8px } .legend { margin-left:8px } .ledger-head { padding:23px 18px; align-items:start } .ledger-head h2 { font-size:18px } .export-button { padding:8px } .table-foot { padding:15px 18px; flex-direction:column } .explainer { padding:22px 20px } .explainer-grid { grid-template-columns:1fr; gap:18px } .footer { flex-direction:column } .footer-links { flex-wrap:wrap; gap:14px } }
+
+/* Spiros Consulting branding, matching the approved CA-13 pilot. */
+.spiros-branded-header {height:auto;min-height:120px;padding:11px 0;gap:16px}
+.spiros-branded-header .brand {gap:12px;min-width:0}
+.spiros-header-logo {display:block;flex:none;width:126px;height:auto;max-width:30vw;padding:4px;border-radius:7px;background:white;box-shadow:0 0 0 1px #e4e9f0}
+@media(max-width:680px) {
+ .spiros-branded-header {min-height:98px;padding:9px 0;gap:10px}
+ .spiros-header-logo {width:92px}
+ .spiros-branded-header .brand {gap:8px}
+ .spiros-branded-header .brand strong {font-size:15px}
+ .spiros-branded-header .brand div span {letter-spacing:.05em;font-size:9px}
+ .spiros-branded-header .header-link {font-size:10px;padding:9px;white-space:nowrap}
+}
+@media(max-width:400px) {
+ .spiros-header-logo {width:82px}
+ .spiros-branded-header .brand-mark {display:none}
+ .spiros-branded-header .header-link {font-size:9px;padding:8px}
+}

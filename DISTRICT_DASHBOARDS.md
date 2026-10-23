@@ -24,3 +24,7 @@ All dashboard receipts reflect the FEC's **October 15-31, 2026** Form 6 48-hour-
 The optional repo secret `FEC_API_KEY` is recommended for reliability (FEC `DEMO_KEY` is rate-limited). Register at https://api.open.fec.gov/developers/
 
 Sources: https://www.fec.gov/help-candidates-and-committees/dates-and-deadlines/2026-reporting-dates/preg-report-notice-congressional-committees-2026/ and the committee profiles linked on each dashboard. FEC donor data may not be used for solicitation.
+
+## Spiros Consulting branding
+
+The approved CA-13 header logo now also appears on all eight other fundraising dashboards, including the root NY-17 page. The CA-13 test layout and its original logo remain unchanged; other pages use an identical shared PNG at `race-assets/spiros-consulting-logo.png`. Responsive desktop and mobile header rules preserve each page's district badge, FEC source link, and underlying data. The regular GitHub Pages workflow publishes and verifies the shared asset and all nine pages.
