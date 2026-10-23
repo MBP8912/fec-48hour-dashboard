@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-23T18:37:40+00:00",
+  "generated_at": "2026-10-23T19:34:40+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -112,15 +112,15 @@
       "date": "2026-10-21",
       "totals": {
         "lawler": 3200000,
-        "conley": 0
+        "conley": 3450000
       },
       "cumulative": {
         "lawler": 10239356,
-        "conley": 12195000
+        "conley": 15645000
       },
       "counts": {
         "lawler": 13,
-        "conley": 0
+        "conley": 14
       }
     },
     {
@@ -131,7 +131,7 @@
       },
       "cumulative": {
         "lawler": 13167559,
-        "conley": 12195000
+        "conley": 15645000
       },
       "counts": {
         "lawler": 11,
@@ -146,7 +146,7 @@
       },
       "cumulative": {
         "lawler": 13167559,
-        "conley": 12195000
+        "conley": 15645000
       },
       "counts": {
         "lawler": 0,
@@ -224,6 +224,13 @@
       "filed_date": "2026-10-23",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00677286/2040411/f65"
+    },
+    {
+      "committee_id": "C00915637",
+      "file_number": 2040546,
+      "filed_date": "2026-10-23",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00915637/2040546/f65"
     }
   ],
   "contributions": [
@@ -1416,6 +1423,174 @@
       "file_number": 2038238
     },
     {
+      "date": "2026-10-21",
+      "amount_cents": 250000,
+      "contributor": "Albert, Carl",
+      "state": "CA",
+      "transaction_id": "14810017",
+      "entity_type": "IND",
+      "employer": "Fairchild Venture Capital Corp.",
+      "occupation": "CEO",
+      "committee_id": "C00915637",
+      "file_number": 2040546
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 250000,
+      "contributor": "BLUE MOMENTUM PAC",
+      "state": "CA",
+      "transaction_id": "14751342",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2040546
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 200000,
+      "contributor": "CISNEROS FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "14809093",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2040546
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 500000,
+      "contributor": "DCCC",
+      "state": "DC",
+      "transaction_id": "14809039",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2040546
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 350000,
+      "contributor": "Gabbert, Martha",
+      "state": "MN",
+      "transaction_id": "14810015",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2040546
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "Kenosha County Democratic Party",
+      "state": "WI",
+      "transaction_id": "14803025",
+      "entity_type": "COM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2040546
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 350000,
+      "contributor": "Klein, Robert",
+      "state": "CA",
+      "transaction_id": "14810013",
+      "entity_type": "IND",
+      "employer": "Klein Financial Corporation",
+      "occupation": "Chairman",
+      "committee_id": "C00915637",
+      "file_number": 2040546
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 200000,
+      "contributor": "Krupp, Marge",
+      "state": "WI",
+      "transaction_id": "14810019",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2040546
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 350000,
+      "contributor": "Lang, Barry",
+      "state": "CA",
+      "transaction_id": "14810016",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Real Estate Investor",
+      "committee_id": "C00915637",
+      "file_number": 2040546
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 350000,
+      "contributor": "Lang, Janet",
+      "state": "CA",
+      "transaction_id": "14810014",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2040546
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "RE-ELECT MCGOVERN COMMITTEE",
+      "state": "MA",
+      "transaction_id": "14808979",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2040546
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "Ricketts, Laura",
+      "state": "IL",
+      "transaction_id": "14810020",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Owner",
+      "committee_id": "C00915637",
+      "file_number": 2040546
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 250000,
+      "contributor": "Sheu, Susan",
+      "state": "CA",
+      "transaction_id": "14810018",
+      "entity_type": "IND",
+      "employer": "Linea Solutions",
+      "occupation": "Writer",
+      "committee_id": "C00915637",
+      "file_number": 2040546
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "Wong, Michael",
+      "state": "WA",
+      "transaction_id": "14810021",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Woodworker",
+      "committee_id": "C00915637",
+      "file_number": 2040546
+    },
+    {
       "date": "2026-10-22",
       "amount_cents": 200000,
       "contributor": "BOUFIS, ELIAS",
@@ -1548,7 +1723,7 @@
       "file_number": 2040411
     }
   ],
-  "report_count": 10,
+  "report_count": 11,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

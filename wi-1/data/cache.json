@@ -1650,6 +1650,162 @@
       "most_recent_filing": 2040411,
       "is_amended": false,
       "filed_date": "2026-10-23"
+    },
+    "C00915637/2040546": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-21",
+          "amount_cents": 250000,
+          "contributor": "Albert, Carl",
+          "state": "CA",
+          "transaction_id": "14810017",
+          "entity_type": "IND",
+          "employer": "Fairchild Venture Capital Corp.",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 250000,
+          "contributor": "BLUE MOMENTUM PAC",
+          "state": "CA",
+          "transaction_id": "14751342",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 200000,
+          "contributor": "CISNEROS FOR CONGRESS",
+          "state": "CA",
+          "transaction_id": "14809093",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 500000,
+          "contributor": "DCCC",
+          "state": "DC",
+          "transaction_id": "14809039",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 350000,
+          "contributor": "Gabbert, Martha",
+          "state": "MN",
+          "transaction_id": "14810015",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Kenosha County Democratic Party",
+          "state": "WI",
+          "transaction_id": "14803025",
+          "entity_type": "COM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 350000,
+          "contributor": "Klein, Robert",
+          "state": "CA",
+          "transaction_id": "14810013",
+          "entity_type": "IND",
+          "employer": "Klein Financial Corporation",
+          "occupation": "Chairman"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 200000,
+          "contributor": "Krupp, Marge",
+          "state": "WI",
+          "transaction_id": "14810019",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 350000,
+          "contributor": "Lang, Barry",
+          "state": "CA",
+          "transaction_id": "14810016",
+          "entity_type": "IND",
+          "employer": "Self-Employed",
+          "occupation": "Real Estate Investor"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 350000,
+          "contributor": "Lang, Janet",
+          "state": "CA",
+          "transaction_id": "14810014",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "RE-ELECT MCGOVERN COMMITTEE",
+          "state": "MA",
+          "transaction_id": "14808979",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Ricketts, Laura",
+          "state": "IL",
+          "transaction_id": "14810020",
+          "entity_type": "IND",
+          "employer": "Self-Employed",
+          "occupation": "Owner"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 250000,
+          "contributor": "Sheu, Susan",
+          "state": "CA",
+          "transaction_id": "14810018",
+          "entity_type": "IND",
+          "employer": "Linea Solutions",
+          "occupation": "Writer"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Wong, Michael",
+          "state": "WA",
+          "transaction_id": "14810021",
+          "entity_type": "IND",
+          "employer": "Self-Employed",
+          "occupation": "Woodworker"
+        }
+      ],
+      "file_number": 2040546,
+      "committee_id": "C00915637",
+      "sha256": "73290d9954daaa298328dedf5ce4a24316f4ba004ad365481a56c3d5744234c5",
+      "amendment_chain": [
+        2040546
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2040546,
+      "is_amended": false,
+      "filed_date": "2026-10-23"
     }
   }
 }
