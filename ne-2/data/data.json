@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-23T17:32:39+00:00",
+  "generated_at": "2026-10-23T18:37:40+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -111,30 +111,30 @@
     {
       "date": "2026-10-21",
       "totals": {
-        "lawler": 0,
+        "lawler": 1300000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 4059985,
+        "lawler": 5359985,
         "conley": 5831667
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 4,
         "conley": 0
       }
     },
     {
       "date": "2026-10-22",
       "totals": {
-        "lawler": 0,
+        "lawler": 1625000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 4059985,
+        "lawler": 6984985,
         "conley": 5831667
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 8,
         "conley": 0
       }
     },
@@ -145,7 +145,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 4059985,
+        "lawler": 6984985,
         "conley": 5831667
       },
       "counts": {
@@ -189,6 +189,13 @@
       "filed_date": "2026-10-21",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00909515/2035273/f65"
+    },
+    {
+      "committee_id": "C00909515",
+      "file_number": 2040517,
+      "filed_date": "2026-10-23",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00909515/2040517/f65"
     }
   ],
   "contributions": [
@@ -695,9 +702,153 @@
       "occupation": "",
       "committee_id": "C00909515",
       "file_number": 2035273
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 350000,
+      "contributor": "BUILDING AMERICAN CONSERVATISM PAC",
+      "state": "TX",
+      "transaction_id": "6A639BD9A1CDF400B94A",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2040517
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "GLENN, ROSS",
+      "state": "IA",
+      "transaction_id": "6BA763884F5BF42068FA",
+      "entity_type": "IND",
+      "employer": "PROTECH",
+      "occupation": "OWNER",
+      "committee_id": "C00909515",
+      "file_number": 2040517
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 350000,
+      "contributor": "STANDING FOR AMERICAN FREEDOMS LEADERSHIP PAC",
+      "state": "MI",
+      "transaction_id": "6120FC0603C82454E909",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2040517
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 500000,
+      "contributor": "TOP SHOTPAC",
+      "state": "LA",
+      "transaction_id": "6F3DECADE50804531BE9",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2040517
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 500000,
+      "contributor": "HUCK PAC FOR AMERICA",
+      "state": "AR",
+      "transaction_id": "67CC2A0222EC34FBB927",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2040517
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "JAM PAC",
+      "state": "GA",
+      "transaction_id": "6E38D9A746B8B4A7EABE",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2040517
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "MARENGO, DELETTE",
+      "state": "IA",
+      "transaction_id": "6081087A4B0754983AF9",
+      "entity_type": "IND",
+      "employer": "TENASKA",
+      "occupation": "VICE PRESIDENT",
+      "committee_id": "C00909515",
+      "file_number": 2040517
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "MOYLAN, MIKE",
+      "state": "NE",
+      "transaction_id": "689F07AD05E2742299B0",
+      "entity_type": "IND",
+      "employer": "SHAMROCK DEVELOPMENT",
+      "occupation": "CEO",
+      "committee_id": "C00909515",
+      "file_number": 2040517
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "NICHOLS, TOM",
+      "state": "NE",
+      "transaction_id": "6D6B9A7DAE6C9475CA4F",
+      "entity_type": "IND",
+      "employer": "GUNS UNLIMITED",
+      "occupation": "OWNER",
+      "committee_id": "C00909515",
+      "file_number": 2040517
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "SAFARI CLUB INTERNATIONAL PAC (SCI-PAC)",
+      "state": "TX",
+      "transaction_id": "6266106BBBDEE41688F4",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2040517
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 125000,
+      "contributor": "VALOR PAC",
+      "state": "GA",
+      "transaction_id": "65CE2D0E843D241839FF",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2040517
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 500000,
+      "contributor": "VITORIA PAC",
+      "state": "CA",
+      "transaction_id": "6C62571FC561E45739C9",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2040517
     }
   ],
-  "report_count": 5,
+  "report_count": 6,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

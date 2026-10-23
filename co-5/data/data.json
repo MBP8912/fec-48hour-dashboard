@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-23T17:32:39+00:00",
+  "generated_at": "2026-10-23T18:37:39+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -112,15 +112,15 @@
       "date": "2026-10-21",
       "totals": {
         "lawler": 100000,
-        "conley": 0
+        "conley": 1200000
       },
       "cumulative": {
         "lawler": 1050000,
-        "conley": 8500000
+        "conley": 9700000
       },
       "counts": {
         "lawler": 1,
-        "conley": 0
+        "conley": 7
       }
     },
     {
@@ -131,7 +131,7 @@
       },
       "cumulative": {
         "lawler": 1050000,
-        "conley": 8500000
+        "conley": 9700000
       },
       "counts": {
         "lawler": 0,
@@ -146,7 +146,7 @@
       },
       "cumulative": {
         "lawler": 1050000,
-        "conley": 8500000
+        "conley": 9700000
       },
       "counts": {
         "lawler": 0,
@@ -231,6 +231,13 @@
       "filed_date": "2026-10-23",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00865592/2040264/f65"
+    },
+    {
+      "committee_id": "C00911941",
+      "file_number": 2040472,
+      "filed_date": "2026-10-23",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00911941/2040472/f65"
     }
   ],
   "contributions": [
@@ -845,9 +852,93 @@
       "occupation": "RETIRED",
       "committee_id": "C00865592",
       "file_number": 2040264
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 250000,
+      "contributor": "Fuentes, Laura",
+      "state": "VA",
+      "transaction_id": "14774870",
+      "entity_type": "IND",
+      "employer": "Hilton",
+      "occupation": "HR Executive",
+      "committee_id": "C00911941",
+      "file_number": 2040472
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 200000,
+      "contributor": "HOPE PAC",
+      "state": "CO",
+      "transaction_id": "14670271",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00911941",
+      "file_number": 2040472
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 350000,
+      "contributor": "Osborne, John",
+      "state": "FL",
+      "transaction_id": "14775004",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Finance",
+      "committee_id": "C00911941",
+      "file_number": 2040472
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "Price, Lee",
+      "state": "CA",
+      "transaction_id": "14728404",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00911941",
+      "file_number": 2040472
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "Tejral, Amy",
+      "state": "MD",
+      "transaction_id": "14774851",
+      "entity_type": "IND",
+      "employer": "Avenue Solutions",
+      "occupation": "Government Relations",
+      "committee_id": "C00911941",
+      "file_number": 2040472
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "Tramalonir, Robert",
+      "state": "CO",
+      "transaction_id": "14774891",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00911941",
+      "file_number": 2040472
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "Wirth, Kelsey",
+      "state": "DC",
+      "transaction_id": "14774890",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00911941",
+      "file_number": 2040472
     }
   ],
-  "report_count": 11,
+  "report_count": 12,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

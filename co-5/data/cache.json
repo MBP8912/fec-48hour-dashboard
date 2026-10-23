@@ -686,6 +686,92 @@
       "most_recent_filing": 2040264,
       "is_amended": false,
       "filed_date": "2026-10-23"
+    },
+    "C00911941/2040472": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-21",
+          "amount_cents": 250000,
+          "contributor": "Fuentes, Laura",
+          "state": "VA",
+          "transaction_id": "14774870",
+          "entity_type": "IND",
+          "employer": "Hilton",
+          "occupation": "HR Executive"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 200000,
+          "contributor": "HOPE PAC",
+          "state": "CO",
+          "transaction_id": "14670271",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 350000,
+          "contributor": "Osborne, John",
+          "state": "FL",
+          "transaction_id": "14775004",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Finance"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Price, Lee",
+          "state": "CA",
+          "transaction_id": "14728404",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Tejral, Amy",
+          "state": "MD",
+          "transaction_id": "14774851",
+          "entity_type": "IND",
+          "employer": "Avenue Solutions",
+          "occupation": "Government Relations"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Tramalonir, Robert",
+          "state": "CO",
+          "transaction_id": "14774891",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Wirth, Kelsey",
+          "state": "DC",
+          "transaction_id": "14774890",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        }
+      ],
+      "file_number": 2040472,
+      "committee_id": "C00911941",
+      "sha256": "fc5dd6d099d5df18a6a1d5d35fcae34eea12e6626c91b80c8241c1a40abf75ea",
+      "amendment_chain": [
+        2040472
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2040472,
+      "is_amended": false,
+      "filed_date": "2026-10-23"
     }
   }
 }

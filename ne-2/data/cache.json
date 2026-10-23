@@ -500,6 +500,142 @@
       "most_recent_filing": 2035273,
       "is_amended": false,
       "filed_date": "2026-10-21"
+    },
+    "C00909515/2040517": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "GLENN, ROSS",
+          "state": "IA",
+          "transaction_id": "6BA763884F5BF42068FA",
+          "entity_type": "IND",
+          "employer": "PROTECH",
+          "occupation": "OWNER"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 350000,
+          "contributor": "STANDING FOR AMERICAN FREEDOMS LEADERSHIP PAC",
+          "state": "MI",
+          "transaction_id": "6120FC0603C82454E909",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 350000,
+          "contributor": "BUILDING AMERICAN CONSERVATISM PAC",
+          "state": "TX",
+          "transaction_id": "6A639BD9A1CDF400B94A",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 500000,
+          "contributor": "TOP SHOTPAC",
+          "state": "LA",
+          "transaction_id": "6F3DECADE50804531BE9",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 500000,
+          "contributor": "HUCK PAC FOR AMERICA",
+          "state": "AR",
+          "transaction_id": "67CC2A0222EC34FBB927",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "JAM PAC",
+          "state": "GA",
+          "transaction_id": "6E38D9A746B8B4A7EABE",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 125000,
+          "contributor": "VALOR PAC",
+          "state": "GA",
+          "transaction_id": "65CE2D0E843D241839FF",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "SAFARI CLUB INTERNATIONAL PAC (SCI-PAC)",
+          "state": "TX",
+          "transaction_id": "6266106BBBDEE41688F4",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "MARENGO, DELETTE",
+          "state": "IA",
+          "transaction_id": "6081087A4B0754983AF9",
+          "entity_type": "IND",
+          "employer": "TENASKA",
+          "occupation": "VICE PRESIDENT"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "MOYLAN, MIKE",
+          "state": "NE",
+          "transaction_id": "689F07AD05E2742299B0",
+          "entity_type": "IND",
+          "employer": "SHAMROCK DEVELOPMENT",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 500000,
+          "contributor": "VITORIA PAC",
+          "state": "CA",
+          "transaction_id": "6C62571FC561E45739C9",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "NICHOLS, TOM",
+          "state": "NE",
+          "transaction_id": "6D6B9A7DAE6C9475CA4F",
+          "entity_type": "IND",
+          "employer": "GUNS UNLIMITED",
+          "occupation": "OWNER"
+        }
+      ],
+      "file_number": 2040517,
+      "committee_id": "C00909515",
+      "sha256": "157c40254b296207681f43a045b502958c0cc58003d020aef4d158b15129aa6f",
+      "amendment_chain": [
+        2040517
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2040517,
+      "is_amended": false,
+      "filed_date": "2026-10-23"
     }
   }
 }
