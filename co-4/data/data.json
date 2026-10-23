@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-23T15:37:30+00:00",
+  "generated_at": "2026-10-23T16:37:24+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -112,15 +112,15 @@
       "date": "2026-10-21",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 700000
       },
       "cumulative": {
         "lawler": 1800000,
-        "conley": 1200000
+        "conley": 1900000
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 3
       }
     },
     {
@@ -131,7 +131,7 @@
       },
       "cumulative": {
         "lawler": 1800000,
-        "conley": 1200000
+        "conley": 1900000
       },
       "counts": {
         "lawler": 0,
@@ -146,7 +146,7 @@
       },
       "cumulative": {
         "lawler": 1800000,
-        "conley": 1200000
+        "conley": 1900000
       },
       "counts": {
         "lawler": 0,
@@ -175,6 +175,13 @@
       "filed_date": "2026-10-21",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00728238/2035240/f65"
+    },
+    {
+      "committee_id": "C00904284",
+      "file_number": 2040349,
+      "filed_date": "2026-10-23",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00904284/2040349/f65"
     }
   ],
   "contributions": [
@@ -321,9 +328,45 @@
       "occupation": "CPA",
       "committee_id": "C00728238",
       "file_number": 2035240
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 500000,
+      "contributor": "JOBS, EDUCATION, & FAMILIES FIRST  JEFF PAC",
+      "state": "DC",
+      "transaction_id": "14802336",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00904284",
+      "file_number": 2040349
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "Lynton, Stephen",
+      "state": "CO",
+      "transaction_id": "14669892",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Research Associate",
+      "committee_id": "C00904284",
+      "file_number": 2040349
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "Neal, Barbara M",
+      "state": "CO",
+      "transaction_id": "14669905",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Retired",
+      "committee_id": "C00904284",
+      "file_number": 2040349
     }
   ],
-  "report_count": 3,
+  "report_count": 4,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

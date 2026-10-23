@@ -168,6 +168,52 @@
       "most_recent_filing": 2035240,
       "is_amended": false,
       "filed_date": "2026-10-21"
+    },
+    "C00904284/2040349": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-21",
+          "amount_cents": 500000,
+          "contributor": "JOBS, EDUCATION, & FAMILIES FIRST  JEFF PAC",
+          "state": "DC",
+          "transaction_id": "14802336",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Lynton, Stephen",
+          "state": "CO",
+          "transaction_id": "14669892",
+          "entity_type": "IND",
+          "employer": "Self-Employed",
+          "occupation": "Research Associate"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Neal, Barbara M",
+          "state": "CO",
+          "transaction_id": "14669905",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Retired"
+        }
+      ],
+      "file_number": 2040349,
+      "committee_id": "C00904284",
+      "sha256": "32599d38a2c4f329b82f5abfcea0d0fc8bba28de2845d12dd3752796ac858ef5",
+      "amendment_chain": [
+        2040349
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2040349,
+      "is_amended": false,
+      "filed_date": "2026-10-23"
     }
   }
 }

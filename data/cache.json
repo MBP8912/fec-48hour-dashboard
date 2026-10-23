@@ -1994,6 +1994,372 @@
       "most_recent_filing": 2038563,
       "is_amended": false,
       "filed_date": "2026-10-22"
+    },
+    "C00815415/2040345": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Aamodt, Roy",
+          "state": "NY",
+          "transaction_id": "F65-3321551",
+          "entity_type": "IND",
+          "employer": "All Phase Landscaping",
+          "occupation": "President"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Abbatecola, Vincent P.",
+          "state": "NY",
+          "transaction_id": "F65-3321552",
+          "entity_type": "IND",
+          "employer": "Abbey Ice & Spring Water/Abbey Ice Co.",
+          "occupation": "Executive"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Affordable Energy PAC",
+          "state": "NY",
+          "transaction_id": "F65-3321568",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Caputo, Michael",
+          "state": "NY",
+          "transaction_id": "F65-3321541",
+          "entity_type": "IND",
+          "employer": "National Wealth Advisors",
+          "occupation": "Finance"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 250000,
+          "contributor": "Chiapperino, Robert",
+          "state": "NY",
+          "transaction_id": "F65-3321548",
+          "entity_type": "IND",
+          "employer": "All County Properties LLC",
+          "occupation": "Owner"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Chiapperino, Robert",
+          "state": "NY",
+          "transaction_id": "F65-3321567",
+          "entity_type": "IND",
+          "employer": "All County Properties LLC",
+          "occupation": "Owner"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Citizens for Day",
+          "state": "NY",
+          "transaction_id": "F65-3321213",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 350000,
+          "contributor": "Clementi, Chris",
+          "state": "FL",
+          "transaction_id": "F65-3321694",
+          "entity_type": "IND",
+          "employer": "Aeg",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Conway, William",
+          "state": "NY",
+          "transaction_id": "F65-3321561",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 169165,
+          "contributor": "Crockett, Scott",
+          "state": "FL",
+          "transaction_id": "F65-3321679",
+          "entity_type": "IND",
+          "employer": "Ebf",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Dolan, James",
+          "state": "NY",
+          "transaction_id": "F65-3321547",
+          "entity_type": "IND",
+          "employer": "Ford Products Road Owner LLC",
+          "occupation": "Owner`"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 200000,
+          "contributor": "Dr John Joyce for Congress",
+          "state": "PA",
+          "transaction_id": "F65-3321219",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 200000,
+          "contributor": "Durso, John",
+          "state": "NY",
+          "transaction_id": "F65-3321538",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Self"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Enbridge (U.S.) Inc. Political Action Committee (Enbridge PAC)",
+          "state": "TX",
+          "transaction_id": "F65-3321218",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Ferguson, Michael",
+          "state": "NY",
+          "transaction_id": "F65-3321546",
+          "entity_type": "IND",
+          "employer": "Fredonia",
+          "occupation": "Mayor"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Fleury, Brian",
+          "state": "NY",
+          "transaction_id": "F65-3321532",
+          "entity_type": "IND",
+          "employer": "WeCare Danali",
+          "occupation": "Environmental"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 350000,
+          "contributor": "Goldman, Shneur",
+          "state": "NY",
+          "transaction_id": "F65-3321543",
+          "entity_type": "IND",
+          "employer": "Real estate",
+          "occupation": "G&G management inc"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 500000,
+          "contributor": "Laborers' International Union of North America (LIUNA) PAC",
+          "state": "DC",
+          "transaction_id": "F65-3321570",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 200000,
+          "contributor": "Lamanna, Emilio",
+          "state": "NJ",
+          "transaction_id": "F65-3321562",
+          "entity_type": "IND",
+          "employer": "EL Family Property Owner LLC",
+          "occupation": "Owner"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 300000,
+          "contributor": "LoVecchio, Robert",
+          "state": "NY",
+          "transaction_id": "F65-3321553",
+          "entity_type": "IND",
+          "employer": "RJL Industries",
+          "occupation": "Owner"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Meissner, Stuart",
+          "state": "NY",
+          "transaction_id": "F65-3321206",
+          "entity_type": "IND",
+          "employer": "Meissner Associates",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 200000,
+          "contributor": "Messmer for Congress",
+          "state": "IN",
+          "transaction_id": "F65-3321569",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 500000,
+          "contributor": "Michigan's Resurgence PAC - MR PAC",
+          "state": "MI",
+          "transaction_id": "F65-3321220",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Nevins, John",
+          "state": "NY",
+          "transaction_id": "F65-3321537",
+          "entity_type": "IND",
+          "employer": "Self employed",
+          "occupation": "Self employed"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 200000,
+          "contributor": "O'Sullivan, James C",
+          "state": "NY",
+          "transaction_id": "F65-3321542",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 500000,
+          "contributor": "Re-Joyce PAC",
+          "state": "GA",
+          "transaction_id": "F65-3321217",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Regelski, Anthony",
+          "state": "NY",
+          "transaction_id": "F65-3321566",
+          "entity_type": "IND",
+          "employer": "RL Development",
+          "occupation": "Operator"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 150000,
+          "contributor": "Rhoades, Matthew",
+          "state": "DC",
+          "transaction_id": "F65-3321605",
+          "entity_type": "IND",
+          "employer": "CGCN Group",
+          "occupation": "Public Affairs"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 200000,
+          "contributor": "Schwartz, Kylie",
+          "state": "NY",
+          "transaction_id": "F65-3321533",
+          "entity_type": "IND",
+          "employer": "Homemaker",
+          "occupation": "Homemaker"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 162500,
+          "contributor": "Smiedt, Evan",
+          "state": "CA",
+          "transaction_id": "F65-3321591",
+          "entity_type": "IND",
+          "employer": "The Fundworks, LLC",
+          "occupation": "Business Owner"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Spilotras, Michael",
+          "state": "NJ",
+          "transaction_id": "F65-3321556",
+          "entity_type": "IND",
+          "employer": "Spilotras",
+          "occupation": "Owner"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 245898,
+          "contributor": "Teplitz, Anthony",
+          "state": "NY",
+          "transaction_id": "F65-3321558",
+          "entity_type": "IND",
+          "employer": "Teplitz Metal Processing",
+          "occupation": "Owner"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Weiss, Chaim",
+          "state": "NY",
+          "transaction_id": "F65-3321557",
+          "entity_type": "IND",
+          "employer": "Opus",
+          "occupation": "Advisor"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Worob, Michelle B.",
+          "state": "NY",
+          "transaction_id": "F65-3321203",
+          "entity_type": "IND",
+          "employer": "MS Worob LLC",
+          "occupation": "Deli Owner"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Yaffa, Earle",
+          "state": "NY",
+          "transaction_id": "F65-3321216",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        }
+      ],
+      "file_number": 2040345,
+      "committee_id": "C00815415",
+      "sha256": "cd766fdba9a053a57256ed550b829458d3bb3542822bd2e6d6fd4096a432de04",
+      "amendment_chain": [
+        2040345
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2040345,
+      "is_amended": false,
+      "filed_date": "2026-10-23"
     }
   }
 }
