@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-23T19:37:35+00:00",
+  "generated_at": "2026-10-23T20:33:18+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -112,15 +112,15 @@
       "date": "2026-10-21",
       "totals": {
         "lawler": 4860000,
-        "conley": 0
+        "conley": 1246177
       },
       "cumulative": {
         "lawler": 9800000,
-        "conley": 8450000
+        "conley": 9696177
       },
       "counts": {
         "lawler": 21,
-        "conley": 0
+        "conley": 5
       }
     },
     {
@@ -131,7 +131,7 @@
       },
       "cumulative": {
         "lawler": 9800000,
-        "conley": 8450000
+        "conley": 9696177
       },
       "counts": {
         "lawler": 0,
@@ -146,7 +146,7 @@
       },
       "cumulative": {
         "lawler": 9800000,
-        "conley": 8450000
+        "conley": 9696177
       },
       "counts": {
         "lawler": 0,
@@ -224,6 +224,13 @@
       "filed_date": "2026-10-22",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00787820/2039137/f65"
+    },
+    {
+      "committee_id": "C00787820",
+      "file_number": 2040629,
+      "filed_date": "2026-10-23",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00787820/2040629/f65"
     }
   ],
   "contributions": [
@@ -1318,9 +1325,69 @@
       "occupation": "OWNER",
       "committee_id": "C00558825",
       "file_number": 2036139
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 446177,
+      "contributor": "DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE",
+      "state": "DC",
+      "transaction_id": "20865872",
+      "entity_type": "PTY",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2040629
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 350000,
+      "contributor": "Eychaner, Rich",
+      "state": "IA",
+      "transaction_id": "20864390",
+      "entity_type": "IND",
+      "employer": "Eychaner Properties Inc.",
+      "occupation": "Self Employed",
+      "committee_id": "C00787820",
+      "file_number": 2040629
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "JACQUI IRWIN FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "20865888",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2040629
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 250000,
+      "contributor": "PATRIOT PAC",
+      "state": "NY",
+      "transaction_id": "20865865",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2040629
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "Zidell, Jay",
+      "state": "OR",
+      "transaction_id": "20864391",
+      "entity_type": "IND",
+      "employer": "Zidell Marine Inc.",
+      "occupation": "Bus. Exec.",
+      "committee_id": "C00787820",
+      "file_number": 2040629
     }
   ],
-  "report_count": 10,
+  "report_count": 11,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

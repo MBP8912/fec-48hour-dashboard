@@ -1070,6 +1070,72 @@
       "most_recent_filing": 2039137,
       "is_amended": false,
       "filed_date": "2026-10-22"
+    },
+    "C00787820/2040629": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-21",
+          "amount_cents": 446177,
+          "contributor": "DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE",
+          "state": "DC",
+          "transaction_id": "20865872",
+          "entity_type": "PTY",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 350000,
+          "contributor": "Eychaner, Rich",
+          "state": "IA",
+          "transaction_id": "20864390",
+          "entity_type": "IND",
+          "employer": "Eychaner Properties Inc.",
+          "occupation": "Self Employed"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "JACQUI IRWIN FOR CONGRESS",
+          "state": "CA",
+          "transaction_id": "20865888",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 250000,
+          "contributor": "PATRIOT PAC",
+          "state": "NY",
+          "transaction_id": "20865865",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Zidell, Jay",
+          "state": "OR",
+          "transaction_id": "20864391",
+          "entity_type": "IND",
+          "employer": "Zidell Marine Inc.",
+          "occupation": "Bus. Exec."
+        }
+      ],
+      "file_number": 2040629,
+      "committee_id": "C00787820",
+      "sha256": "338bd64b2a28a5fe15a3712e0bae60e62ad145fdd5ddc8641c4368dbb2ce2881",
+      "amendment_chain": [
+        2040629
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2040629,
+      "is_amended": false,
+      "filed_date": "2026-10-23"
     }
   }
 }
