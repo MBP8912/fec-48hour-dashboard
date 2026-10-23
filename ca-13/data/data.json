@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-23T22:32:06+00:00",
+  "generated_at": "2026-10-23T23:29:55+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -112,15 +112,15 @@
       "date": "2026-10-21",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 1677588
       },
       "cumulative": {
         "lawler": 2350000,
-        "conley": 4865000
+        "conley": 6542588
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 7
       }
     },
     {
@@ -131,7 +131,7 @@
       },
       "cumulative": {
         "lawler": 2700000,
-        "conley": 4865000
+        "conley": 6542588
       },
       "counts": {
         "lawler": 1,
@@ -146,7 +146,7 @@
       },
       "cumulative": {
         "lawler": 2700000,
-        "conley": 4865000
+        "conley": 6542588
       },
       "counts": {
         "lawler": 0,
@@ -210,6 +210,13 @@
       "filed_date": "2026-10-22",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00845826/2037080/f65"
+    },
+    {
+      "committee_id": "C00801431",
+      "file_number": 2040924,
+      "filed_date": "2026-10-23",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00801431/2040924/f65"
     }
   ],
   "contributions": [
@@ -658,6 +665,90 @@
       "file_number": 2037080
     },
     {
+      "date": "2026-10-21",
+      "amount_cents": 300000,
+      "contributor": "Cooperrider, Joel",
+      "state": "CA",
+      "transaction_id": "11469201",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00801431",
+      "file_number": 2040924
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 327588,
+      "contributor": "DCCC",
+      "state": "DC",
+      "transaction_id": "11466893",
+      "entity_type": "PTY",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2040924
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 250000,
+      "contributor": "Flowers Foods, Inc. Political Action Committee",
+      "state": "GA",
+      "transaction_id": "11466909",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2040924
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "Gray, Amy J.",
+      "state": "CA",
+      "transaction_id": "11466946",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Retired",
+      "committee_id": "C00801431",
+      "file_number": 2040924
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "International Brotherhood of Electrical Workers Political Action Committee",
+      "state": "DC",
+      "transaction_id": "11466912",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2040924
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 500000,
+      "contributor": "Planned Parenthood Action Fund Inc PAC, DBA Planned Parenthood Federal PAC",
+      "state": "NY",
+      "transaction_id": "11466498",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2040924
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "Wood, Elizabeth",
+      "state": "CT",
+      "transaction_id": "11469202",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00801431",
+      "file_number": 2040924
+    },
+    {
       "date": "2026-10-22",
       "amount_cents": 350000,
       "contributor": "Leach, Howard",
@@ -670,7 +761,7 @@
       "file_number": 2037080
     }
   ],
-  "report_count": 8,
+  "report_count": 9,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

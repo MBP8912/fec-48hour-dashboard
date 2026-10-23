@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-23T22:32:06+00:00",
+  "generated_at": "2026-10-23T23:29:54+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -112,30 +112,30 @@
       "date": "2026-10-21",
       "totals": {
         "lawler": 1300000,
-        "conley": 0
+        "conley": 1500000
       },
       "cumulative": {
         "lawler": 5359985,
-        "conley": 5831667
+        "conley": 7331667
       },
       "counts": {
         "lawler": 4,
-        "conley": 0
+        "conley": 8
       }
     },
     {
       "date": "2026-10-22",
       "totals": {
         "lawler": 1625000,
-        "conley": 0
+        "conley": 1200000
       },
       "cumulative": {
         "lawler": 6984985,
-        "conley": 5831667
+        "conley": 8531667
       },
       "counts": {
         "lawler": 8,
-        "conley": 0
+        "conley": 8
       }
     },
     {
@@ -146,7 +146,7 @@
       },
       "cumulative": {
         "lawler": 6984985,
-        "conley": 5831667
+        "conley": 8531667
       },
       "counts": {
         "lawler": 0,
@@ -196,6 +196,13 @@
       "filed_date": "2026-10-23",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00909515/2040517/f65"
+    },
+    {
+      "committee_id": "C00903948",
+      "file_number": 2040887,
+      "filed_date": "2026-10-23",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00903948/2040887/f65"
     }
   ],
   "contributions": [
@@ -705,6 +712,102 @@
     },
     {
       "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "AMERICAN FEDERATION OF GOVT. EMPL. POLITICAL ACTION COMMITTEE",
+      "state": "DC",
+      "transaction_id": "14723891",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2040887
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 200000,
+      "contributor": "Beck, Kim O'Keefe",
+      "state": "CA",
+      "transaction_id": "14753731",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00903948",
+      "file_number": 2040887
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 200000,
+      "contributor": "DOING RIGHT - RESULTS ACTION UNITY LEADERSHIP PAC",
+      "state": "CA",
+      "transaction_id": "14727610",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2040887
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 200000,
+      "contributor": "DR. RAUL RUIZ FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "14727590",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2040887
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "Edlow, Jack",
+      "state": "FL",
+      "transaction_id": "14753732",
+      "entity_type": "IND",
+      "employer": "Edlow International Company",
+      "occupation": "Consultant",
+      "committee_id": "C00903948",
+      "file_number": 2040887
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "JACQUI IRWIN FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "14727569",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2040887
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 100000,
+      "contributor": "Lutz, Megan",
+      "state": "NE",
+      "transaction_id": "14753733",
+      "entity_type": "IND",
+      "employer": "Alley Poyner Macchietto Architecture",
+      "occupation": "Architect",
+      "committee_id": "C00903948",
+      "file_number": 2040887
+    },
+    {
+      "date": "2026-10-21",
+      "amount_cents": 500000,
+      "contributor": "MACHINISTS NON PARTISAN POLITICAL LEAGUE OF THE INTERNATIONAL ASSOCIATION OF MACHINISTS & AEROSPACE WORKERS",
+      "state": "MD",
+      "transaction_id": "14723789",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2040887
+    },
+    {
+      "date": "2026-10-21",
       "amount_cents": 350000,
       "contributor": "BUILDING AMERICAN CONSERVATISM PAC",
       "state": "TX",
@@ -750,6 +853,102 @@
       "occupation": "",
       "committee_id": "C00909515",
       "file_number": 2040517
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 500000,
+      "contributor": "AMERICAN CRYSTAL SUGAR COMPANY POLITICAL ACTION COMMITTEE",
+      "state": "MN",
+      "transaction_id": "14830798",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2040887
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "Aranza, Gilbert",
+      "state": "TX",
+      "transaction_id": "14829582",
+      "entity_type": "IND",
+      "employer": "Airman Services Inc.",
+      "occupation": "CEO",
+      "committee_id": "C00903948",
+      "file_number": 2040887
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "Batt, Ellie",
+      "state": "NE",
+      "transaction_id": "14829586",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00903948",
+      "file_number": 2040887
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "COMMITTEE FOR A DEMOCRATIC FUTURE",
+      "state": "DC",
+      "transaction_id": "14809196",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2040887
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "GEORGE WHITESIDES FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "14830787",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2040887
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+      "state": "DC",
+      "transaction_id": "14809172",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2040887
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "Redmond, Ralph",
+      "state": "IN",
+      "transaction_id": "14829587",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00903948",
+      "file_number": 2040887
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "SUNFLOWER SEEDS PAC",
+      "state": "KS",
+      "transaction_id": "14809170",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2040887
     },
     {
       "date": "2026-10-22",
@@ -848,7 +1047,7 @@
       "file_number": 2040517
     }
   ],
-  "report_count": 6,
+  "report_count": 7,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

@@ -558,6 +558,92 @@
       "most_recent_filing": 2037080,
       "is_amended": false,
       "filed_date": "2026-10-22"
+    },
+    "C00801431/2040924": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-21",
+          "amount_cents": 300000,
+          "contributor": "Cooperrider, Joel",
+          "state": "CA",
+          "transaction_id": "11469201",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Wood, Elizabeth",
+          "state": "CT",
+          "transaction_id": "11469202",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "International Brotherhood of Electrical Workers Political Action Committee",
+          "state": "DC",
+          "transaction_id": "11466912",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 327588,
+          "contributor": "DCCC",
+          "state": "DC",
+          "transaction_id": "11466893",
+          "entity_type": "PTY",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 100000,
+          "contributor": "Gray, Amy J.",
+          "state": "CA",
+          "transaction_id": "11466946",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 500000,
+          "contributor": "Planned Parenthood Action Fund Inc PAC, DBA Planned Parenthood Federal PAC",
+          "state": "NY",
+          "transaction_id": "11466498",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-21",
+          "amount_cents": 250000,
+          "contributor": "Flowers Foods, Inc. Political Action Committee",
+          "state": "GA",
+          "transaction_id": "11466909",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2040924,
+      "committee_id": "C00801431",
+      "sha256": "7cb48b66c6a77d8dcdb629e84bcf3d5dced43e32e2ce232e14cc8354f3757767",
+      "amendment_chain": [
+        2040924
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2040924,
+      "is_amended": false,
+      "filed_date": "2026-10-23"
     }
   }
 }
