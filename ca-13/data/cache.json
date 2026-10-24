@@ -736,6 +736,112 @@
       "most_recent_filing": 2041220,
       "is_amended": false,
       "filed_date": "2026-10-24"
+    },
+    "C00845826/2041420": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Alegre, Lawrence M",
+          "state": "CA",
+          "transaction_id": "F65-1390735",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Chernne, Helen",
+          "state": "CA",
+          "transaction_id": "F65-1390736",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 250000,
+          "contributor": "Hollowell, Joseph",
+          "state": "CA",
+          "transaction_id": "F65-1390754",
+          "entity_type": "IND",
+          "employer": "LDC Group LLC",
+          "occupation": "Real Estate"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Ky, Kuy",
+          "state": "CA",
+          "transaction_id": "F65-1390738",
+          "entity_type": "IND",
+          "employer": "Kuy E. Ky, DDS",
+          "occupation": "Dentists"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Smith, Stephen",
+          "state": "CA",
+          "transaction_id": "F65-1390740",
+          "entity_type": "IND",
+          "employer": "SHSmithFarms",
+          "occupation": "Agriculture"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Sulaiman, Ayman",
+          "state": "CA",
+          "transaction_id": "F65-1390753",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Van De Pol, Jennifer Lynn",
+          "state": "CA",
+          "transaction_id": "F65-1390737",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-24",
+          "amount_cents": 100000,
+          "contributor": "Poimiroo, John R",
+          "state": "CA",
+          "transaction_id": "F65-1390739",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-24",
+          "amount_cents": 100000,
+          "contributor": "Trezza, William",
+          "state": "CA",
+          "transaction_id": "F65-1390741",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        }
+      ],
+      "file_number": 2041420,
+      "committee_id": "C00845826",
+      "sha256": "97b88d790f186cc635b6cb2784054e3fb4ec797f4a75e0ab06a4cf12f7821af8",
+      "amendment_chain": [
+        2041420
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041420,
+      "is_amended": false,
+      "filed_date": "2026-10-24"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-24T22:27:53+00:00",
+  "generated_at": "2026-10-24T23:25:34+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -141,30 +141,30 @@
     {
       "date": "2026-10-23",
       "totals": {
-        "lawler": 0,
+        "lawler": 850000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 3050000,
+        "lawler": 3900000,
         "conley": 7592588
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 7,
         "conley": 0
       }
     },
     {
       "date": "2026-10-24",
       "totals": {
-        "lawler": 0,
+        "lawler": 200000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 3050000,
+        "lawler": 4100000,
         "conley": 7592588
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 2,
         "conley": 0
       }
     }
@@ -246,6 +246,13 @@
       "filed_date": "2026-10-24",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00801431/2041220/f65"
+    },
+    {
+      "committee_id": "C00845826",
+      "file_number": 2041420,
+      "filed_date": "2026-10-24",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00845826/2041420/f65"
     }
   ],
   "contributions": [
@@ -860,9 +867,117 @@
       "occupation": "Retired",
       "committee_id": "C00845826",
       "file_number": 2037080
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "Alegre, Lawrence M",
+      "state": "CA",
+      "transaction_id": "F65-1390735",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00845826",
+      "file_number": 2041420
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "Chernne, Helen",
+      "state": "CA",
+      "transaction_id": "F65-1390736",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00845826",
+      "file_number": 2041420
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 250000,
+      "contributor": "Hollowell, Joseph",
+      "state": "CA",
+      "transaction_id": "F65-1390754",
+      "entity_type": "IND",
+      "employer": "LDC Group LLC",
+      "occupation": "Real Estate",
+      "committee_id": "C00845826",
+      "file_number": 2041420
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "Ky, Kuy",
+      "state": "CA",
+      "transaction_id": "F65-1390738",
+      "entity_type": "IND",
+      "employer": "Kuy E. Ky, DDS",
+      "occupation": "Dentists",
+      "committee_id": "C00845826",
+      "file_number": 2041420
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "Smith, Stephen",
+      "state": "CA",
+      "transaction_id": "F65-1390740",
+      "entity_type": "IND",
+      "employer": "SHSmithFarms",
+      "occupation": "Agriculture",
+      "committee_id": "C00845826",
+      "file_number": 2041420
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "Sulaiman, Ayman",
+      "state": "CA",
+      "transaction_id": "F65-1390753",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00845826",
+      "file_number": 2041420
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "Van De Pol, Jennifer Lynn",
+      "state": "CA",
+      "transaction_id": "F65-1390737",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00845826",
+      "file_number": 2041420
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "Poimiroo, John R",
+      "state": "CA",
+      "transaction_id": "F65-1390739",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00845826",
+      "file_number": 2041420
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "Trezza, William",
+      "state": "CA",
+      "transaction_id": "F65-1390741",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00845826",
+      "file_number": 2041420
     }
   ],
-  "report_count": 11,
+  "report_count": 12,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
