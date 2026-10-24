@@ -772,6 +772,52 @@
       "most_recent_filing": 2040472,
       "is_amended": false,
       "filed_date": "2026-10-23"
+    },
+    "C00865592/2041111": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-22",
+          "amount_cents": 250000,
+          "contributor": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. POLITICAL ACTION COMMITTEE (ABC PAC)",
+          "state": "DC",
+          "transaction_id": "180107823",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 250000,
+          "contributor": "COLLAZO, FRANCISCO JOSE",
+          "state": "AL",
+          "transaction_id": "180107840",
+          "entity_type": "IND",
+          "employer": "INFORMATION REQUESTED",
+          "occupation": "INFORMATION REQUESTED"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 250000,
+          "contributor": "MIN, JAMES",
+          "state": "VA",
+          "transaction_id": "261022001",
+          "entity_type": "IND",
+          "employer": "MILLER STRATEGIES LLC",
+          "occupation": "COO"
+        }
+      ],
+      "file_number": 2041111,
+      "committee_id": "C00865592",
+      "sha256": "8f119ab274224797f21b748896973eca981c33067827d631b0a282376ed09bf2",
+      "amendment_chain": [
+        2041111
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041111,
+      "is_amended": false,
+      "filed_date": "2026-10-24"
     }
   }
 }
