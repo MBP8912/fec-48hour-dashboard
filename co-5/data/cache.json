@@ -818,6 +818,112 @@
       "most_recent_filing": 2041111,
       "is_amended": false,
       "filed_date": "2026-10-24"
+    },
+    "C00911941/2041117": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-22",
+          "amount_cents": 350000,
+          "contributor": "Baker, Brenda",
+          "state": "CA",
+          "transaction_id": "14846306",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "Defrancia, James",
+          "state": "CO",
+          "transaction_id": "14846349",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "Geltz, Elizabeth",
+          "state": "CA",
+          "transaction_id": "14753566",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "Gonzalez, John Michael",
+          "state": "DC",
+          "transaction_id": "14846509",
+          "entity_type": "IND",
+          "employer": "Tiber Creek Group",
+          "occupation": "Consultant"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "Harris, Elizabeth",
+          "state": "CO",
+          "transaction_id": "14846484",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Lawyer"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 200000,
+          "contributor": "NATIONAL TREASURY EMPLOYEES UNION POLITICAL ACTION COMMITTEE",
+          "state": "DC",
+          "transaction_id": "14807017",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "Shader Smith, Jason",
+          "state": "CO",
+          "transaction_id": "14846485",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Marketing"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "SIERRA CLUB POLITICAL COMMITTEE",
+          "state": "CA",
+          "transaction_id": "14754127",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "Steves, Myron",
+          "state": "TX",
+          "transaction_id": "14827713",
+          "entity_type": "IND",
+          "employer": "Financial Casualty And Surety, Inc.",
+          "occupation": "Chair"
+        }
+      ],
+      "file_number": 2041117,
+      "committee_id": "C00911941",
+      "sha256": "ebfd843acd657b325570088c78103af59e18ea7eee1d51207e19a049c6c4e1d4",
+      "amendment_chain": [
+        2041117
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041117,
+      "is_amended": false,
+      "filed_date": "2026-10-24"
     }
   }
 }
