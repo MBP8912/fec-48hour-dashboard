@@ -214,6 +214,82 @@
       "most_recent_filing": 2040349,
       "is_amended": false,
       "filed_date": "2026-10-23"
+    },
+    "C00904284/2041199": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "Carvill, Wynne",
+          "state": "CA",
+          "transaction_id": "14749410",
+          "entity_type": "IND",
+          "employer": "Self-Employed",
+          "occupation": "Mediator"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 200000,
+          "contributor": "Cochran, Isaac",
+          "state": "OK",
+          "transaction_id": "14814102",
+          "entity_type": "IND",
+          "employer": "Self-Employed",
+          "occupation": "Self-Employed"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 199000,
+          "contributor": "Ferrante, Meg",
+          "state": "FL",
+          "transaction_id": "14788944",
+          "entity_type": "IND",
+          "employer": "Self-Employed",
+          "occupation": "Writer"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 199000,
+          "contributor": "Ferrante, Robert",
+          "state": "FL",
+          "transaction_id": "14788909",
+          "entity_type": "IND",
+          "employer": "Self-Employed",
+          "occupation": "Finance"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 150000,
+          "contributor": "Hooton, Edith",
+          "state": "CO",
+          "transaction_id": "14726709",
+          "entity_type": "IND",
+          "employer": "Self-Employed",
+          "occupation": "Candidate For State House"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "Place, Robert",
+          "state": "MA",
+          "transaction_id": "14464828",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        }
+      ],
+      "file_number": 2041199,
+      "committee_id": "C00904284",
+      "sha256": "d9ea67edb1d53ab96b88ca95db61bd9112371744d89228766e01f433f99d8f43",
+      "amendment_chain": [
+        2041199
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041199,
+      "is_amended": false,
+      "filed_date": "2026-10-24"
     }
   }
 }

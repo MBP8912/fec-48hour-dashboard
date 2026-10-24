@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-24T15:29:47+00:00",
+  "generated_at": "2026-10-24T16:30:31+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -127,15 +127,15 @@
       "date": "2026-10-22",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 948000
       },
       "cumulative": {
         "lawler": 1800000,
-        "conley": 1900000
+        "conley": 2848000
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 6
       }
     },
     {
@@ -146,7 +146,7 @@
       },
       "cumulative": {
         "lawler": 1800000,
-        "conley": 1900000
+        "conley": 2848000
       },
       "counts": {
         "lawler": 0,
@@ -161,7 +161,7 @@
       },
       "cumulative": {
         "lawler": 1800000,
-        "conley": 1900000
+        "conley": 2848000
       },
       "counts": {
         "lawler": 0,
@@ -197,6 +197,13 @@
       "filed_date": "2026-10-23",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00904284/2040349/f65"
+    },
+    {
+      "committee_id": "C00904284",
+      "file_number": 2041199,
+      "filed_date": "2026-10-24",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00904284/2041199/f65"
     }
   ],
   "contributions": [
@@ -379,9 +386,81 @@
       "occupation": "Retired",
       "committee_id": "C00904284",
       "file_number": 2040349
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "Carvill, Wynne",
+      "state": "CA",
+      "transaction_id": "14749410",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Mediator",
+      "committee_id": "C00904284",
+      "file_number": 2041199
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 200000,
+      "contributor": "Cochran, Isaac",
+      "state": "OK",
+      "transaction_id": "14814102",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Self-Employed",
+      "committee_id": "C00904284",
+      "file_number": 2041199
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 199000,
+      "contributor": "Ferrante, Meg",
+      "state": "FL",
+      "transaction_id": "14788944",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Writer",
+      "committee_id": "C00904284",
+      "file_number": 2041199
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 199000,
+      "contributor": "Ferrante, Robert",
+      "state": "FL",
+      "transaction_id": "14788909",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Finance",
+      "committee_id": "C00904284",
+      "file_number": 2041199
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 150000,
+      "contributor": "Hooton, Edith",
+      "state": "CO",
+      "transaction_id": "14726709",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Candidate For State House",
+      "committee_id": "C00904284",
+      "file_number": 2041199
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "Place, Robert",
+      "state": "MA",
+      "transaction_id": "14464828",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00904284",
+      "file_number": 2041199
     }
   ],
-  "report_count": 4,
+  "report_count": 5,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
