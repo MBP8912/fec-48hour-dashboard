@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-24T13:32:41+00:00",
+  "generated_at": "2026-10-24T14:29:53+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -127,15 +127,15 @@
       "date": "2026-10-22",
       "totals": {
         "lawler": 2928203,
-        "conley": 0
+        "conley": 1275000
       },
       "cumulative": {
         "lawler": 13167559,
-        "conley": 15645000
+        "conley": 16920000
       },
       "counts": {
         "lawler": 11,
-        "conley": 0
+        "conley": 10
       }
     },
     {
@@ -146,7 +146,7 @@
       },
       "cumulative": {
         "lawler": 13167559,
-        "conley": 15645000
+        "conley": 16920000
       },
       "counts": {
         "lawler": 0,
@@ -161,7 +161,7 @@
       },
       "cumulative": {
         "lawler": 13167559,
-        "conley": 15645000
+        "conley": 16920000
       },
       "counts": {
         "lawler": 0,
@@ -246,6 +246,13 @@
       "filed_date": "2026-10-23",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00915637/2040546/f65"
+    },
+    {
+      "committee_id": "C00915637",
+      "file_number": 2041131,
+      "filed_date": "2026-10-24",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00915637/2041131/f65"
     }
   ],
   "contributions": [
@@ -1736,9 +1743,129 @@
       "occupation": "ATTORNEY",
       "committee_id": "C00677286",
       "file_number": 2040411
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "COMMITTEE FOR A DEMOCRATIC FUTURE",
+      "state": "DC",
+      "transaction_id": "14900328",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2041131
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 200000,
+      "contributor": "GEORGE WHITESIDES FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "14900455",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2041131
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "Getting Results By Engaging The Grassroots PAC",
+      "state": "DC",
+      "transaction_id": "14900385",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2041131
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "Habush, Robert",
+      "state": "WI",
+      "transaction_id": "14855623",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2041131
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "JUSTICE LEAGUE PAC",
+      "state": "DC",
+      "transaction_id": "14900354",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2041131
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 250000,
+      "contributor": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+      "state": "DC",
+      "transaction_id": "14900424",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2041131
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 125000,
+      "contributor": "Landry, Timothy",
+      "state": "NH",
+      "transaction_id": "14855641",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2041131
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "Puntillo, Roberta",
+      "state": "WI",
+      "transaction_id": "14855580",
+      "entity_type": "IND",
+      "employer": "Godin Geraghty Puntillo Camilli",
+      "occupation": "Attorney",
+      "committee_id": "C00915637",
+      "file_number": 2041131
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "SUPPORTING EFFECTIVE THOUGHTFUL LEADERSHIP PAC",
+      "state": "RI",
+      "transaction_id": "14873824",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2041131
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "Wagner, Benjamin",
+      "state": "NC",
+      "transaction_id": "14855660",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2041131
     }
   ],
-  "report_count": 11,
+  "report_count": 12,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
