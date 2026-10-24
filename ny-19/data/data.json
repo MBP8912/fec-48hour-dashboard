@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-24T17:28:45+00:00",
+  "generated_at": "2026-10-24T18:31:41+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -127,15 +127,15 @@
       "date": "2026-10-22",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 200000
       },
       "cumulative": {
         "lawler": 0,
-        "conley": 5150000
+        "conley": 5350000
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 2
       }
     },
     {
@@ -146,7 +146,7 @@
       },
       "cumulative": {
         "lawler": 0,
-        "conley": 5150000
+        "conley": 5350000
       },
       "counts": {
         "lawler": 0,
@@ -161,7 +161,7 @@
       },
       "cumulative": {
         "lawler": 0,
-        "conley": 5150000
+        "conley": 5350000
       },
       "counts": {
         "lawler": 0,
@@ -204,6 +204,13 @@
       "filed_date": "2026-10-23",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00793760/2040421/f65"
+    },
+    {
+      "committee_id": "C00793760",
+      "file_number": 2041253,
+      "filed_date": "2026-10-24",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00793760/2041253/f65"
     }
   ],
   "contributions": [
@@ -494,9 +501,33 @@
       "occupation": "Retired",
       "committee_id": "C00793760",
       "file_number": 2040421
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "Moses, Jonathan",
+      "state": "NY",
+      "transaction_id": "11499652",
+      "entity_type": "IND",
+      "employer": "Wachtell LIpton Rosen & Katz",
+      "occupation": "Attorney",
+      "committee_id": "C00793760",
+      "file_number": 2041253
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "Slutzky, Barbara",
+      "state": "NY",
+      "transaction_id": "11499709",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Retired",
+      "committee_id": "C00793760",
+      "file_number": 2041253
     }
   ],
-  "report_count": 5,
+  "report_count": 6,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

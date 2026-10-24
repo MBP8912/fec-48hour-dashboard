@@ -320,6 +320,42 @@
       "most_recent_filing": 2040421,
       "is_amended": false,
       "filed_date": "2026-10-23"
+    },
+    "C00793760/2041253": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "Moses, Jonathan",
+          "state": "NY",
+          "transaction_id": "11499652",
+          "entity_type": "IND",
+          "employer": "Wachtell LIpton Rosen & Katz",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "Slutzky, Barbara",
+          "state": "NY",
+          "transaction_id": "11499709",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Retired"
+        }
+      ],
+      "file_number": 2041253,
+      "committee_id": "C00793760",
+      "sha256": "8fc255fd7b40ad5a18aee8dc3e2c80aa2d2e4eed0d8d2fbad103e1e3e4af4384",
+      "amendment_chain": [
+        2041253
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041253,
+      "is_amended": false,
+      "filed_date": "2026-10-24"
     }
   }
 }
