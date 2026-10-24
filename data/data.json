@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-24T20:28:07+00:00",
+  "generated_at": "2026-10-24T21:29:09+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -126,15 +126,15 @@
     {
       "date": "2026-10-22",
       "totals": {
-        "lawler": 0,
+        "lawler": 2220507,
         "conley": 5350000
       },
       "cumulative": {
-        "lawler": 28805432,
+        "lawler": 31025939,
         "conley": 22021689
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 9,
         "conley": 28
       }
     },
@@ -145,7 +145,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 28805432,
+        "lawler": 31025939,
         "conley": 22021689
       },
       "counts": {
@@ -160,7 +160,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 28805432,
+        "lawler": 31025939,
         "conley": 22021689
       },
       "counts": {
@@ -246,6 +246,13 @@
       "filed_date": "2026-10-23",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00900431/2040919/f65"
+    },
+    {
+      "committee_id": "C00815415",
+      "file_number": 2041340,
+      "filed_date": "2026-10-24",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00815415/2041340/f65"
     }
   ],
   "contributions": [
@@ -2975,6 +2982,114 @@
     },
     {
       "date": "2026-10-22",
+      "amount_cents": 350000,
+      "contributor": "13th Colony Leadership Committee",
+      "state": "GA",
+      "transaction_id": "F65-3321335",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00815415",
+      "file_number": 2041340
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 150000,
+      "contributor": "Conquering Cancer PAC",
+      "state": "VA",
+      "transaction_id": "F65-3321725",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00815415",
+      "file_number": 2041340
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 250000,
+      "contributor": "Frost, Phillip",
+      "state": "FL",
+      "transaction_id": "F65-3321370",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "MD",
+      "committee_id": "C00815415",
+      "file_number": 2041340
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 350000,
+      "contributor": "Leach, Gretchen",
+      "state": "FL",
+      "transaction_id": "F65-3321649",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00815415",
+      "file_number": 2041340
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 170507,
+      "contributor": "Leininger, Cecelia",
+      "state": "TX",
+      "transaction_id": "F65-3321729",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00815415",
+      "file_number": 2041340
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 156152,
+      "contributor": "Leininger, James",
+      "state": "TX",
+      "transaction_id": "F65-3321619",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00815415",
+      "file_number": 2041340
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 193848,
+      "contributor": "Leininger, James",
+      "state": "TX",
+      "transaction_id": "F65-3321634",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00815415",
+      "file_number": 2041340
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 350000,
+      "contributor": "Standing for American Freedoms Leadership PAC",
+      "state": "MI",
+      "transaction_id": "F65-3321505",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00815415",
+      "file_number": 2041340
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 250000,
+      "contributor": "Together for Our Majority Political Action Committee (TOMPAC)",
+      "state": "VA",
+      "transaction_id": "F65-3321509",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00815415",
+      "file_number": 2041340
+    },
+    {
+      "date": "2026-10-22",
       "amount_cents": 100000,
       "contributor": "CHENG, ANN",
       "state": "OR",
@@ -3310,7 +3425,7 @@
       "file_number": 2040919
     }
   ],
-  "report_count": 11,
+  "report_count": 12,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

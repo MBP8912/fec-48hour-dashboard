@@ -2786,6 +2786,112 @@
       "most_recent_filing": 2040919,
       "is_amended": false,
       "filed_date": "2026-10-23"
+    },
+    "C00815415/2041340": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-22",
+          "amount_cents": 350000,
+          "contributor": "13th Colony Leadership Committee",
+          "state": "GA",
+          "transaction_id": "F65-3321335",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 150000,
+          "contributor": "Conquering Cancer PAC",
+          "state": "VA",
+          "transaction_id": "F65-3321725",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 250000,
+          "contributor": "Frost, Phillip",
+          "state": "FL",
+          "transaction_id": "F65-3321370",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "MD"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 350000,
+          "contributor": "Leach, Gretchen",
+          "state": "FL",
+          "transaction_id": "F65-3321649",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 170507,
+          "contributor": "Leininger, Cecelia",
+          "state": "TX",
+          "transaction_id": "F65-3321729",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 156152,
+          "contributor": "Leininger, James",
+          "state": "TX",
+          "transaction_id": "F65-3321619",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 193848,
+          "contributor": "Leininger, James",
+          "state": "TX",
+          "transaction_id": "F65-3321634",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 350000,
+          "contributor": "Standing for American Freedoms Leadership PAC",
+          "state": "MI",
+          "transaction_id": "F65-3321505",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 250000,
+          "contributor": "Together for Our Majority Political Action Committee (TOMPAC)",
+          "state": "VA",
+          "transaction_id": "F65-3321509",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2041340,
+      "committee_id": "C00815415",
+      "sha256": "88fe21aba87c3518505aeb5d4230daeaf8c4838c75bbbf37be9d03c49ab5516b",
+      "amendment_chain": [
+        2041340
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041340,
+      "is_amended": false,
+      "filed_date": "2026-10-24"
     }
   }
 }
