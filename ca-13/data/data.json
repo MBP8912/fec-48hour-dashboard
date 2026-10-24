@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-24T16:30:31+00:00",
+  "generated_at": "2026-10-24T17:28:45+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -127,15 +127,15 @@
       "date": "2026-10-22",
       "totals": {
         "lawler": 700000,
-        "conley": 0
+        "conley": 1050000
       },
       "cumulative": {
         "lawler": 3050000,
-        "conley": 6542588
+        "conley": 7592588
       },
       "counts": {
         "lawler": 2,
-        "conley": 0
+        "conley": 5
       }
     },
     {
@@ -146,7 +146,7 @@
       },
       "cumulative": {
         "lawler": 3050000,
-        "conley": 6542588
+        "conley": 7592588
       },
       "counts": {
         "lawler": 0,
@@ -161,7 +161,7 @@
       },
       "cumulative": {
         "lawler": 3050000,
-        "conley": 6542588
+        "conley": 7592588
       },
       "counts": {
         "lawler": 0,
@@ -239,6 +239,13 @@
       "filed_date": "2026-10-24",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00845826/2041096/f65"
+    },
+    {
+      "committee_id": "C00801431",
+      "file_number": 2041220,
+      "filed_date": "2026-10-24",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00801431/2041220/f65"
     }
   ],
   "contributions": [
@@ -773,6 +780,66 @@
     {
       "date": "2026-10-22",
       "amount_cents": 350000,
+      "contributor": "Albert, Carl",
+      "state": "CA",
+      "transaction_id": "11508711",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Attorney",
+      "committee_id": "C00801431",
+      "file_number": 2041220
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 400000,
+      "contributor": "Elect More Democrats PAC",
+      "state": "DC",
+      "transaction_id": "11508312",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2041220
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "Reichelt, Laura",
+      "state": "CA",
+      "transaction_id": "11508714",
+      "entity_type": "IND",
+      "employer": "Wood Oil Company of California, LLC",
+      "occupation": "President",
+      "committee_id": "C00801431",
+      "file_number": 2041220
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "Wong, Michael",
+      "state": "WA",
+      "transaction_id": "11508712",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Woodworker",
+      "committee_id": "C00801431",
+      "file_number": 2041220
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "Zidell, Jay",
+      "state": "OR",
+      "transaction_id": "11508713",
+      "entity_type": "IND",
+      "employer": "Zidell Marine, Inc.",
+      "occupation": "Executive",
+      "committee_id": "C00801431",
+      "file_number": 2041220
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 350000,
       "contributor": "Leach, Gretchen",
       "state": "FL",
       "transaction_id": "F65-1390306",
@@ -795,7 +862,7 @@
       "file_number": 2037080
     }
   ],
-  "report_count": 10,
+  "report_count": 11,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
