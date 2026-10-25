@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-25T19:28:37+00:00",
+  "generated_at": "2026-10-25T20:27:51+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -142,15 +142,15 @@
       "date": "2026-10-23",
       "totals": {
         "lawler": 2000000,
-        "conley": 0
+        "conley": 2454167
       },
       "cumulative": {
         "lawler": 8984985,
-        "conley": 8531667
+        "conley": 10985834
       },
       "counts": {
         "lawler": 7,
-        "conley": 0
+        "conley": 11
       }
     },
     {
@@ -161,7 +161,7 @@
       },
       "cumulative": {
         "lawler": 9084985,
-        "conley": 8531667
+        "conley": 10985834
       },
       "counts": {
         "lawler": 1,
@@ -176,7 +176,7 @@
       },
       "cumulative": {
         "lawler": 9084985,
-        "conley": 8531667
+        "conley": 10985834
       },
       "counts": {
         "lawler": 0,
@@ -240,6 +240,13 @@
       "filed_date": "2026-10-25",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00909515/2041614/f65"
+    },
+    {
+      "committee_id": "C00903948",
+      "file_number": 2041732,
+      "filed_date": "2026-10-25",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00903948/2041732/f65"
     }
   ],
   "contributions": [
@@ -1086,6 +1093,138 @@
     {
       "date": "2026-10-23",
       "amount_cents": 500000,
+      "contributor": "BLACK ECONOMIC ALLIANCE PAC",
+      "state": "DC",
+      "transaction_id": "14907718",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2041732
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "BRIDGE THE GAP PAC",
+      "state": "DC",
+      "transaction_id": "14890687",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2041732
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "Bansal, Preeta",
+      "state": "FL",
+      "transaction_id": "14923948",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Business Consultant",
+      "committee_id": "C00903948",
+      "file_number": 2041732
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 250000,
+      "contributor": "DEFEND THE VOTE",
+      "state": "DC",
+      "transaction_id": "14966544",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2041732
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "Dreyfus, Mark",
+      "state": "VA",
+      "transaction_id": "14923967",
+      "entity_type": "IND",
+      "employer": "ECPI University",
+      "occupation": "Administrator",
+      "committee_id": "C00903948",
+      "file_number": 2041732
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 104167,
+      "contributor": "Greenberg, Jack",
+      "state": "IL",
+      "transaction_id": "14923999",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00903948",
+      "file_number": 2041732
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 250000,
+      "contributor": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS (IPAL)",
+      "state": "DC",
+      "transaction_id": "14907626",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2041732
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 350000,
+      "contributor": "Marquis, Benjamin",
+      "state": "IL",
+      "transaction_id": "14972310",
+      "entity_type": "IND",
+      "employer": "Marquis Management LLC",
+      "occupation": "Director",
+      "committee_id": "C00903948",
+      "file_number": 2041732
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 250000,
+      "contributor": "NATIONAL TREASURY EMPLOYEES UNION POLITICAL ACTION COMMITTEE",
+      "state": "DC",
+      "transaction_id": "14908224",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2041732
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "TOMORROW PAC",
+      "state": "DC",
+      "transaction_id": "14966526",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2041732
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 350000,
+      "contributor": "Weller, Rachel Moore",
+      "state": "DC",
+      "transaction_id": "14908184",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Investor",
+      "committee_id": "C00903948",
+      "file_number": 2041732
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 500000,
       "contributor": "10 PUSH UPS PAC",
       "state": "GA",
       "transaction_id": "67FD9897FA1F644B397C",
@@ -1180,7 +1319,7 @@
       "file_number": 2041614
     }
   ],
-  "report_count": 8,
+  "report_count": 9,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

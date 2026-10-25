@@ -908,6 +908,132 @@
       "most_recent_filing": 2041614,
       "is_amended": false,
       "filed_date": "2026-10-25"
+    },
+    "C00903948/2041732": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Bansal, Preeta",
+          "state": "FL",
+          "transaction_id": "14923948",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Business Consultant"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 500000,
+          "contributor": "BLACK ECONOMIC ALLIANCE PAC",
+          "state": "DC",
+          "transaction_id": "14907718",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "BRIDGE THE GAP PAC",
+          "state": "DC",
+          "transaction_id": "14890687",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 250000,
+          "contributor": "DEFEND THE VOTE",
+          "state": "DC",
+          "transaction_id": "14966544",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Dreyfus, Mark",
+          "state": "VA",
+          "transaction_id": "14923967",
+          "entity_type": "IND",
+          "employer": "ECPI University",
+          "occupation": "Administrator"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 104167,
+          "contributor": "Greenberg, Jack",
+          "state": "IL",
+          "transaction_id": "14923999",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 250000,
+          "contributor": "INT'L ASSOCIATION OF BRIDGE, STRUCTURAL, ORNAMENTAL AND REINFORCING IRON WORKERS (IPAL)",
+          "state": "DC",
+          "transaction_id": "14907626",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Marquis, Benjamin",
+          "state": "IL",
+          "transaction_id": "14972310",
+          "entity_type": "IND",
+          "employer": "Marquis Management LLC",
+          "occupation": "Director"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 250000,
+          "contributor": "NATIONAL TREASURY EMPLOYEES UNION POLITICAL ACTION COMMITTEE",
+          "state": "DC",
+          "transaction_id": "14908224",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "TOMORROW PAC",
+          "state": "DC",
+          "transaction_id": "14966526",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Weller, Rachel Moore",
+          "state": "DC",
+          "transaction_id": "14908184",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Investor"
+        }
+      ],
+      "file_number": 2041732,
+      "committee_id": "C00903948",
+      "sha256": "b20c36943b04987e28422fc716e3f603686ce18afd695312c51add52721309a1",
+      "amendment_chain": [
+        2041732
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041732,
+      "is_amended": false,
+      "filed_date": "2026-10-25"
     }
   }
 }

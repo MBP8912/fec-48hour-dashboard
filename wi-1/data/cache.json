@@ -2044,6 +2044,32 @@
       "most_recent_filing": 2041591,
       "is_amended": false,
       "filed_date": "2026-10-25"
+    },
+    "C00677286/2041712": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-24",
+          "amount_cents": 350000,
+          "contributor": "DONDERO, JAMES D",
+          "state": "TX",
+          "transaction_id": "TX95206",
+          "entity_type": "IND",
+          "employer": "NEXPOINT",
+          "occupation": "FOUNDER"
+        }
+      ],
+      "file_number": 2041712,
+      "committee_id": "C00677286",
+      "sha256": "393fe9293201055221b877f40624dfe2580dcac39dff3862560c6a4a61f91ee9",
+      "amendment_chain": [
+        2041712
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041712,
+      "is_amended": false,
+      "filed_date": "2026-10-25"
     }
   }
 }

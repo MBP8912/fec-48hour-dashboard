@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-25T19:28:37+00:00",
+  "generated_at": "2026-10-25T20:27:51+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -156,15 +156,15 @@
     {
       "date": "2026-10-24",
       "totals": {
-        "lawler": 714355,
+        "lawler": 1064355,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 15781914,
+        "lawler": 16131914,
         "conley": 16920000
       },
       "counts": {
-        "lawler": 3,
+        "lawler": 4,
         "conley": 0
       }
     },
@@ -175,7 +175,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 15781914,
+        "lawler": 16131914,
         "conley": 16920000
       },
       "counts": {
@@ -282,6 +282,13 @@
       "filed_date": "2026-10-25",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00677286/2041591/f65"
+    },
+    {
+      "committee_id": "C00677286",
+      "file_number": 2041712,
+      "filed_date": "2026-10-25",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00677286/2041712/f65"
     }
   ],
   "contributions": [
@@ -2000,9 +2007,21 @@
       "occupation": "CEO",
       "committee_id": "C00677286",
       "file_number": 2041586
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 350000,
+      "contributor": "DONDERO, JAMES D",
+      "state": "TX",
+      "transaction_id": "TX95206",
+      "entity_type": "IND",
+      "employer": "NEXPOINT",
+      "occupation": "FOUNDER",
+      "committee_id": "C00677286",
+      "file_number": 2041712
     }
   ],
-  "report_count": 14,
+  "report_count": 15,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
