@@ -2070,6 +2070,122 @@
       "most_recent_filing": 2041712,
       "is_amended": false,
       "filed_date": "2026-10-25"
+    },
+    "C00915637/2041790": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "AMERICAN INNOVATION POLITICAL ACTION COMMITTEE (AMI PAC)",
+          "state": "CA",
+          "transaction_id": "14888322",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "BUILDING RELATIONSHIPS IN DIVERSE GEOGRAPHIC ENVIRONMENTS PAC (BRIDGE PAC)",
+          "state": "DC",
+          "transaction_id": "14888667",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 200000,
+          "contributor": "CASTEN FOR CONGRESS",
+          "state": "IL",
+          "transaction_id": "14922954",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Cohen, Henry Rodgin",
+          "state": "NY",
+          "transaction_id": "14922763",
+          "entity_type": "IND",
+          "employer": "Sullivan & Cromwell LLP",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 500000,
+          "contributor": "D.R.I.V.E. - DEM, REP, IND VOTER ED (THE PAC OF THE INT'L BRHD OF TEAMSTERS)",
+          "state": "DC",
+          "transaction_id": "14888180",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Graham, Paul",
+          "state": "CA",
+          "transaction_id": "14922801",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Livingston, Jessica",
+          "state": "CA",
+          "transaction_id": "14922821",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "MAINTAINING INTEGRITY IN OUR NATION PAC",
+          "state": "DC",
+          "transaction_id": "14922916",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Miner, Judd",
+          "state": "IL",
+          "transaction_id": "14923164",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 200000,
+          "contributor": "PETE AGUILAR FOR CONGRESS",
+          "state": "CA",
+          "transaction_id": "14922851",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2041790,
+      "committee_id": "C00915637",
+      "sha256": "e950f19bcfe04d11785bba715b4ba9650239ab471aeec24bb5148ca9cf02cca5",
+      "amendment_chain": [
+        2041790
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041790,
+      "is_amended": false,
+      "filed_date": "2026-10-25"
     }
   }
 }

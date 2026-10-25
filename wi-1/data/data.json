@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-25T21:28:36+00:00",
+  "generated_at": "2026-10-25T22:26:06+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -142,15 +142,15 @@
       "date": "2026-10-23",
       "totals": {
         "lawler": 1900000,
-        "conley": 0
+        "conley": 2600000
       },
       "cumulative": {
         "lawler": 15067559,
-        "conley": 16920000
+        "conley": 19520000
       },
       "counts": {
         "lawler": 6,
-        "conley": 0
+        "conley": 10
       }
     },
     {
@@ -161,7 +161,7 @@
       },
       "cumulative": {
         "lawler": 16131914,
-        "conley": 16920000
+        "conley": 19520000
       },
       "counts": {
         "lawler": 4,
@@ -176,7 +176,7 @@
       },
       "cumulative": {
         "lawler": 16131914,
-        "conley": 16920000
+        "conley": 19520000
       },
       "counts": {
         "lawler": 0,
@@ -289,6 +289,13 @@
       "filed_date": "2026-10-25",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00677286/2041712/f65"
+    },
+    {
+      "committee_id": "C00915637",
+      "file_number": 2041790,
+      "filed_date": "2026-10-25",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00915637/2041790/f65"
     }
   ],
   "contributions": [
@@ -1973,6 +1980,126 @@
       "file_number": 2041586
     },
     {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "AMERICAN INNOVATION POLITICAL ACTION COMMITTEE (AMI PAC)",
+      "state": "CA",
+      "transaction_id": "14888322",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2041790
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 350000,
+      "contributor": "BUILDING RELATIONSHIPS IN DIVERSE GEOGRAPHIC ENVIRONMENTS PAC (BRIDGE PAC)",
+      "state": "DC",
+      "transaction_id": "14888667",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2041790
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 200000,
+      "contributor": "CASTEN FOR CONGRESS",
+      "state": "IL",
+      "transaction_id": "14922954",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2041790
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 350000,
+      "contributor": "Cohen, Henry Rodgin",
+      "state": "NY",
+      "transaction_id": "14922763",
+      "entity_type": "IND",
+      "employer": "Sullivan & Cromwell LLP",
+      "occupation": "Attorney",
+      "committee_id": "C00915637",
+      "file_number": 2041790
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 500000,
+      "contributor": "D.R.I.V.E. - DEM, REP, IND VOTER ED (THE PAC OF THE INT'L BRHD OF TEAMSTERS)",
+      "state": "DC",
+      "transaction_id": "14888180",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2041790
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 350000,
+      "contributor": "Graham, Paul",
+      "state": "CA",
+      "transaction_id": "14922801",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Retired",
+      "committee_id": "C00915637",
+      "file_number": 2041790
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 350000,
+      "contributor": "Livingston, Jessica",
+      "state": "CA",
+      "transaction_id": "14922821",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Retired",
+      "committee_id": "C00915637",
+      "file_number": 2041790
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "MAINTAINING INTEGRITY IN OUR NATION PAC",
+      "state": "DC",
+      "transaction_id": "14922916",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2041790
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "Miner, Judd",
+      "state": "IL",
+      "transaction_id": "14923164",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2041790
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 200000,
+      "contributor": "PETE AGUILAR FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "14922851",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2041790
+    },
+    {
       "date": "2026-10-24",
       "amount_cents": 208203,
       "contributor": "BAKER, BRIAN",
@@ -2021,7 +2148,7 @@
       "file_number": 2041712
     }
   ],
-  "report_count": 15,
+  "report_count": 16,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

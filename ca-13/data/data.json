@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-25T21:28:36+00:00",
+  "generated_at": "2026-10-25T22:26:07+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -156,30 +156,30 @@
     {
       "date": "2026-10-24",
       "totals": {
-        "lawler": 200000,
+        "lawler": 4575000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 4100000,
+        "lawler": 8475000,
         "conley": 8692588
       },
       "counts": {
-        "lawler": 2,
+        "lawler": 25,
         "conley": 0
       }
     },
     {
       "date": "2026-10-25",
       "totals": {
-        "lawler": 0,
+        "lawler": 500000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 4100000,
+        "lawler": 8975000,
         "conley": 8692588
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 1,
         "conley": 0
       }
     }
@@ -275,6 +275,13 @@
       "filed_date": "2026-10-25",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00801431/2041571/f65"
+    },
+    {
+      "committee_id": "C00845826",
+      "file_number": 2041782,
+      "filed_date": "2026-10-25",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00845826/2041782/f65"
     }
   ],
   "contributions": [
@@ -1037,6 +1044,138 @@
     {
       "date": "2026-10-24",
       "amount_cents": 100000,
+      "contributor": "Asian American Hotel Owners Association PAC (AAHOA PAC)",
+      "state": "VA",
+      "transaction_id": "F65-1390896",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "Bell, Shannon",
+      "state": "CA",
+      "transaction_id": "F65-1390906",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "Brooks, Robert",
+      "state": "CA",
+      "transaction_id": "F65-1390911",
+      "entity_type": "IND",
+      "employer": "AG Pest Control",
+      "occupation": "Owner",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 150000,
+      "contributor": "Costa, Denise",
+      "state": "CA",
+      "transaction_id": "F65-1390912",
+      "entity_type": "IND",
+      "employer": "Noble Outfitters",
+      "occupation": "Owner",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "Filios, William",
+      "state": "CA",
+      "transaction_id": "F65-1390903",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 400000,
+      "contributor": "For Our Nation's Greatness, Resilience, Excellence, Strength, and Security (FONGRESS) PAC",
+      "state": "MD",
+      "transaction_id": "F65-1390894",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "Gudgel, Daniel",
+      "state": "CA",
+      "transaction_id": "F65-1390950",
+      "entity_type": "IND",
+      "employer": "Information Requested",
+      "occupation": "Information Requested",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "Jam PAC",
+      "state": "GA",
+      "transaction_id": "F65-1390888",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "Nickum, David",
+      "state": "CA",
+      "transaction_id": "F65-1390949",
+      "entity_type": "IND",
+      "employer": "Valley Farm Transport",
+      "occupation": "Owner",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "Palmer, Diane",
+      "state": "CA",
+      "transaction_id": "F65-1390916",
+      "entity_type": "IND",
+      "employer": "Palmer Financial and Insurance Service",
+      "occupation": "Financial Planner",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "Pistacchio, Tom",
+      "state": "CA",
+      "transaction_id": "F65-1390948",
+      "entity_type": "IND",
+      "employer": "Americas Trailer",
+      "occupation": "CEO",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
       "contributor": "Poimiroo, John R",
       "state": "CA",
       "transaction_id": "F65-1390739",
@@ -1049,6 +1188,102 @@
     {
       "date": "2026-10-24",
       "amount_cents": 100000,
+      "contributor": "Ramco Properties, LP",
+      "state": "CA",
+      "transaction_id": "F65-1390947",
+      "entity_type": "COM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "Ranger PAC",
+      "state": "GA",
+      "transaction_id": "F65-1390885",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 250000,
+      "contributor": "Republican Governance Group/Tuesday Group PAC",
+      "state": "FL",
+      "transaction_id": "F65-1390890",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 500000,
+      "contributor": "Responsibility and Freedom Work PAC (RFWPAC)",
+      "state": "MS",
+      "transaction_id": "F65-1390893",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 350000,
+      "contributor": "Schwarzman, Christine",
+      "state": "NY",
+      "transaction_id": "F65-1390907",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 350000,
+      "contributor": "Schwarzman, Stephen",
+      "state": "NY",
+      "transaction_id": "F65-1390908",
+      "entity_type": "IND",
+      "employer": "Blackstone",
+      "occupation": "Chief Executive Officer",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 500000,
+      "contributor": "Seal PAC Supporting Electing American Leaders PAC",
+      "state": "GA",
+      "transaction_id": "F65-1390892",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "Teapartyexpress.org",
+      "state": "CA",
+      "transaction_id": "F65-1390886",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
       "contributor": "Trezza, William",
       "state": "CA",
       "transaction_id": "F65-1390741",
@@ -1057,9 +1292,69 @@
       "occupation": "Retired",
       "committee_id": "C00845826",
       "file_number": 2041420
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 125000,
+      "contributor": "Valor PAC",
+      "state": "GA",
+      "transaction_id": "F65-1390887",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 250000,
+      "contributor": "Vander Schaaf, Susan A",
+      "state": "CA",
+      "transaction_id": "F65-1390909",
+      "entity_type": "IND",
+      "employer": "Vander Schaaf Dairy",
+      "occupation": "Dairy Farming",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 200000,
+      "contributor": "Virtue, Robert A",
+      "state": "CA",
+      "transaction_id": "F65-1390918",
+      "entity_type": "IND",
+      "employer": "Virco MFG Corp.",
+      "occupation": "Chief Executive Officer",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "Wagner Land and Cattle Co.",
+      "state": "CA",
+      "transaction_id": "F65-1390919",
+      "entity_type": "COM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00845826",
+      "file_number": 2041782
+    },
+    {
+      "date": "2026-10-25",
+      "amount_cents": 500000,
+      "contributor": "JEM Ranches LLC",
+      "state": "CA",
+      "transaction_id": "F65-1390922",
+      "entity_type": "COM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00845826",
+      "file_number": 2041782
     }
   ],
-  "report_count": 13,
+  "report_count": 14,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
