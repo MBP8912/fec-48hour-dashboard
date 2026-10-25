@@ -356,6 +356,62 @@
       "most_recent_filing": 2041253,
       "is_amended": false,
       "filed_date": "2026-10-24"
+    },
+    "C00793760/2041598": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-23",
+          "amount_cents": 250000,
+          "contributor": "Int'l Association of Bridge, Structural, Ornamental & Reinforcing Iron Workers (IPAL)",
+          "state": "DC",
+          "transaction_id": "11522713",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 250000,
+          "contributor": "Elsner, Michael",
+          "state": "SC",
+          "transaction_id": "11522784",
+          "entity_type": "IND",
+          "employer": "Motley Rice, LLC",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Shepard, Luke",
+          "state": "IL",
+          "transaction_id": "11522785",
+          "entity_type": "IND",
+          "employer": "Playlab",
+          "occupation": "Engineer"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 250000,
+          "contributor": "Laborers Int'l Union of North America (LIUNA) PAC",
+          "state": "DC",
+          "transaction_id": "11510967",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2041598,
+      "committee_id": "C00793760",
+      "sha256": "401c4f691f249c430598dda6ab4eb47f79e322c32db9302fbb04c6729603a356",
+      "amendment_chain": [
+        2041598
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041598,
+      "is_amended": false,
+      "filed_date": "2026-10-25"
     }
   }
 }

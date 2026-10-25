@@ -2008,6 +2008,42 @@
       "most_recent_filing": 2041586,
       "is_amended": false,
       "filed_date": "2026-10-25"
+    },
+    "C00677286/2041591": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-23",
+          "amount_cents": 500000,
+          "contributor": "CIRCLE THE WAGONS PAC",
+          "state": "NY",
+          "transaction_id": "TX95204",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 200000,
+          "contributor": "JIM SCHWARTZEL FOR CONGRESS",
+          "state": "FL",
+          "transaction_id": "TX95205",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2041591,
+      "committee_id": "C00677286",
+      "sha256": "cdd1c5b5a2d06bef579a96e4572cea8639b28604b8a71c2406d2be4e6750a2c3",
+      "amendment_chain": [
+        2041591
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041591,
+      "is_amended": false,
+      "filed_date": "2026-10-25"
     }
   }
 }

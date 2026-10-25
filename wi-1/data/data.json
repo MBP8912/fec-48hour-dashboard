@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-25T15:29:58+00:00",
+  "generated_at": "2026-10-25T16:31:20+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -141,15 +141,15 @@
     {
       "date": "2026-10-23",
       "totals": {
-        "lawler": 1200000,
+        "lawler": 1900000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 14367559,
+        "lawler": 15067559,
         "conley": 16920000
       },
       "counts": {
-        "lawler": 4,
+        "lawler": 6,
         "conley": 0
       }
     },
@@ -160,7 +160,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 15081914,
+        "lawler": 15781914,
         "conley": 16920000
       },
       "counts": {
@@ -175,7 +175,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 15081914,
+        "lawler": 15781914,
         "conley": 16920000
       },
       "counts": {
@@ -275,6 +275,13 @@
       "filed_date": "2026-10-25",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00677286/2041586/f65"
+    },
+    {
+      "committee_id": "C00677286",
+      "file_number": 2041591,
+      "filed_date": "2026-10-25",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00677286/2041591/f65"
     }
   ],
   "contributions": [
@@ -1900,6 +1907,18 @@
     },
     {
       "date": "2026-10-23",
+      "amount_cents": 500000,
+      "contributor": "CIRCLE THE WAGONS PAC",
+      "state": "NY",
+      "transaction_id": "TX95204",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00677286",
+      "file_number": 2041591
+    },
+    {
+      "date": "2026-10-23",
       "amount_cents": 250000,
       "contributor": "CONDON, JOHN",
       "state": "FL",
@@ -1921,6 +1940,18 @@
       "occupation": "CONSULTANT",
       "committee_id": "C00677286",
       "file_number": 2041586
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 200000,
+      "contributor": "JIM SCHWARTZEL FOR CONGRESS",
+      "state": "FL",
+      "transaction_id": "TX95205",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00677286",
+      "file_number": 2041591
     },
     {
       "date": "2026-10-23",
@@ -1971,7 +2002,7 @@
       "file_number": 2041586
     }
   ],
-  "report_count": 13,
+  "report_count": 14,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

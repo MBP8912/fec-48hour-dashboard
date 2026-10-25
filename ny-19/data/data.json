@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-25T15:29:58+00:00",
+  "generated_at": "2026-10-25T16:31:21+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -142,15 +142,15 @@
       "date": "2026-10-23",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 850000
       },
       "cumulative": {
         "lawler": 0,
-        "conley": 5350000
+        "conley": 6200000
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 4
       }
     },
     {
@@ -161,7 +161,7 @@
       },
       "cumulative": {
         "lawler": 0,
-        "conley": 5350000
+        "conley": 6200000
       },
       "counts": {
         "lawler": 0,
@@ -176,7 +176,7 @@
       },
       "cumulative": {
         "lawler": 0,
-        "conley": 5350000
+        "conley": 6200000
       },
       "counts": {
         "lawler": 0,
@@ -226,6 +226,13 @@
       "filed_date": "2026-10-24",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00793760/2041253/f65"
+    },
+    {
+      "committee_id": "C00793760",
+      "file_number": 2041598,
+      "filed_date": "2026-10-25",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00793760/2041598/f65"
     }
   ],
   "contributions": [
@@ -540,9 +547,57 @@
       "occupation": "Retired",
       "committee_id": "C00793760",
       "file_number": 2041253
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 250000,
+      "contributor": "Elsner, Michael",
+      "state": "SC",
+      "transaction_id": "11522784",
+      "entity_type": "IND",
+      "employer": "Motley Rice, LLC",
+      "occupation": "Attorney",
+      "committee_id": "C00793760",
+      "file_number": 2041598
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 250000,
+      "contributor": "Int'l Association of Bridge, Structural, Ornamental & Reinforcing Iron Workers (IPAL)",
+      "state": "DC",
+      "transaction_id": "11522713",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00793760",
+      "file_number": 2041598
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 250000,
+      "contributor": "Laborers Int'l Union of North America (LIUNA) PAC",
+      "state": "DC",
+      "transaction_id": "11510967",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00793760",
+      "file_number": 2041598
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "Shepard, Luke",
+      "state": "IL",
+      "transaction_id": "11522785",
+      "entity_type": "IND",
+      "employer": "Playlab",
+      "occupation": "Engineer",
+      "committee_id": "C00793760",
+      "file_number": 2041598
     }
   ],
-  "report_count": 6,
+  "report_count": 7,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

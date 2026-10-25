@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-25T15:29:57+00:00",
+  "generated_at": "2026-10-25T16:31:20+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -141,30 +141,30 @@
     {
       "date": "2026-10-23",
       "totals": {
-        "lawler": 0,
+        "lawler": 2000000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 6984985,
+        "lawler": 8984985,
         "conley": 8531667
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 7,
         "conley": 0
       }
     },
     {
       "date": "2026-10-24",
       "totals": {
-        "lawler": 0,
+        "lawler": 100000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 6984985,
+        "lawler": 9084985,
         "conley": 8531667
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 1,
         "conley": 0
       }
     },
@@ -175,7 +175,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 6984985,
+        "lawler": 9084985,
         "conley": 8531667
       },
       "counts": {
@@ -233,6 +233,13 @@
       "filed_date": "2026-10-23",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00903948/2040887/f65"
+    },
+    {
+      "committee_id": "C00909515",
+      "file_number": 2041614,
+      "filed_date": "2026-10-25",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00909515/2041614/f65"
     }
   ],
   "contributions": [
@@ -1075,9 +1082,105 @@
       "occupation": "",
       "committee_id": "C00909515",
       "file_number": 2040517
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 500000,
+      "contributor": "10 PUSH UPS PAC",
+      "state": "GA",
+      "transaction_id": "67FD9897FA1F644B397C",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2041614
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 350000,
+      "contributor": "FIRST AND TEN",
+      "state": "VA",
+      "transaction_id": "60CBEB74328264D43A82",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2041614
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 350000,
+      "contributor": "FIRST CAPITAL PAC",
+      "state": "PA",
+      "transaction_id": "6FC3B0A2EF7CA4C49890",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2041614
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "GOLDBERG, KENNETH",
+      "state": "TX",
+      "transaction_id": "67EAD0C571D9144DEBD9",
+      "entity_type": "IND",
+      "employer": "RETIRED",
+      "occupation": "RETIRED",
+      "committee_id": "C00909515",
+      "file_number": 2041614
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "LEITNER, CHRIS",
+      "state": "NE",
+      "transaction_id": "6D7AF8B7C1FCA474EAE0",
+      "entity_type": "IND",
+      "employer": "TENASKA INC",
+      "occupation": "PRESIDENT & CEO",
+      "committee_id": "C00909515",
+      "file_number": 2041614
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "LINDQUIST, ERIC",
+      "state": "NE",
+      "transaction_id": "66B6A411DB7FE4B8BB6F",
+      "entity_type": "IND",
+      "employer": "HALLIDAY, WATKINS & MANN PC",
+      "occupation": "ATTORNEY",
+      "committee_id": "C00909515",
+      "file_number": 2041614
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 500000,
+      "contributor": "PAC FOR NEW LEADERSHIP",
+      "state": "CA",
+      "transaction_id": "6DFFB20A4869640A4B6E",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2041614
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "HEMPEL, DAVE",
+      "state": "NE",
+      "transaction_id": "627713387E9AC4F759F4",
+      "entity_type": "IND",
+      "employer": "HEMPEL SHEET METAL WORKS",
+      "occupation": "OWNER",
+      "committee_id": "C00909515",
+      "file_number": 2041614
     }
   ],
-  "report_count": 7,
+  "report_count": 8,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

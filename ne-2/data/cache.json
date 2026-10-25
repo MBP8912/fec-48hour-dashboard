@@ -812,6 +812,102 @@
       "most_recent_filing": 2040887,
       "is_amended": false,
       "filed_date": "2026-10-23"
+    },
+    "C00909515/2041614": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "LEITNER, CHRIS",
+          "state": "NE",
+          "transaction_id": "6D7AF8B7C1FCA474EAE0",
+          "entity_type": "IND",
+          "employer": "TENASKA INC",
+          "occupation": "PRESIDENT & CEO"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 500000,
+          "contributor": "10 PUSH UPS PAC",
+          "state": "GA",
+          "transaction_id": "67FD9897FA1F644B397C",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "FIRST CAPITAL PAC",
+          "state": "PA",
+          "transaction_id": "6FC3B0A2EF7CA4C49890",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "FIRST AND TEN",
+          "state": "VA",
+          "transaction_id": "60CBEB74328264D43A82",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 500000,
+          "contributor": "PAC FOR NEW LEADERSHIP",
+          "state": "CA",
+          "transaction_id": "6DFFB20A4869640A4B6E",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "GOLDBERG, KENNETH",
+          "state": "TX",
+          "transaction_id": "67EAD0C571D9144DEBD9",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "LINDQUIST, ERIC",
+          "state": "NE",
+          "transaction_id": "66B6A411DB7FE4B8BB6F",
+          "entity_type": "IND",
+          "employer": "HALLIDAY, WATKINS & MANN PC",
+          "occupation": "ATTORNEY"
+        },
+        {
+          "date": "2026-10-24",
+          "amount_cents": 100000,
+          "contributor": "HEMPEL, DAVE",
+          "state": "NE",
+          "transaction_id": "627713387E9AC4F759F4",
+          "entity_type": "IND",
+          "employer": "HEMPEL SHEET METAL WORKS",
+          "occupation": "OWNER"
+        }
+      ],
+      "file_number": 2041614,
+      "committee_id": "C00909515",
+      "sha256": "d4d606ed05ce5c1122fcceb51dc9dddd0a53b16a0ce94eb23a97365a7ce93784",
+      "amendment_chain": [
+        2041614
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041614,
+      "is_amended": false,
+      "filed_date": "2026-10-25"
     }
   }
 }
