@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-25T22:26:07+00:00",
+  "generated_at": "2026-10-25T23:26:04+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -141,15 +141,15 @@
     {
       "date": "2026-10-23",
       "totals": {
-        "lawler": 850000,
+        "lawler": 1350000,
         "conley": 1100000
       },
       "cumulative": {
-        "lawler": 3900000,
+        "lawler": 4400000,
         "conley": 8692588
       },
       "counts": {
-        "lawler": 7,
+        "lawler": 8,
         "conley": 5
       }
     },
@@ -160,7 +160,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 8475000,
+        "lawler": 8975000,
         "conley": 8692588
       },
       "counts": {
@@ -175,7 +175,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 8975000,
+        "lawler": 9475000,
         "conley": 8692588
       },
       "counts": {
@@ -282,6 +282,13 @@
       "filed_date": "2026-10-25",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00845826/2041782/f65"
+    },
+    {
+      "committee_id": "C00845826",
+      "file_number": 2041805,
+      "filed_date": "2026-10-25",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00845826/2041805/f65"
     }
   ],
   "contributions": [
@@ -959,6 +966,18 @@
     },
     {
       "date": "2026-10-23",
+      "amount_cents": 500000,
+      "contributor": "10 Push Ups PAC",
+      "state": "GA",
+      "transaction_id": "F65-1390970",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00845826",
+      "file_number": 2041805
+    },
+    {
+      "date": "2026-10-23",
       "amount_cents": 100000,
       "contributor": "Alegre, Lawrence M",
       "state": "CA",
@@ -1354,7 +1373,7 @@
       "file_number": 2041782
     }
   ],
-  "report_count": 14,
+  "report_count": 15,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

@@ -1164,6 +1164,32 @@
       "most_recent_filing": 2041782,
       "is_amended": false,
       "filed_date": "2026-10-25"
+    },
+    "C00845826/2041805": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-23",
+          "amount_cents": 500000,
+          "contributor": "10 Push Ups PAC",
+          "state": "GA",
+          "transaction_id": "F65-1390970",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2041805,
+      "committee_id": "C00845826",
+      "sha256": "76a4136ec9d5032febf15e0a403010e2cfa52c882920a365bed5db4d892683ea",
+      "amendment_chain": [
+        2041805
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041805,
+      "is_amended": false,
+      "filed_date": "2026-10-25"
     }
   }
 }
