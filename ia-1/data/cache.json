@@ -1242,6 +1242,132 @@
       "most_recent_filing": 2040826,
       "is_amended": false,
       "filed_date": "2026-10-23"
+    },
+    "C00787820/2041468": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "Chin, Barbara",
+          "state": "WA",
+          "transaction_id": "20873316",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "Committee For A Democratic Future",
+          "state": "VA",
+          "transaction_id": "20873151",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 150000,
+          "contributor": "Cooney, Dana",
+          "state": "IA",
+          "transaction_id": "20873315",
+          "entity_type": "IND",
+          "employer": "Benchmark Inc",
+          "occupation": "Sr Director"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 175000,
+          "contributor": "Donoho, David",
+          "state": "NY",
+          "transaction_id": "20873314",
+          "entity_type": "IND",
+          "employer": "Stanford University",
+          "occupation": "Mathematician"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 200000,
+          "contributor": "GEORGE WHITESIDES FOR CONGRESS",
+          "state": "CA",
+          "transaction_id": "20873175",
+          "entity_type": "ORG",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 350000,
+          "contributor": "Harris, David",
+          "state": "NY",
+          "transaction_id": "20873313",
+          "entity_type": "IND",
+          "employer": "Children's Research & Education Instit",
+          "occupation": "Executive"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "HOPE Pac",
+          "state": "CO",
+          "transaction_id": "20873127",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "Knapp, Susan Terry",
+          "state": "IA",
+          "transaction_id": "20873137",
+          "entity_type": "IND",
+          "employer": "Self",
+          "occupation": "Real Estate Investor"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 350000,
+          "contributor": "Powers, John",
+          "state": "CO",
+          "transaction_id": "20873159",
+          "entity_type": "IND",
+          "employer": "Self",
+          "occupation": "Rancher"
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 500000,
+          "contributor": "Sheet Metal Air Rail Transportation Political Action League",
+          "state": "DC",
+          "transaction_id": "20864334",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-22",
+          "amount_cents": 100000,
+          "contributor": "Sunflower Seeds PAC",
+          "state": "WA",
+          "transaction_id": "20873146",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2041468,
+      "committee_id": "C00787820",
+      "sha256": "adb078db935ca8f9ecea5c6adad3c5133406af48a7cc8a6a1e60bb063e5d7350",
+      "amendment_chain": [
+        2041468
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041468,
+      "is_amended": false,
+      "filed_date": "2026-10-24"
     }
   }
 }

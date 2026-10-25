@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-25T00:38:34+00:00",
+  "generated_at": "2026-10-25T01:32:11+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -127,15 +127,15 @@
       "date": "2026-10-22",
       "totals": {
         "lawler": 1700000,
-        "conley": 0
+        "conley": 2225000
       },
       "cumulative": {
         "lawler": 11500000,
-        "conley": 9696177
+        "conley": 11921177
       },
       "counts": {
         "lawler": 7,
-        "conley": 0
+        "conley": 11
       }
     },
     {
@@ -146,7 +146,7 @@
       },
       "cumulative": {
         "lawler": 12100000,
-        "conley": 9696177
+        "conley": 11921177
       },
       "counts": {
         "lawler": 2,
@@ -161,7 +161,7 @@
       },
       "cumulative": {
         "lawler": 12100000,
-        "conley": 9696177
+        "conley": 11921177
       },
       "counts": {
         "lawler": 0,
@@ -253,6 +253,13 @@
       "filed_date": "2026-10-23",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00558825/2040826/f65"
+    },
+    {
+      "committee_id": "C00787820",
+      "file_number": 2041468,
+      "filed_date": "2026-10-24",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00787820/2041468/f65"
     }
   ],
   "contributions": [
@@ -1493,6 +1500,138 @@
       "file_number": 2040826
     },
     {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "Chin, Barbara",
+      "state": "WA",
+      "transaction_id": "20873316",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00787820",
+      "file_number": 2041468
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "Committee For A Democratic Future",
+      "state": "VA",
+      "transaction_id": "20873151",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2041468
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 150000,
+      "contributor": "Cooney, Dana",
+      "state": "IA",
+      "transaction_id": "20873315",
+      "entity_type": "IND",
+      "employer": "Benchmark Inc",
+      "occupation": "Sr Director",
+      "committee_id": "C00787820",
+      "file_number": 2041468
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 175000,
+      "contributor": "Donoho, David",
+      "state": "NY",
+      "transaction_id": "20873314",
+      "entity_type": "IND",
+      "employer": "Stanford University",
+      "occupation": "Mathematician",
+      "committee_id": "C00787820",
+      "file_number": 2041468
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 200000,
+      "contributor": "GEORGE WHITESIDES FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "20873175",
+      "entity_type": "ORG",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2041468
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "HOPE Pac",
+      "state": "CO",
+      "transaction_id": "20873127",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2041468
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 350000,
+      "contributor": "Harris, David",
+      "state": "NY",
+      "transaction_id": "20873313",
+      "entity_type": "IND",
+      "employer": "Children's Research & Education Instit",
+      "occupation": "Executive",
+      "committee_id": "C00787820",
+      "file_number": 2041468
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "Knapp, Susan Terry",
+      "state": "IA",
+      "transaction_id": "20873137",
+      "entity_type": "IND",
+      "employer": "Self",
+      "occupation": "Real Estate Investor",
+      "committee_id": "C00787820",
+      "file_number": 2041468
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 350000,
+      "contributor": "Powers, John",
+      "state": "CO",
+      "transaction_id": "20873159",
+      "entity_type": "IND",
+      "employer": "Self",
+      "occupation": "Rancher",
+      "committee_id": "C00787820",
+      "file_number": 2041468
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 500000,
+      "contributor": "Sheet Metal Air Rail Transportation Political Action League",
+      "state": "DC",
+      "transaction_id": "20864334",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2041468
+    },
+    {
+      "date": "2026-10-22",
+      "amount_cents": 100000,
+      "contributor": "Sunflower Seeds PAC",
+      "state": "WA",
+      "transaction_id": "20873146",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2041468
+    },
+    {
       "date": "2026-10-23",
       "amount_cents": 350000,
       "contributor": "FIRST AND TEN",
@@ -1517,7 +1656,7 @@
       "file_number": 2040826
     }
   ],
-  "report_count": 12,
+  "report_count": 13,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
