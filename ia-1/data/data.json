@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-25T17:29:10+00:00",
+  "generated_at": "2026-10-25T18:32:02+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -142,15 +142,15 @@
       "date": "2026-10-23",
       "totals": {
         "lawler": 600000,
-        "conley": 0
+        "conley": 2086250
       },
       "cumulative": {
         "lawler": 12100000,
-        "conley": 11921177
+        "conley": 14007427
       },
       "counts": {
         "lawler": 2,
-        "conley": 0
+        "conley": 9
       }
     },
     {
@@ -161,7 +161,7 @@
       },
       "cumulative": {
         "lawler": 12100000,
-        "conley": 11921177
+        "conley": 14007427
       },
       "counts": {
         "lawler": 0,
@@ -176,7 +176,7 @@
       },
       "cumulative": {
         "lawler": 12100000,
-        "conley": 11921177
+        "conley": 14007427
       },
       "counts": {
         "lawler": 0,
@@ -275,6 +275,13 @@
       "filed_date": "2026-10-24",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00787820/2041468/f65"
+    },
+    {
+      "committee_id": "C00787820",
+      "file_number": 2041650,
+      "filed_date": "2026-10-25",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00787820/2041650/f65"
     }
   ],
   "contributions": [
@@ -1669,9 +1676,117 @@
       "occupation": "",
       "committee_id": "C00558825",
       "file_number": 2040826
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "A LOVE SUPREME PAC",
+      "state": "FL",
+      "transaction_id": "20875513",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2041650
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 250000,
+      "contributor": "AFL-CIO",
+      "state": "DC",
+      "transaction_id": "20875213",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2041650
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "Adelman, David",
+      "state": "IA",
+      "transaction_id": "20876579",
+      "entity_type": "IND",
+      "employer": "Cornerstone Government Affairs",
+      "occupation": "Consultant",
+      "committee_id": "C00787820",
+      "file_number": 2041650
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 350000,
+      "contributor": "Gates, Rory",
+      "state": "DC",
+      "transaction_id": "20876578",
+      "entity_type": "IND",
+      "employer": "U.S. Senate",
+      "occupation": "Analyst",
+      "committee_id": "C00787820",
+      "file_number": 2041650
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 236250,
+      "contributor": "Henley, Donald",
+      "state": "VA",
+      "transaction_id": "20875654",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Professional Musician Writer Producer",
+      "committee_id": "C00787820",
+      "file_number": 2041650
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "Kealey, John L",
+      "state": "IA",
+      "transaction_id": "20875200",
+      "entity_type": "IND",
+      "employer": "Davenport Community School District",
+      "occupation": "Teacher",
+      "committee_id": "C00787820",
+      "file_number": 2041650
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 200000,
+      "contributor": "League Of Conservation Voters Action Fund",
+      "state": "DC",
+      "transaction_id": "20875509",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2041650
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 500000,
+      "contributor": "MITTEN PAC",
+      "state": "MI",
+      "transaction_id": "20875518",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2041650
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 250000,
+      "contributor": "NATIONAL TREASURY EMPLOYEES UNION POLITICAL ACTION COMMITTEE",
+      "state": "DC",
+      "transaction_id": "20875539",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2041650
     }
   ],
-  "report_count": 13,
+  "report_count": 14,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
