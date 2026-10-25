@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-25T03:32:50+00:00",
+  "generated_at": "2026-10-25T04:32:10+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -155,6 +155,21 @@
     },
     {
       "date": "2026-10-24",
+      "totals": {
+        "lawler": 0,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 1800000,
+        "conley": 2848000
+      },
+      "counts": {
+        "lawler": 0,
+        "conley": 0
+      }
+    },
+    {
+      "date": "2026-10-25",
       "totals": {
         "lawler": 0,
         "conley": 0
