@@ -950,6 +950,122 @@
       "most_recent_filing": 2041623,
       "is_amended": false,
       "filed_date": "2026-10-25"
+    },
+    "C00911941/2041754": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "A LOVE SUPREME PAC",
+          "state": "FL",
+          "transaction_id": "14907556",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 400000,
+          "contributor": "COMMUNICATIONS WORKERS OF AMERICA - COPE POLITICAL CONTRIBUTIONS COMMITTEE",
+          "state": "DC",
+          "transaction_id": "14911184",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 500000,
+          "contributor": "DEFEND THE VOTE",
+          "state": "DC",
+          "transaction_id": "14907505",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 150000,
+          "contributor": "EQUALITY PAC",
+          "state": "DC",
+          "transaction_id": "14827831",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Graham, Paul",
+          "state": "CA",
+          "transaction_id": "14907604",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Investor"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 250000,
+          "contributor": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+          "state": "DC",
+          "transaction_id": "14827850",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Livingtson, Jessica",
+          "state": "CA",
+          "transaction_id": "14907596",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Investor"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Lytton Rancheria Tribal Government",
+          "state": "CA",
+          "transaction_id": "14911068",
+          "entity_type": "ORG",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 500000,
+          "contributor": "MITTEN PAC",
+          "state": "MI",
+          "transaction_id": "14907525",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Murawski, Thomas",
+          "state": "CO",
+          "transaction_id": "14925841",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        }
+      ],
+      "file_number": 2041754,
+      "committee_id": "C00911941",
+      "sha256": "10069d107075630f013c2e465e39782e405f920be58bdb563312b70e452aa4c4",
+      "amendment_chain": [
+        2041754
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041754,
+      "is_amended": false,
+      "filed_date": "2026-10-25"
     }
   }
 }
