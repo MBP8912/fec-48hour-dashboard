@@ -842,6 +842,72 @@
       "most_recent_filing": 2041420,
       "is_amended": false,
       "filed_date": "2026-10-24"
+    },
+    "C00801431/2041571": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-23",
+          "amount_cents": 250000,
+          "contributor": "Blue Shield of California PAC (Shield PAC)",
+          "state": "CA",
+          "transaction_id": "11514550",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Himes for Congress",
+          "state": "CT",
+          "transaction_id": "11514722",
+          "entity_type": "ORG",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 500000,
+          "contributor": "Youth Save Democracy PAC",
+          "state": "CA",
+          "transaction_id": "11514443",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 150000,
+          "contributor": "BNSF Railway Company RAILPAC (BNSF RAILPAC)",
+          "state": "TX",
+          "transaction_id": "11514584",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Maintaining Integrity in Our Nation PAC",
+          "state": "DC",
+          "transaction_id": "11514509",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2041571,
+      "committee_id": "C00801431",
+      "sha256": "85c9882541a5e17d4f861fcb41d896bb4e7581f4d8ed02e01ef475a9da1e0298",
+      "amendment_chain": [
+        2041571
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041571,
+      "is_amended": false,
+      "filed_date": "2026-10-25"
     }
   }
 }

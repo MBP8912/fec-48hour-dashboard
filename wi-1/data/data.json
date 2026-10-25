@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-25T14:29:31+00:00",
+  "generated_at": "2026-10-25T15:29:58+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -141,30 +141,30 @@
     {
       "date": "2026-10-23",
       "totals": {
-        "lawler": 0,
+        "lawler": 1200000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 13167559,
+        "lawler": 14367559,
         "conley": 16920000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 4,
         "conley": 0
       }
     },
     {
       "date": "2026-10-24",
       "totals": {
-        "lawler": 0,
+        "lawler": 714355,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 13167559,
+        "lawler": 15081914,
         "conley": 16920000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 3,
         "conley": 0
       }
     },
@@ -175,7 +175,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 13167559,
+        "lawler": 15081914,
         "conley": 16920000
       },
       "counts": {
@@ -268,6 +268,13 @@
       "filed_date": "2026-10-24",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00915637/2041131/f65"
+    },
+    {
+      "committee_id": "C00677286",
+      "file_number": 2041586,
+      "filed_date": "2026-10-25",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00677286/2041586/f65"
     }
   ],
   "contributions": [
@@ -1878,9 +1885,93 @@
       "occupation": "Not Employed",
       "committee_id": "C00915637",
       "file_number": 2041131
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 500000,
+      "contributor": "BIG IDEAS CREATE EXCELLENCE- BICE PAC",
+      "state": "OK",
+      "transaction_id": "TX95195",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00677286",
+      "file_number": 2041586
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 250000,
+      "contributor": "CONDON, JOHN",
+      "state": "FL",
+      "transaction_id": "TX95201",
+      "entity_type": "IND",
+      "employer": "RETIRED",
+      "occupation": "RETIRED",
+      "committee_id": "C00677286",
+      "file_number": 2041586
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "HILER, JONATHAN",
+      "state": "TN",
+      "transaction_id": "TX95203",
+      "entity_type": "IND",
+      "employer": "MILLER STRATEGIES, LLC",
+      "occupation": "CONSULTANT",
+      "committee_id": "C00677286",
+      "file_number": 2041586
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 350000,
+      "contributor": "LOQUERCIO, ANTHONY",
+      "state": "IL",
+      "transaction_id": "TX95202",
+      "entity_type": "IND",
+      "employer": "SELF EMPLOYED",
+      "occupation": "AUTO DEALER",
+      "committee_id": "C00677286",
+      "file_number": 2041586
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 208203,
+      "contributor": "BAKER, BRIAN",
+      "state": "MD",
+      "transaction_id": "TX95199",
+      "entity_type": "IND",
+      "employer": "ESI",
+      "occupation": "ATTORNEY",
+      "committee_id": "C00677286",
+      "file_number": 2041586
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 156152,
+      "contributor": "BARANAY, PETER",
+      "state": "IN",
+      "transaction_id": "TX95197",
+      "entity_type": "IND",
+      "employer": "ABRO INDUSTRIES, INC",
+      "occupation": "SALESMAN",
+      "committee_id": "C00677286",
+      "file_number": 2041586
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 350000,
+      "contributor": "CASCARILLA, CHARLES",
+      "state": "FL",
+      "transaction_id": "TX95198",
+      "entity_type": "IND",
+      "employer": "PAXOS",
+      "occupation": "CEO",
+      "committee_id": "C00677286",
+      "file_number": 2041586
     }
   ],
-  "report_count": 12,
+  "report_count": 13,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
