@@ -2892,6 +2892,272 @@
       "most_recent_filing": 2041340,
       "is_amended": false,
       "filed_date": "2026-10-24"
+    },
+    "C00815415/2041627": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Akerman LLP PAC",
+          "state": "FL",
+          "transaction_id": "F65-3321712",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Bailey, Paul",
+          "state": "NY",
+          "transaction_id": "F65-3321756",
+          "entity_type": "IND",
+          "employer": "Baileys Smokehouse",
+          "occupation": "Self Employed"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 250000,
+          "contributor": "Brennan, Don",
+          "state": "NJ",
+          "transaction_id": "F65-3321757",
+          "entity_type": "IND",
+          "employer": "Custos Property Management",
+          "occupation": "President"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 250000,
+          "contributor": "Bukzin, David",
+          "state": "NY",
+          "transaction_id": "F65-3321752",
+          "entity_type": "IND",
+          "employer": "Marcum LLP",
+          "occupation": "Cpa"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Caridi, Anthony",
+          "state": "NY",
+          "transaction_id": "F65-3321714",
+          "entity_type": "IND",
+          "employer": "Two Trees Mgmt Co.",
+          "occupation": "Construction Manager"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Carver, Alexander H",
+          "state": "NJ",
+          "transaction_id": "F65-3321750",
+          "entity_type": "IND",
+          "employer": "LoFaro Carver, LLC",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Collins, Brendan",
+          "state": "CA",
+          "transaction_id": "F65-3321763",
+          "entity_type": "IND",
+          "employer": "Anthropic",
+          "occupation": "Research Manager"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 250000,
+          "contributor": "Eldred, Kenneth A.",
+          "state": "TX",
+          "transaction_id": "F65-3321717",
+          "entity_type": "IND",
+          "employer": "Living Stones Foundation",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 250000,
+          "contributor": "Eldred, Roberta",
+          "state": "TX",
+          "transaction_id": "F65-3321720",
+          "entity_type": "IND",
+          "employer": "Homemaker",
+          "occupation": "Homemaker"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Feldman, Efraim",
+          "state": "NJ",
+          "transaction_id": "F65-3321758",
+          "entity_type": "IND",
+          "employer": "Self employed",
+          "occupation": "Self employed"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Feldman, Faigy",
+          "state": "NJ",
+          "transaction_id": "F65-3321759",
+          "entity_type": "IND",
+          "employer": "Homemaker",
+          "occupation": "Homemaker"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 250000,
+          "contributor": "Gorrie, Frances",
+          "state": "AL",
+          "transaction_id": "F65-3321721",
+          "entity_type": "IND",
+          "employer": "Homemaker",
+          "occupation": "Homemaker"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 250000,
+          "contributor": "Gorrie, Magnus  Miller",
+          "state": "AL",
+          "transaction_id": "F65-3321718",
+          "entity_type": "IND",
+          "employer": "Brasfield & Gorrie",
+          "occupation": "Chairman"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Haugland, William J.",
+          "state": "FL",
+          "transaction_id": "F65-3321751",
+          "entity_type": "IND",
+          "employer": "Haugland Group",
+          "occupation": "Contractor"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Hellman, Howard",
+          "state": "NY",
+          "transaction_id": "F65-3321711",
+          "entity_type": "IND",
+          "employer": "Hellman Management",
+          "occupation": "Owner"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Iex Group, Inc. PAC",
+          "state": "NY",
+          "transaction_id": "F65-3321713",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 200000,
+          "contributor": "MOORE FOR WEST VIRGINIA INC.",
+          "state": "WV",
+          "transaction_id": "F65-3321571",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Rubinstein, Berish",
+          "state": "NY",
+          "transaction_id": "F65-3321760",
+          "entity_type": "IND",
+          "employer": "Medical Data Analytics",
+          "occupation": "Owner"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Rubinstein, Joseph",
+          "state": "NY",
+          "transaction_id": "F65-3321761",
+          "entity_type": "IND",
+          "employer": "Student",
+          "occupation": "Student"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Ruddy, Christopher",
+          "state": "FL",
+          "transaction_id": "F65-3321764",
+          "entity_type": "IND",
+          "employer": "Newsmax Media Inc",
+          "occupation": "Ceo"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Scala, Mary Ellen",
+          "state": "NY",
+          "transaction_id": "F65-3321755",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Schik, Fraidy",
+          "state": "NY",
+          "transaction_id": "F65-3321724",
+          "entity_type": "IND",
+          "employer": "Homemaker",
+          "occupation": "Homemaker"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Schik, Shulem",
+          "state": "NY",
+          "transaction_id": "F65-3321719",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Real Estate"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Schonbrun, Berish",
+          "state": "NY",
+          "transaction_id": "F65-3321754",
+          "entity_type": "IND",
+          "employer": "Builders Choice Of New York",
+          "occupation": "President"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Wercberger, Shiffy",
+          "state": "NY",
+          "transaction_id": "F65-3321753",
+          "entity_type": "IND",
+          "employer": "Orange County Superior Concrete",
+          "occupation": "Secretary"
+        }
+      ],
+      "file_number": 2041627,
+      "committee_id": "C00815415",
+      "sha256": "dbb77508038bea8782a7dd156faf6c477edd56c15546db348bfa2198331774df",
+      "amendment_chain": [
+        2041627
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041627,
+      "is_amended": false,
+      "filed_date": "2026-10-25"
     }
   }
 }

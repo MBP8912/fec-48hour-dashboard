@@ -924,6 +924,32 @@
       "most_recent_filing": 2041117,
       "is_amended": false,
       "filed_date": "2026-10-24"
+    },
+    "C00865592/2041623": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-23",
+          "amount_cents": 200000,
+          "contributor": "MOHEGAN TRIBE OF INDIANS OF CONNECTICUT",
+          "state": "CT",
+          "transaction_id": "180137166",
+          "entity_type": "ORG",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2041623,
+      "committee_id": "C00865592",
+      "sha256": "758749d03c14956bf79048923cd53c147365144d20f5a6457e2c19cda3354c50",
+      "amendment_chain": [
+        2041623
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041623,
+      "is_amended": false,
+      "filed_date": "2026-10-25"
     }
   }
 }

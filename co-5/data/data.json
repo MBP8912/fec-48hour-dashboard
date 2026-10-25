@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-25T16:31:20+00:00",
+  "generated_at": "2026-10-25T17:29:10+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -141,15 +141,15 @@
     {
       "date": "2026-10-23",
       "totals": {
-        "lawler": 0,
+        "lawler": 200000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 1800000,
+        "lawler": 2000000,
         "conley": 10950000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 1,
         "conley": 0
       }
     },
@@ -160,7 +160,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 1800000,
+        "lawler": 2000000,
         "conley": 10950000
       },
       "counts": {
@@ -175,7 +175,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 1800000,
+        "lawler": 2000000,
         "conley": 10950000
       },
       "counts": {
@@ -282,6 +282,13 @@
       "filed_date": "2026-10-24",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00911941/2041117/f65"
+    },
+    {
+      "committee_id": "C00865592",
+      "file_number": 2041623,
+      "filed_date": "2026-10-25",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00865592/2041623/f65"
     }
   ],
   "contributions": [
@@ -1124,9 +1131,21 @@
       "occupation": "Chair",
       "committee_id": "C00911941",
       "file_number": 2041117
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 200000,
+      "contributor": "MOHEGAN TRIBE OF INDIANS OF CONNECTICUT",
+      "state": "CT",
+      "transaction_id": "180137166",
+      "entity_type": "ORG",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2041623
     }
   ],
-  "report_count": 14,
+  "report_count": 15,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
