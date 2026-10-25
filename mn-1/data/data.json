@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-25T05:31:39+00:00",
+  "generated_at": "2026-10-25T06:37:20+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -142,15 +142,15 @@
       "date": "2026-10-23",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 2225000
       },
       "cumulative": {
         "lawler": 7854102,
-        "conley": 12995000
+        "conley": 15220000
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 11
       }
     },
     {
@@ -161,7 +161,7 @@
       },
       "cumulative": {
         "lawler": 7854102,
-        "conley": 12995000
+        "conley": 15220000
       },
       "counts": {
         "lawler": 0,
@@ -176,7 +176,7 @@
       },
       "cumulative": {
         "lawler": 7854102,
-        "conley": 12995000
+        "conley": 15220000
       },
       "counts": {
         "lawler": 0,
@@ -261,6 +261,13 @@
       "filed_date": "2026-10-23",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00902684/2040771/f65"
+    },
+    {
+      "committee_id": "C00902684",
+      "file_number": 2041523,
+      "filed_date": "2026-10-25",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00902684/2041523/f65"
     }
   ],
   "contributions": [
@@ -1415,9 +1422,141 @@
       "occupation": "Not Employed",
       "committee_id": "C00902684",
       "file_number": 2040771
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 150000,
+      "contributor": "AMERICAN MOSAIC PAC",
+      "state": "DC",
+      "transaction_id": "14826438",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2041523
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 200000,
+      "contributor": "BLUE MOMENTUM PAC",
+      "state": "CA",
+      "transaction_id": "14921678",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2041523
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "BONAMICI FOR CONGRESS",
+      "state": "OR",
+      "transaction_id": "14921843",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2041523
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "Cheville, John",
+      "state": "MN",
+      "transaction_id": "14922365",
+      "entity_type": "IND",
+      "employer": "Mayo Clinic",
+      "occupation": "Physician",
+      "committee_id": "C00902684",
+      "file_number": 2041523
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 250000,
+      "contributor": "DEFEND THE VOTE",
+      "state": "DC",
+      "transaction_id": "14921838",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2041523
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 350000,
+      "contributor": "Graham, Paul",
+      "state": "CA",
+      "transaction_id": "14921874",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00902684",
+      "file_number": 2041523
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 125000,
+      "contributor": "Greenberg, Jack",
+      "state": "IL",
+      "transaction_id": "14921680",
+      "entity_type": "IND",
+      "employer": "NOT EMPLOYED",
+      "occupation": "NOT EMPLOYED",
+      "committee_id": "C00902684",
+      "file_number": 2041523
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 350000,
+      "contributor": "Livingston, Jessica",
+      "state": "CA",
+      "transaction_id": "14921885",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00902684",
+      "file_number": 2041523
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 350000,
+      "contributor": "Prady, William",
+      "state": "CA",
+      "transaction_id": "14925354",
+      "entity_type": "IND",
+      "employer": "Self",
+      "occupation": "Television Writer And Producer",
+      "committee_id": "C00902684",
+      "file_number": 2041523
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 150000,
+      "contributor": "SMALL TOWN PAC",
+      "state": "MN",
+      "transaction_id": "14830939",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2041523
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "Watt, Kym",
+      "state": "MN",
+      "transaction_id": "14922373",
+      "entity_type": "IND",
+      "employer": "Mayo Clinic",
+      "occupation": "Md",
+      "committee_id": "C00902684",
+      "file_number": 2041523
     }
   ],
-  "report_count": 11,
+  "report_count": 12,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

@@ -1136,6 +1136,132 @@
       "most_recent_filing": 2040771,
       "is_amended": false,
       "filed_date": "2026-10-23"
+    },
+    "C00902684/2041523": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-23",
+          "amount_cents": 150000,
+          "contributor": "AMERICAN MOSAIC PAC",
+          "state": "DC",
+          "transaction_id": "14826438",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 200000,
+          "contributor": "BLUE MOMENTUM PAC",
+          "state": "CA",
+          "transaction_id": "14921678",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "BONAMICI FOR CONGRESS",
+          "state": "OR",
+          "transaction_id": "14921843",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Cheville, John",
+          "state": "MN",
+          "transaction_id": "14922365",
+          "entity_type": "IND",
+          "employer": "Mayo Clinic",
+          "occupation": "Physician"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 250000,
+          "contributor": "DEFEND THE VOTE",
+          "state": "DC",
+          "transaction_id": "14921838",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Graham, Paul",
+          "state": "CA",
+          "transaction_id": "14921874",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 125000,
+          "contributor": "Greenberg, Jack",
+          "state": "IL",
+          "transaction_id": "14921680",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Livingston, Jessica",
+          "state": "CA",
+          "transaction_id": "14921885",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "Prady, William",
+          "state": "CA",
+          "transaction_id": "14925354",
+          "entity_type": "IND",
+          "employer": "Self",
+          "occupation": "Television Writer And Producer"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 150000,
+          "contributor": "SMALL TOWN PAC",
+          "state": "MN",
+          "transaction_id": "14830939",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "Watt, Kym",
+          "state": "MN",
+          "transaction_id": "14922373",
+          "entity_type": "IND",
+          "employer": "Mayo Clinic",
+          "occupation": "Md"
+        }
+      ],
+      "file_number": 2041523,
+      "committee_id": "C00902684",
+      "sha256": "a2d9a7fe0069656bad15bab1e7e9f51b27b41a2264fdd070708b410ba32ba4e1",
+      "amendment_chain": [
+        2041523
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041523,
+      "is_amended": false,
+      "filed_date": "2026-10-25"
     }
   }
 }
