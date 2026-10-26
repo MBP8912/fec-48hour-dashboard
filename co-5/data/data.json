@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-26T19:42:21+00:00",
+  "generated_at": "2026-10-26T20:35:21+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -157,15 +157,15 @@
       "date": "2026-10-24",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 300000
       },
       "cumulative": {
         "lawler": 2000000,
-        "conley": 13750000
+        "conley": 14050000
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 2
       }
     },
     {
@@ -176,7 +176,7 @@
       },
       "cumulative": {
         "lawler": 2000000,
-        "conley": 13750000
+        "conley": 14050000
       },
       "counts": {
         "lawler": 0,
@@ -191,7 +191,7 @@
       },
       "cumulative": {
         "lawler": 2000000,
-        "conley": 13750000
+        "conley": 14050000
       },
       "counts": {
         "lawler": 0,
@@ -311,6 +311,13 @@
       "filed_date": "2026-10-25",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00911941/2041754/f65"
+    },
+    {
+      "committee_id": "C00911941",
+      "file_number": 2042163,
+      "filed_date": "2026-10-26",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00911941/2042163/f65"
     }
   ],
   "contributions": [
@@ -1285,9 +1292,33 @@
       "occupation": "Not Employed",
       "committee_id": "C00911941",
       "file_number": 2041754
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "Bergenfeld, Steven",
+      "state": "CO",
+      "transaction_id": "14971018",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00911941",
+      "file_number": 2042163
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 200000,
+      "contributor": "Weddell, Leslie",
+      "state": "CO",
+      "transaction_id": "14971017",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00911941",
+      "file_number": 2042163
     }
   ],
-  "report_count": 16,
+  "report_count": 17,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

@@ -1066,6 +1066,42 @@
       "most_recent_filing": 2041754,
       "is_amended": false,
       "filed_date": "2026-10-25"
+    },
+    "C00911941/2042163": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-24",
+          "amount_cents": 100000,
+          "contributor": "Bergenfeld, Steven",
+          "state": "CO",
+          "transaction_id": "14971018",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-24",
+          "amount_cents": 200000,
+          "contributor": "Weddell, Leslie",
+          "state": "CO",
+          "transaction_id": "14971017",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        }
+      ],
+      "file_number": 2042163,
+      "committee_id": "C00911941",
+      "sha256": "09b9732610ada35001ecae3fd4128585427147c08fa577320f158c5a06da5a1a",
+      "amendment_chain": [
+        2042163
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2042163,
+      "is_amended": false,
+      "filed_date": "2026-10-26"
     }
   }
 }
