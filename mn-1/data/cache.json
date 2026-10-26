@@ -1328,6 +1328,42 @@
       "most_recent_filing": 2041941,
       "is_amended": false,
       "filed_date": "2026-10-26"
+    },
+    "C00902684/2042228": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-25",
+          "amount_cents": 202600,
+          "contributor": "Bhandaru, Akhil",
+          "state": "NY",
+          "transaction_id": "15003426",
+          "entity_type": "IND",
+          "employer": "Robinhood",
+          "occupation": "Software Engineer"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 350000,
+          "contributor": "Frantz, John",
+          "state": "MA",
+          "transaction_id": "15003427",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        }
+      ],
+      "file_number": 2042228,
+      "committee_id": "C00902684",
+      "sha256": "e5fcf85376c4f247095148fe1704b477f635e3d8458d99a7b77d54de6214bff4",
+      "amendment_chain": [
+        2042228
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2042228,
+      "is_amended": false,
+      "filed_date": "2026-10-26"
     }
   }
 }
