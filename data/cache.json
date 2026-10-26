@@ -3158,6 +3158,172 @@
       "most_recent_filing": 2041627,
       "is_amended": false,
       "filed_date": "2026-10-25"
+    },
+    "C00900431/2041893": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "CHASE, CHEVY",
+          "state": "NY",
+          "transaction_id": "F65-144494",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 124731,
+          "contributor": "CHERIAN, KURUVILLA",
+          "state": "NY",
+          "transaction_id": "F65-144478",
+          "entity_type": "IND",
+          "employer": "SELF EMPLOYED",
+          "occupation": "SELF EMPLOYED"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 500000,
+          "contributor": "DEFEND THE VOTE",
+          "state": "DC",
+          "transaction_id": "F65-144448",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "DENNING, ROBERTA",
+          "state": "WY",
+          "transaction_id": "F65-144487",
+          "entity_type": "IND",
+          "employer": "INFORMATION REQUESTED",
+          "occupation": "INFORMATION REQUESTED"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "DENNIS, MARGARET",
+          "state": "MD",
+          "transaction_id": "F65-144497",
+          "entity_type": "IND",
+          "employer": "NONE",
+          "occupation": "SELF-EMPLOYED HOMEMAKER"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "DUGAN, REGINA",
+          "state": "CA",
+          "transaction_id": "F65-144493",
+          "entity_type": "IND",
+          "employer": "WELLCOME LEAP",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "FOLEY, CATHERINE",
+          "state": "NY",
+          "transaction_id": "F65-144485",
+          "entity_type": "IND",
+          "employer": "INFORMATION REQUESTED",
+          "occupation": "INFORMATION REQUESTED"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "LADDER 2 PAC",
+          "state": "PA",
+          "transaction_id": "F65-144447",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+          "state": "DC",
+          "transaction_id": "F65-144445",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "MORGAN, DANIEL",
+          "state": "FL",
+          "transaction_id": "F65-144495",
+          "entity_type": "IND",
+          "employer": "MORGAN & MORGAN",
+          "occupation": "ATTORNEY"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "SHENOY, AJAY",
+          "state": "NJ",
+          "transaction_id": "F65-144486",
+          "entity_type": "IND",
+          "employer": "INFORMATION REQUESTED",
+          "occupation": "INFORMATION REQUESTED"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "STOREY, MICHAEL",
+          "state": "FL",
+          "transaction_id": "F65-144467",
+          "entity_type": "IND",
+          "employer": "INFORMATION REQUESTED",
+          "occupation": "INFORMATION REQUESTED"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 200000,
+          "contributor": "SYMONS, BARBARA",
+          "state": "NY",
+          "transaction_id": "F65-144466",
+          "entity_type": "IND",
+          "employer": "REFORM TEMPLE OF PUTNAM VALLEY",
+          "occupation": "RABBI"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "TANERHAUS, ENID",
+          "state": "NY",
+          "transaction_id": "F65-144496",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 180000,
+          "contributor": "WESTCHESTER JEWISH DEMOCRATS",
+          "state": "NY",
+          "transaction_id": "F65-144446",
+          "entity_type": "COM",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2041893,
+      "committee_id": "C00900431",
+      "sha256": "1c65f6415eb1523e9b6c1ee49c8e99c8dfc6ae0cad42177f5ccc2bd9d7636a0d",
+      "amendment_chain": [
+        2041893
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041893,
+      "is_amended": false,
+      "filed_date": "2026-10-25"
     }
   }
 }

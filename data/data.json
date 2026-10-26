@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-26T00:53:11+00:00",
+  "generated_at": "2026-10-26T01:46:34+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -142,15 +142,15 @@
       "date": "2026-10-23",
       "totals": {
         "lawler": 6500000,
-        "conley": 0
+        "conley": 3604731
       },
       "cumulative": {
         "lawler": 37525939,
-        "conley": 22021689
+        "conley": 25626420
       },
       "counts": {
         "lawler": 25,
-        "conley": 0
+        "conley": 15
       }
     },
     {
@@ -161,7 +161,7 @@
       },
       "cumulative": {
         "lawler": 37525939,
-        "conley": 22021689
+        "conley": 25626420
       },
       "counts": {
         "lawler": 0,
@@ -176,7 +176,7 @@
       },
       "cumulative": {
         "lawler": 37525939,
-        "conley": 22021689
+        "conley": 25626420
       },
       "counts": {
         "lawler": 0,
@@ -275,6 +275,13 @@
       "filed_date": "2026-10-25",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00815415/2041627/f65"
+    },
+    {
+      "committee_id": "C00900431",
+      "file_number": 2041893,
+      "filed_date": "2026-10-25",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00900431/2041893/f65"
     }
   ],
   "contributions": [
@@ -3745,9 +3752,189 @@
       "occupation": "Secretary",
       "committee_id": "C00815415",
       "file_number": 2041627
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 350000,
+      "contributor": "CHASE, CHEVY",
+      "state": "NY",
+      "transaction_id": "F65-144494",
+      "entity_type": "IND",
+      "employer": "NOT EMPLOYED",
+      "occupation": "NOT EMPLOYED",
+      "committee_id": "C00900431",
+      "file_number": 2041893
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 124731,
+      "contributor": "CHERIAN, KURUVILLA",
+      "state": "NY",
+      "transaction_id": "F65-144478",
+      "entity_type": "IND",
+      "employer": "SELF EMPLOYED",
+      "occupation": "SELF EMPLOYED",
+      "committee_id": "C00900431",
+      "file_number": 2041893
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 500000,
+      "contributor": "DEFEND THE VOTE",
+      "state": "DC",
+      "transaction_id": "F65-144448",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00900431",
+      "file_number": 2041893
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 350000,
+      "contributor": "DENNING, ROBERTA",
+      "state": "WY",
+      "transaction_id": "F65-144487",
+      "entity_type": "IND",
+      "employer": "INFORMATION REQUESTED",
+      "occupation": "INFORMATION REQUESTED",
+      "committee_id": "C00900431",
+      "file_number": 2041893
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "DENNIS, MARGARET",
+      "state": "MD",
+      "transaction_id": "F65-144497",
+      "entity_type": "IND",
+      "employer": "NONE",
+      "occupation": "SELF-EMPLOYED HOMEMAKER",
+      "committee_id": "C00900431",
+      "file_number": 2041893
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 350000,
+      "contributor": "DUGAN, REGINA",
+      "state": "CA",
+      "transaction_id": "F65-144493",
+      "entity_type": "IND",
+      "employer": "WELLCOME LEAP",
+      "occupation": "CEO",
+      "committee_id": "C00900431",
+      "file_number": 2041893
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "FOLEY, CATHERINE",
+      "state": "NY",
+      "transaction_id": "F65-144485",
+      "entity_type": "IND",
+      "employer": "INFORMATION REQUESTED",
+      "occupation": "INFORMATION REQUESTED",
+      "committee_id": "C00900431",
+      "file_number": 2041893
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 350000,
+      "contributor": "LADDER 2 PAC",
+      "state": "PA",
+      "transaction_id": "F65-144447",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00900431",
+      "file_number": 2041893
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+      "state": "DC",
+      "transaction_id": "F65-144445",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00900431",
+      "file_number": 2041893
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 350000,
+      "contributor": "MORGAN, DANIEL",
+      "state": "FL",
+      "transaction_id": "F65-144495",
+      "entity_type": "IND",
+      "employer": "MORGAN & MORGAN",
+      "occupation": "ATTORNEY",
+      "committee_id": "C00900431",
+      "file_number": 2041893
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "SHENOY, AJAY",
+      "state": "NJ",
+      "transaction_id": "F65-144486",
+      "entity_type": "IND",
+      "employer": "INFORMATION REQUESTED",
+      "occupation": "INFORMATION REQUESTED",
+      "committee_id": "C00900431",
+      "file_number": 2041893
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 350000,
+      "contributor": "STOREY, MICHAEL",
+      "state": "FL",
+      "transaction_id": "F65-144467",
+      "entity_type": "IND",
+      "employer": "INFORMATION REQUESTED",
+      "occupation": "INFORMATION REQUESTED",
+      "committee_id": "C00900431",
+      "file_number": 2041893
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 200000,
+      "contributor": "SYMONS, BARBARA",
+      "state": "NY",
+      "transaction_id": "F65-144466",
+      "entity_type": "IND",
+      "employer": "REFORM TEMPLE OF PUTNAM VALLEY",
+      "occupation": "RABBI",
+      "committee_id": "C00900431",
+      "file_number": 2041893
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "TANERHAUS, ENID",
+      "state": "NY",
+      "transaction_id": "F65-144496",
+      "entity_type": "IND",
+      "employer": "NOT EMPLOYED",
+      "occupation": "NOT EMPLOYED",
+      "committee_id": "C00900431",
+      "file_number": 2041893
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 180000,
+      "contributor": "WESTCHESTER JEWISH DEMOCRATS",
+      "state": "NY",
+      "transaction_id": "F65-144446",
+      "entity_type": "COM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00900431",
+      "file_number": 2041893
     }
   ],
-  "report_count": 13,
+  "report_count": 14,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
