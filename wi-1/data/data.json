@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-25T23:26:04+00:00",
+  "generated_at": "2026-10-26T00:53:11+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -141,15 +141,15 @@
     {
       "date": "2026-10-23",
       "totals": {
-        "lawler": 1900000,
+        "lawler": 2100000,
         "conley": 2600000
       },
       "cumulative": {
-        "lawler": 15067559,
+        "lawler": 15267559,
         "conley": 19520000
       },
       "counts": {
-        "lawler": 6,
+        "lawler": 8,
         "conley": 10
       }
     },
@@ -160,7 +160,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 16131914,
+        "lawler": 16331914,
         "conley": 19520000
       },
       "counts": {
@@ -175,7 +175,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 16131914,
+        "lawler": 16331914,
         "conley": 19520000
       },
       "counts": {
@@ -296,6 +296,13 @@
       "filed_date": "2026-10-25",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00915637/2041790/f65"
+    },
+    {
+      "committee_id": "C00677286",
+      "file_number": 2041839,
+      "filed_date": "2026-10-25",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00677286/2041839/f65"
     }
   ],
   "contributions": [
@@ -1982,6 +1989,30 @@
     {
       "date": "2026-10-23",
       "amount_cents": 100000,
+      "contributor": "SCHAMBOW, JOSEPH R.",
+      "state": "WI",
+      "transaction_id": "TX95208",
+      "entity_type": "IND",
+      "employer": "SELF",
+      "occupation": "AGRI-BUSINESS",
+      "committee_id": "C00677286",
+      "file_number": 2041839
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
+      "contributor": "SORENSON, NANCY K.",
+      "state": "WI",
+      "transaction_id": "TX95207",
+      "entity_type": "IND",
+      "employer": "",
+      "occupation": "RETIRED",
+      "committee_id": "C00677286",
+      "file_number": 2041839
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 100000,
       "contributor": "AMERICAN INNOVATION POLITICAL ACTION COMMITTEE (AMI PAC)",
       "state": "CA",
       "transaction_id": "14888322",
@@ -2148,7 +2179,7 @@
       "file_number": 2041712
     }
   ],
-  "report_count": 16,
+  "report_count": 17,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

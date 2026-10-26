@@ -2186,6 +2186,42 @@
       "most_recent_filing": 2041790,
       "is_amended": false,
       "filed_date": "2026-10-25"
+    },
+    "C00677286/2041839": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "SCHAMBOW, JOSEPH R.",
+          "state": "WI",
+          "transaction_id": "TX95208",
+          "entity_type": "IND",
+          "employer": "SELF",
+          "occupation": "AGRI-BUSINESS"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "SORENSON, NANCY K.",
+          "state": "WI",
+          "transaction_id": "TX95207",
+          "entity_type": "IND",
+          "employer": "",
+          "occupation": "RETIRED"
+        }
+      ],
+      "file_number": 2041839,
+      "committee_id": "C00677286",
+      "sha256": "9dd6fd1517339499978dc3825f5fb1a3ae6520c0174ac1c45fa32fcbadb8e509",
+      "amendment_chain": [
+        2041839
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041839,
+      "is_amended": false,
+      "filed_date": "2026-10-25"
     }
   }
 }
