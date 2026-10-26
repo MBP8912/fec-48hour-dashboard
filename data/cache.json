@@ -3324,6 +3324,52 @@
       "most_recent_filing": 2041893,
       "is_amended": false,
       "filed_date": "2026-10-25"
+    },
+    "C00815415/2042020": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-24",
+          "amount_cents": 100000,
+          "contributor": "Gibb, Kennweth",
+          "state": "CA",
+          "transaction_id": "F65-3321834",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-24",
+          "amount_cents": 200000,
+          "contributor": "Inserra, Lawrence",
+          "state": "NJ",
+          "transaction_id": "F65-3321715",
+          "entity_type": "IND",
+          "employer": "Inserra Supermarkets, Inc.",
+          "occupation": "President, Inserra PriceRite, Inc."
+        },
+        {
+          "date": "2026-10-24",
+          "amount_cents": 350000,
+          "contributor": "Mehndiratta, Naman",
+          "state": "TX",
+          "transaction_id": "F65-3321786",
+          "entity_type": "IND",
+          "employer": "Self-Employed",
+          "occupation": "Trader"
+        }
+      ],
+      "file_number": 2042020,
+      "committee_id": "C00815415",
+      "sha256": "a22fcdb3c4114402bfcad113060fc38f1616760de94ba28355d28afc2faa3d9d",
+      "amendment_chain": [
+        2042020
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2042020,
+      "is_amended": false,
+      "filed_date": "2026-10-26"
     }
   }
 }

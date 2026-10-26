@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-26T14:46:32+00:00",
+  "generated_at": "2026-10-26T16:04:21+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -156,15 +156,15 @@
     {
       "date": "2026-10-24",
       "totals": {
-        "lawler": 0,
+        "lawler": 650000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 37525939,
+        "lawler": 38175939,
         "conley": 25626420
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 3,
         "conley": 0
       }
     },
@@ -175,7 +175,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 37525939,
+        "lawler": 38175939,
         "conley": 25626420
       },
       "counts": {
@@ -190,7 +190,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 37525939,
+        "lawler": 38175939,
         "conley": 25626420
       },
       "counts": {
@@ -297,6 +297,13 @@
       "filed_date": "2026-10-25",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00900431/2041893/f65"
+    },
+    {
+      "committee_id": "C00815415",
+      "file_number": 2042020,
+      "filed_date": "2026-10-26",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00815415/2042020/f65"
     }
   ],
   "contributions": [
@@ -3947,9 +3954,45 @@
       "occupation": "",
       "committee_id": "C00900431",
       "file_number": 2041893
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "Gibb, Kennweth",
+      "state": "CA",
+      "transaction_id": "F65-3321834",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00815415",
+      "file_number": 2042020
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 200000,
+      "contributor": "Inserra, Lawrence",
+      "state": "NJ",
+      "transaction_id": "F65-3321715",
+      "entity_type": "IND",
+      "employer": "Inserra Supermarkets, Inc.",
+      "occupation": "President, Inserra PriceRite, Inc.",
+      "committee_id": "C00815415",
+      "file_number": 2042020
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 350000,
+      "contributor": "Mehndiratta, Naman",
+      "state": "TX",
+      "transaction_id": "F65-3321786",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Trader",
+      "committee_id": "C00815415",
+      "file_number": 2042020
     }
   ],
-  "report_count": 14,
+  "report_count": 15,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

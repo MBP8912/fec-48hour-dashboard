@@ -2222,6 +2222,32 @@
       "most_recent_filing": 2041839,
       "is_amended": false,
       "filed_date": "2026-10-25"
+    },
+    "C00677286/2042022": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-25",
+          "amount_cents": 206612,
+          "contributor": "KAUFMAN, SCOTT",
+          "state": "WI",
+          "transaction_id": "TX95497",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        }
+      ],
+      "file_number": 2042022,
+      "committee_id": "C00677286",
+      "sha256": "1a259624b1addf72689884bb3e057451c06da8bed140e4a5982afdd19f5e15b7",
+      "amendment_chain": [
+        2042022
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2042022,
+      "is_amended": false,
+      "filed_date": "2026-10-26"
     }
   }
 }

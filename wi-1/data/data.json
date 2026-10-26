@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-26T14:46:32+00:00",
+  "generated_at": "2026-10-26T16:04:21+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -171,15 +171,15 @@
     {
       "date": "2026-10-25",
       "totals": {
-        "lawler": 0,
+        "lawler": 206612,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 16331914,
+        "lawler": 16538526,
         "conley": 19520000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 1,
         "conley": 0
       }
     },
@@ -190,7 +190,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 16331914,
+        "lawler": 16538526,
         "conley": 19520000
       },
       "counts": {
@@ -318,6 +318,13 @@
       "filed_date": "2026-10-25",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00677286/2041839/f65"
+    },
+    {
+      "committee_id": "C00677286",
+      "file_number": 2042022,
+      "filed_date": "2026-10-26",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00677286/2042022/f65"
     }
   ],
   "contributions": [
@@ -2192,9 +2199,21 @@
       "occupation": "FOUNDER",
       "committee_id": "C00677286",
       "file_number": 2041712
+    },
+    {
+      "date": "2026-10-25",
+      "amount_cents": 206612,
+      "contributor": "KAUFMAN, SCOTT",
+      "state": "WI",
+      "transaction_id": "TX95497",
+      "entity_type": "IND",
+      "employer": "RETIRED",
+      "occupation": "RETIRED",
+      "committee_id": "C00677286",
+      "file_number": 2042022
     }
   ],
-  "report_count": 17,
+  "report_count": 18,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
