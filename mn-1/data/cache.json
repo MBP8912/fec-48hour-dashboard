@@ -1262,6 +1262,72 @@
       "most_recent_filing": 2041523,
       "is_amended": false,
       "filed_date": "2026-10-25"
+    },
+    "C00902684/2041941": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-24",
+          "amount_cents": 100000,
+          "contributor": "Dayton, David",
+          "state": "MN",
+          "transaction_id": "14963341",
+          "entity_type": "IND",
+          "employer": "AlumiPlate",
+          "occupation": "Engineer"
+        },
+        {
+          "date": "2026-10-24",
+          "amount_cents": 200000,
+          "contributor": "LASHER FOR CONGRESS",
+          "state": "NY",
+          "transaction_id": "14921896",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-24",
+          "amount_cents": 100000,
+          "contributor": "Lewis, John",
+          "state": "MA",
+          "transaction_id": "14963351",
+          "entity_type": "IND",
+          "employer": "Athenahealth",
+          "occupation": "VP Of Customer Succes"
+        },
+        {
+          "date": "2026-10-24",
+          "amount_cents": 100000,
+          "contributor": "STANTON FOR CONGRESS",
+          "state": "AZ",
+          "transaction_id": "14921897",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-24",
+          "amount_cents": 100000,
+          "contributor": "Wruck, Peter",
+          "state": "MN",
+          "transaction_id": "14963344",
+          "entity_type": "IND",
+          "employer": "Rochester Public Schools ISD535",
+          "occupation": "School Administrator"
+        }
+      ],
+      "file_number": 2041941,
+      "committee_id": "C00902684",
+      "sha256": "029ee3a1f46439921c718c9ee471409fcfc3fce2025e5bd933b25128526d5b80",
+      "amendment_chain": [
+        2041941
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2041941,
+      "is_amended": false,
+      "filed_date": "2026-10-26"
     }
   }
 }

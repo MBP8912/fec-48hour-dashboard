@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-26T04:36:21+00:00",
+  "generated_at": "2026-10-26T05:36:07+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -157,15 +157,15 @@
       "date": "2026-10-24",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 600000
       },
       "cumulative": {
         "lawler": 7854102,
-        "conley": 15220000
+        "conley": 15820000
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 5
       }
     },
     {
@@ -176,7 +176,7 @@
       },
       "cumulative": {
         "lawler": 7854102,
-        "conley": 15220000
+        "conley": 15820000
       },
       "counts": {
         "lawler": 0,
@@ -191,7 +191,7 @@
       },
       "cumulative": {
         "lawler": 7854102,
-        "conley": 15220000
+        "conley": 15820000
       },
       "counts": {
         "lawler": 0,
@@ -283,6 +283,13 @@
       "filed_date": "2026-10-25",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00902684/2041523/f65"
+    },
+    {
+      "committee_id": "C00902684",
+      "file_number": 2041941,
+      "filed_date": "2026-10-26",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00902684/2041941/f65"
     }
   ],
   "contributions": [
@@ -1569,9 +1576,69 @@
       "occupation": "Md",
       "committee_id": "C00902684",
       "file_number": 2041523
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "Dayton, David",
+      "state": "MN",
+      "transaction_id": "14963341",
+      "entity_type": "IND",
+      "employer": "AlumiPlate",
+      "occupation": "Engineer",
+      "committee_id": "C00902684",
+      "file_number": 2041941
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 200000,
+      "contributor": "LASHER FOR CONGRESS",
+      "state": "NY",
+      "transaction_id": "14921896",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2041941
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "Lewis, John",
+      "state": "MA",
+      "transaction_id": "14963351",
+      "entity_type": "IND",
+      "employer": "Athenahealth",
+      "occupation": "VP Of Customer Succes",
+      "committee_id": "C00902684",
+      "file_number": 2041941
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "STANTON FOR CONGRESS",
+      "state": "AZ",
+      "transaction_id": "14921897",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2041941
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "Wruck, Peter",
+      "state": "MN",
+      "transaction_id": "14963344",
+      "entity_type": "IND",
+      "employer": "Rochester Public Schools ISD535",
+      "occupation": "School Administrator",
+      "committee_id": "C00902684",
+      "file_number": 2041941
     }
   ],
-  "report_count": 12,
+  "report_count": 13,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
