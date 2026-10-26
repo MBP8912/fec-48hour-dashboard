@@ -1474,6 +1474,62 @@
       "most_recent_filing": 2041650,
       "is_amended": false,
       "filed_date": "2026-10-25"
+    },
+    "C00787820/2042277": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-24",
+          "amount_cents": 100000,
+          "contributor": "Baechle, Ralph C",
+          "state": "IA",
+          "transaction_id": "20887505",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "Blake, Jack",
+          "state": "TX",
+          "transaction_id": "20887506",
+          "entity_type": "IND",
+          "employer": "Jack E Blake Jr",
+          "occupation": "Oil Investor"
+        },
+        {
+          "date": "2026-10-24",
+          "amount_cents": 150000,
+          "contributor": "Falkof, Adam",
+          "state": "IL",
+          "transaction_id": "20887504",
+          "entity_type": "IND",
+          "employer": "Quarles & Brady LLP",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "Ghosh, Anirban",
+          "state": "NY",
+          "transaction_id": "20887507",
+          "entity_type": "IND",
+          "employer": "Amazon",
+          "occupation": "Software Engineer"
+        }
+      ],
+      "file_number": 2042277,
+      "committee_id": "C00787820",
+      "sha256": "e910b743d6a52b5d66f6cbd1ef291907d3d9b21491022dfa7b31124949555a30",
+      "amendment_chain": [
+        2042277
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2042277,
+      "is_amended": false,
+      "filed_date": "2026-10-26"
     }
   }
 }

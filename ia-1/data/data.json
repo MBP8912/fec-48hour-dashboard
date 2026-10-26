@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-26T22:35:28+00:00",
+  "generated_at": "2026-10-26T23:31:02+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -157,30 +157,30 @@
       "date": "2026-10-24",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 250000
       },
       "cumulative": {
         "lawler": 12100000,
-        "conley": 14007427
+        "conley": 14257427
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 2
       }
     },
     {
       "date": "2026-10-25",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 200000
       },
       "cumulative": {
         "lawler": 12100000,
-        "conley": 14007427
+        "conley": 14457427
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 2
       }
     },
     {
@@ -191,7 +191,7 @@
       },
       "cumulative": {
         "lawler": 12100000,
-        "conley": 14007427
+        "conley": 14457427
       },
       "counts": {
         "lawler": 0,
@@ -297,6 +297,13 @@
       "filed_date": "2026-10-25",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00787820/2041650/f65"
+    },
+    {
+      "committee_id": "C00787820",
+      "file_number": 2042277,
+      "filed_date": "2026-10-26",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00787820/2042277/f65"
     }
   ],
   "contributions": [
@@ -1799,9 +1806,57 @@
       "occupation": "",
       "committee_id": "C00787820",
       "file_number": 2041650
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "Baechle, Ralph C",
+      "state": "IA",
+      "transaction_id": "20887505",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00787820",
+      "file_number": 2042277
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 150000,
+      "contributor": "Falkof, Adam",
+      "state": "IL",
+      "transaction_id": "20887504",
+      "entity_type": "IND",
+      "employer": "Quarles & Brady LLP",
+      "occupation": "Attorney",
+      "committee_id": "C00787820",
+      "file_number": 2042277
+    },
+    {
+      "date": "2026-10-25",
+      "amount_cents": 100000,
+      "contributor": "Blake, Jack",
+      "state": "TX",
+      "transaction_id": "20887506",
+      "entity_type": "IND",
+      "employer": "Jack E Blake Jr",
+      "occupation": "Oil Investor",
+      "committee_id": "C00787820",
+      "file_number": 2042277
+    },
+    {
+      "date": "2026-10-25",
+      "amount_cents": 100000,
+      "contributor": "Ghosh, Anirban",
+      "state": "NY",
+      "transaction_id": "20887507",
+      "entity_type": "IND",
+      "employer": "Amazon",
+      "occupation": "Software Engineer",
+      "committee_id": "C00787820",
+      "file_number": 2042277
     }
   ],
-  "report_count": 14,
+  "report_count": 15,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
