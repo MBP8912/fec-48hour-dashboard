@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-26T23:31:02+00:00",
+  "generated_at": "2026-10-27T00:43:27+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -156,30 +156,30 @@
     {
       "date": "2026-10-24",
       "totals": {
-        "lawler": 0,
+        "lawler": 3440778,
         "conley": 600000
       },
       "cumulative": {
-        "lawler": 7854102,
+        "lawler": 11294880,
         "conley": 15820000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 10,
         "conley": 5
       }
     },
     {
       "date": "2026-10-25",
       "totals": {
-        "lawler": 0,
+        "lawler": 100000,
         "conley": 552600
       },
       "cumulative": {
-        "lawler": 7854102,
+        "lawler": 11394880,
         "conley": 16372600
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 1,
         "conley": 2
       }
     },
@@ -190,7 +190,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 7854102,
+        "lawler": 11394880,
         "conley": 16372600
       },
       "counts": {
@@ -297,6 +297,13 @@
       "filed_date": "2026-10-26",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00902684/2042228/f65"
+    },
+    {
+      "committee_id": "C00807743",
+      "file_number": 2042293,
+      "filed_date": "2026-10-26",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00807743/2042293/f65"
     }
   ],
   "contributions": [
@@ -1586,6 +1593,126 @@
     },
     {
       "date": "2026-10-24",
+      "amount_cents": 500000,
+      "contributor": "CIRCLE THE WAGONS PAC",
+      "state": "NY",
+      "transaction_id": "6CC32CBE42F464C69868",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2042293
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 500000,
+      "contributor": "CONSERVATIVE OPPORTUNITY LEADERSHIP AND ENTERPRISE PAC (COLE PAC)",
+      "state": "VA",
+      "transaction_id": "6E293BC8BA81A4A58ADA",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2042293
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "DAVIS, BRIAN J.",
+      "state": "MN",
+      "transaction_id": "6E57F917DBB2A4A36B1B",
+      "entity_type": "IND",
+      "employer": "MAYO CLINIC",
+      "occupation": "PHYSICIAN",
+      "committee_id": "C00807743",
+      "file_number": 2042293
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 500000,
+      "contributor": "DOUBLE L PAC",
+      "state": "FL",
+      "transaction_id": "68DE276047C3145ABAB9",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2042293
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 200000,
+      "contributor": "FEDORCHAK FOR ND",
+      "state": "ND",
+      "transaction_id": "6684154122D864CA7925",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2042293
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 590778,
+      "contributor": "FINSTAD VICTORY COMMITTEE",
+      "state": "GA",
+      "transaction_id": "62C83E140DE3E407A9D2",
+      "entity_type": "COM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2042293
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 100000,
+      "contributor": "FISHER, CURTIS",
+      "state": "MN",
+      "transaction_id": "669ECB1E59C93451F803",
+      "entity_type": "IND",
+      "employer": "NONE",
+      "occupation": "RETIRED",
+      "committee_id": "C00807743",
+      "file_number": 2042293
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 500000,
+      "contributor": "IMPACT COMMITTEE",
+      "state": "VA",
+      "transaction_id": "68B1355674FC641EC96A",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2042293
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 250000,
+      "contributor": "INTERNATIONAL DAIRY FOODS ASSOCIATION (IDFA) PAC",
+      "state": "DC",
+      "transaction_id": "6A50900476C6343E3950",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2042293
+    },
+    {
+      "date": "2026-10-24",
+      "amount_cents": 200000,
+      "contributor": "NICOLE FOR NEW YORK",
+      "state": "NY",
+      "transaction_id": "65F14757D4CD440AE829",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2042293
+    },
+    {
+      "date": "2026-10-24",
       "amount_cents": 100000,
       "contributor": "Dayton, David",
       "state": "MN",
@@ -1646,6 +1773,18 @@
     },
     {
       "date": "2026-10-25",
+      "amount_cents": 100000,
+      "contributor": "CHRISTENSEN, GLEN",
+      "state": "MN",
+      "transaction_id": "617214180B0FF4C14A18",
+      "entity_type": "IND",
+      "employer": "SELF EMPLOYED",
+      "occupation": "CROP FARMER",
+      "committee_id": "C00807743",
+      "file_number": 2042293
+    },
+    {
+      "date": "2026-10-25",
       "amount_cents": 202600,
       "contributor": "Bhandaru, Akhil",
       "state": "NY",
@@ -1669,7 +1808,7 @@
       "file_number": 2042228
     }
   ],
-  "report_count": 14,
+  "report_count": 15,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

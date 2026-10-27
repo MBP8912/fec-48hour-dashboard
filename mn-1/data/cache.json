@@ -1364,6 +1364,132 @@
       "most_recent_filing": 2042228,
       "is_amended": false,
       "filed_date": "2026-10-26"
+    },
+    "C00807743/2042293": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-24",
+          "amount_cents": 100000,
+          "contributor": "FISHER, CURTIS",
+          "state": "MN",
+          "transaction_id": "669ECB1E59C93451F803",
+          "entity_type": "IND",
+          "employer": "NONE",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-24",
+          "amount_cents": 500000,
+          "contributor": "CIRCLE THE WAGONS PAC",
+          "state": "NY",
+          "transaction_id": "6CC32CBE42F464C69868",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-24",
+          "amount_cents": 500000,
+          "contributor": "CONSERVATIVE OPPORTUNITY LEADERSHIP AND ENTERPRISE PAC (COLE PAC)",
+          "state": "VA",
+          "transaction_id": "6E293BC8BA81A4A58ADA",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-24",
+          "amount_cents": 200000,
+          "contributor": "NICOLE FOR NEW YORK",
+          "state": "NY",
+          "transaction_id": "65F14757D4CD440AE829",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-24",
+          "amount_cents": 500000,
+          "contributor": "DOUBLE L PAC",
+          "state": "FL",
+          "transaction_id": "68DE276047C3145ABAB9",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-24",
+          "amount_cents": 590778,
+          "contributor": "FINSTAD VICTORY COMMITTEE",
+          "state": "GA",
+          "transaction_id": "62C83E140DE3E407A9D2",
+          "entity_type": "COM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-24",
+          "amount_cents": 500000,
+          "contributor": "IMPACT COMMITTEE",
+          "state": "VA",
+          "transaction_id": "68B1355674FC641EC96A",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-24",
+          "amount_cents": 250000,
+          "contributor": "INTERNATIONAL DAIRY FOODS ASSOCIATION (IDFA) PAC",
+          "state": "DC",
+          "transaction_id": "6A50900476C6343E3950",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-24",
+          "amount_cents": 200000,
+          "contributor": "FEDORCHAK FOR ND",
+          "state": "ND",
+          "transaction_id": "6684154122D864CA7925",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-24",
+          "amount_cents": 100000,
+          "contributor": "DAVIS, BRIAN J.",
+          "state": "MN",
+          "transaction_id": "6E57F917DBB2A4A36B1B",
+          "entity_type": "IND",
+          "employer": "MAYO CLINIC",
+          "occupation": "PHYSICIAN"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "CHRISTENSEN, GLEN",
+          "state": "MN",
+          "transaction_id": "617214180B0FF4C14A18",
+          "entity_type": "IND",
+          "employer": "SELF EMPLOYED",
+          "occupation": "CROP FARMER"
+        }
+      ],
+      "file_number": 2042293,
+      "committee_id": "C00807743",
+      "sha256": "e555a2cbab6504f2a4883a951720263d0f01eb1d50a443366d76cd4d7003b808",
+      "amendment_chain": [
+        2042293
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2042293,
+      "is_amended": false,
+      "filed_date": "2026-10-26"
     }
   }
 }
