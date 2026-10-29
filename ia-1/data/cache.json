@@ -1812,6 +1812,122 @@
       "most_recent_filing": 2043245,
       "is_amended": false,
       "filed_date": "2026-10-29"
+    },
+    "C00787820/2043925": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-27",
+          "amount_cents": 200000,
+          "contributor": "BLUE MOMENTUM PAC",
+          "state": "CA",
+          "transaction_id": "20913372",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "COMMITTEE FOR A STRONGER AMERICA",
+          "state": "CA",
+          "transaction_id": "20913775",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "Mnookin, James",
+          "state": "MA",
+          "transaction_id": "20913415",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "MORRISON FOR CONGRESS",
+          "state": "MN",
+          "transaction_id": "20913783",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 250000,
+          "contributor": "POLITICAL ACTION COMMITTEE OF THE INTERNATIONAL ALLIANCE OF THEATRICAL STAGE EMPLOYEES",
+          "state": "NY",
+          "transaction_id": "20913115",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "REBUILD AMERICA PAC",
+          "state": "DC",
+          "transaction_id": "20913771",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "Rhodes, Ann Marie",
+          "state": "IA",
+          "transaction_id": "20913481",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 350000,
+          "contributor": "Shear, Jack",
+          "state": "NY",
+          "transaction_id": "20913480",
+          "entity_type": "IND",
+          "employer": "Jack Shear",
+          "occupation": "Director"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "STRENGTHENING VIRGINIA'S WORKING FAMILIES PAC",
+          "state": "VA",
+          "transaction_id": "20913379",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 200000,
+          "contributor": "SUSIE LEE FOR CONGRESS",
+          "state": "NV",
+          "transaction_id": "20913793",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2043925,
+      "committee_id": "C00787820",
+      "sha256": "c94b4953a68c52aa5e6caa19c7fc2eb1e1de70263b76474f882e0e82bb1a8b50",
+      "amendment_chain": [
+        2043925
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2043925,
+      "is_amended": false,
+      "filed_date": "2026-10-29"
     }
   }
 }
