@@ -1256,6 +1256,262 @@
       "most_recent_filing": 2043348,
       "is_amended": false,
       "filed_date": "2026-10-29"
+    },
+    "C00909515/2043417": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-25",
+          "amount_cents": 300000,
+          "contributor": "SULLIVAN, PATRICK J.",
+          "state": "NE",
+          "transaction_id": "679C09725F7DE4FB3A28",
+          "entity_type": "IND",
+          "employer": "ADAMS & SULLIVAN",
+          "occupation": "ATTORNEY"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 350000,
+          "contributor": "YOUNG, GREGG",
+          "state": "NE",
+          "transaction_id": "6473A2DA525EB43B6AFF",
+          "entity_type": "IND",
+          "employer": "GREGG YOUNG AUTOMOTIVE GROUP",
+          "occupation": "PRESIDENT"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 200000,
+          "contributor": "KITT, LONNIE",
+          "state": "NE",
+          "transaction_id": "60AD6E13A1039469FBD7",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "KRATZ, PAUL",
+          "state": "NE",
+          "transaction_id": "6C7F128EE5D084E379E3",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "ATTORNEY"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 200000,
+          "contributor": "HUNT, HUGH W",
+          "state": "NE",
+          "transaction_id": "684EBC0272E2746C28A8",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 350000,
+          "contributor": "CONNORS, KELLY",
+          "state": "AZ",
+          "transaction_id": "666AD6D94DD6B489D968",
+          "entity_type": "IND",
+          "employer": "PLP SURGICAL",
+          "occupation": "SURGICAL ASSIST"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 200000,
+          "contributor": "HEJKAL, TOM",
+          "state": "NE",
+          "transaction_id": "618F431E5E38D4F4B94E",
+          "entity_type": "IND",
+          "employer": "UNIVERSITY OF NEBRASKA MEDICAL CENTER",
+          "occupation": "OPHTHALMOLOGIST"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "FONDA, JOHN D",
+          "state": "NE",
+          "transaction_id": "62383731310804C5DB3F",
+          "entity_type": "IND",
+          "employer": "CEO",
+          "occupation": "JOHN DAY COMPANY"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 250000,
+          "contributor": "BUSER, PATTY",
+          "state": "NE",
+          "transaction_id": "6EC128B41AB624FF0B2D",
+          "entity_type": "IND",
+          "employer": "INFORMATION REQUESTED",
+          "occupation": "INFORMATION REQUESTED"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 350000,
+          "contributor": "GODING, LOU ANN",
+          "state": "NE",
+          "transaction_id": "685D9B452DADB4642B58",
+          "entity_type": "IND",
+          "employer": "INFORMATION REQUESTED",
+          "occupation": "INFORMATION REQUESTED"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 250000,
+          "contributor": "OWEN, TYLER",
+          "state": "NE",
+          "transaction_id": "603FF1B0734CC42B88D2",
+          "entity_type": "IND",
+          "employer": "OWEN INDUSTRIES",
+          "occupation": "PRESIDENT & CEO"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "BRADFORD, DANA",
+          "state": "NE",
+          "transaction_id": "63D29535E264947B9889",
+          "entity_type": "IND",
+          "employer": "C3 BRANDS",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 150000,
+          "contributor": "MORGAN, PJ",
+          "state": "NE",
+          "transaction_id": "6C627BF2A30BF47B3832",
+          "entity_type": "IND",
+          "employer": "TCB REAL ESTATE",
+          "occupation": "OWNER"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 200000,
+          "contributor": "SHANAHAN, LINDA",
+          "state": "AZ",
+          "transaction_id": "6EFE8B79375594777B90",
+          "entity_type": "IND",
+          "employer": "INFORMATION REQUESTED",
+          "occupation": "INFORMATION REQUESTED"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 150000,
+          "contributor": "ONISHCHUK, VITALIY",
+          "state": "NE",
+          "transaction_id": "658010D241F6F420CA24",
+          "entity_type": "IND",
+          "employer": "ITILE FLOORING, INC",
+          "occupation": "MANAGER"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 250000,
+          "contributor": "GEORGE, STEVEN",
+          "state": "NE",
+          "transaction_id": "60974CA0D70A14B79B45",
+          "entity_type": "IND",
+          "employer": "DYNAMIS, INC.",
+          "occupation": "CO-OWNER"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 500000,
+          "contributor": "NATIONAL CATTLEMEN'S BEEF ASSOCIATION PAC (NCBA-PAC)",
+          "state": "DC",
+          "transaction_id": "6D0FC07C0230146E8A7C",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 500000,
+          "contributor": "CARRY ON PAC",
+          "state": "GA",
+          "transaction_id": "639FDCB895B2C4D33BDA",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 300000,
+          "contributor": "GLASS CITY PAC",
+          "state": "OH",
+          "transaction_id": "657AB53E7D7D74F8CBBA",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 500000,
+          "contributor": "AMERICA'S FIRST PAC",
+          "state": "VA",
+          "transaction_id": "66E45E76343E54B86A33",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 500000,
+          "contributor": "ELECTING REPUBLICANS INDIANA PAC",
+          "state": "IN",
+          "transaction_id": "6F04948047C9C47768FE",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 200000,
+          "contributor": "SOUTH FLORIDA LEADERSHIP PAC",
+          "state": "FL",
+          "transaction_id": "640D305D227774AB3AE9",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "ROHRBOUGH, ROBERT",
+          "state": "NE",
+          "transaction_id": "6970F0822929C4299B39",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 4217094,
+          "contributor": "BRINKER VICTORY FUND",
+          "state": "VA",
+          "transaction_id": "660BF9A7EEE1046DEB86",
+          "entity_type": "COM",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2043417,
+      "committee_id": "C00909515",
+      "sha256": "ab2d04bbf345623447c3ea083d0edc1506050c971bbc2dee9bb4eb03dbc043e0",
+      "amendment_chain": [
+        2043417
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2043417,
+      "is_amended": false,
+      "filed_date": "2026-10-29"
     }
   }
 }

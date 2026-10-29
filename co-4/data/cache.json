@@ -538,6 +538,62 @@
       "most_recent_filing": 2043289,
       "is_amended": false,
       "filed_date": "2026-10-29"
+    },
+    "C00728238/2043410": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-26",
+          "amount_cents": 300000,
+          "contributor": "WIENS, DIANA",
+          "state": "CO",
+          "transaction_id": "606DA90A0F86A4561A4D",
+          "entity_type": "IND",
+          "employer": "WIENS RANCH",
+          "occupation": "PRESIDENT"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 300000,
+          "contributor": "WIENS, TOM",
+          "state": "CO",
+          "transaction_id": "6E0BB76E999A04F45A79",
+          "entity_type": "IND",
+          "employer": "WIENS RANCH",
+          "occupation": "OWNER"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 143492,
+          "contributor": "DOUGLAS COUNTY REPUBLICAN WOMEN",
+          "state": "CO",
+          "transaction_id": "6B5372A4B358B4548984",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 300000,
+          "contributor": "RAPTOR PAC",
+          "state": "TX",
+          "transaction_id": "6A9A49906A2A74B61817",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2043410,
+      "committee_id": "C00728238",
+      "sha256": "b2776fdf6385d38333624af471f7f61115c68aba11dbe995d021f1c1706fbc43",
+      "amendment_chain": [
+        2043410
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2043410,
+      "is_amended": false,
+      "filed_date": "2026-10-29"
     }
   }
 }

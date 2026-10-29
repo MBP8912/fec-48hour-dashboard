@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-29T16:54:24+00:00",
+  "generated_at": "2026-10-29T17:48:58+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -186,15 +186,15 @@
     {
       "date": "2026-10-26",
       "totals": {
-        "lawler": 0,
+        "lawler": 1043492,
         "conley": 1100000
       },
       "cumulative": {
-        "lawler": 1800000,
+        "lawler": 2843492,
         "conley": 6798000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 4,
         "conley": 6
       }
     },
@@ -205,7 +205,7 @@
         "conley": 150000
       },
       "cumulative": {
-        "lawler": 1800000,
+        "lawler": 2843492,
         "conley": 6948000
       },
       "counts": {
@@ -220,7 +220,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 1800000,
+        "lawler": 2843492,
         "conley": 6948000
       },
       "counts": {
@@ -235,7 +235,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 1800000,
+        "lawler": 2843492,
         "conley": 6948000
       },
       "counts": {
@@ -300,6 +300,13 @@
       "filed_date": "2026-10-29",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00904284/2043289/f65"
+    },
+    {
+      "committee_id": "C00728238",
+      "file_number": 2043410,
+      "filed_date": "2026-10-29",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00728238/2043410/f65"
     }
   ],
   "contributions": [
@@ -713,6 +720,54 @@
     },
     {
       "date": "2026-10-26",
+      "amount_cents": 143492,
+      "contributor": "DOUGLAS COUNTY REPUBLICAN WOMEN",
+      "state": "CO",
+      "transaction_id": "6B5372A4B358B4548984",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00728238",
+      "file_number": 2043410
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 300000,
+      "contributor": "RAPTOR PAC",
+      "state": "TX",
+      "transaction_id": "6A9A49906A2A74B61817",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00728238",
+      "file_number": 2043410
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 300000,
+      "contributor": "WIENS, DIANA",
+      "state": "CO",
+      "transaction_id": "606DA90A0F86A4561A4D",
+      "entity_type": "IND",
+      "employer": "WIENS RANCH",
+      "occupation": "PRESIDENT",
+      "committee_id": "C00728238",
+      "file_number": 2043410
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 300000,
+      "contributor": "WIENS, TOM",
+      "state": "CO",
+      "transaction_id": "6E0BB76E999A04F45A79",
+      "entity_type": "IND",
+      "employer": "WIENS RANCH",
+      "occupation": "OWNER",
+      "committee_id": "C00728238",
+      "file_number": 2043410
+    },
+    {
+      "date": "2026-10-26",
       "amount_cents": 100000,
       "contributor": "Caplan, Amy",
       "state": "CT",
@@ -796,7 +851,7 @@
       "file_number": 2043289
     }
   ],
-  "report_count": 8,
+  "report_count": 9,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
