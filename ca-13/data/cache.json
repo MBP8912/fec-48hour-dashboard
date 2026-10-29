@@ -1266,6 +1266,212 @@
       "most_recent_filing": 2042989,
       "is_amended": false,
       "filed_date": "2026-10-29"
+    },
+    "C00801431/2043571": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "Lewis, John",
+          "state": "MA",
+          "transaction_id": "11588560",
+          "entity_type": "IND",
+          "employer": "Athenahealth",
+          "occupation": "Vice President"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 250000,
+          "contributor": "Merck & Co., Inc., Employees Political Action Committee (MERCK PAC)",
+          "state": "DC",
+          "transaction_id": "11599191",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 150000,
+          "contributor": "Saldivar-Morse, Teresa",
+          "state": "CA",
+          "transaction_id": "11595532",
+          "entity_type": "IND",
+          "employer": "Merced City Elementary",
+          "occupation": "Teacher"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "Bridge the Gap PAC",
+          "state": "DC",
+          "transaction_id": "11581792",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "Hansen, Ronald W.",
+          "state": "CA",
+          "transaction_id": "11595533",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 200000,
+          "contributor": "Charter Communications, Inc. Political Action Committee",
+          "state": "CT",
+          "transaction_id": "11599143",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 150000,
+          "contributor": "Marchini, Stephanie",
+          "state": "CA",
+          "transaction_id": "11595534",
+          "entity_type": "IND",
+          "employer": "Vista Cellars",
+          "occupation": "Business Owner"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 150000,
+          "contributor": "Shore PAC",
+          "state": "NJ",
+          "transaction_id": "11598834",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "Prady, William S.",
+          "state": "CA",
+          "transaction_id": "11595535",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Writer"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 250000,
+          "contributor": "Associated General Contractors of America Political Action Committee",
+          "state": "VA",
+          "transaction_id": "11599135",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "ConocoPhillips SPIRIT PAC",
+          "state": "OK",
+          "transaction_id": "11599155",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 200000,
+          "contributor": "Goldman, Steven J.",
+          "state": "CA",
+          "transaction_id": "11595536",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "Fuller, Lynn D.",
+          "state": "CA",
+          "transaction_id": "11595537",
+          "entity_type": "IND",
+          "employer": "US Distict Court, California",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "Karsh, Martha",
+          "state": "CA",
+          "transaction_id": "11588557",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 200000,
+          "contributor": "FOX Corporation Political Action Committee(FOX PAC)",
+          "state": "DC",
+          "transaction_id": "11599118",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-16",
+          "amount_cents": 350000,
+          "contributor": "Committee for California",
+          "state": "CA",
+          "transaction_id": "11606138",
+          "entity_type": "ORG",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "Taylor, Kat",
+          "state": "CA",
+          "transaction_id": "11588558",
+          "entity_type": "IND",
+          "employer": "Law Office of Kat Taylor",
+          "occupation": "Principal"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 150000,
+          "contributor": "Abundant America PAC",
+          "state": "DC",
+          "transaction_id": "11587088",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 150000,
+          "contributor": "Sandhu, Lakhjit",
+          "state": "CA",
+          "transaction_id": "11588559",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Physician"
+        }
+      ],
+      "file_number": 2043571,
+      "committee_id": "C00801431",
+      "sha256": "193147ab2165c9ee4341f4fa1ebf180f55622c4e8c7c7275310841bb5cdf9cc8",
+      "amendment_chain": [
+        2043571
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2043571,
+      "is_amended": false,
+      "filed_date": "2026-10-29"
     }
   }
 }

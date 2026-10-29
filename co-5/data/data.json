@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-29T18:49:47+00:00",
+  "generated_at": "2026-10-29T19:50:06+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -201,15 +201,15 @@
     {
       "date": "2026-10-27",
       "totals": {
-        "lawler": 0,
+        "lawler": 1750000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 4350000,
+        "lawler": 6100000,
         "conley": 17450500
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 9,
         "conley": 0
       }
     },
@@ -220,7 +220,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 4350000,
+        "lawler": 6100000,
         "conley": 17450500
       },
       "counts": {
@@ -235,7 +235,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 4350000,
+        "lawler": 6100000,
         "conley": 17450500
       },
       "counts": {
@@ -384,6 +384,13 @@
       "filed_date": "2026-10-29",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00865592/2043190/f65"
+    },
+    {
+      "committee_id": "C00865592",
+      "file_number": 2043572,
+      "filed_date": "2026-10-29",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00865592/2043572/f65"
     }
   ],
   "contributions": [
@@ -1718,9 +1725,117 @@
       "occupation": "Scientist",
       "committee_id": "C00911941",
       "file_number": 2042570
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 250000,
+      "contributor": "AMERICAN MOTORCYCLIST ASSOCIATION POLITICAL ACTION COMMITTEE",
+      "state": "OH",
+      "transaction_id": "180256336",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2043572
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "BLAHA, ROBERT",
+      "state": "CO",
+      "transaction_id": "261027002",
+      "entity_type": "IND",
+      "employer": "HCA RSI",
+      "occupation": "CONSULTANT",
+      "committee_id": "C00865592",
+      "file_number": 2043572
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "DOWIS, RANDY",
+      "state": "CO",
+      "transaction_id": "261027001",
+      "entity_type": "IND",
+      "employer": "NAI HIGHLAND COMMERCIAL GROUP",
+      "occupation": "COMMERCIAL REAL ESTATE",
+      "committee_id": "C00865592",
+      "file_number": 2043572
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 500000,
+      "contributor": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+      "state": "DC",
+      "transaction_id": "180298548",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2043572
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 150000,
+      "contributor": "Leadership and Loyalty Only to America PAC",
+      "state": "WI",
+      "transaction_id": "180256337",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2043572
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "NATIONAL SOCIETY OF PROFESSIONAL SURVEYORS PAC",
+      "state": "MD",
+      "transaction_id": "180256344",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2043572
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 200000,
+      "contributor": "SWERDFEGER, KEITH R",
+      "state": "CO",
+      "transaction_id": "180256332",
+      "entity_type": "IND",
+      "employer": "INFORMATION REQUESTED",
+      "occupation": "INFORMATION REQUESTED",
+      "committee_id": "C00865592",
+      "file_number": 2043572
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 250000,
+      "contributor": "WESTERN ENERGY ALLIANCE POLITICAL ACTION COMMITTEE",
+      "state": "CO",
+      "transaction_id": "180256341",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2043572
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "YOUR OHIO REPUBLICAN TEAM",
+      "state": "MD",
+      "transaction_id": "180255905",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2043572
     }
   ],
-  "report_count": 20,
+  "report_count": 21,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

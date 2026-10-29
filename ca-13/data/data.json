@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-29T18:49:47+00:00",
+  "generated_at": "2026-10-29T19:50:07+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -37,15 +37,15 @@
       "date": "2026-10-16",
       "totals": {
         "lawler": 300000,
-        "conley": 1675000
+        "conley": 2025000
       },
       "cumulative": {
         "lawler": 1550000,
-        "conley": 2225000
+        "conley": 2575000
       },
       "counts": {
         "lawler": 3,
-        "conley": 7
+        "conley": 8
       }
     },
     {
@@ -56,7 +56,7 @@
       },
       "cumulative": {
         "lawler": 1850000,
-        "conley": 2225000
+        "conley": 2575000
       },
       "counts": {
         "lawler": 3,
@@ -71,7 +71,7 @@
       },
       "cumulative": {
         "lawler": 1850000,
-        "conley": 2225000
+        "conley": 2575000
       },
       "counts": {
         "lawler": 0,
@@ -86,7 +86,7 @@
       },
       "cumulative": {
         "lawler": 2150000,
-        "conley": 4095000
+        "conley": 4445000
       },
       "counts": {
         "lawler": 3,
@@ -101,7 +101,7 @@
       },
       "cumulative": {
         "lawler": 2350000,
-        "conley": 4865000
+        "conley": 5215000
       },
       "counts": {
         "lawler": 1,
@@ -116,7 +116,7 @@
       },
       "cumulative": {
         "lawler": 2350000,
-        "conley": 6542588
+        "conley": 6892588
       },
       "counts": {
         "lawler": 0,
@@ -131,7 +131,7 @@
       },
       "cumulative": {
         "lawler": 3050000,
-        "conley": 7592588
+        "conley": 7942588
       },
       "counts": {
         "lawler": 2,
@@ -146,7 +146,7 @@
       },
       "cumulative": {
         "lawler": 4400000,
-        "conley": 8692588
+        "conley": 9042588
       },
       "counts": {
         "lawler": 8,
@@ -161,7 +161,7 @@
       },
       "cumulative": {
         "lawler": 8975000,
-        "conley": 8692588
+        "conley": 9042588
       },
       "counts": {
         "lawler": 25,
@@ -176,7 +176,7 @@
       },
       "cumulative": {
         "lawler": 9475000,
-        "conley": 8692588
+        "conley": 9042588
       },
       "counts": {
         "lawler": 1,
@@ -187,15 +187,15 @@
       "date": "2026-10-26",
       "totals": {
         "lawler": 450000,
-        "conley": 0
+        "conley": 3650000
       },
       "cumulative": {
         "lawler": 9925000,
-        "conley": 8692588
+        "conley": 12692588
       },
       "counts": {
         "lawler": 2,
-        "conley": 0
+        "conley": 18
       }
     },
     {
@@ -206,7 +206,7 @@
       },
       "cumulative": {
         "lawler": 10725000,
-        "conley": 8692588
+        "conley": 12692588
       },
       "counts": {
         "lawler": 3,
@@ -221,7 +221,7 @@
       },
       "cumulative": {
         "lawler": 11075000,
-        "conley": 8692588
+        "conley": 12692588
       },
       "counts": {
         "lawler": 1,
@@ -236,7 +236,7 @@
       },
       "cumulative": {
         "lawler": 11075000,
-        "conley": 8692588
+        "conley": 12692588
       },
       "counts": {
         "lawler": 0,
@@ -356,6 +356,13 @@
       "filed_date": "2026-10-29",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00845826/2042989/f65"
+    },
+    {
+      "committee_id": "C00801431",
+      "file_number": 2043571,
+      "filed_date": "2026-10-29",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00801431/2043571/f65"
     }
   ],
   "contributions": [
@@ -454,6 +461,18 @@
       "occupation": "",
       "committee_id": "C00801431",
       "file_number": 2029814
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 350000,
+      "contributor": "Committee for California",
+      "state": "CA",
+      "transaction_id": "11606138",
+      "entity_type": "ORG",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2043571
     },
     {
       "date": "2026-10-16",
@@ -1441,6 +1460,222 @@
     },
     {
       "date": "2026-10-26",
+      "amount_cents": 150000,
+      "contributor": "Abundant America PAC",
+      "state": "DC",
+      "transaction_id": "11587088",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2043571
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 250000,
+      "contributor": "Associated General Contractors of America Political Action Committee",
+      "state": "VA",
+      "transaction_id": "11599135",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2043571
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "Bridge the Gap PAC",
+      "state": "DC",
+      "transaction_id": "11581792",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2043571
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 200000,
+      "contributor": "Charter Communications, Inc. Political Action Committee",
+      "state": "CT",
+      "transaction_id": "11599143",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2043571
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "ConocoPhillips SPIRIT PAC",
+      "state": "OK",
+      "transaction_id": "11599155",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2043571
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 200000,
+      "contributor": "FOX Corporation Political Action Committee(FOX PAC)",
+      "state": "DC",
+      "transaction_id": "11599118",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2043571
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 350000,
+      "contributor": "Fuller, Lynn D.",
+      "state": "CA",
+      "transaction_id": "11595537",
+      "entity_type": "IND",
+      "employer": "US Distict Court, California",
+      "occupation": "Attorney",
+      "committee_id": "C00801431",
+      "file_number": 2043571
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 200000,
+      "contributor": "Goldman, Steven J.",
+      "state": "CA",
+      "transaction_id": "11595536",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Retired",
+      "committee_id": "C00801431",
+      "file_number": 2043571
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "Hansen, Ronald W.",
+      "state": "CA",
+      "transaction_id": "11595533",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Retired",
+      "committee_id": "C00801431",
+      "file_number": 2043571
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 350000,
+      "contributor": "Karsh, Martha",
+      "state": "CA",
+      "transaction_id": "11588557",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00801431",
+      "file_number": 2043571
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "Lewis, John",
+      "state": "MA",
+      "transaction_id": "11588560",
+      "entity_type": "IND",
+      "employer": "Athenahealth",
+      "occupation": "Vice President",
+      "committee_id": "C00801431",
+      "file_number": 2043571
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 150000,
+      "contributor": "Marchini, Stephanie",
+      "state": "CA",
+      "transaction_id": "11595534",
+      "entity_type": "IND",
+      "employer": "Vista Cellars",
+      "occupation": "Business Owner",
+      "committee_id": "C00801431",
+      "file_number": 2043571
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 250000,
+      "contributor": "Merck & Co., Inc., Employees Political Action Committee (MERCK PAC)",
+      "state": "DC",
+      "transaction_id": "11599191",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2043571
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 350000,
+      "contributor": "Prady, William S.",
+      "state": "CA",
+      "transaction_id": "11595535",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Writer",
+      "committee_id": "C00801431",
+      "file_number": 2043571
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 150000,
+      "contributor": "Saldivar-Morse, Teresa",
+      "state": "CA",
+      "transaction_id": "11595532",
+      "entity_type": "IND",
+      "employer": "Merced City Elementary",
+      "occupation": "Teacher",
+      "committee_id": "C00801431",
+      "file_number": 2043571
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 150000,
+      "contributor": "Sandhu, Lakhjit",
+      "state": "CA",
+      "transaction_id": "11588559",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Physician",
+      "committee_id": "C00801431",
+      "file_number": 2043571
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 150000,
+      "contributor": "Shore PAC",
+      "state": "NJ",
+      "transaction_id": "11598834",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2043571
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 350000,
+      "contributor": "Taylor, Kat",
+      "state": "CA",
+      "transaction_id": "11588558",
+      "entity_type": "IND",
+      "employer": "Law Office of Kat Taylor",
+      "occupation": "Principal",
+      "committee_id": "C00801431",
+      "file_number": 2043571
+    },
+    {
+      "date": "2026-10-26",
       "amount_cents": 100000,
       "contributor": "For Our Nation's Greatness, Resilience, Excellence, Strength, and Security (FONGRESS) PAC",
       "state": "MD",
@@ -1512,7 +1747,7 @@
       "file_number": 2042989
     }
   ],
-  "report_count": 16,
+  "report_count": 17,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

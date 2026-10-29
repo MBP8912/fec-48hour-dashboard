@@ -478,6 +478,128 @@
       "most_recent_filing": 2042737,
       "is_amended": false,
       "filed_date": "2026-10-28"
+    },
+    "C00793760/2043638": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "New York Rising PAC",
+          "state": "NY",
+          "transaction_id": "11588040",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "Brumm, Nicholas",
+          "state": "NY",
+          "transaction_id": "11558244",
+          "entity_type": "IND",
+          "employer": "QVT Financial LP",
+          "occupation": "Fund Manager"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "Johnston, Mary Elaine",
+          "state": "NY",
+          "transaction_id": "11558254",
+          "entity_type": "IND",
+          "employer": "A&O Shearman",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "Simon, Ami",
+          "state": "NY",
+          "transaction_id": "11558148",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Wellness Coach"
+        }
+      ],
+      "file_number": 2043638,
+      "committee_id": "C00793760",
+      "sha256": "fa4f967bb9765ba1928feaed26dd607b40c59afe51229f3e32fcebe0e024d8a3",
+      "amendment_chain": [
+        2043638
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2043638,
+      "is_amended": false,
+      "filed_date": "2026-10-29"
+    },
+    "C00793760/2043643": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "Cotton, Richard",
+          "state": "NY",
+          "transaction_id": "11620440",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "Scott for Congress",
+          "state": "VA",
+          "transaction_id": "11620390",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "Cotton, Richard",
+          "state": "NY",
+          "transaction_id": "11620441",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "Murphy, Steven",
+          "state": "VA",
+          "transaction_id": "11620433",
+          "entity_type": "IND",
+          "employer": "MVAR Media",
+          "occupation": "Consultant"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 250000,
+          "contributor": "Shore PAC",
+          "state": "NJ",
+          "transaction_id": "11620494",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2043643,
+      "committee_id": "C00793760",
+      "sha256": "785c085d78b1d86a52326bae2ee1703948ed55b849a33d1de52073e3fbaa722d",
+      "amendment_chain": [
+        2043643
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2043643,
+      "is_amended": false,
+      "filed_date": "2026-10-29"
     }
   }
 }

@@ -1430,6 +1430,112 @@
       "most_recent_filing": 2043190,
       "is_amended": false,
       "filed_date": "2026-10-29"
+    },
+    "C00865592/2043572": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-27",
+          "amount_cents": 250000,
+          "contributor": "AMERICAN MOTORCYCLIST ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "state": "OH",
+          "transaction_id": "180256336",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "BLAHA, ROBERT",
+          "state": "CO",
+          "transaction_id": "261027002",
+          "entity_type": "IND",
+          "employer": "HCA RSI",
+          "occupation": "CONSULTANT"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "DOWIS, RANDY",
+          "state": "CO",
+          "transaction_id": "261027001",
+          "entity_type": "IND",
+          "employer": "NAI HIGHLAND COMMERCIAL GROUP",
+          "occupation": "COMMERCIAL REAL ESTATE"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 500000,
+          "contributor": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. POLITICAL ACTION COMMITTEE (INSURPAC)",
+          "state": "DC",
+          "transaction_id": "180298548",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 150000,
+          "contributor": "Leadership and Loyalty Only to America PAC",
+          "state": "WI",
+          "transaction_id": "180256337",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "NATIONAL SOCIETY OF PROFESSIONAL SURVEYORS PAC",
+          "state": "MD",
+          "transaction_id": "180256344",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 200000,
+          "contributor": "SWERDFEGER, KEITH R",
+          "state": "CO",
+          "transaction_id": "180256332",
+          "entity_type": "IND",
+          "employer": "INFORMATION REQUESTED",
+          "occupation": "INFORMATION REQUESTED"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 250000,
+          "contributor": "WESTERN ENERGY ALLIANCE POLITICAL ACTION COMMITTEE",
+          "state": "CO",
+          "transaction_id": "180256341",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "YOUR OHIO REPUBLICAN TEAM",
+          "state": "MD",
+          "transaction_id": "180255905",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2043572,
+      "committee_id": "C00865592",
+      "sha256": "e867dff88c1f1b2ffd861f428f40e07a978717f46a2676322c594ef8cd5b9984",
+      "amendment_chain": [
+        2043572
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2043572,
+      "is_amended": false,
+      "filed_date": "2026-10-29"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-29T18:49:47+00:00",
+  "generated_at": "2026-10-29T19:50:07+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -187,30 +187,30 @@
       "date": "2026-10-26",
       "totals": {
         "lawler": 650000,
-        "conley": 0
+        "conley": 900000
       },
       "cumulative": {
         "lawler": 650000,
-        "conley": 6200000
+        "conley": 7100000
       },
       "counts": {
         "lawler": 5,
-        "conley": 0
+        "conley": 4
       }
     },
     {
       "date": "2026-10-27",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 650000
       },
       "cumulative": {
         "lawler": 650000,
-        "conley": 6200000
+        "conley": 7750000
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 5
       }
     },
     {
@@ -221,7 +221,7 @@
       },
       "cumulative": {
         "lawler": 650000,
-        "conley": 6200000
+        "conley": 7750000
       },
       "counts": {
         "lawler": 0,
@@ -236,7 +236,7 @@
       },
       "cumulative": {
         "lawler": 650000,
-        "conley": 6200000
+        "conley": 7750000
       },
       "counts": {
         "lawler": 0,
@@ -300,6 +300,20 @@
       "filed_date": "2026-10-28",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00921668/2042737/f65"
+    },
+    {
+      "committee_id": "C00793760",
+      "file_number": 2043638,
+      "filed_date": "2026-10-29",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00793760/2043638/f65"
+    },
+    {
+      "committee_id": "C00793760",
+      "file_number": 2043643,
+      "filed_date": "2026-10-29",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00793760/2043643/f65"
     }
   ],
   "contributions": [
@@ -665,6 +679,54 @@
     },
     {
       "date": "2026-10-26",
+      "amount_cents": 350000,
+      "contributor": "Brumm, Nicholas",
+      "state": "NY",
+      "transaction_id": "11558244",
+      "entity_type": "IND",
+      "employer": "QVT Financial LP",
+      "occupation": "Fund Manager",
+      "committee_id": "C00793760",
+      "file_number": 2043638
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "Johnston, Mary Elaine",
+      "state": "NY",
+      "transaction_id": "11558254",
+      "entity_type": "IND",
+      "employer": "A&O Shearman",
+      "occupation": "Attorney",
+      "committee_id": "C00793760",
+      "file_number": 2043638
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 350000,
+      "contributor": "New York Rising PAC",
+      "state": "NY",
+      "transaction_id": "11588040",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00793760",
+      "file_number": 2043638
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "Simon, Ami",
+      "state": "NY",
+      "transaction_id": "11558148",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Wellness Coach",
+      "committee_id": "C00793760",
+      "file_number": 2043638
+    },
+    {
+      "date": "2026-10-26",
       "amount_cents": 100000,
       "contributor": "BUONO CONSTRUCTION LLC",
       "state": "NY",
@@ -722,9 +784,69 @@
       "occupation": "CONSTRUCTION",
       "committee_id": "C00921668",
       "file_number": 2042737
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "Cotton, Richard",
+      "state": "NY",
+      "transaction_id": "11620440",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00793760",
+      "file_number": 2043643
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "Cotton, Richard",
+      "state": "NY",
+      "transaction_id": "11620441",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00793760",
+      "file_number": 2043643
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "Murphy, Steven",
+      "state": "VA",
+      "transaction_id": "11620433",
+      "entity_type": "IND",
+      "employer": "MVAR Media",
+      "occupation": "Consultant",
+      "committee_id": "C00793760",
+      "file_number": 2043643
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "Scott for Congress",
+      "state": "VA",
+      "transaction_id": "11620390",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00793760",
+      "file_number": 2043643
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 250000,
+      "contributor": "Shore PAC",
+      "state": "NJ",
+      "transaction_id": "11620494",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00793760",
+      "file_number": 2043643
     }
   ],
-  "report_count": 8,
+  "report_count": 10,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
