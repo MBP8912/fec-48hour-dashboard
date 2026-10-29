@@ -512,6 +512,32 @@
       "most_recent_filing": 2042752,
       "is_amended": false,
       "filed_date": "2026-10-28"
+    },
+    "C00904284/2043289": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-27",
+          "amount_cents": 150000,
+          "contributor": "PUGET PAC",
+          "state": "DC",
+          "transaction_id": "15160608",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2043289,
+      "committee_id": "C00904284",
+      "sha256": "c2dbaf52628f7106ecb1172ad1cc3694c925b70de10e14f0000336dd396ec22a",
+      "amendment_chain": [
+        2043289
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2043289,
+      "is_amended": false,
+      "filed_date": "2026-10-29"
     }
   }
 }

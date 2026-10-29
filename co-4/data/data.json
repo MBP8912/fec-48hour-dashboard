@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-29T14:56:37+00:00",
+  "generated_at": "2026-10-29T15:54:15+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -202,15 +202,15 @@
       "date": "2026-10-27",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 150000
       },
       "cumulative": {
         "lawler": 1800000,
-        "conley": 6798000
+        "conley": 6948000
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 1
       }
     },
     {
@@ -221,7 +221,7 @@
       },
       "cumulative": {
         "lawler": 1800000,
-        "conley": 6798000
+        "conley": 6948000
       },
       "counts": {
         "lawler": 0,
@@ -236,7 +236,7 @@
       },
       "cumulative": {
         "lawler": 1800000,
-        "conley": 6798000
+        "conley": 6948000
       },
       "counts": {
         "lawler": 0,
@@ -293,6 +293,13 @@
       "filed_date": "2026-10-28",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00904284/2042760/f65"
+    },
+    {
+      "committee_id": "C00904284",
+      "file_number": 2043289,
+      "filed_date": "2026-10-29",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00904284/2043289/f65"
     }
   ],
   "contributions": [
@@ -775,9 +782,21 @@
       "occupation": "Managing Partner",
       "committee_id": "C00904284",
       "file_number": 2042760
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 150000,
+      "contributor": "PUGET PAC",
+      "state": "DC",
+      "transaction_id": "15160608",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00904284",
+      "file_number": 2043289
     }
   ],
-  "report_count": 7,
+  "report_count": 8,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

@@ -1626,6 +1626,192 @@
       "most_recent_filing": 2042590,
       "is_amended": false,
       "filed_date": "2026-10-28"
+    },
+    "C00558825/2043245": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "WHEELER, SCHUYLER",
+          "state": "MO",
+          "transaction_id": "6C7CCD25733A4446E840",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 125000,
+          "contributor": "TEERRY, DARCY",
+          "state": "AL",
+          "transaction_id": "68C859BD8A7BA4106869",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 250000,
+          "contributor": "BANCROFT, CHRISTOPHER",
+          "state": "TX",
+          "transaction_id": "6FC8D6339CD3C4592B60",
+          "entity_type": "IND",
+          "employer": "SELF",
+          "occupation": "INVESTOR"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "SCHWAB, HELEN",
+          "state": "FL",
+          "transaction_id": "6C658D7598DF243DF8B2",
+          "entity_type": "IND",
+          "employer": "SELF EMPLOYED",
+          "occupation": "INVESTOR"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "MACEIRA, ANTHONY",
+          "state": "PR",
+          "transaction_id": "6136F7F44D1214B84A5C",
+          "entity_type": "IND",
+          "employer": "MZLS",
+          "occupation": "LAWYER"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "WERSEN, SHARMAN",
+          "state": "IA",
+          "transaction_id": "627B6C47621EC497D9A0",
+          "entity_type": "IND",
+          "employer": "TASSEL RIDGE WINERY",
+          "occupation": "VICE PRESIDENT"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "CRAFT, JOE",
+          "state": "OK",
+          "transaction_id": "6B2291BDC61B04B43B8F",
+          "entity_type": "IND",
+          "employer": "ALLIANCE COAL",
+          "occupation": "EXECUTIVE"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 250000,
+          "contributor": "KIRBY CORPORATION PAC",
+          "state": "TX",
+          "transaction_id": "6ECB8912244C54B3DA80",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "EGAN, MIKE AND DONNA",
+          "state": "IA",
+          "transaction_id": "65460300653AD4C30947",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "GOCHE, JEANNE",
+          "state": "IA",
+          "transaction_id": "6942686E2A83D4BB6A3A",
+          "entity_type": "IND",
+          "employer": "SELF-EMPLOYED",
+          "occupation": "HEALTHCARE CONSULTANT"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 2017284,
+          "contributor": "GROW THE MAJORITY",
+          "state": "VA",
+          "transaction_id": "6CE85518FA8A54F96A94",
+          "entity_type": "COM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 500000,
+          "contributor": "NC2DC LEADERSHIP PAC",
+          "state": "NC",
+          "transaction_id": "6C0F20ECF19C24EF6AE0",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 117869,
+          "contributor": "GOP WINNING WOMEN 2026",
+          "state": "VA",
+          "transaction_id": "66B503342C3434F65AB5",
+          "entity_type": "COM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "SCHABEN, SCOTT",
+          "state": "",
+          "transaction_id": "6A1D43D36BE064992A1E",
+          "entity_type": "IND",
+          "employer": "INFORMATION REQUESTED",
+          "occupation": "INFORMATION REQUESTED"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 500000,
+          "contributor": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION PAC",
+          "state": "VA",
+          "transaction_id": "621381712CB864CB98CF",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "INTERSTATE NATURAL GAS ASSOCIATION OF AMERICA PAC",
+          "state": "DC",
+          "transaction_id": "60DFB3DB9EEBF4364854",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 400000,
+          "contributor": "MERCK & CO., INC., EMPLOYEES PAC (MERCK PAC)",
+          "state": "DC",
+          "transaction_id": "6A21D74DFA61E4C6E986",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2043245,
+      "committee_id": "C00558825",
+      "sha256": "b1f82f4d971509881ee903f2c3931509b26e763c1dd221f45fdb071fc4f2a6ae",
+      "amendment_chain": [
+        2043245
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2043245,
+      "is_amended": false,
+      "filed_date": "2026-10-29"
     }
   }
 }
