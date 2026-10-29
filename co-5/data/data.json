@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-29T14:01:38+00:00",
+  "generated_at": "2026-10-29T14:56:37+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -186,15 +186,15 @@
     {
       "date": "2026-10-26",
       "totals": {
-        "lawler": 0,
+        "lawler": 2350000,
         "conley": 2100000
       },
       "cumulative": {
-        "lawler": 2000000,
+        "lawler": 4350000,
         "conley": 17450500
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 7,
         "conley": 11
       }
     },
@@ -205,7 +205,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 2000000,
+        "lawler": 4350000,
         "conley": 17450500
       },
       "counts": {
@@ -220,7 +220,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 2000000,
+        "lawler": 4350000,
         "conley": 17450500
       },
       "counts": {
@@ -235,7 +235,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 2000000,
+        "lawler": 4350000,
         "conley": 17450500
       },
       "counts": {
@@ -377,6 +377,13 @@
       "filed_date": "2026-10-28",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00911941/2042570/f65"
+    },
+    {
+      "committee_id": "C00865592",
+      "file_number": 2043190,
+      "filed_date": "2026-10-29",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00865592/2043190/f65"
     }
   ],
   "contributions": [
@@ -1498,6 +1505,90 @@
     },
     {
       "date": "2026-10-26",
+      "amount_cents": 500000,
+      "contributor": "CHEROKEE NATION",
+      "state": "OK",
+      "transaction_id": "180200184",
+      "entity_type": "ORG",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2043190
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 500000,
+      "contributor": "FIRST IN FREEDOM PAC",
+      "state": "GA",
+      "transaction_id": "180252039",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2043190
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "GEVING, RANDY",
+      "state": "CO",
+      "transaction_id": "180252035",
+      "entity_type": "IND",
+      "employer": "SIX GEVING INSURANCE",
+      "occupation": "SELF-EMPLOYED",
+      "committee_id": "C00865592",
+      "file_number": 2043190
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 250000,
+      "contributor": "HONEYWELL AEROSPACE US LLC PUBLIC AFFAIRS COUNCIL (HONA PAC)",
+      "state": "DC",
+      "transaction_id": "180252049",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2043190
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 200000,
+      "contributor": "MOLSON COORS BEVERAGE COMPANY USA LLC PAC",
+      "state": "DC",
+      "transaction_id": "180252037",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2043190
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 300000,
+      "contributor": "OVINTIV USA INC. PAC",
+      "state": "CO",
+      "transaction_id": "180200186",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2043190
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 500000,
+      "contributor": "WORKING FOR OHIO",
+      "state": "VA",
+      "transaction_id": "180252038",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2043190
+    },
+    {
+      "date": "2026-10-26",
       "amount_cents": 350000,
       "contributor": "Boyers, Michelle",
       "state": "CA",
@@ -1629,7 +1720,7 @@
       "file_number": 2042570
     }
   ],
-  "report_count": 19,
+  "report_count": 20,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-29T14:01:38+00:00",
+  "generated_at": "2026-10-29T14:56:37+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -172,30 +172,30 @@
       "date": "2026-10-25",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 100000
       },
       "cumulative": {
         "lawler": 9084985,
-        "conley": 10985834
+        "conley": 11085834
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 1
       }
     },
     {
       "date": "2026-10-26",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 1100000
       },
       "cumulative": {
         "lawler": 9084985,
-        "conley": 10985834
+        "conley": 12185834
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 6
       }
     },
     {
@@ -206,7 +206,7 @@
       },
       "cumulative": {
         "lawler": 9084985,
-        "conley": 10985834
+        "conley": 12185834
       },
       "counts": {
         "lawler": 0,
@@ -221,7 +221,7 @@
       },
       "cumulative": {
         "lawler": 9084985,
-        "conley": 10985834
+        "conley": 12185834
       },
       "counts": {
         "lawler": 0,
@@ -236,7 +236,7 @@
       },
       "cumulative": {
         "lawler": 9084985,
-        "conley": 10985834
+        "conley": 12185834
       },
       "counts": {
         "lawler": 0,
@@ -307,6 +307,13 @@
       "filed_date": "2026-10-25",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00903948/2041732/f65"
+    },
+    {
+      "committee_id": "C00903948",
+      "file_number": 2042853,
+      "filed_date": "2026-10-28",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00903948/2042853/f65"
     }
   ],
   "contributions": [
@@ -1377,9 +1384,93 @@
       "occupation": "OWNER",
       "committee_id": "C00909515",
       "file_number": 2041614
+    },
+    {
+      "date": "2026-10-25",
+      "amount_cents": 100000,
+      "contributor": "Buffett, Susan",
+      "state": "NE",
+      "transaction_id": "14995918",
+      "entity_type": "IND",
+      "employer": "The Sherwood Foundation",
+      "occupation": "Chair",
+      "committee_id": "C00903948",
+      "file_number": 2042853
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 500000,
+      "contributor": "PLANNED PARENTHOOD ACTION FUND INC PAC, DBA PLANNED PARENTHOOD FEDERAL PAC",
+      "state": "NY",
+      "transaction_id": "15151299",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2042853
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "Pansing Brooks For Legislature",
+      "state": "NE",
+      "transaction_id": "15027701",
+      "entity_type": "COM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2042853
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "Patel, Emily",
+      "state": "NE",
+      "transaction_id": "15155158",
+      "entity_type": "IND",
+      "employer": "Nebraska Methodist Health System",
+      "occupation": "Physician",
+      "committee_id": "C00903948",
+      "file_number": 2042853
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 150000,
+      "contributor": "Quinn, Cella",
+      "state": "NE",
+      "transaction_id": "15155157",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00903948",
+      "file_number": 2042853
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "SYDNEY KAMLAGER-DOVE FOR CONGRESS",
+      "state": "DC",
+      "transaction_id": "15004070",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2042853
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 150000,
+      "contributor": "Safran, Thomas L",
+      "state": "CA",
+      "transaction_id": "15155156",
+      "entity_type": "IND",
+      "employer": "Thomas Safran And Associates",
+      "occupation": "Chairman",
+      "committee_id": "C00903948",
+      "file_number": 2042853
     }
   ],
-  "report_count": 9,
+  "report_count": 10,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

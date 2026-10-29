@@ -2454,6 +2454,268 @@
       "most_recent_filing": 2042698,
       "is_amended": false,
       "filed_date": "2026-10-28"
+    },
+    "C00915637/2043065": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "Beltran, Robert F.",
+          "state": "IL",
+          "transaction_id": "15088835",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "Blake, Jack",
+          "state": "TX",
+          "transaction_id": "15088833",
+          "entity_type": "IND",
+          "employer": "Self-Employed",
+          "occupation": "Investor"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 200000,
+          "contributor": "Jewell, Jack",
+          "state": "CO",
+          "transaction_id": "15088830",
+          "entity_type": "IND",
+          "employer": "Coherent Corp",
+          "occupation": "Consultant"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 350000,
+          "contributor": "Karsh, Martha",
+          "state": "CA",
+          "transaction_id": "15088829",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "Lewis, John",
+          "state": "MA",
+          "transaction_id": "15088836",
+          "entity_type": "IND",
+          "employer": "Athena Health",
+          "occupation": "Vice President"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "Martin, Larry",
+          "state": "IL",
+          "transaction_id": "15088834",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 350000,
+          "contributor": "Morgan, Daniel",
+          "state": "FL",
+          "transaction_id": "15088828",
+          "entity_type": "IND",
+          "employer": "Morgan And Morgan",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 150000,
+          "contributor": "Sime, Jessica",
+          "state": "IL",
+          "transaction_id": "15088832",
+          "entity_type": "IND",
+          "employer": "Advocate Health",
+          "occupation": "Physician"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "Willard, Jane",
+          "state": "WI",
+          "transaction_id": "15088837",
+          "entity_type": "IND",
+          "employer": "Self-Employed",
+          "occupation": "Writer"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 200000,
+          "contributor": "Worley, Fred",
+          "state": "CA",
+          "transaction_id": "15088831",
+          "entity_type": "IND",
+          "employer": "NVIDIA",
+          "occupation": "Engineer"
+        }
+      ],
+      "file_number": 2043065,
+      "committee_id": "C00915637",
+      "sha256": "0062eddf21450ef4ea5dd28174690e878b59a11148469e04f24dfda45c75eeac",
+      "amendment_chain": [
+        2043065
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2043065,
+      "is_amended": false,
+      "filed_date": "2026-10-29"
+    },
+    "C00915637/2043066": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-26",
+          "amount_cents": 250000,
+          "contributor": "ALLIANCE FOR RETIRED AMERICANS POLITICAL ACTION FUND",
+          "state": "DC",
+          "transaction_id": "15253110",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "AMERICANS MAKING OPPORTUNITIES PAC",
+          "state": "MA",
+          "transaction_id": "15232164",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 250000,
+          "contributor": "Cofrin, Gladys",
+          "state": "FL",
+          "transaction_id": "15252224",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 250000,
+          "contributor": "COMMUNICATIONS WORKERS OF AMERICA",
+          "state": "DC",
+          "transaction_id": "15232426",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "Flannery, David",
+          "state": "WI",
+          "transaction_id": "15253148",
+          "entity_type": "IND",
+          "employer": "Owner",
+          "occupation": "Apple Holler"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "Hedberg, Peggy",
+          "state": "WI",
+          "transaction_id": "15252227",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "LORI TRAHAN FOR CONGRESS COMMITTEE",
+          "state": "MA",
+          "transaction_id": "15253077",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "SHORE PAC",
+          "state": "NJ",
+          "transaction_id": "15253067",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "Sirovich, Matthew",
+          "state": "NY",
+          "transaction_id": "15252223",
+          "entity_type": "IND",
+          "employer": "Scopia Capital",
+          "occupation": "Managing Partner"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "SMALL TOWN PAC",
+          "state": "MN",
+          "transaction_id": "15232361",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 500000,
+          "contributor": "THIS IS THE PAC",
+          "state": "WI",
+          "transaction_id": "15232410",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 250000,
+          "contributor": "Weissman, Irving",
+          "state": "CA",
+          "transaction_id": "15252226",
+          "entity_type": "IND",
+          "employer": "Stanford",
+          "occupation": "Scientist"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 250000,
+          "contributor": "Wright, Deann",
+          "state": "CA",
+          "transaction_id": "15252225",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        }
+      ],
+      "file_number": 2043066,
+      "committee_id": "C00915637",
+      "sha256": "b39bf66d86ac49b0f6be16d06c3efa5c6a5f18db58951ea4e9e3071e18fe9c81",
+      "amendment_chain": [
+        2043066
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2043066,
+      "is_amended": false,
+      "filed_date": "2026-10-29"
     }
   }
 }

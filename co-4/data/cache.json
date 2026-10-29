@@ -366,6 +366,152 @@
       "most_recent_filing": 2042760,
       "is_amended": false,
       "filed_date": "2026-10-28"
+    },
+    "C00904284/2042752": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-25",
+          "amount_cents": 250000,
+          "contributor": "Beck, Coleen",
+          "state": "TX",
+          "transaction_id": "14888489",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "Bergh, Kjell",
+          "state": "MN",
+          "transaction_id": "14975421",
+          "entity_type": "IND",
+          "employer": "Borton Volvo Inc.",
+          "occupation": "Businessman"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "Blake, Jack",
+          "state": "TX",
+          "transaction_id": "14975765",
+          "entity_type": "IND",
+          "employer": "Self-Employed",
+          "occupation": "Oil Investor"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 350000,
+          "contributor": "Cannon, Henry",
+          "state": "AL",
+          "transaction_id": "14826590",
+          "entity_type": "IND",
+          "employer": "Self-Employed",
+          "occupation": "Real Estate"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "Cranbourne, Nancy",
+          "state": "CO",
+          "transaction_id": "14962936",
+          "entity_type": "IND",
+          "employer": "Self-Employed",
+          "occupation": "Dancer"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 250000,
+          "contributor": "Haahr, Paul",
+          "state": "CA",
+          "transaction_id": "14829659",
+          "entity_type": "IND",
+          "employer": "Google",
+          "occupation": "Programmer"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "Higgins, David",
+          "state": "AZ",
+          "transaction_id": "14952887",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 350000,
+          "contributor": "Karplus, Barbara",
+          "state": "CA",
+          "transaction_id": "14916193",
+          "entity_type": "IND",
+          "employer": "Self-Employed",
+          "occupation": "Tax Practitioner"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 350000,
+          "contributor": "Kayyem, Jon",
+          "state": "CO",
+          "transaction_id": "14895076",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 350000,
+          "contributor": "Knight, Eric",
+          "state": "NY",
+          "transaction_id": "14854561",
+          "entity_type": "IND",
+          "employer": "Jane Street",
+          "occupation": "Trading"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "Ramsey, Herschel",
+          "state": "CO",
+          "transaction_id": "14835978",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "Sheerr-Gross, Deirdre",
+          "state": "FL",
+          "transaction_id": "14985643",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 350000,
+          "contributor": "Womer, Rod",
+          "state": "CA",
+          "transaction_id": "14949191",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        }
+      ],
+      "file_number": 2042752,
+      "committee_id": "C00904284",
+      "sha256": "9f17cb0e2854c7bde1d43fedf3e5a6e3d4731badcdecbea70e6f57cd9e532fae",
+      "amendment_chain": [
+        2042752
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2042752,
+      "is_amended": false,
+      "filed_date": "2026-10-28"
     }
   }
 }

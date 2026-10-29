@@ -1344,6 +1344,92 @@
       "most_recent_filing": 2042570,
       "is_amended": false,
       "filed_date": "2026-10-28"
+    },
+    "C00865592/2043190": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-26",
+          "amount_cents": 500000,
+          "contributor": "CHEROKEE NATION",
+          "state": "OK",
+          "transaction_id": "180200184",
+          "entity_type": "ORG",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 500000,
+          "contributor": "FIRST IN FREEDOM PAC",
+          "state": "GA",
+          "transaction_id": "180252039",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "GEVING, RANDY",
+          "state": "CO",
+          "transaction_id": "180252035",
+          "entity_type": "IND",
+          "employer": "SIX GEVING INSURANCE",
+          "occupation": "SELF-EMPLOYED"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 250000,
+          "contributor": "HONEYWELL AEROSPACE US LLC PUBLIC AFFAIRS COUNCIL (HONA PAC)",
+          "state": "DC",
+          "transaction_id": "180252049",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 200000,
+          "contributor": "MOLSON COORS BEVERAGE COMPANY USA LLC PAC",
+          "state": "DC",
+          "transaction_id": "180252037",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 300000,
+          "contributor": "OVINTIV USA INC. PAC",
+          "state": "CO",
+          "transaction_id": "180200186",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 500000,
+          "contributor": "WORKING FOR OHIO",
+          "state": "VA",
+          "transaction_id": "180252038",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2043190,
+      "committee_id": "C00865592",
+      "sha256": "57e6bde273239b438d01bdb46ca6c2d89758d520e059fc3226383c497db4551b",
+      "amendment_chain": [
+        2043190
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2043190,
+      "is_amended": false,
+      "filed_date": "2026-10-29"
     }
   }
 }

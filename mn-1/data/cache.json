@@ -1490,6 +1490,574 @@
       "most_recent_filing": 2042293,
       "is_amended": false,
       "filed_date": "2026-10-26"
+    },
+    "C00807743/2042889": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-26",
+          "amount_cents": 200000,
+          "contributor": "ROSEN, TOM",
+          "state": "MN",
+          "transaction_id": "6BECA5043BDFA43F9AFD",
+          "entity_type": "IND",
+          "employer": "ROSEN DIVERSIFIED",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "WEBER, JOE",
+          "state": "MN",
+          "transaction_id": "62F12945989D345038CC",
+          "entity_type": "IND",
+          "employer": "WEBER JOHNSON PUBLIC AFFAIRS",
+          "occupation": "CONSULTANT"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "SILL, MICHAEL",
+          "state": "MN",
+          "transaction_id": "6720665134BFF40B1B15",
+          "entity_type": "IND",
+          "employer": "ROAD MACHINERY & SUPPLIES CO",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 200000,
+          "contributor": "LYNCH, GERALD",
+          "state": "IA",
+          "transaction_id": "6AE33DA97311044CDA95",
+          "entity_type": "IND",
+          "employer": "LYNCH LIVESTOCK",
+          "occupation": "BUSINESS OWNER"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 200000,
+          "contributor": "FAHRFORTH, ADRIENNE",
+          "state": "MN",
+          "transaction_id": "695A3D51BA8774B92A12",
+          "entity_type": "IND",
+          "employer": "NONE",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "RAHE, LORA J",
+          "state": "MN",
+          "transaction_id": "6A1A73C9A81474F1CB33",
+          "entity_type": "IND",
+          "employer": "NONE",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "BRINKMAN, MELISSA L",
+          "state": "MN",
+          "transaction_id": "6C4AC0875A5E14E668D7",
+          "entity_type": "IND",
+          "employer": "CUSTOM ALARM",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 200000,
+          "contributor": "FIGHTIN' NINTH PAC",
+          "state": "VA",
+          "transaction_id": "6E792FBA6A09A4B9F941",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 200000,
+          "contributor": "WITTROCK FOR CONGRESS",
+          "state": "MN",
+          "transaction_id": "66D0E98014BDC4DE2ACA",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 200000,
+          "contributor": "GLENN GROTHMAN FOR CONGRESS",
+          "state": "WI",
+          "transaction_id": "6242EC55261054B1089B",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 500000,
+          "contributor": "CONCERNED AMERICANS FOR FREEDOM & OPPORTUNITY PAC (CAFO PAC)",
+          "state": "VA",
+          "transaction_id": "6D019F00037EC43E2BAD",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "GRAIN AND FEED PAC",
+          "state": "VA",
+          "transaction_id": "6DE10DAE6A3474CA5A78",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 500000,
+          "contributor": "FREE MARKET FUND",
+          "state": "IN",
+          "transaction_id": "65593F661C2DF48E2A66",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 200000,
+          "contributor": "LEONARDO DRS PAC",
+          "state": "VA",
+          "transaction_id": "67E629636E1764C3A8B4",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "YOUR OHIO REPUBLICAN TEAM",
+          "state": "MD",
+          "transaction_id": "6D2C1F59C39C3453A802",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "LEADERSHIP FOR AMERICA TODAY TOMORROW AND ALWAYS PAC",
+          "state": "OH",
+          "transaction_id": "6E421B7B950734394BB1",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2042889,
+      "committee_id": "C00807743",
+      "sha256": "8e9c1677c2f34b86309eb32fd0219a7bfdb5d27593845f291a84932c107712fa",
+      "amendment_chain": [
+        2042889
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2042889,
+      "is_amended": false,
+      "filed_date": "2026-10-28"
+    },
+    "C00902684/2043026": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "Behfar, Madeline",
+          "state": "MN",
+          "transaction_id": "15175384",
+          "entity_type": "IND",
+          "employer": "Betty McCollum For Congress",
+          "occupation": "Field Organizer"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "Bhandaru, Nehru",
+          "state": "CA",
+          "transaction_id": "15175475",
+          "entity_type": "IND",
+          "employer": "Broadcom",
+          "occupation": "Engineer"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 299759,
+          "contributor": "DCCC",
+          "state": "DC",
+          "transaction_id": "15312087",
+          "entity_type": "PTY",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "FARLEY, KATHERINE",
+          "state": "NY",
+          "transaction_id": "15003644",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "Klarman, Seth",
+          "state": "MA",
+          "transaction_id": "15175478",
+          "entity_type": "IND",
+          "employer": "Baupost",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "Kunin, James",
+          "state": "MA",
+          "transaction_id": "15175448",
+          "entity_type": "IND",
+          "employer": "CharityUSA.Com",
+          "occupation": "Business Executive"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 464994,
+          "contributor": "PLANNED PARENTHOOD ACTION FUND INC PAC, DBA PLANNED PARENTHOOD FEDERAL PAC",
+          "state": "NY",
+          "transaction_id": "15175182",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2043026,
+      "committee_id": "C00902684",
+      "sha256": "91ec6ed4088ace0be56a5141dc520c697ff9cca0c065ec9a82e50eb075e5e949",
+      "amendment_chain": [
+        2043026
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2043026,
+      "is_amended": false,
+      "filed_date": "2026-10-29"
+    },
+    "C00902684/2043038": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "Anderson, Lynn",
+          "state": "FL",
+          "transaction_id": "15267511",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "BRIDGE THE GAP PAC",
+          "state": "DC",
+          "transaction_id": "15203831",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "Christopherson, Jan",
+          "state": "MA",
+          "transaction_id": "15267508",
+          "entity_type": "IND",
+          "employer": "Certara",
+          "occupation": "Senior Solutions Consultant"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "DC51",
+          "state": "DC",
+          "transaction_id": "15272751",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 200000,
+          "contributor": "DOGGETT FOR CONGRESS",
+          "state": "TX",
+          "transaction_id": "15203870",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "Ekdahl, Karla",
+          "state": "MN",
+          "transaction_id": "15204604",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 300000,
+          "contributor": "Haugerud, Renee",
+          "state": "MN",
+          "transaction_id": "15204615",
+          "entity_type": "IND",
+          "employer": "Self-Employed",
+          "occupation": "Investor"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 350000,
+          "contributor": "Karplus, Barbara",
+          "state": "CA",
+          "transaction_id": "15204616",
+          "entity_type": "IND",
+          "employer": "Self",
+          "occupation": "Tax Practitioner"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "Kelly, Katharine",
+          "state": "MN",
+          "transaction_id": "15204607",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "Lamon, Richard",
+          "state": "MN",
+          "transaction_id": "15204400",
+          "entity_type": "IND",
+          "employer": "None",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "Lebedoff, David",
+          "state": "MN",
+          "transaction_id": "15204610",
+          "entity_type": "IND",
+          "employer": "Self",
+          "occupation": "Author"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 200000,
+          "contributor": "Lenzmeier, Allen",
+          "state": "MN",
+          "transaction_id": "15204611",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 350000,
+          "contributor": "MacLennan, Kathleen",
+          "state": "MN",
+          "transaction_id": "15204618",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 250000,
+          "contributor": "Moore, David",
+          "state": "MN",
+          "transaction_id": "15204614",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 225000,
+          "contributor": "Moore, Leni",
+          "state": "MN",
+          "transaction_id": "15204613",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 300000,
+          "contributor": "NATIONAL TREASURY EMPLOYEES UNION POLITICAL ACTION COMMITTEE",
+          "state": "DC",
+          "transaction_id": "15204410",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 350000,
+          "contributor": "PRACTICING DEMOCRACY",
+          "state": "MN",
+          "transaction_id": "15203779",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 200000,
+          "contributor": "Remele, Lewis",
+          "state": "MN",
+          "transaction_id": "15204612",
+          "entity_type": "IND",
+          "employer": "Bassford Remele",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "SCHAKOWSKY FOR CONGRESS",
+          "state": "IL",
+          "transaction_id": "15203799",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "SHARICE FOR CONGRESS",
+          "state": "KS",
+          "transaction_id": "15203847",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "STRENGTHENING VIRGINIA'S WORKING FAMILIES PAC",
+          "state": "VA",
+          "transaction_id": "15268663",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "Sweeney, Elizabeth",
+          "state": "MN",
+          "transaction_id": "15204609",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "Sweeney, Michael",
+          "state": "MN",
+          "transaction_id": "15204608",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "Taft, Laura",
+          "state": "MN",
+          "transaction_id": "15204603",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 500000,
+          "contributor": "UAW - V - CAP (UAW VOLUNTARY COMMUNITY ACTION PROGRAM) 'INT'L UNION UNITED AUTOMOBILE AEROSPACE & AGRICULTURAL IMPLEMENT WORKERS OF AMERICA UAW",
+          "state": "MI",
+          "transaction_id": "15203817",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "Weiser, Irving",
+          "state": "MN",
+          "transaction_id": "15267456",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "Wheeler, Penny",
+          "state": "MN",
+          "transaction_id": "15204605",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "Wheeler, Penny",
+          "state": "MN",
+          "transaction_id": "15204606",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 350000,
+          "contributor": "Womer, Rod",
+          "state": "CA",
+          "transaction_id": "15204617",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employer"
+        }
+      ],
+      "file_number": 2043038,
+      "committee_id": "C00902684",
+      "sha256": "1833d24954522539df51235771cdeedfea5a6d0c4f86a8fa825794d81a25c5fa",
+      "amendment_chain": [
+        2043038
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2043038,
+      "is_amended": false,
+      "filed_date": "2026-10-29"
     }
   }
 }

@@ -1034,6 +1034,92 @@
       "most_recent_filing": 2041732,
       "is_amended": false,
       "filed_date": "2026-10-25"
+    },
+    "C00903948/2042853": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "Buffett, Susan",
+          "state": "NE",
+          "transaction_id": "14995918",
+          "entity_type": "IND",
+          "employer": "The Sherwood Foundation",
+          "occupation": "Chair"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "Pansing Brooks For Legislature",
+          "state": "NE",
+          "transaction_id": "15027701",
+          "entity_type": "COM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "Patel, Emily",
+          "state": "NE",
+          "transaction_id": "15155158",
+          "entity_type": "IND",
+          "employer": "Nebraska Methodist Health System",
+          "occupation": "Physician"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 500000,
+          "contributor": "PLANNED PARENTHOOD ACTION FUND INC PAC, DBA PLANNED PARENTHOOD FEDERAL PAC",
+          "state": "NY",
+          "transaction_id": "15151299",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 150000,
+          "contributor": "Quinn, Cella",
+          "state": "NE",
+          "transaction_id": "15155157",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 150000,
+          "contributor": "Safran, Thomas L",
+          "state": "CA",
+          "transaction_id": "15155156",
+          "entity_type": "IND",
+          "employer": "Thomas Safran And Associates",
+          "occupation": "Chairman"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "SYDNEY KAMLAGER-DOVE FOR CONGRESS",
+          "state": "DC",
+          "transaction_id": "15004070",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2042853,
+      "committee_id": "C00903948",
+      "sha256": "4312bb61af752eaab44ac326021d447aa0c693b6603eb5b007452e5f5e6ba216",
+      "amendment_chain": [
+        2042853
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2042853,
+      "is_amended": false,
+      "filed_date": "2026-10-28"
     }
   }
 }

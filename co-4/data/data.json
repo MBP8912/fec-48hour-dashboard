@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-29T14:01:38+00:00",
+  "generated_at": "2026-10-29T14:56:37+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -172,15 +172,15 @@
       "date": "2026-10-25",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 2850000
       },
       "cumulative": {
         "lawler": 1800000,
-        "conley": 2848000
+        "conley": 5698000
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 13
       }
     },
     {
@@ -191,7 +191,7 @@
       },
       "cumulative": {
         "lawler": 1800000,
-        "conley": 3948000
+        "conley": 6798000
       },
       "counts": {
         "lawler": 0,
@@ -206,7 +206,7 @@
       },
       "cumulative": {
         "lawler": 1800000,
-        "conley": 3948000
+        "conley": 6798000
       },
       "counts": {
         "lawler": 0,
@@ -221,7 +221,7 @@
       },
       "cumulative": {
         "lawler": 1800000,
-        "conley": 3948000
+        "conley": 6798000
       },
       "counts": {
         "lawler": 0,
@@ -236,7 +236,7 @@
       },
       "cumulative": {
         "lawler": 1800000,
-        "conley": 3948000
+        "conley": 6798000
       },
       "counts": {
         "lawler": 0,
@@ -279,6 +279,13 @@
       "filed_date": "2026-10-24",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00904284/2041199/f65"
+    },
+    {
+      "committee_id": "C00904284",
+      "file_number": 2042752,
+      "filed_date": "2026-10-28",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00904284/2042752/f65"
     },
     {
       "committee_id": "C00904284",
@@ -542,6 +549,162 @@
       "file_number": 2041199
     },
     {
+      "date": "2026-10-25",
+      "amount_cents": 250000,
+      "contributor": "Beck, Coleen",
+      "state": "TX",
+      "transaction_id": "14888489",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00904284",
+      "file_number": 2042752
+    },
+    {
+      "date": "2026-10-25",
+      "amount_cents": 100000,
+      "contributor": "Bergh, Kjell",
+      "state": "MN",
+      "transaction_id": "14975421",
+      "entity_type": "IND",
+      "employer": "Borton Volvo Inc.",
+      "occupation": "Businessman",
+      "committee_id": "C00904284",
+      "file_number": 2042752
+    },
+    {
+      "date": "2026-10-25",
+      "amount_cents": 100000,
+      "contributor": "Blake, Jack",
+      "state": "TX",
+      "transaction_id": "14975765",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Oil Investor",
+      "committee_id": "C00904284",
+      "file_number": 2042752
+    },
+    {
+      "date": "2026-10-25",
+      "amount_cents": 350000,
+      "contributor": "Cannon, Henry",
+      "state": "AL",
+      "transaction_id": "14826590",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Real Estate",
+      "committee_id": "C00904284",
+      "file_number": 2042752
+    },
+    {
+      "date": "2026-10-25",
+      "amount_cents": 100000,
+      "contributor": "Cranbourne, Nancy",
+      "state": "CO",
+      "transaction_id": "14962936",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Dancer",
+      "committee_id": "C00904284",
+      "file_number": 2042752
+    },
+    {
+      "date": "2026-10-25",
+      "amount_cents": 250000,
+      "contributor": "Haahr, Paul",
+      "state": "CA",
+      "transaction_id": "14829659",
+      "entity_type": "IND",
+      "employer": "Google",
+      "occupation": "Programmer",
+      "committee_id": "C00904284",
+      "file_number": 2042752
+    },
+    {
+      "date": "2026-10-25",
+      "amount_cents": 100000,
+      "contributor": "Higgins, David",
+      "state": "AZ",
+      "transaction_id": "14952887",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00904284",
+      "file_number": 2042752
+    },
+    {
+      "date": "2026-10-25",
+      "amount_cents": 350000,
+      "contributor": "Karplus, Barbara",
+      "state": "CA",
+      "transaction_id": "14916193",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Tax Practitioner",
+      "committee_id": "C00904284",
+      "file_number": 2042752
+    },
+    {
+      "date": "2026-10-25",
+      "amount_cents": 350000,
+      "contributor": "Kayyem, Jon",
+      "state": "CO",
+      "transaction_id": "14895076",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00904284",
+      "file_number": 2042752
+    },
+    {
+      "date": "2026-10-25",
+      "amount_cents": 350000,
+      "contributor": "Knight, Eric",
+      "state": "NY",
+      "transaction_id": "14854561",
+      "entity_type": "IND",
+      "employer": "Jane Street",
+      "occupation": "Trading",
+      "committee_id": "C00904284",
+      "file_number": 2042752
+    },
+    {
+      "date": "2026-10-25",
+      "amount_cents": 100000,
+      "contributor": "Ramsey, Herschel",
+      "state": "CO",
+      "transaction_id": "14835978",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00904284",
+      "file_number": 2042752
+    },
+    {
+      "date": "2026-10-25",
+      "amount_cents": 100000,
+      "contributor": "Sheerr-Gross, Deirdre",
+      "state": "FL",
+      "transaction_id": "14985643",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00904284",
+      "file_number": 2042752
+    },
+    {
+      "date": "2026-10-25",
+      "amount_cents": 350000,
+      "contributor": "Womer, Rod",
+      "state": "CA",
+      "transaction_id": "14949191",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00904284",
+      "file_number": 2042752
+    },
+    {
       "date": "2026-10-26",
       "amount_cents": 100000,
       "contributor": "Caplan, Amy",
@@ -614,7 +777,7 @@
       "file_number": 2042760
     }
   ],
-  "report_count": 6,
+  "report_count": 7,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

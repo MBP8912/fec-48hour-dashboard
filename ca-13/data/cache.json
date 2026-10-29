@@ -1190,6 +1190,82 @@
       "most_recent_filing": 2041805,
       "is_amended": false,
       "filed_date": "2026-10-25"
+    },
+    "C00845826/2042989": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "For Our Nation's Greatness, Resilience, Excellence, Strength, and Security (FONGRESS) PAC",
+          "state": "MD",
+          "transaction_id": "F65-1391473",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "Schwab, Helen",
+          "state": "FL",
+          "transaction_id": "F65-1391081",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Investor"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 200000,
+          "contributor": "Doddridge, William S",
+          "state": "CA",
+          "transaction_id": "F65-1391489",
+          "entity_type": "IND",
+          "employer": "The Jewerly Exchange",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "Grunsky, Timothy J",
+          "state": "CA",
+          "transaction_id": "F65-1391485",
+          "entity_type": "IND",
+          "employer": "Phil O'Connell Grain",
+          "occupation": "Grain Dealer"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 500000,
+          "contributor": "Guarding Our Lasting Democracy (GOLD) PAC",
+          "state": "VA",
+          "transaction_id": "F65-1391490",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 350000,
+          "contributor": "The Fightin' Irishman PAC",
+          "state": "CA",
+          "transaction_id": "F65-1391813",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2042989,
+      "committee_id": "C00845826",
+      "sha256": "0b1da2df0d0e4243d795f6b6f40724435a3d4212c07da521264124da738d759f",
+      "amendment_chain": [
+        2042989
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2042989,
+      "is_amended": false,
+      "filed_date": "2026-10-29"
     }
   }
 }
