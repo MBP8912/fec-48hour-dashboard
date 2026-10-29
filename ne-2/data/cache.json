@@ -904,10 +904,11 @@
       "amendment_chain": [
         2041614
       ],
-      "most_recent": true,
-      "most_recent_filing": 2041614,
-      "is_amended": false,
-      "filed_date": "2026-10-25"
+      "most_recent": false,
+      "most_recent_filing": 2043749,
+      "is_amended": true,
+      "filed_date": "2026-10-25",
+      "amended_by": 2043749
     },
     "C00903948/2041732": {
       "form_type": "F6N",
@@ -1510,6 +1511,289 @@
       ],
       "most_recent": true,
       "most_recent_filing": 2043417,
+      "is_amended": false,
+      "filed_date": "2026-10-29"
+    },
+    "C00909515/2043749": {
+      "form_type": "F6A",
+      "original_amendment_date": "2026-10-25",
+      "contributions": [
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "LEITNER, CHRIS",
+          "state": "NE",
+          "transaction_id": "6D7AF8B7C1FCA474EAE0",
+          "entity_type": "IND",
+          "employer": "TENASKA INC",
+          "occupation": "PRESIDENT & CEO"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 500000,
+          "contributor": "FIRST IN FREEDOM PAC",
+          "state": "GA",
+          "transaction_id": "67FD9897FA1F644B397C",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "FIRST CAPITAL PAC",
+          "state": "PA",
+          "transaction_id": "6FC3B0A2EF7CA4C49890",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 350000,
+          "contributor": "FIRST AND TEN",
+          "state": "VA",
+          "transaction_id": "60CBEB74328264D43A82",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 500000,
+          "contributor": "PAC FOR NEW LEADERSHIP",
+          "state": "CA",
+          "transaction_id": "6DFFB20A4869640A4B6E",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "GOLDBERG, KENNETH",
+          "state": "TX",
+          "transaction_id": "67EAD0C571D9144DEBD9",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-23",
+          "amount_cents": 100000,
+          "contributor": "LINDQUIST, ERIC",
+          "state": "NE",
+          "transaction_id": "66B6A411DB7FE4B8BB6F",
+          "entity_type": "IND",
+          "employer": "HALLIDAY, WATKINS & MANN PC",
+          "occupation": "ATTORNEY"
+        },
+        {
+          "date": "2026-10-24",
+          "amount_cents": 100000,
+          "contributor": "HEMPEL, DAVE",
+          "state": "NE",
+          "transaction_id": "627713387E9AC4F759F4",
+          "entity_type": "IND",
+          "employer": "HEMPEL SHEET METAL WORKS",
+          "occupation": "OWNER"
+        }
+      ],
+      "file_number": 2043749,
+      "committee_id": "C00909515",
+      "sha256": "f74820998f90b653d488489201026bc283a087d54d8699b3b09fabb08c4369ef",
+      "amendment_chain": [
+        2041614,
+        2043749
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2043749,
+      "is_amended": false,
+      "filed_date": "2026-10-29"
+    },
+    "C00909515/2043757": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-27",
+          "amount_cents": 350000,
+          "contributor": "SATTER, MUNEER A.",
+          "state": "FL",
+          "transaction_id": "62D94622785EC4B2AA73",
+          "entity_type": "IND",
+          "employer": "SATTER INVESTMENT MANAGEMENT",
+          "occupation": "INVESTOR"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 350000,
+          "contributor": "SUNDQUIST, LARRY",
+          "state": "WA",
+          "transaction_id": "6C678FC1E70BC4244BEB",
+          "entity_type": "IND",
+          "employer": "ADAMANT HOMES, INC.",
+          "occupation": "HOMEBUILDER"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 350000,
+          "contributor": "FISHER, SHERRILYN",
+          "state": "TX",
+          "transaction_id": "686F8E1DD79BC4C15927",
+          "entity_type": "IND",
+          "employer": "PLANO 6500 LLC",
+          "occupation": "MEMBER"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 350000,
+          "contributor": "MCCREA, MARSHALL STOREY",
+          "state": "TX",
+          "transaction_id": "61464DD12FBA644AE84D",
+          "entity_type": "IND",
+          "employer": "ENERGY TRANSFER PARTNERS",
+          "occupation": "CO CEO"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 350000,
+          "contributor": "FISHER, KENNETH",
+          "state": "TX",
+          "transaction_id": "67ED1ADF3BE4142718F6",
+          "entity_type": "IND",
+          "employer": "FISHER INVESTMENTS",
+          "occupation": "EXECUTIVE CHAIRMAN"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 350000,
+          "contributor": "BRUDERMAN, MATTHEW",
+          "state": "NY",
+          "transaction_id": "6658E8C5F64914CAABFC",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 350000,
+          "contributor": "ROTH, ELDON N.",
+          "state": "SD",
+          "transaction_id": "6DC10CE15355844EA953",
+          "entity_type": "IND",
+          "employer": "EMPIRICAL FOODS",
+          "occupation": "FOUNDER"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 250000,
+          "contributor": "HALE, DARWIN",
+          "state": "FL",
+          "transaction_id": "676492FAE193C480782F",
+          "entity_type": "IND",
+          "employer": "ADVOCATE HEALTH ADVISORS",
+          "occupation": "CEO & FOUNDER"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 1990512,
+          "contributor": "GROW THE MAJORITY",
+          "state": "VA",
+          "transaction_id": "6B238987779A045FDBC2",
+          "entity_type": "COM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 500000,
+          "contributor": "TEAM AMERICA - BRINGING AMERICA TOGETHER PAC",
+          "state": "MD",
+          "transaction_id": "6B5322A05BD5B49D9A88",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 1634960,
+          "contributor": "BRINKER HARDING FOR CONGRESS-GTM NOMINEE FUND: NE-02",
+          "state": "VA",
+          "transaction_id": "605C1B0A5DE1248989BD",
+          "entity_type": "COM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 500000,
+          "contributor": "FOREVER YOUTH ORGANIZATION UTILIZING A NEW GENERATION PAC",
+          "state": "CA",
+          "transaction_id": "6006A8691968C466FACF",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 150000,
+          "contributor": "SOUTH FLORIDA LEADERSHIP PAC",
+          "state": "FL",
+          "transaction_id": "64736307E2D5C4BFCB25",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 500000,
+          "contributor": "TEXAS FIRST LEADERSHIP PAC",
+          "state": "TX",
+          "transaction_id": "601249487A8454302B59",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 150000,
+          "contributor": "BRIGHAM, ROB",
+          "state": "NE",
+          "transaction_id": "69212B7691A2D45B2ACB",
+          "entity_type": "IND",
+          "employer": "JEO CONSULTING GROUP, INC",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 350000,
+          "contributor": "RICKETTS, TODD",
+          "state": "IL",
+          "transaction_id": "6FC1F660BF53D49DE9C0",
+          "entity_type": "IND",
+          "employer": "SELF EMPLOYED",
+          "occupation": "INVESTMENT MANAGER"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 200000,
+          "contributor": "NOVELLI, MARY",
+          "state": "TX",
+          "transaction_id": "64ACCC383174A4B45B2C",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        }
+      ],
+      "file_number": 2043757,
+      "committee_id": "C00909515",
+      "sha256": "2fbd7384d813b9e1f35391b2079a19639de070c086f58aabf82ae66f1dfd8390",
+      "amendment_chain": [
+        2043757
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2043757,
       "is_amended": false,
       "filed_date": "2026-10-29"
     }

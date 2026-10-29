@@ -594,6 +594,82 @@
       "most_recent_filing": 2043410,
       "is_amended": false,
       "filed_date": "2026-10-29"
+    },
+    "C00728238/2043676": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-27",
+          "amount_cents": 500000,
+          "contributor": "ANDERSON, CYNTHIA",
+          "state": "GA",
+          "transaction_id": "6F16701C3863E44E0A77",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "JOHNSTON, MERILYN",
+          "state": "VA",
+          "transaction_id": "61F908E4F07CE4854918",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "JENSEN, JOHN",
+          "state": "CO",
+          "transaction_id": "61A8E872BE4E443B4AE4",
+          "entity_type": "IND",
+          "employer": "JENSEN RECREATION",
+          "occupation": "SALES"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 250000,
+          "contributor": "COLORADO ASSOCIATION OF WHEAT GROWERS PAC (CAWGPAC)",
+          "state": "CO",
+          "transaction_id": "6ABD0ED57DD37499F86D",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 500000,
+          "contributor": "FIRST IN FREEDOM PAC",
+          "state": "GA",
+          "transaction_id": "6ED3E650C94DF4754AAE",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 350000,
+          "contributor": "COME AND TAKE IT PAC",
+          "state": "TX",
+          "transaction_id": "608A873DE14A6424ABB4",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2043676,
+      "committee_id": "C00728238",
+      "sha256": "d63fbc1dabf6cc4e98698d1355b40e2db7927a0ef57003499f625204b0bc1266",
+      "amendment_chain": [
+        2043676
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2043676,
+      "is_amended": false,
+      "filed_date": "2026-10-29"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-29T19:50:06+00:00",
+  "generated_at": "2026-10-29T20:44:05+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -202,15 +202,15 @@
       "date": "2026-10-27",
       "totals": {
         "lawler": 2200000,
-        "conley": 0
+        "conley": 4550000
       },
       "cumulative": {
         "lawler": 23809034,
-        "conley": 24220000
+        "conley": 28770000
       },
       "counts": {
         "lawler": 9,
-        "conley": 0
+        "conley": 23
       }
     },
     {
@@ -221,7 +221,7 @@
       },
       "cumulative": {
         "lawler": 28759034,
-        "conley": 24220000
+        "conley": 28770000
       },
       "counts": {
         "lawler": 17,
@@ -236,7 +236,7 @@
       },
       "cumulative": {
         "lawler": 28759034,
-        "conley": 24220000
+        "conley": 28770000
       },
       "counts": {
         "lawler": 0,
@@ -398,6 +398,13 @@
       "filed_date": "2026-10-29",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00677286/2043372/f65"
+    },
+    {
+      "committee_id": "C00915637",
+      "file_number": 2043755,
+      "filed_date": "2026-10-29",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00915637/2043755/f65"
     }
   ],
   "contributions": [
@@ -2886,6 +2893,282 @@
       "file_number": 2043372
     },
     {
+      "date": "2026-10-27",
+      "amount_cents": 250000,
+      "contributor": "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS SEPARATE SEGREGATED FUND (CRNA-PAC)",
+      "state": "IL",
+      "transaction_id": "15253455",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 350000,
+      "contributor": "Abele, Chris",
+      "state": "WI",
+      "transaction_id": "15315510",
+      "entity_type": "IND",
+      "employer": "CSA Partners",
+      "occupation": "Managing Partner",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "BOBBY SCOTT FOR CONGRESS",
+      "state": "VA",
+      "transaction_id": "15316919",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "BRIDGE THE GAP PAC",
+      "state": "DC",
+      "transaction_id": "15253417",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "Buck, Sarah J.",
+      "state": "OH",
+      "transaction_id": "15315514",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Advanced Practitioner",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "DEMOCRATS WHO WIN",
+      "state": "DC",
+      "transaction_id": "15388716",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "DO THE WORK PAC",
+      "state": "MA",
+      "transaction_id": "15388690",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 200000,
+      "contributor": "DOGGETT FOR CONGRESS",
+      "state": "TX",
+      "transaction_id": "15253398",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "Dutra, Lisa M.",
+      "state": "CA",
+      "transaction_id": "15315516",
+      "entity_type": "IND",
+      "employer": "3D Strategies",
+      "occupation": "Coo",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 350000,
+      "contributor": "Evans, April",
+      "state": "MA",
+      "transaction_id": "15315511",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 350000,
+      "contributor": "Farley, Katherine",
+      "state": "NY",
+      "transaction_id": "15316811",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 150000,
+      "contributor": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
+      "state": "DC",
+      "transaction_id": "15253423",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 250000,
+      "contributor": "Krupp, Marge",
+      "state": "WI",
+      "transaction_id": "15315512",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "MORRISON FOR CONGRESS",
+      "state": "MN",
+      "transaction_id": "15388767",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "Milburn, Rob M.",
+      "state": "IL",
+      "transaction_id": "15315515",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Composer & Sound Designer",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 150000,
+      "contributor": "Najeeb, Rayyan",
+      "state": "WI",
+      "transaction_id": "15315513",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Entrepreneur",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 350000,
+      "contributor": "Prady, William S.",
+      "state": "CA",
+      "transaction_id": "15253409",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "SERVE AMERICA PAC",
+      "state": "MA",
+      "transaction_id": "15388816",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "SHARICE FOR CONGRESS",
+      "state": "KS",
+      "transaction_id": "15253482",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "SHERMAN FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "15253449",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 350000,
+      "contributor": "Snell, Cynthia",
+      "state": "CO",
+      "transaction_id": "15316084",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Retired",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 350000,
+      "contributor": "Stone, Deborah",
+      "state": "NY",
+      "transaction_id": "15316884",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Psychologist",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 350000,
+      "contributor": "Stone, Max",
+      "state": "NY",
+      "transaction_id": "15316780",
+      "entity_type": "IND",
+      "employer": "D. E. Shaw & Co.",
+      "occupation": "Finance",
+      "committee_id": "C00915637",
+      "file_number": 2043755
+    },
+    {
       "date": "2026-10-28",
       "amount_cents": 100000,
       "contributor": "AMERICA'S FUTURE TOGETHER",
@@ -3090,7 +3373,7 @@
       "file_number": 2043372
     }
   ],
-  "report_count": 22,
+  "report_count": 23,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

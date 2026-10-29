@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-29T19:50:06+00:00",
+  "generated_at": "2026-10-29T20:44:04+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -201,30 +201,30 @@
     {
       "date": "2026-10-27",
       "totals": {
-        "lawler": 0,
+        "lawler": 950000,
         "conley": 150000
       },
       "cumulative": {
-        "lawler": 2843492,
+        "lawler": 3793492,
         "conley": 6948000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 4,
         "conley": 1
       }
     },
     {
       "date": "2026-10-28",
       "totals": {
-        "lawler": 0,
+        "lawler": 850000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 2843492,
+        "lawler": 4643492,
         "conley": 6948000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 2,
         "conley": 0
       }
     },
@@ -235,7 +235,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 2843492,
+        "lawler": 4643492,
         "conley": 6948000
       },
       "counts": {
@@ -307,6 +307,13 @@
       "filed_date": "2026-10-29",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00728238/2043410/f65"
+    },
+    {
+      "committee_id": "C00728238",
+      "file_number": 2043676,
+      "filed_date": "2026-10-29",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00728238/2043676/f65"
     }
   ],
   "contributions": [
@@ -840,6 +847,54 @@
     },
     {
       "date": "2026-10-27",
+      "amount_cents": 500000,
+      "contributor": "ANDERSON, CYNTHIA",
+      "state": "GA",
+      "transaction_id": "6F16701C3863E44E0A77",
+      "entity_type": "IND",
+      "employer": "RETIRED",
+      "occupation": "RETIRED",
+      "committee_id": "C00728238",
+      "file_number": 2043676
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 250000,
+      "contributor": "COLORADO ASSOCIATION OF WHEAT GROWERS PAC (CAWGPAC)",
+      "state": "CO",
+      "transaction_id": "6ABD0ED57DD37499F86D",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00728238",
+      "file_number": 2043676
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "JENSEN, JOHN",
+      "state": "CO",
+      "transaction_id": "61A8E872BE4E443B4AE4",
+      "entity_type": "IND",
+      "employer": "JENSEN RECREATION",
+      "occupation": "SALES",
+      "committee_id": "C00728238",
+      "file_number": 2043676
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "JOHNSTON, MERILYN",
+      "state": "VA",
+      "transaction_id": "61F908E4F07CE4854918",
+      "entity_type": "IND",
+      "employer": "RETIRED",
+      "occupation": "RETIRED",
+      "committee_id": "C00728238",
+      "file_number": 2043676
+    },
+    {
+      "date": "2026-10-27",
       "amount_cents": 150000,
       "contributor": "PUGET PAC",
       "state": "DC",
@@ -849,9 +904,33 @@
       "occupation": "",
       "committee_id": "C00904284",
       "file_number": 2043289
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 350000,
+      "contributor": "COME AND TAKE IT PAC",
+      "state": "TX",
+      "transaction_id": "608A873DE14A6424ABB4",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00728238",
+      "file_number": 2043676
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 500000,
+      "contributor": "FIRST IN FREEDOM PAC",
+      "state": "GA",
+      "transaction_id": "6ED3E650C94DF4754AAE",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00728238",
+      "file_number": 2043676
     }
   ],
-  "report_count": 9,
+  "report_count": 10,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
