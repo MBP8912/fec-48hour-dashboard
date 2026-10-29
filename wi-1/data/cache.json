@@ -2716,6 +2716,272 @@
       "most_recent_filing": 2043066,
       "is_amended": false,
       "filed_date": "2026-10-29"
+    },
+    "C00677286/2043372": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-28",
+          "amount_cents": 200000,
+          "contributor": "CONCERNED AMERICANS FOR FREEDOM & OPPORTUNITY PAC (CAFO PAC)",
+          "state": "VA",
+          "transaction_id": "TX95530",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 250000,
+          "contributor": "NATIONAL BEER WHOLESALERS ASSOCIATION PAC (NBWA PAC)",
+          "state": "VA",
+          "transaction_id": "TX95531",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "LIBERTY MUTUAL INSURANCE COMPANY - PAC",
+          "state": "MA",
+          "transaction_id": "TX95532",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 200000,
+          "contributor": "PAYWARD VENTURES INC PAC (KRAKEN PAC)",
+          "state": "DC",
+          "transaction_id": "TX95533",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 250000,
+          "contributor": "CATERPILLAR INC. POLITICAL ACTION COMMITTEE (CATPAC)",
+          "state": "IL",
+          "transaction_id": "TX95535",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 300000,
+          "contributor": "AFFIRM, INC. FOR POSITIVE POLICY",
+          "state": "CA",
+          "transaction_id": "TX95536",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "AMERICA'S FUTURE TOGETHER",
+          "state": "GA",
+          "transaction_id": "TX95544",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 200000,
+          "contributor": "TIGER PAC",
+          "state": "WI",
+          "transaction_id": "TX95554",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 200000,
+          "contributor": "AUGUST PFLUGER FOR CONGRESS",
+          "state": "TX",
+          "transaction_id": "TX95555",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "BOATWRIGHT, DAMOND",
+          "state": "IL",
+          "transaction_id": "TX95540",
+          "entity_type": "IND",
+          "employer": "HOSPITAL SISTERS HEALTH SYSTEM",
+          "occupation": "PRESIDENT"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 250000,
+          "contributor": "BROWN, CHRIS",
+          "state": "MD",
+          "transaction_id": "TX95553",
+          "entity_type": "IND",
+          "employer": "MINDSET",
+          "occupation": "PARTNER"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 350000,
+          "contributor": "CRAFT, JOE",
+          "state": "OK",
+          "transaction_id": "TX95534",
+          "entity_type": "IND",
+          "employer": "ALLIANCE COAL LLC",
+          "occupation": "EXECUTIVE"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "ERICKSON, ROBERT",
+          "state": "WI",
+          "transaction_id": "TX95538",
+          "entity_type": "IND",
+          "employer": "HOSPITAL SISTERS HEALTH SYSTEM",
+          "occupation": "HSHS WI MARKET PRESIDENT"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 200000,
+          "contributor": "GOKEY, TIM",
+          "state": "NY",
+          "transaction_id": "TX95526",
+          "entity_type": "IND",
+          "employer": "BROADRIDGE",
+          "occupation": "EXECUTIVE"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 250000,
+          "contributor": "GRIFFIN, LINDSEY",
+          "state": "TX",
+          "transaction_id": "TX95545",
+          "entity_type": "IND",
+          "employer": "SELF-EMPLOYED",
+          "occupation": "REAL ESTATE AGENT"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 250000,
+          "contributor": "JANICIK, JEFFREY L",
+          "state": "CA",
+          "transaction_id": "TX95547",
+          "entity_type": "IND",
+          "employer": "INNOFLIGHT",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 350000,
+          "contributor": "LEDWELL, STEVE",
+          "state": "TX",
+          "transaction_id": "TX95549",
+          "entity_type": "IND",
+          "employer": "LEDWELL AND SONS ENTERPRISES, INC.",
+          "occupation": "OWNER"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 250000,
+          "contributor": "MAGNO, CHARLOTTE",
+          "state": "TX",
+          "transaction_id": "TX95551",
+          "entity_type": "IND",
+          "employer": "INFORMATION REQUESTED PER BEST EFFORTS",
+          "occupation": "INFORMATION REQUESTED PER BEST EFFORTS"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 250000,
+          "contributor": "MAGNO, ROY",
+          "state": "TX",
+          "transaction_id": "TX95550",
+          "entity_type": "IND",
+          "employer": "T WILSON ASSOCIATES",
+          "occupation": "COO"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 350000,
+          "contributor": "PARKER, COLE",
+          "state": "IL",
+          "transaction_id": "TX95543",
+          "entity_type": "IND",
+          "employer": "KIRKLAND & ELLIS LLP",
+          "occupation": "ATTORNEY"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 350000,
+          "contributor": "PEINADO, FRANK A",
+          "state": "TX",
+          "transaction_id": "TX95548",
+          "entity_type": "IND",
+          "employer": "SELF-EMPLOYED",
+          "occupation": "GENERAL CONTRACTOR"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 1000000,
+          "contributor": "PRIEBUS, REINCE R.",
+          "state": "VA",
+          "transaction_id": "TX95542",
+          "entity_type": "IND",
+          "employer": "MICHAEL BEST STRATEGIES",
+          "occupation": "PRESIDENT"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 350000,
+          "contributor": "SATTER, MUNEER A.",
+          "state": "IL",
+          "transaction_id": "TX95529",
+          "entity_type": "IND",
+          "employer": "SATTER INVESTMENT MANAGEMENT",
+          "occupation": "EXECUTIVE"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 500000,
+          "contributor": "STORY, KENDRA",
+          "state": "AZ",
+          "transaction_id": "TX95537",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 250000,
+          "contributor": "WILSON, THOMAS KIRK",
+          "state": "TX",
+          "transaction_id": "TX95546",
+          "entity_type": "IND",
+          "employer": "T WILSON ASSOCIATES",
+          "occupation": "PRESIDENT"
+        }
+      ],
+      "file_number": 2043372,
+      "committee_id": "C00677286",
+      "sha256": "da5d10a6c9d1e2cffac5a0403e5fabc86938853c8a7460c8ce9a282b93a7fe9b",
+      "amendment_chain": [
+        2043372
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2043372,
+      "is_amended": false,
+      "filed_date": "2026-10-29"
     }
   }
 }

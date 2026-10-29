@@ -1120,6 +1120,142 @@
       "most_recent_filing": 2042853,
       "is_amended": false,
       "filed_date": "2026-10-28"
+    },
+    "C00903948/2043348": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "AMERICAN HOTEL AND LODGING ASSOCIATION POLITICAL ACTION COMMITTEE ('HOTELPAC')",
+          "state": "DC",
+          "transaction_id": "15206609",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "COMMITTEE FOR A STRONGER AMERICA",
+          "state": "CA",
+          "transaction_id": "15265318",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "Lebens, Susan",
+          "state": "NE",
+          "transaction_id": "15263010",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "POLITICAL ACTION COMMITTEE OF THE INTERNATIONAL ALLIANCE OF THEATRICAL STAGE EMPLOYEES",
+          "state": "NY",
+          "transaction_id": "15206634",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 250000,
+          "contributor": "Sheena, Danny",
+          "state": "TX",
+          "transaction_id": "15261736",
+          "entity_type": "IND",
+          "employer": "Sheena Law Firm",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "SHORE PAC",
+          "state": "NJ",
+          "transaction_id": "15206581",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 100000,
+          "contributor": "STRICKLAND FOR WASHINGTON",
+          "state": "WA",
+          "transaction_id": "15265297",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 249800,
+          "contributor": "Weissman, Irving",
+          "state": "CA",
+          "transaction_id": "15263009",
+          "entity_type": "IND",
+          "employer": "Stanford University",
+          "occupation": "Scientist"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "Cherica, Tina",
+          "state": "NE",
+          "transaction_id": "15347204",
+          "entity_type": "IND",
+          "employer": "Heritage Omaha",
+          "occupation": "Development Officer"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "DE COLORES PAC",
+          "state": "WA",
+          "transaction_id": "15370001",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 500000,
+          "contributor": "SMALL TOWN PAC",
+          "state": "MN",
+          "transaction_id": "15370063",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "STRENGTHENING VIRGINIA'S WORKING FAMILIES PAC",
+          "state": "VA",
+          "transaction_id": "15261789",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2043348,
+      "committee_id": "C00903948",
+      "sha256": "88fb15dd55a53cead770173a02670cc3a9d13d715e919e5f154c6bb104d3860c",
+      "amendment_chain": [
+        2043348
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2043348,
+      "is_amended": false,
+      "filed_date": "2026-10-29"
     }
   }
 }

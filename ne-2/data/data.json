@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-29T15:54:15+00:00",
+  "generated_at": "2026-10-29T16:54:24+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -202,30 +202,30 @@
       "date": "2026-10-27",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 1099800
       },
       "cumulative": {
         "lawler": 9084985,
-        "conley": 12185834
+        "conley": 13285634
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 8
       }
     },
     {
       "date": "2026-10-28",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 800000
       },
       "cumulative": {
         "lawler": 9084985,
-        "conley": 12185834
+        "conley": 14085634
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 4
       }
     },
     {
@@ -236,7 +236,7 @@
       },
       "cumulative": {
         "lawler": 9084985,
-        "conley": 12185834
+        "conley": 14085634
       },
       "counts": {
         "lawler": 0,
@@ -314,6 +314,13 @@
       "filed_date": "2026-10-28",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00903948/2042853/f65"
+    },
+    {
+      "committee_id": "C00903948",
+      "file_number": 2043348,
+      "filed_date": "2026-10-29",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00903948/2043348/f65"
     }
   ],
   "contributions": [
@@ -1468,9 +1475,153 @@
       "occupation": "Chairman",
       "committee_id": "C00903948",
       "file_number": 2042853
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "AMERICAN HOTEL AND LODGING ASSOCIATION POLITICAL ACTION COMMITTEE ('HOTELPAC')",
+      "state": "DC",
+      "transaction_id": "15206609",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2043348
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "COMMITTEE FOR A STRONGER AMERICA",
+      "state": "CA",
+      "transaction_id": "15265318",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2043348
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "Lebens, Susan",
+      "state": "NE",
+      "transaction_id": "15263010",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00903948",
+      "file_number": 2043348
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "POLITICAL ACTION COMMITTEE OF THE INTERNATIONAL ALLIANCE OF THEATRICAL STAGE EMPLOYEES",
+      "state": "NY",
+      "transaction_id": "15206634",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2043348
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "SHORE PAC",
+      "state": "NJ",
+      "transaction_id": "15206581",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2043348
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "STRICKLAND FOR WASHINGTON",
+      "state": "WA",
+      "transaction_id": "15265297",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2043348
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 250000,
+      "contributor": "Sheena, Danny",
+      "state": "TX",
+      "transaction_id": "15261736",
+      "entity_type": "IND",
+      "employer": "Sheena Law Firm",
+      "occupation": "Attorney",
+      "committee_id": "C00903948",
+      "file_number": 2043348
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 249800,
+      "contributor": "Weissman, Irving",
+      "state": "CA",
+      "transaction_id": "15263009",
+      "entity_type": "IND",
+      "employer": "Stanford University",
+      "occupation": "Scientist",
+      "committee_id": "C00903948",
+      "file_number": 2043348
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "Cherica, Tina",
+      "state": "NE",
+      "transaction_id": "15347204",
+      "entity_type": "IND",
+      "employer": "Heritage Omaha",
+      "occupation": "Development Officer",
+      "committee_id": "C00903948",
+      "file_number": 2043348
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "DE COLORES PAC",
+      "state": "WA",
+      "transaction_id": "15370001",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2043348
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 500000,
+      "contributor": "SMALL TOWN PAC",
+      "state": "MN",
+      "transaction_id": "15370063",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2043348
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "STRENGTHENING VIRGINIA'S WORKING FAMILIES PAC",
+      "state": "VA",
+      "transaction_id": "15261789",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2043348
     }
   ],
-  "report_count": 10,
+  "report_count": 11,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
