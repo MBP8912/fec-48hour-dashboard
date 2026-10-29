@@ -2248,6 +2248,212 @@
       "most_recent_filing": 2042022,
       "is_amended": false,
       "filed_date": "2026-10-26"
+    },
+    "C00677286/2042698": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "FOOD, FUEL, AND FIBER PAC",
+          "state": "TX",
+          "transaction_id": "TX95507",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "YOUR OHIO REPUBLICAN TEAM",
+          "state": "MD",
+          "transaction_id": "TX95509",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-27",
+          "amount_cents": 200000,
+          "contributor": "FIGHTIN' 9TH PAC",
+          "state": "VA",
+          "transaction_id": "TX95510",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 250000,
+          "contributor": "UPSTATE SC PAC",
+          "state": "VA",
+          "transaction_id": "TX95511",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 500000,
+          "contributor": "TRUTH IS MARKETS WORK FUND (TIM W FUND)",
+          "state": "VA",
+          "transaction_id": "TX95512",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 250000,
+          "contributor": "TOGETHER UNITED FOR LIBERTY, INTEGRITY AND PROSPERITY PAC (TULIP PAC)",
+          "state": "MI",
+          "transaction_id": "TX95513",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 500000,
+          "contributor": "WORKING FOR OHIO",
+          "state": "VA",
+          "transaction_id": "TX95515",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "OSHKOSH CORPORATION EMPLOYEES PAC (OCEPAC)",
+          "state": "WI",
+          "transaction_id": "TX95516",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 200000,
+          "contributor": "BLAKE MOORE FOR CONGRESS",
+          "state": "UT",
+          "transaction_id": "TX95517",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 156152,
+          "contributor": "BROWN, MCGUIRE",
+          "state": "NY",
+          "transaction_id": "TX95501",
+          "entity_type": "IND",
+          "employer": "OKX",
+          "occupation": "SENIOR MANAGER, CORPORATE AFFAIRS"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "CASCARILLA, CHARLES",
+          "state": "FL",
+          "transaction_id": "TX95502",
+          "entity_type": "IND",
+          "employer": "PAXOS",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 700000,
+          "contributor": "CASCARILLA, MARISSA",
+          "state": "FL",
+          "transaction_id": "TX95503",
+          "entity_type": "IND",
+          "employer": "HOMEMAKER",
+          "occupation": "HOMEMAKER"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "DONDELINGER, D J.",
+          "state": "MN",
+          "transaction_id": "TX95514",
+          "entity_type": "IND",
+          "employer": "DONDELINGER CHEVROLET",
+          "occupation": "CAR DEALER"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 150000,
+          "contributor": "KEANE, KEVIN W.",
+          "state": "VA",
+          "transaction_id": "TX95499",
+          "entity_type": "IND",
+          "employer": "AMERICAN BEVERAGE ASSOCIATION",
+          "occupation": "EXECUTIVE VICE PRESIDENT"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 300000,
+          "contributor": "NAYMOLA, WALTER E",
+          "state": "TX",
+          "transaction_id": "TX95508",
+          "entity_type": "IND",
+          "employer": "FOUNDER",
+          "occupation": "NATIONAL PUMP & COMPRESSORS"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 200000,
+          "contributor": "RATNER, MARK",
+          "state": "DC",
+          "transaction_id": "TX95504",
+          "entity_type": "IND",
+          "employer": "ASSOCIATION FOR ACCESSIBLE MEDICINES",
+          "occupation": "SENIOR VICE PRESIDENT"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "SCHWAB, HELEN",
+          "state": "FL",
+          "transaction_id": "TX95506",
+          "entity_type": "IND",
+          "employer": "SELF EMPLOYED",
+          "occupation": "INVESTOR"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 364356,
+          "contributor": "WAHLIN, ROBERT",
+          "state": "WI",
+          "transaction_id": "TX95500",
+          "entity_type": "IND",
+          "employer": "STOUGHTON TRAILERS",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 150000,
+          "contributor": "WILKINSON, JAY",
+          "state": "IN",
+          "transaction_id": "TX95505",
+          "entity_type": "IND",
+          "employer": "HOOSIER INVESTMENTS",
+          "occupation": "PARTNER"
+        }
+      ],
+      "file_number": 2042698,
+      "committee_id": "C00677286",
+      "sha256": "bb08cddf7a3385bc69e977fe4213bc05cde822a3a858520fd7fe6bc9f5dc1a74",
+      "amendment_chain": [
+        2042698
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2042698,
+      "is_amended": false,
+      "filed_date": "2026-10-28"
     }
   }
 }

@@ -1102,6 +1102,248 @@
       "most_recent_filing": 2042163,
       "is_amended": false,
       "filed_date": "2026-10-26"
+    },
+    "C00911941/2042552": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "Bailey, Ben",
+          "state": "CO",
+          "transaction_id": "15038485",
+          "entity_type": "IND",
+          "employer": "Colorado Springs Oral And Facial Surge",
+          "occupation": "Oral Surgeon"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "Brady, Douglas",
+          "state": "CO",
+          "transaction_id": "15038706",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 150000,
+          "contributor": "Mcateer, Emily",
+          "state": "CO",
+          "transaction_id": "15039062",
+          "entity_type": "IND",
+          "employer": "Odyssey",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "Phillips, Amy",
+          "state": "CO",
+          "transaction_id": "15038593",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "Sedgwick, Theodore",
+          "state": "VA",
+          "transaction_id": "15039012",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "Singer, Michael",
+          "state": "FL",
+          "transaction_id": "15039146",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Business Owner"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 200000,
+          "contributor": "Staheli, Linda",
+          "state": "VA",
+          "transaction_id": "15038520",
+          "entity_type": "IND",
+          "employer": "Global CO Lab Network",
+          "occupation": "Founding Director Of NGO"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100500,
+          "contributor": "Stauss, Eileen",
+          "state": "WA",
+          "transaction_id": "15038506",
+          "entity_type": "IND",
+          "employer": "Eileen Stauss",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 100000,
+          "contributor": "Underwood, Dennis",
+          "state": "CO",
+          "transaction_id": "15038585",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Engineer"
+        },
+        {
+          "date": "2026-10-25",
+          "amount_cents": 250000,
+          "contributor": "Witkowsky, Anne",
+          "state": "MD",
+          "transaction_id": "15038608",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        }
+      ],
+      "file_number": 2042552,
+      "committee_id": "C00911941",
+      "sha256": "f3c614b51cd4ead4d9a27c54e794d3c8a400890360e73f118846a2fbe6a91003",
+      "amendment_chain": [
+        2042552
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2042552,
+      "is_amended": false,
+      "filed_date": "2026-10-28"
+    },
+    "C00911941/2042570": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "Boyers, Michelle",
+          "state": "CA",
+          "transaction_id": "15120398",
+          "entity_type": "IND",
+          "employer": "Give Forward Foundation",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "Callahan, Michael",
+          "state": "CA",
+          "transaction_id": "15120400",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Investor/Advisor"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "Callahan, Michael",
+          "state": "CA",
+          "transaction_id": "15120402",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Investor/Advisor"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "DiBrienza, Jennifer",
+          "state": "CA",
+          "transaction_id": "15120395",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Education Consultant"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "Lancaster, Angela",
+          "state": "MD",
+          "transaction_id": "15025332",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "Ring, Renee",
+          "state": "NY",
+          "transaction_id": "15162579",
+          "entity_type": "IND",
+          "employer": "EFCG",
+          "occupation": "COO"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "Sirovich, Matthew",
+          "state": "NY",
+          "transaction_id": "15162600",
+          "entity_type": "IND",
+          "employer": "Scopia Capital",
+          "occupation": "Managing Partner"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "Swig, Mary",
+          "state": "CA",
+          "transaction_id": "15120397",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 200000,
+          "contributor": "Thernstrom, Melanie",
+          "state": "CA",
+          "transaction_id": "15120394",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Writer/Journalist"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "Thernstrom, Melanie",
+          "state": "CA",
+          "transaction_id": "15120401",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Writer/Journalist"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 250000,
+          "contributor": "Weissman, Irving",
+          "state": "CA",
+          "transaction_id": "15162771",
+          "entity_type": "IND",
+          "employer": "Stanford",
+          "occupation": "Scientist"
+        }
+      ],
+      "file_number": 2042570,
+      "committee_id": "C00911941",
+      "sha256": "7d81ec535e16e81d5e6f7b998153c436ab052920c06bbf0ca638b849c12be7a1",
+      "amendment_chain": [
+        2042570
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2042570,
+      "is_amended": false,
+      "filed_date": "2026-10-28"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-29T12:53:25+00:00",
+  "generated_at": "2026-10-29T14:01:38+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -187,15 +187,15 @@
       "date": "2026-10-26",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 1100000
       },
       "cumulative": {
         "lawler": 1800000,
-        "conley": 2848000
+        "conley": 3948000
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 6
       }
     },
     {
@@ -206,7 +206,7 @@
       },
       "cumulative": {
         "lawler": 1800000,
-        "conley": 2848000
+        "conley": 3948000
       },
       "counts": {
         "lawler": 0,
@@ -221,7 +221,7 @@
       },
       "cumulative": {
         "lawler": 1800000,
-        "conley": 2848000
+        "conley": 3948000
       },
       "counts": {
         "lawler": 0,
@@ -236,7 +236,7 @@
       },
       "cumulative": {
         "lawler": 1800000,
-        "conley": 2848000
+        "conley": 3948000
       },
       "counts": {
         "lawler": 0,
@@ -279,6 +279,13 @@
       "filed_date": "2026-10-24",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00904284/2041199/f65"
+    },
+    {
+      "committee_id": "C00904284",
+      "file_number": 2042760,
+      "filed_date": "2026-10-28",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00904284/2042760/f65"
     }
   ],
   "contributions": [
@@ -533,9 +540,81 @@
       "occupation": "Not Employed",
       "committee_id": "C00904284",
       "file_number": 2041199
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "Caplan, Amy",
+      "state": "CT",
+      "transaction_id": "15120755",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00904284",
+      "file_number": 2042760
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "DeFrancia, James",
+      "state": "CO",
+      "transaction_id": "15081248",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00904284",
+      "file_number": 2042760
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 350000,
+      "contributor": "Frantz, John",
+      "state": "MA",
+      "transaction_id": "14988424",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00904284",
+      "file_number": 2042760
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "Rubinstein, Joel",
+      "state": "CA",
+      "transaction_id": "15138504",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Real Estate Management",
+      "committee_id": "C00904284",
+      "file_number": 2042760
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "Sabel, Sylvia",
+      "state": "CA",
+      "transaction_id": "15138463",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00904284",
+      "file_number": 2042760
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 350000,
+      "contributor": "Sirovich, Matthew",
+      "state": "NY",
+      "transaction_id": "15013528",
+      "entity_type": "IND",
+      "employer": "Scopia Capital",
+      "occupation": "Managing Partner",
+      "committee_id": "C00904284",
+      "file_number": 2042760
     }
   ],
-  "report_count": 5,
+  "report_count": 6,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

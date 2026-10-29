@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-29T12:53:25+00:00",
+  "generated_at": "2026-10-29T14:01:38+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -186,15 +186,15 @@
     {
       "date": "2026-10-26",
       "totals": {
-        "lawler": 0,
+        "lawler": 650000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 0,
+        "lawler": 650000,
         "conley": 6200000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 5,
         "conley": 0
       }
     },
@@ -205,7 +205,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 0,
+        "lawler": 650000,
         "conley": 6200000
       },
       "counts": {
@@ -220,7 +220,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 0,
+        "lawler": 650000,
         "conley": 6200000
       },
       "counts": {
@@ -235,7 +235,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 0,
+        "lawler": 650000,
         "conley": 6200000
       },
       "counts": {
@@ -293,6 +293,13 @@
       "filed_date": "2026-10-25",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00793760/2041598/f65"
+    },
+    {
+      "committee_id": "C00921668",
+      "file_number": 2042737,
+      "filed_date": "2026-10-28",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00921668/2042737/f65"
     }
   ],
   "contributions": [
@@ -655,9 +662,69 @@
       "occupation": "Engineer",
       "committee_id": "C00793760",
       "file_number": 2041598
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "BUONO CONSTRUCTION LLC",
+      "state": "NY",
+      "transaction_id": "TX56567",
+      "entity_type": "ORG",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00921668",
+      "file_number": 2042737
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "CORTLAND COUNTY REPUBLICAN COMMITTEE",
+      "state": "NY",
+      "transaction_id": "TX56566",
+      "entity_type": "COM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00921668",
+      "file_number": 2042737
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "JAM PAC",
+      "state": "GA",
+      "transaction_id": "TX56568",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00921668",
+      "file_number": 2042737
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 250000,
+      "contributor": "MVL PAC",
+      "state": "NY",
+      "transaction_id": "TX56569",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00921668",
+      "file_number": 2042737
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "SIMONIS, JOSEPH J.",
+      "state": "NY",
+      "transaction_id": "TX56563",
+      "entity_type": "IND",
+      "employer": "JFM REAL ESTATE",
+      "occupation": "CONSTRUCTION",
+      "committee_id": "C00921668",
+      "file_number": 2042737
     }
   ],
-  "report_count": 7,
+  "report_count": 8,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

@@ -412,6 +412,72 @@
       "most_recent_filing": 2041598,
       "is_amended": false,
       "filed_date": "2026-10-25"
+    },
+    "C00921668/2042737": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "CORTLAND COUNTY REPUBLICAN COMMITTEE",
+          "state": "NY",
+          "transaction_id": "TX56566",
+          "entity_type": "COM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "BUONO CONSTRUCTION LLC",
+          "state": "NY",
+          "transaction_id": "TX56567",
+          "entity_type": "ORG",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "JAM PAC",
+          "state": "GA",
+          "transaction_id": "TX56568",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 250000,
+          "contributor": "MVL PAC",
+          "state": "NY",
+          "transaction_id": "TX56569",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "SIMONIS, JOSEPH J.",
+          "state": "NY",
+          "transaction_id": "TX56563",
+          "entity_type": "IND",
+          "employer": "JFM REAL ESTATE",
+          "occupation": "CONSTRUCTION"
+        }
+      ],
+      "file_number": 2042737,
+      "committee_id": "C00921668",
+      "sha256": "99be97da2bcadd7b6d6e35db2df372544d67dc78976263948ea5ae4838559bdc",
+      "amendment_chain": [
+        2042737
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2042737,
+      "is_amended": false,
+      "filed_date": "2026-10-28"
     }
   }
 }

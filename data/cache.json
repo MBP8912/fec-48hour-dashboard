@@ -3370,6 +3370,122 @@
       "most_recent_filing": 2042020,
       "is_amended": false,
       "filed_date": "2026-10-26"
+    },
+    "C00815415/2042371": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-26",
+          "amount_cents": 500000,
+          "contributor": "Building A Republic America Deserves",
+          "state": "NC",
+          "transaction_id": "F65-3321903",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "Cascarilla, Charles",
+          "state": "FL",
+          "transaction_id": "F65-3322183",
+          "entity_type": "IND",
+          "employer": "Paxos",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "Crowley, Thomas",
+          "state": "TX",
+          "transaction_id": "F65-3322184",
+          "entity_type": "IND",
+          "employer": "Self",
+          "occupation": "Investor"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 104102,
+          "contributor": "Dresdale, Richard",
+          "state": "NY",
+          "transaction_id": "F65-3322485",
+          "entity_type": "IND",
+          "employer": "Madison River Capital",
+          "occupation": "Investor"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 169165,
+          "contributor": "Gallagher, William",
+          "state": "NJ",
+          "transaction_id": "F65-3322097",
+          "entity_type": "IND",
+          "employer": "CFG Merchant Solutions",
+          "occupation": "President"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 200000,
+          "contributor": "Jim Schwartzel for Congress",
+          "state": "FL",
+          "transaction_id": "F65-3321732",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "Right Track USA PAC",
+          "state": "ND",
+          "transaction_id": "F65-3321901",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "Schwab, Helen",
+          "state": "FL",
+          "transaction_id": "F65-3322005",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Investor"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 125000,
+          "contributor": "Terry, Darcy",
+          "state": "AL",
+          "transaction_id": "F65-3322182",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "Troy Pac, Your Ohio Republican Team",
+          "state": "MD",
+          "transaction_id": "F65-3321955",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2042371,
+      "committee_id": "C00815415",
+      "sha256": "8af8cf8209f3c792f11985854286bed00f7bda7dc9445fd68dca6b82b41bfc10",
+      "amendment_chain": [
+        2042371
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2042371,
+      "is_amended": false,
+      "filed_date": "2026-10-28"
     }
   }
 }

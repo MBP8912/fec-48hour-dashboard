@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-29T12:53:25+00:00",
+  "generated_at": "2026-10-29T14:01:38+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -187,15 +187,15 @@
       "date": "2026-10-26",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 1500000
       },
       "cumulative": {
         "lawler": 12100000,
-        "conley": 14457427
+        "conley": 15957427
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 8
       }
     },
     {
@@ -206,7 +206,7 @@
       },
       "cumulative": {
         "lawler": 12100000,
-        "conley": 14457427
+        "conley": 15957427
       },
       "counts": {
         "lawler": 0,
@@ -221,7 +221,7 @@
       },
       "cumulative": {
         "lawler": 12100000,
-        "conley": 14457427
+        "conley": 15957427
       },
       "counts": {
         "lawler": 0,
@@ -236,7 +236,7 @@
       },
       "cumulative": {
         "lawler": 12100000,
-        "conley": 14457427
+        "conley": 15957427
       },
       "counts": {
         "lawler": 0,
@@ -349,6 +349,13 @@
       "filed_date": "2026-10-26",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00787820/2042277/f65"
+    },
+    {
+      "committee_id": "C00787820",
+      "file_number": 2042590,
+      "filed_date": "2026-10-28",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00787820/2042590/f65"
     }
   ],
   "contributions": [
@@ -1899,9 +1906,105 @@
       "occupation": "Software Engineer",
       "committee_id": "C00787820",
       "file_number": 2042277
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "Bridge The Gap PAC",
+      "state": "DC",
+      "transaction_id": "20907340",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2042590
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 200000,
+      "contributor": "Buchanan, Stephen",
+      "state": "TN",
+      "transaction_id": "20889336",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00787820",
+      "file_number": 2042590
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "Rosenthal, Beth",
+      "state": "MD",
+      "transaction_id": "20906945",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00787820",
+      "file_number": 2042590
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "Shore PAC",
+      "state": "NJ",
+      "transaction_id": "20904228",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2042590
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 350000,
+      "contributor": "Sirovich, Matthew",
+      "state": "NY",
+      "transaction_id": "20906943",
+      "entity_type": "IND",
+      "employer": "Scopia Capital",
+      "occupation": "Managing Partner",
+      "committee_id": "C00787820",
+      "file_number": 2042590
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 300000,
+      "contributor": "Slifka, David",
+      "state": "NY",
+      "transaction_id": "20906208",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Finance",
+      "committee_id": "C00787820",
+      "file_number": 2042590
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 100000,
+      "contributor": "Sydney Kamlager-Dove For Congress",
+      "state": "DC",
+      "transaction_id": "20906249",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2042590
+    },
+    {
+      "date": "2026-10-26",
+      "amount_cents": 250000,
+      "contributor": "Weissman, Irving",
+      "state": "CA",
+      "transaction_id": "20906944",
+      "entity_type": "IND",
+      "employer": "Stanford",
+      "occupation": "Scientist",
+      "committee_id": "C00787820",
+      "file_number": 2042590
     }
   ],
-  "report_count": 15,
+  "report_count": 16,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

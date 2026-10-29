@@ -290,6 +290,82 @@
       "most_recent_filing": 2041199,
       "is_amended": false,
       "filed_date": "2026-10-24"
+    },
+    "C00904284/2042760": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "Caplan, Amy",
+          "state": "CT",
+          "transaction_id": "15120755",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "DeFrancia, James",
+          "state": "CO",
+          "transaction_id": "15081248",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "Frantz, John",
+          "state": "MA",
+          "transaction_id": "14988424",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "Rubinstein, Joel",
+          "state": "CA",
+          "transaction_id": "15138504",
+          "entity_type": "IND",
+          "employer": "Self-Employed",
+          "occupation": "Real Estate Management"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 100000,
+          "contributor": "Sabel, Sylvia",
+          "state": "CA",
+          "transaction_id": "15138463",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-26",
+          "amount_cents": 350000,
+          "contributor": "Sirovich, Matthew",
+          "state": "NY",
+          "transaction_id": "15013528",
+          "entity_type": "IND",
+          "employer": "Scopia Capital",
+          "occupation": "Managing Partner"
+        }
+      ],
+      "file_number": 2042760,
+      "committee_id": "C00904284",
+      "sha256": "8667f37287be74558e90cf7380af8222881cfaecea14cdedab81a800ff98c804",
+      "amendment_chain": [
+        2042760
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2042760,
+      "is_amended": false,
+      "filed_date": "2026-10-28"
     }
   }
 }
