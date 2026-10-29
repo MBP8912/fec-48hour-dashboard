@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-29T20:44:04+00:00",
+  "generated_at": "2026-10-29T21:41:47+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -202,15 +202,15 @@
       "date": "2026-10-27",
       "totals": {
         "lawler": 1750000,
-        "conley": 0
+        "conley": 8125000
       },
       "cumulative": {
         "lawler": 6100000,
-        "conley": 17450500
+        "conley": 25575500
       },
       "counts": {
         "lawler": 9,
-        "conley": 0
+        "conley": 14
       }
     },
     {
@@ -221,7 +221,7 @@
       },
       "cumulative": {
         "lawler": 6100000,
-        "conley": 17450500
+        "conley": 25575500
       },
       "counts": {
         "lawler": 0,
@@ -236,7 +236,7 @@
       },
       "cumulative": {
         "lawler": 6100000,
-        "conley": 17450500
+        "conley": 25575500
       },
       "counts": {
         "lawler": 0,
@@ -391,6 +391,13 @@
       "filed_date": "2026-10-29",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00865592/2043572/f65"
+    },
+    {
+      "committee_id": "C00911941",
+      "file_number": 2043837,
+      "filed_date": "2026-10-29",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00911941/2043837/f65"
     }
   ],
   "contributions": [
@@ -1833,9 +1840,177 @@
       "occupation": "",
       "committee_id": "C00865592",
       "file_number": 2043572
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "BRIDGE THE GAP PAC",
+      "state": "DC",
+      "transaction_id": "15233708",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00911941",
+      "file_number": 2043837
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 500000,
+      "contributor": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+      "state": "DC",
+      "transaction_id": "15233339",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00911941",
+      "file_number": 2043837
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "Dorton, Erin",
+      "state": "MD",
+      "transaction_id": "15271423",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00911941",
+      "file_number": 2043837
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 350000,
+      "contributor": "Farley, Katherine",
+      "state": "NY",
+      "transaction_id": "15200026",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00911941",
+      "file_number": 2043837
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "Fishman, Neil",
+      "state": "CO",
+      "transaction_id": "15271463",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00911941",
+      "file_number": 2043837
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 350000,
+      "contributor": "Gill Case, Lucia",
+      "state": "RI",
+      "transaction_id": "15200031",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00911941",
+      "file_number": 2043837
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 125000,
+      "contributor": "Greenberg, Jack",
+      "state": "IL",
+      "transaction_id": "15200027",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00911941",
+      "file_number": 2043837
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 5000000,
+      "contributor": "Killin, Jessica",
+      "state": "CO",
+      "transaction_id": "15164963",
+      "entity_type": "CAN",
+      "employer": "Not Employed",
+      "occupation": "CO-05 Candidate",
+      "committee_id": "C00911941",
+      "file_number": 2043837
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "Kroot, Tina",
+      "state": "CA",
+      "transaction_id": "15311452",
+      "entity_type": "IND",
+      "employer": "Jeff Kroot Hichuteca Assoc",
+      "occupation": "Self Employed",
+      "committee_id": "C00911941",
+      "file_number": 2043837
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "STRENGTH IN SEVEN PAC",
+      "state": "OH",
+      "transaction_id": "15203889",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00911941",
+      "file_number": 2043837
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 100000,
+      "contributor": "STRENGTHENING VIRGINIA'S WORKING FAMILIES PAC",
+      "state": "VA",
+      "transaction_id": "15200033",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00911941",
+      "file_number": 2043837
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 350000,
+      "contributor": "Stone, Deborah",
+      "state": "NY",
+      "transaction_id": "15200029",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Psychologist",
+      "committee_id": "C00911941",
+      "file_number": 2043837
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 350000,
+      "contributor": "Stone, Max",
+      "state": "NY",
+      "transaction_id": "15200030",
+      "entity_type": "IND",
+      "employer": "D. E. Shaw & Co.",
+      "occupation": "Finance",
+      "committee_id": "C00911941",
+      "file_number": 2043837
+    },
+    {
+      "date": "2026-10-27",
+      "amount_cents": 500000,
+      "contributor": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+      "state": "DC",
+      "transaction_id": "15237419",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00911941",
+      "file_number": 2043837
     }
   ],
-  "report_count": 21,
+  "report_count": 22,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
