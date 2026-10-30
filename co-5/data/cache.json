@@ -1768,6 +1768,142 @@
       "most_recent_filing": 2044233,
       "is_amended": false,
       "filed_date": "2026-10-30"
+    },
+    "C00911941/2044490": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "Alexandrov, Alexei",
+          "state": "VA",
+          "transaction_id": "15366557",
+          "entity_type": "IND",
+          "employer": "Alexei Alexandrov",
+          "occupation": "Economist And Machine Learning Researc"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "BLUE LINE PAC",
+          "state": "DC",
+          "transaction_id": "15320189",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "DEMOCRATIC VALUES",
+          "state": "DC",
+          "transaction_id": "15264482",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "Lasala, Barry",
+          "state": "MD",
+          "transaction_id": "15366560",
+          "entity_type": "IND",
+          "employer": "AVOQ",
+          "occupation": "Government Affairs"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 350000,
+          "contributor": "Mchugh, Heather",
+          "state": "DC",
+          "transaction_id": "15366734",
+          "entity_type": "IND",
+          "employer": "Resolution Public Affairs",
+          "occupation": "Partner"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "Owen, Jenny",
+          "state": "CO",
+          "transaction_id": "15322194",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "POLITICAL ACTION COMMITTEE OF THE INTERNATIONAL ALLIANCE OF THEATRICAL STAGE EMPLOYEES",
+          "state": "NY",
+          "transaction_id": "15321809",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "Ramsdell, Howard",
+          "state": "CO",
+          "transaction_id": "15366564",
+          "entity_type": "IND",
+          "employer": "Colorado State Univ",
+          "occupation": "Toxicologist"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "SHERMAN FOR CONGRESS",
+          "state": "CA",
+          "transaction_id": "15310556",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "SHORE PAC",
+          "state": "NJ",
+          "transaction_id": "15321932",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "Stay, Lisa",
+          "state": "CO",
+          "transaction_id": "15366586",
+          "entity_type": "IND",
+          "employer": "Motorola",
+          "occupation": "IT"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 125000,
+          "contributor": "Warren, David",
+          "state": "CO",
+          "transaction_id": "15366594",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        }
+      ],
+      "file_number": 2044490,
+      "committee_id": "C00911941",
+      "sha256": "8ae0d064b7ff2b3cf63389c4443361dc0ba3485cfb2b3aa8d70f29e62699ae6b",
+      "amendment_chain": [
+        2044490
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2044490,
+      "is_amended": false,
+      "filed_date": "2026-10-30"
     }
   }
 }

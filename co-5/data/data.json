@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-30T19:46:25+00:00",
+  "generated_at": "2026-10-30T20:39:48+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -217,15 +217,15 @@
       "date": "2026-10-28",
       "totals": {
         "lawler": 1800000,
-        "conley": 0
+        "conley": 1475000
       },
       "cumulative": {
         "lawler": 7900000,
-        "conley": 25575500
+        "conley": 27050500
       },
       "counts": {
         "lawler": 6,
-        "conley": 0
+        "conley": 12
       }
     },
     {
@@ -236,7 +236,7 @@
       },
       "cumulative": {
         "lawler": 7900000,
-        "conley": 25575500
+        "conley": 27050500
       },
       "counts": {
         "lawler": 0,
@@ -251,7 +251,7 @@
       },
       "cumulative": {
         "lawler": 7900000,
-        "conley": 25575500
+        "conley": 27050500
       },
       "counts": {
         "lawler": 0,
@@ -420,6 +420,13 @@
       "filed_date": "2026-10-30",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00865592/2044233/f65"
+    },
+    {
+      "committee_id": "C00911941",
+      "file_number": 2044490,
+      "filed_date": "2026-10-30",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00911941/2044490/f65"
     }
   ],
   "contributions": [
@@ -2102,9 +2109,153 @@
       "occupation": "",
       "committee_id": "C00865592",
       "file_number": 2044233
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "Alexandrov, Alexei",
+      "state": "VA",
+      "transaction_id": "15366557",
+      "entity_type": "IND",
+      "employer": "Alexei Alexandrov",
+      "occupation": "Economist And Machine Learning Researc",
+      "committee_id": "C00911941",
+      "file_number": 2044490
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "BLUE LINE PAC",
+      "state": "DC",
+      "transaction_id": "15320189",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00911941",
+      "file_number": 2044490
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "DEMOCRATIC VALUES",
+      "state": "DC",
+      "transaction_id": "15264482",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00911941",
+      "file_number": 2044490
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "Lasala, Barry",
+      "state": "MD",
+      "transaction_id": "15366560",
+      "entity_type": "IND",
+      "employer": "AVOQ",
+      "occupation": "Government Affairs",
+      "committee_id": "C00911941",
+      "file_number": 2044490
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 350000,
+      "contributor": "Mchugh, Heather",
+      "state": "DC",
+      "transaction_id": "15366734",
+      "entity_type": "IND",
+      "employer": "Resolution Public Affairs",
+      "occupation": "Partner",
+      "committee_id": "C00911941",
+      "file_number": 2044490
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "Owen, Jenny",
+      "state": "CO",
+      "transaction_id": "15322194",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00911941",
+      "file_number": 2044490
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "POLITICAL ACTION COMMITTEE OF THE INTERNATIONAL ALLIANCE OF THEATRICAL STAGE EMPLOYEES",
+      "state": "NY",
+      "transaction_id": "15321809",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00911941",
+      "file_number": 2044490
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "Ramsdell, Howard",
+      "state": "CO",
+      "transaction_id": "15366564",
+      "entity_type": "IND",
+      "employer": "Colorado State Univ",
+      "occupation": "Toxicologist",
+      "committee_id": "C00911941",
+      "file_number": 2044490
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "SHERMAN FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "15310556",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00911941",
+      "file_number": 2044490
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "SHORE PAC",
+      "state": "NJ",
+      "transaction_id": "15321932",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00911941",
+      "file_number": 2044490
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "Stay, Lisa",
+      "state": "CO",
+      "transaction_id": "15366586",
+      "entity_type": "IND",
+      "employer": "Motorola",
+      "occupation": "IT",
+      "committee_id": "C00911941",
+      "file_number": 2044490
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 125000,
+      "contributor": "Warren, David",
+      "state": "CO",
+      "transaction_id": "15366594",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00911941",
+      "file_number": 2044490
     }
   ],
-  "report_count": 23,
+  "report_count": 24,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
