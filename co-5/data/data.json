@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-30T14:56:05+00:00",
+  "generated_at": "2026-10-30T15:50:54+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -216,15 +216,15 @@
     {
       "date": "2026-10-28",
       "totals": {
-        "lawler": 0,
+        "lawler": 1800000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 6100000,
+        "lawler": 7900000,
         "conley": 25575500
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 6,
         "conley": 0
       }
     },
@@ -235,7 +235,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 6100000,
+        "lawler": 7900000,
         "conley": 25575500
       },
       "counts": {
@@ -250,7 +250,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 6100000,
+        "lawler": 7900000,
         "conley": 25575500
       },
       "counts": {
@@ -413,6 +413,13 @@
       "filed_date": "2026-10-29",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00911941/2043837/f65"
+    },
+    {
+      "committee_id": "C00865592",
+      "file_number": 2044233,
+      "filed_date": "2026-10-30",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00865592/2044233/f65"
     }
   ],
   "contributions": [
@@ -2023,9 +2030,81 @@
       "occupation": "",
       "committee_id": "C00911941",
       "file_number": 2043837
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 150000,
+      "contributor": "CULLEN, THOMAS",
+      "state": "CO",
+      "transaction_id": "261028001",
+      "entity_type": "IND",
+      "employer": "ECHOSTAR",
+      "occupation": "EXECUTIVE",
+      "committee_id": "C00865592",
+      "file_number": 2044233
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 200000,
+      "contributor": "FIGHTIN' NINTH POLITICAL ACTION COMMITTEE",
+      "state": "VA",
+      "transaction_id": "180379047",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2044233
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 500000,
+      "contributor": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+      "state": "VA",
+      "transaction_id": "180379045",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2044233
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 350000,
+      "contributor": "ORBAN, PAUL",
+      "state": "CO",
+      "transaction_id": "261028002",
+      "entity_type": "IND",
+      "employer": "ECHOSTAR DISH NETWORK",
+      "occupation": "CFO",
+      "committee_id": "C00865592",
+      "file_number": 2044233
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 500000,
+      "contributor": "SUSAN B. ANTHONY LIST. INC. CANDIDATE FUND (DBA SUSAN B. ANTHONY PRO-LIFE AMERICA CANDIDATE FUND)",
+      "state": "VA",
+      "transaction_id": "180379049",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2044233
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "TOGETHER UNITED FOR LIBERTY, INTEGRITY AND PROSPERITY PAC (TULIP PAC)",
+      "state": "MI",
+      "transaction_id": "180379219",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2044233
     }
   ],
-  "report_count": 22,
+  "report_count": 23,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

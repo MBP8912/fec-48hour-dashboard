@@ -1692,6 +1692,82 @@
       "most_recent_filing": 2043837,
       "is_amended": false,
       "filed_date": "2026-10-29"
+    },
+    "C00865592/2044233": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-28",
+          "amount_cents": 150000,
+          "contributor": "CULLEN, THOMAS",
+          "state": "CO",
+          "transaction_id": "261028001",
+          "entity_type": "IND",
+          "employer": "ECHOSTAR",
+          "occupation": "EXECUTIVE"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 200000,
+          "contributor": "FIGHTIN' NINTH POLITICAL ACTION COMMITTEE",
+          "state": "VA",
+          "transaction_id": "180379047",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 500000,
+          "contributor": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "state": "VA",
+          "transaction_id": "180379045",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 350000,
+          "contributor": "ORBAN, PAUL",
+          "state": "CO",
+          "transaction_id": "261028002",
+          "entity_type": "IND",
+          "employer": "ECHOSTAR DISH NETWORK",
+          "occupation": "CFO"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 500000,
+          "contributor": "SUSAN B. ANTHONY LIST. INC. CANDIDATE FUND (DBA SUSAN B. ANTHONY PRO-LIFE AMERICA CANDIDATE FUND)",
+          "state": "VA",
+          "transaction_id": "180379049",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "TOGETHER UNITED FOR LIBERTY, INTEGRITY AND PROSPERITY PAC (TULIP PAC)",
+          "state": "MI",
+          "transaction_id": "180379219",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2044233,
+      "committee_id": "C00865592",
+      "sha256": "370e70b9f167b0d729547ac5aad566f2d4297ea2ffed17c22f2de0d04a46fc15",
+      "amendment_chain": [
+        2044233
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2044233,
+      "is_amended": false,
+      "filed_date": "2026-10-30"
     }
   }
 }

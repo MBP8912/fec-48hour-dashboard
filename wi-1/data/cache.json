@@ -3228,6 +3228,122 @@
       "most_recent_filing": 2043755,
       "is_amended": false,
       "filed_date": "2026-10-29"
+    },
+    "C00677286/2044227": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-29",
+          "amount_cents": 500000,
+          "contributor": "NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "state": "DC",
+          "transaction_id": "TX95556",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "FOOD MARKETPLACE INC. POLITICAL ACTION COMMITTEE FMI FOODPAC",
+          "state": "VA",
+          "transaction_id": "TX95557",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 200000,
+          "contributor": "CLIMER FOR CONGRESS",
+          "state": "SC",
+          "transaction_id": "TX95564",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 200000,
+          "contributor": "OKX TECHNOLOGY INC. DIGITAL FUTURE PAC (OKX DIGITAL FUTURE PAC)",
+          "state": "CA",
+          "transaction_id": "TX95565",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 250000,
+          "contributor": "MANAGED FUNDS ASSOCIATION POLITICAL ACTION COMMITTEE",
+          "state": "DC",
+          "transaction_id": "TX95566",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 103306,
+          "contributor": "MCHUGH, KYLE",
+          "state": "IL",
+          "transaction_id": "TX95560",
+          "entity_type": "IND",
+          "employer": "SIMPSON THACHER",
+          "occupation": "LAWYER"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "WADE, AIDAN",
+          "state": "IN",
+          "transaction_id": "TX95562",
+          "entity_type": "IND",
+          "employer": "STUDENT",
+          "occupation": "STUDENT"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "WADE, NOAH",
+          "state": "IN",
+          "transaction_id": "TX95563",
+          "entity_type": "IND",
+          "employer": "SELF-EMPLOYED",
+          "occupation": "INVESTOR"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "WADE, ZOIE",
+          "state": "IN",
+          "transaction_id": "TX95561",
+          "entity_type": "IND",
+          "employer": "SELF EMPLOYED",
+          "occupation": "MARKETING"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 500000,
+          "contributor": "WRIGHT, ELIZABETH",
+          "state": "CO",
+          "transaction_id": "TX95558",
+          "entity_type": "IND",
+          "employer": "US DEPARTMENT OF ENERGY",
+          "occupation": "SECRETARY"
+        }
+      ],
+      "file_number": 2044227,
+      "committee_id": "C00677286",
+      "sha256": "6d939a12481f0651ba7c395263e0b21036bafda9c4720f0d2020101adedf1388",
+      "amendment_chain": [
+        2044227
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2044227,
+      "is_amended": false,
+      "filed_date": "2026-10-30"
     }
   }
 }
