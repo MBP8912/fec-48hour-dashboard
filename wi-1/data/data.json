@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-30T17:42:54+00:00",
+  "generated_at": "2026-10-30T18:46:41+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -217,15 +217,15 @@
       "date": "2026-10-28",
       "totals": {
         "lawler": 5450000,
-        "conley": 0
+        "conley": 2075000
       },
       "cumulative": {
         "lawler": 29259034,
-        "conley": 28770000
+        "conley": 30845000
       },
       "counts": {
         "lawler": 18,
-        "conley": 0
+        "conley": 10
       }
     },
     {
@@ -236,7 +236,7 @@
       },
       "cumulative": {
         "lawler": 31662340,
-        "conley": 28770000
+        "conley": 30845000
       },
       "counts": {
         "lawler": 9,
@@ -251,7 +251,7 @@
       },
       "cumulative": {
         "lawler": 31662340,
-        "conley": 28770000
+        "conley": 30845000
       },
       "counts": {
         "lawler": 0,
@@ -427,6 +427,13 @@
       "filed_date": "2026-10-30",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00677286/2044227/f65"
+    },
+    {
+      "committee_id": "C00915637",
+      "file_number": 2044360,
+      "filed_date": "2026-10-30",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00915637/2044360/f65"
     }
   ],
   "contributions": [
@@ -3407,6 +3414,126 @@
       "file_number": 2044227
     },
     {
+      "date": "2026-10-28",
+      "amount_cents": 500000,
+      "contributor": "AMERICAN POSTAL WORKERS UNION COMMITTEE ON POLITICAL ACTION",
+      "state": "DC",
+      "transaction_id": "15420743",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2044360
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 200000,
+      "contributor": "BEYOND THOUGHTS AND PRAYERS PAC",
+      "state": "MA",
+      "transaction_id": "15419657",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2044360
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "DEMOCRATIC VALUES",
+      "state": "DC",
+      "transaction_id": "15419598",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2044360
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 350000,
+      "contributor": "Dawson, John P.",
+      "state": "CA",
+      "transaction_id": "15420796",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Retired",
+      "committee_id": "C00915637",
+      "file_number": 2044360
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 350000,
+      "contributor": "Hebeisen, Keith",
+      "state": "IL",
+      "transaction_id": "15386272",
+      "entity_type": "IND",
+      "employer": "Clifford Law Offices",
+      "occupation": "Attorney",
+      "committee_id": "C00915637",
+      "file_number": 2044360
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 205000,
+      "contributor": "Kinast-Porter, Susan",
+      "state": "WI",
+      "transaction_id": "15386273",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Retired",
+      "committee_id": "C00915637",
+      "file_number": 2044360
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 20000,
+      "contributor": "Kinast-Porter, Susan",
+      "state": "WI",
+      "transaction_id": "15386287",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Retired",
+      "committee_id": "C00915637",
+      "file_number": 2044360
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "Moving Our Nation Forward PAC",
+      "state": "DC",
+      "transaction_id": "15420673",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2044360
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "Porter, David",
+      "state": "TX",
+      "transaction_id": "15386274",
+      "entity_type": "IND",
+      "employer": "The PNL Companies",
+      "occupation": "Real Estate",
+      "committee_id": "C00915637",
+      "file_number": 2044360
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 150000,
+      "contributor": "SMALL TOWN PAC",
+      "state": "MN",
+      "transaction_id": "15419658",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2044360
+    },
+    {
       "date": "2026-10-29",
       "amount_cents": 200000,
       "contributor": "CLIMER FOR CONGRESS",
@@ -3515,7 +3642,7 @@
       "file_number": 2044227
     }
   ],
-  "report_count": 24,
+  "report_count": 25,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

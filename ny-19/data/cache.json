@@ -600,6 +600,62 @@
       "most_recent_filing": 2043643,
       "is_amended": false,
       "filed_date": "2026-10-29"
+    },
+    "C00793760/2044328": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "Sherman for Congress",
+          "state": "CA",
+          "transaction_id": "11635107",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 200000,
+          "contributor": "Hume, Hamish",
+          "state": "MD",
+          "transaction_id": "11646398",
+          "entity_type": "IND",
+          "employer": "Boies Schiller Flexner LLP",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 500000,
+          "contributor": "International Association  of Fire Fighters Interested in Registration and Education PAC",
+          "state": "DC",
+          "transaction_id": "11620519",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "Perry, Sharifa E.",
+          "state": "NY",
+          "transaction_id": "11646399",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        }
+      ],
+      "file_number": 2044328,
+      "committee_id": "C00793760",
+      "sha256": "44f53bd31e9d5d6108e8b16f32c5899691f0ec99958ef9ba5c86b4ab05ef5636",
+      "amendment_chain": [
+        2044328
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2044328,
+      "is_amended": false,
+      "filed_date": "2026-10-30"
     }
   }
 }

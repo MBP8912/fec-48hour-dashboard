@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-30T17:42:54+00:00",
+  "generated_at": "2026-10-30T18:46:41+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -217,15 +217,15 @@
       "date": "2026-10-28",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 900000
       },
       "cumulative": {
         "lawler": 650000,
-        "conley": 7750000
+        "conley": 8650000
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 4
       }
     },
     {
@@ -236,7 +236,7 @@
       },
       "cumulative": {
         "lawler": 650000,
-        "conley": 7750000
+        "conley": 8650000
       },
       "counts": {
         "lawler": 0,
@@ -251,7 +251,7 @@
       },
       "cumulative": {
         "lawler": 650000,
-        "conley": 7750000
+        "conley": 8650000
       },
       "counts": {
         "lawler": 0,
@@ -329,6 +329,13 @@
       "filed_date": "2026-10-29",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00793760/2043643/f65"
+    },
+    {
+      "committee_id": "C00793760",
+      "file_number": 2044328,
+      "filed_date": "2026-10-30",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00793760/2044328/f65"
     }
   ],
   "contributions": [
@@ -859,9 +866,57 @@
       "occupation": "",
       "committee_id": "C00793760",
       "file_number": 2043643
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 200000,
+      "contributor": "Hume, Hamish",
+      "state": "MD",
+      "transaction_id": "11646398",
+      "entity_type": "IND",
+      "employer": "Boies Schiller Flexner LLP",
+      "occupation": "Attorney",
+      "committee_id": "C00793760",
+      "file_number": 2044328
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 500000,
+      "contributor": "International Association  of Fire Fighters Interested in Registration and Education PAC",
+      "state": "DC",
+      "transaction_id": "11620519",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00793760",
+      "file_number": 2044328
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "Perry, Sharifa E.",
+      "state": "NY",
+      "transaction_id": "11646399",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00793760",
+      "file_number": 2044328
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "Sherman for Congress",
+      "state": "CA",
+      "transaction_id": "11635107",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00793760",
+      "file_number": 2044328
     }
   ],
-  "report_count": 10,
+  "report_count": 11,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

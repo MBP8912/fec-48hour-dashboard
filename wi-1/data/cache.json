@@ -3344,6 +3344,122 @@
       "most_recent_filing": 2044227,
       "is_amended": false,
       "filed_date": "2026-10-30"
+    },
+    "C00915637/2044360": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-28",
+          "amount_cents": 500000,
+          "contributor": "AMERICAN POSTAL WORKERS UNION COMMITTEE ON POLITICAL ACTION",
+          "state": "DC",
+          "transaction_id": "15420743",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 200000,
+          "contributor": "BEYOND THOUGHTS AND PRAYERS PAC",
+          "state": "MA",
+          "transaction_id": "15419657",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 350000,
+          "contributor": "Dawson, John P.",
+          "state": "CA",
+          "transaction_id": "15420796",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "DEMOCRATIC VALUES",
+          "state": "DC",
+          "transaction_id": "15419598",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 350000,
+          "contributor": "Hebeisen, Keith",
+          "state": "IL",
+          "transaction_id": "15386272",
+          "entity_type": "IND",
+          "employer": "Clifford Law Offices",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 205000,
+          "contributor": "Kinast-Porter, Susan",
+          "state": "WI",
+          "transaction_id": "15386273",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 20000,
+          "contributor": "Kinast-Porter, Susan",
+          "state": "WI",
+          "transaction_id": "15386287",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "Moving Our Nation Forward PAC",
+          "state": "DC",
+          "transaction_id": "15420673",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "Porter, David",
+          "state": "TX",
+          "transaction_id": "15386274",
+          "entity_type": "IND",
+          "employer": "The PNL Companies",
+          "occupation": "Real Estate"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 150000,
+          "contributor": "SMALL TOWN PAC",
+          "state": "MN",
+          "transaction_id": "15419658",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2044360,
+      "committee_id": "C00915637",
+      "sha256": "473b3d490b425eabf98a1d20c908de0e513ff36dc2ca4b5d0c1c31e7073e6cd9",
+      "amendment_chain": [
+        2044360
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2044360,
+      "is_amended": false,
+      "filed_date": "2026-10-30"
     }
   }
 }
