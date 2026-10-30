@@ -670,6 +670,42 @@
       "most_recent_filing": 2043676,
       "is_amended": false,
       "filed_date": "2026-10-29"
+    },
+    "C00904284/2044251": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "Lang, Steve",
+          "state": "CO",
+          "transaction_id": "15300316",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "Ramsdell, Howard",
+          "state": "CO",
+          "transaction_id": "15259950",
+          "entity_type": "IND",
+          "employer": "Colorado State University",
+          "occupation": "Toxicologist"
+        }
+      ],
+      "file_number": 2044251,
+      "committee_id": "C00904284",
+      "sha256": "7441d597b50696d9af7bfef289b6fb46f8965da3826546d8d1efb43bc65edfac",
+      "amendment_chain": [
+        2044251
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2044251,
+      "is_amended": false,
+      "filed_date": "2026-10-30"
     }
   }
 }

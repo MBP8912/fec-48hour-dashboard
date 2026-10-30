@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-30T15:50:53+00:00",
+  "generated_at": "2026-10-30T16:48:08+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -217,15 +217,15 @@
       "date": "2026-10-28",
       "totals": {
         "lawler": 850000,
-        "conley": 0
+        "conley": 200000
       },
       "cumulative": {
         "lawler": 4643492,
-        "conley": 6948000
+        "conley": 7148000
       },
       "counts": {
         "lawler": 2,
-        "conley": 0
+        "conley": 2
       }
     },
     {
@@ -236,7 +236,7 @@
       },
       "cumulative": {
         "lawler": 4643492,
-        "conley": 6948000
+        "conley": 7148000
       },
       "counts": {
         "lawler": 0,
@@ -251,7 +251,7 @@
       },
       "cumulative": {
         "lawler": 4643492,
-        "conley": 6948000
+        "conley": 7148000
       },
       "counts": {
         "lawler": 0,
@@ -329,6 +329,13 @@
       "filed_date": "2026-10-29",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00728238/2043676/f65"
+    },
+    {
+      "committee_id": "C00904284",
+      "file_number": 2044251,
+      "filed_date": "2026-10-30",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00904284/2044251/f65"
     }
   ],
   "contributions": [
@@ -943,9 +950,33 @@
       "occupation": "",
       "committee_id": "C00728238",
       "file_number": 2043676
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "Lang, Steve",
+      "state": "CO",
+      "transaction_id": "15300316",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00904284",
+      "file_number": 2044251
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "Ramsdell, Howard",
+      "state": "CO",
+      "transaction_id": "15259950",
+      "entity_type": "IND",
+      "employer": "Colorado State University",
+      "occupation": "Toxicologist",
+      "committee_id": "C00904284",
+      "file_number": 2044251
     }
   ],
-  "report_count": 10,
+  "report_count": 11,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
