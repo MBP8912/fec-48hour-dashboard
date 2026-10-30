@@ -2370,6 +2370,102 @@
       "most_recent_filing": 2044565,
       "is_amended": false,
       "filed_date": "2026-10-30"
+    },
+    "C00902684/2044667": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "19Th Senate District DFL",
+          "state": "MN",
+          "transaction_id": "15488048",
+          "entity_type": "COM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "AMERICAN FEDERATION OF GOVT. EMPL. POLITICAL ACTION COMMITTEE",
+          "state": "DC",
+          "transaction_id": "15465842",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "Anderson, Olga",
+          "state": "MN",
+          "transaction_id": "15495999",
+          "entity_type": "IND",
+          "employer": "Mayo Clinic",
+          "occupation": "Occupational Therapist"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 200000,
+          "contributor": "BILL FOSTER FOR CONGRESS",
+          "state": "IL",
+          "transaction_id": "15467075",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "CHC BOLD PAC",
+          "state": "TX",
+          "transaction_id": "15348585",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 200000,
+          "contributor": "Petersen, Karen",
+          "state": "MN",
+          "transaction_id": "15498074",
+          "entity_type": "IND",
+          "employer": "Mayo Clinic",
+          "occupation": "Document Review"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "SHERMAN FOR CONGRESS",
+          "state": "CA",
+          "transaction_id": "15488014",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "SHORE PAC",
+          "state": "NJ",
+          "transaction_id": "15487954",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2044667,
+      "committee_id": "C00902684",
+      "sha256": "41aff51270f27e1db6488edc5a883124d3f82fc3b04a18866c17c2f08ac80c8f",
+      "amendment_chain": [
+        2044667
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2044667,
+      "is_amended": false,
+      "filed_date": "2026-10-30"
     }
   }
 }
