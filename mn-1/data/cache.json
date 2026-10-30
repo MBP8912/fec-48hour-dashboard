@@ -2058,6 +2058,72 @@
       "most_recent_filing": 2043038,
       "is_amended": false,
       "filed_date": "2026-10-29"
+    },
+    "C00902684/2044050": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "DEMOCRATIC VALUES",
+          "state": "DC",
+          "transaction_id": "15369720",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 200000,
+          "contributor": "PETE AGUILAR FOR CONGRESS",
+          "state": "CA",
+          "transaction_id": "15312290",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 200000,
+          "contributor": "Petersen, Bret",
+          "state": "MN",
+          "transaction_id": "15348810",
+          "entity_type": "IND",
+          "employer": "Mayo Clinic",
+          "occupation": "Retired Physician"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "Porter, David",
+          "state": "TX",
+          "transaction_id": "15348711",
+          "entity_type": "IND",
+          "employer": "The PNL Companies",
+          "occupation": "Real Estate"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 500000,
+          "contributor": "PROGRESSIVE MAJORITY PAC",
+          "state": "DC",
+          "transaction_id": "15312266",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2044050,
+      "committee_id": "C00902684",
+      "sha256": "0255ae248d30323f74e0924881444434155d96e4db5ede1ca183ab810a71c61e",
+      "amendment_chain": [
+        2044050
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2044050,
+      "is_amended": false,
+      "filed_date": "2026-10-29"
     }
   }
 }

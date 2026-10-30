@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-30T00:54:24+00:00",
+  "generated_at": "2026-10-30T01:56:51+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -217,15 +217,15 @@
       "date": "2026-10-28",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 1100000
       },
       "cumulative": {
         "lawler": 14744880,
-        "conley": 23412353
+        "conley": 24512353
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 5
       }
     },
     {
@@ -236,7 +236,7 @@
       },
       "cumulative": {
         "lawler": 14744880,
-        "conley": 23412353
+        "conley": 24512353
       },
       "counts": {
         "lawler": 0,
@@ -370,6 +370,13 @@
       "filed_date": "2026-10-29",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00902684/2043038/f65"
+    },
+    {
+      "committee_id": "C00902684",
+      "file_number": 2044050,
+      "filed_date": "2026-10-29",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00902684/2044050/f65"
     }
   ],
   "contributions": [
@@ -2496,9 +2503,69 @@
       "occupation": "Not Employer",
       "committee_id": "C00902684",
       "file_number": 2043038
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "DEMOCRATIC VALUES",
+      "state": "DC",
+      "transaction_id": "15369720",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2044050
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 200000,
+      "contributor": "PETE AGUILAR FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "15312290",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2044050
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 500000,
+      "contributor": "PROGRESSIVE MAJORITY PAC",
+      "state": "DC",
+      "transaction_id": "15312266",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00902684",
+      "file_number": 2044050
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 200000,
+      "contributor": "Petersen, Bret",
+      "state": "MN",
+      "transaction_id": "15348810",
+      "entity_type": "IND",
+      "employer": "Mayo Clinic",
+      "occupation": "Retired Physician",
+      "committee_id": "C00902684",
+      "file_number": 2044050
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "Porter, David",
+      "state": "TX",
+      "transaction_id": "15348711",
+      "entity_type": "IND",
+      "employer": "The PNL Companies",
+      "occupation": "Real Estate",
+      "committee_id": "C00902684",
+      "file_number": 2044050
     }
   ],
-  "report_count": 18,
+  "report_count": 19,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
