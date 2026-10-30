@@ -1928,6 +1928,52 @@
       "most_recent_filing": 2043925,
       "is_amended": false,
       "filed_date": "2026-10-29"
+    },
+    "C00787820/2044409": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-28",
+          "amount_cents": 175000,
+          "contributor": "Donoho, David",
+          "state": "NY",
+          "transaction_id": "20916837",
+          "entity_type": "IND",
+          "employer": "Stanford University",
+          "occupation": "Mathematician"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 350000,
+          "contributor": "Lee, Leah",
+          "state": "IA",
+          "transaction_id": "20916565",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 200000,
+          "contributor": "TIMBER PAC",
+          "state": "WA",
+          "transaction_id": "20916639",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2044409,
+      "committee_id": "C00787820",
+      "sha256": "4d53356c4019d84f78215062be97245fd62c88c28abbcf8f1f582ed4064928fc",
+      "amendment_chain": [
+        2044409
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2044409,
+      "is_amended": false,
+      "filed_date": "2026-10-30"
     }
   }
 }

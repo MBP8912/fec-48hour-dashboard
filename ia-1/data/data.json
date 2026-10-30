@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-30T18:46:41+00:00",
+  "generated_at": "2026-10-30T19:46:25+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -217,15 +217,15 @@
       "date": "2026-10-28",
       "totals": {
         "lawler": 600000,
-        "conley": 0
+        "conley": 725000
       },
       "cumulative": {
         "lawler": 17160153,
-        "conley": 17557427
+        "conley": 18282427
       },
       "counts": {
         "lawler": 2,
-        "conley": 0
+        "conley": 3
       }
     },
     {
@@ -236,7 +236,7 @@
       },
       "cumulative": {
         "lawler": 17660153,
-        "conley": 17557427
+        "conley": 18282427
       },
       "counts": {
         "lawler": 2,
@@ -251,7 +251,7 @@
       },
       "cumulative": {
         "lawler": 17660153,
-        "conley": 17557427
+        "conley": 18282427
       },
       "counts": {
         "lawler": 0,
@@ -385,6 +385,13 @@
       "filed_date": "2026-10-29",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00787820/2043925/f65"
+    },
+    {
+      "committee_id": "C00787820",
+      "file_number": 2044409,
+      "filed_date": "2026-10-30",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00787820/2044409/f65"
     }
   ],
   "contributions": [
@@ -2333,6 +2340,42 @@
       "file_number": 2043245
     },
     {
+      "date": "2026-10-28",
+      "amount_cents": 175000,
+      "contributor": "Donoho, David",
+      "state": "NY",
+      "transaction_id": "20916837",
+      "entity_type": "IND",
+      "employer": "Stanford University",
+      "occupation": "Mathematician",
+      "committee_id": "C00787820",
+      "file_number": 2044409
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 350000,
+      "contributor": "Lee, Leah",
+      "state": "IA",
+      "transaction_id": "20916565",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00787820",
+      "file_number": 2044409
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 200000,
+      "contributor": "TIMBER PAC",
+      "state": "WA",
+      "transaction_id": "20916639",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2044409
+    },
+    {
       "date": "2026-10-29",
       "amount_cents": 100000,
       "contributor": "INTERSTATE NATURAL GAS ASSOCIATION OF AMERICA PAC",
@@ -2357,7 +2400,7 @@
       "file_number": 2043245
     }
   ],
-  "report_count": 18,
+  "report_count": 19,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
