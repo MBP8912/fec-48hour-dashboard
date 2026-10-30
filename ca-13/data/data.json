@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-30T04:47:04+00:00",
+  "generated_at": "2026-10-30T05:45:01+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -231,15 +231,15 @@
     {
       "date": "2026-10-29",
       "totals": {
-        "lawler": 0,
+        "lawler": 300000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 11075000,
+        "lawler": 11375000,
         "conley": 13742588
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 2,
         "conley": 0
       }
     },
@@ -250,7 +250,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 11075000,
+        "lawler": 11375000,
         "conley": 13742588
       },
       "counts": {
@@ -385,6 +385,13 @@
       "filed_date": "2026-10-29",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00801431/2043913/f65"
+    },
+    {
+      "committee_id": "C00845826",
+      "file_number": 2044144,
+      "filed_date": "2026-10-30",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00845826/2044144/f65"
     }
   ],
   "contributions": [
@@ -1827,9 +1834,33 @@
       "occupation": "",
       "committee_id": "C00845826",
       "file_number": 2042989
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 200000,
+      "contributor": "Brian Jack for Congress",
+      "state": "GA",
+      "transaction_id": "F65-1392039",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00845826",
+      "file_number": 2044144
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "Fisher, David W",
+      "state": "CA",
+      "transaction_id": "F65-1391838",
+      "entity_type": "IND",
+      "employer": "RPM Co.",
+      "occupation": "Property Management",
+      "committee_id": "C00845826",
+      "file_number": 2044144
     }
   ],
-  "report_count": 18,
+  "report_count": 19,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

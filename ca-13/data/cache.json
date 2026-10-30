@@ -1538,6 +1538,42 @@
       "most_recent_filing": 2043913,
       "is_amended": false,
       "filed_date": "2026-10-29"
+    },
+    "C00845826/2044144": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-29",
+          "amount_cents": 200000,
+          "contributor": "Brian Jack for Congress",
+          "state": "GA",
+          "transaction_id": "F65-1392039",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "Fisher, David W",
+          "state": "CA",
+          "transaction_id": "F65-1391838",
+          "entity_type": "IND",
+          "employer": "RPM Co.",
+          "occupation": "Property Management"
+        }
+      ],
+      "file_number": 2044144,
+      "committee_id": "C00845826",
+      "sha256": "61e93813604fa87a9b3d1b9baff7a570f8928e75e935a58e6ef3f52771b84eea",
+      "amendment_chain": [
+        2044144
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2044144,
+      "is_amended": false,
+      "filed_date": "2026-10-30"
     }
   }
 }
