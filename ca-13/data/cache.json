@@ -1574,6 +1574,72 @@
       "most_recent_filing": 2044144,
       "is_amended": false,
       "filed_date": "2026-10-30"
+    },
+    "C00801431/2044574": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-28",
+          "amount_cents": 250000,
+          "contributor": "NATSO Inc. NATSO PAC",
+          "state": "VA",
+          "transaction_id": "11641674",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "Schakowsky for Congress",
+          "state": "IL",
+          "transaction_id": "11641684",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 350000,
+          "contributor": "Armstrong, Brian",
+          "state": "FL",
+          "transaction_id": "11645756",
+          "entity_type": "IND",
+          "employer": "Coinbase",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 200000,
+          "contributor": "Donald Norcross for Congress",
+          "state": "NJ",
+          "transaction_id": "11631917",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "Blue Line PAC",
+          "state": "DC",
+          "transaction_id": "11641657",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2044574,
+      "committee_id": "C00801431",
+      "sha256": "c7cf3cf273e0446f475e3336b4ffab1cdaae6391fd43419da58c0069371d6654",
+      "amendment_chain": [
+        2044574
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2044574,
+      "is_amended": false,
+      "filed_date": "2026-10-30"
     }
   }
 }

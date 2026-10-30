@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-30T20:39:48+00:00",
+  "generated_at": "2026-10-30T21:38:58+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -216,45 +216,45 @@
     {
       "date": "2026-10-28",
       "totals": {
-        "lawler": 0,
+        "lawler": 2986228,
         "conley": 1100000
       },
       "cumulative": {
-        "lawler": 14744880,
+        "lawler": 17731108,
         "conley": 24512353
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 5,
         "conley": 5
       }
     },
     {
       "date": "2026-10-29",
       "totals": {
-        "lawler": 0,
+        "lawler": 3550000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 14744880,
+        "lawler": 21281108,
         "conley": 24512353
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 10,
         "conley": 0
       }
     },
     {
       "date": "2026-10-30",
       "totals": {
-        "lawler": 0,
+        "lawler": 2280000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 14744880,
+        "lawler": 23561108,
         "conley": 24512353
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 8,
         "conley": 0
       }
     }
@@ -392,6 +392,13 @@
       "filed_date": "2026-10-29",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00902684/2044050/f65"
+    },
+    {
+      "committee_id": "C00807743",
+      "file_number": 2044565,
+      "filed_date": "2026-10-30",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00807743/2044565/f65"
     }
   ],
   "contributions": [
@@ -2521,6 +2528,66 @@
     },
     {
       "date": "2026-10-28",
+      "amount_cents": 200000,
+      "contributor": "AUGUST PFLUGER FOR CONGRESS",
+      "state": "TX",
+      "transaction_id": "6A90FF8210BA54CDA82E",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 1536228,
+      "contributor": "FINSTAD VICTORY COMMITTEE",
+      "state": "GA",
+      "transaction_id": "6D768404B54984715A67",
+      "entity_type": "COM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 500000,
+      "contributor": "FOREVER YOUTH ORGANIZATION UTILIZING A NEW GENERATION PAC",
+      "state": "CA",
+      "transaction_id": "640BBAD5A01E24A23A9D",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 500000,
+      "contributor": "RAPTOR PAC",
+      "state": "TX",
+      "transaction_id": "639BBC5DC2E744F2F881",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 250000,
+      "contributor": "REPUBLICANS UNITED TO DEFEND YOU PAC",
+      "state": "VA",
+      "transaction_id": "61D7EE0CE05954A19A4B",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-28",
       "amount_cents": 100000,
       "contributor": "DEMOCRATIC VALUES",
       "state": "DC",
@@ -2578,9 +2645,225 @@
       "occupation": "Real Estate",
       "committee_id": "C00902684",
       "file_number": 2044050
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 250000,
+      "contributor": "AMERICAN AMBULANCE ASSOCIATION FEDERAL PAC (AKA AMBU-PAC)",
+      "state": "DC",
+      "transaction_id": "63BDCC0760317494CBB3",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 200000,
+      "contributor": "AMERICAN PHYSICAL THERAPY ASSOCIATION PHYSICAL THERAPY PAC (PT-PAC)",
+      "state": "VA",
+      "transaction_id": "610F680FD77B94910B11",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 350000,
+      "contributor": "DELL TECHNOLOGIES, INC. PAC",
+      "state": "DC",
+      "transaction_id": "6D894864783FE4E2A9FD",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 350000,
+      "contributor": "PROTECTING RESOURCES AND TAXPAYER TRUST",
+      "state": "GA",
+      "transaction_id": "68BDC1B08B8D340B88F1",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 500000,
+      "contributor": "RESPONSIBILITY AND FREEDOM WORK PAC (RFWPAC)",
+      "state": "MS",
+      "transaction_id": "65E2781CB7DB04E5AA0A",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 400000,
+      "contributor": "SCHWAN'S COMPANY PAC",
+      "state": "MN",
+      "transaction_id": "6179116F9F0D1436CA96",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 500000,
+      "contributor": "SIX PAC",
+      "state": "WI",
+      "transaction_id": "6C1B4B266072B48CC908",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 250000,
+      "contributor": "TEXAS RED",
+      "state": "TX",
+      "transaction_id": "659638879D23745C586E",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 250000,
+      "contributor": "TRIUMPH FOODS PAC",
+      "state": "MO",
+      "transaction_id": "699B697A095AB400190D",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 500000,
+      "contributor": "WORKING FOR OHIO",
+      "state": "VA",
+      "transaction_id": "692EEEA486B9B4C2FA82",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 530000,
+      "contributor": "GARATONI, LAWRENCE H",
+      "state": "IN",
+      "transaction_id": "68099695359024D09A5B",
+      "entity_type": "IND",
+      "employer": "INFORMATION REQUESTED",
+      "occupation": "INFORMATION REQUESTED",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 150000,
+      "contributor": "HILER, JACK J",
+      "state": "IN",
+      "transaction_id": "63D2B1E2FE71F4289B5F",
+      "entity_type": "IND",
+      "employer": "INFORMATION REQUESTED",
+      "occupation": "INFORMATION REQUESTED",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "KEEPING FREEDOM ALIVE PAC",
+      "state": "TN",
+      "transaction_id": "6B316140313944F54863",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 250000,
+      "contributor": "LASTING INVESTMENTS STRENGTHENING AMERICA PAC",
+      "state": "MI",
+      "transaction_id": "616D469FDFBD24D148EC",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "LUZ- JENSEN, JANINE",
+      "state": "MN",
+      "transaction_id": "6773C3E205CD444A4B49",
+      "entity_type": "IND",
+      "employer": "BELLIN AND GUNDERSEN HEALTH SYSTEM",
+      "occupation": "VP/TALENT ACQUISTION AND LEARNING",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 500000,
+      "contributor": "NATIONAL ASSOCIATION OF MUTUAL INSURANCE COMPANIES PAC",
+      "state": "IN",
+      "transaction_id": "6B0E58ACEFBCE4D1BB6D",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 150000,
+      "contributor": "RATHGABER, SCOTT",
+      "state": "WI",
+      "transaction_id": "62EF63E596D3442CDB94",
+      "entity_type": "IND",
+      "employer": "GUNDERSEN HEALTH SYSTEM",
+      "occupation": "CEO",
+      "committee_id": "C00807743",
+      "file_number": 2044565
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 500000,
+      "contributor": "SEAL TEAM PT PAC",
+      "state": "VA",
+      "transaction_id": "62EE5E28ABDA54107919",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00807743",
+      "file_number": 2044565
     }
   ],
-  "report_count": 19,
+  "report_count": 20,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

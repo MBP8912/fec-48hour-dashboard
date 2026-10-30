@@ -4998,6 +4998,122 @@
       "most_recent_filing": 2043995,
       "is_amended": false,
       "filed_date": "2026-10-29"
+    },
+    "C00815415/2044536": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "Baroni, William",
+          "state": "NY",
+          "transaction_id": "F65-3322832",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 300000,
+          "contributor": "Eisner, Imri",
+          "state": "NY",
+          "transaction_id": "F65-3322835",
+          "entity_type": "IND",
+          "employer": "DLA PIper",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "Gray, Kenneth",
+          "state": "NY",
+          "transaction_id": "F65-3322838",
+          "entity_type": "IND",
+          "employer": "Bushwick Potato",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "Gross, Danielle",
+          "state": "AZ",
+          "transaction_id": "F65-3322840",
+          "entity_type": "IND",
+          "employer": "DRG Behavioral Health LLC",
+          "occupation": "Therapist"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "Lady Washington PAC",
+          "state": "WA",
+          "transaction_id": "F65-3322576",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 200000,
+          "contributor": "Lerman, Scott",
+          "state": "NY",
+          "transaction_id": "F65-3322843",
+          "entity_type": "IND",
+          "employer": "Rialto Management Corp.",
+          "occupation": "Property Manager"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 166700,
+          "contributor": "Levine, David",
+          "state": "NY",
+          "transaction_id": "F65-3322839",
+          "entity_type": "IND",
+          "employer": "Paul, Weiss",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 214300,
+          "contributor": "Shlesinger, Yaron",
+          "state": "NY",
+          "transaction_id": "F65-3322836",
+          "entity_type": "IND",
+          "employer": "Atalan Capital",
+          "occupation": "Managing Director"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "Steifman, Michael",
+          "state": "PR",
+          "transaction_id": "F65-3322841",
+          "entity_type": "IND",
+          "employer": "Utilisave LLC",
+          "occupation": "Consultant"
+        },
+        {
+          "date": "2026-10-28",
+          "amount_cents": 100000,
+          "contributor": "Viest, Nicholas",
+          "state": "NY",
+          "transaction_id": "F65-3322831",
+          "entity_type": "IND",
+          "employer": "Lindenmeyr Central",
+          "occupation": "Paper Sales"
+        }
+      ],
+      "file_number": 2044536,
+      "committee_id": "C00815415",
+      "sha256": "dc70e91b7825d3bfb067834af8282ebd0e325f7368e895048c9a6d8c402903f4",
+      "amendment_chain": [
+        2044536
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2044536,
+      "is_amended": false,
+      "filed_date": "2026-10-30"
     }
   }
 }

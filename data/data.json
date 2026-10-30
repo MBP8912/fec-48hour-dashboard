@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-30T20:39:47+00:00",
+  "generated_at": "2026-10-30T21:38:58+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -216,15 +216,15 @@
     {
       "date": "2026-10-28",
       "totals": {
-        "lawler": 0,
+        "lawler": 1481000,
         "conley": 6850000
       },
       "cumulative": {
-        "lawler": 52889060,
+        "lawler": 54370060,
         "conley": 45243120
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 10,
         "conley": 36
       }
     },
@@ -235,7 +235,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 52889060,
+        "lawler": 54370060,
         "conley": 45243120
       },
       "counts": {
@@ -250,7 +250,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 52889060,
+        "lawler": 54370060,
         "conley": 45243120
       },
       "counts": {
@@ -385,6 +385,13 @@
       "filed_date": "2026-10-29",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00900431/2043995/f65"
+    },
+    {
+      "committee_id": "C00815415",
+      "file_number": 2044536,
+      "filed_date": "2026-10-30",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00815415/2044536/f65"
     }
   ],
   "contributions": [
@@ -5538,6 +5545,126 @@
     },
     {
       "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "Baroni, William",
+      "state": "NY",
+      "transaction_id": "F65-3322832",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Attorney",
+      "committee_id": "C00815415",
+      "file_number": 2044536
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 300000,
+      "contributor": "Eisner, Imri",
+      "state": "NY",
+      "transaction_id": "F65-3322835",
+      "entity_type": "IND",
+      "employer": "DLA PIper",
+      "occupation": "Attorney",
+      "committee_id": "C00815415",
+      "file_number": 2044536
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "Gray, Kenneth",
+      "state": "NY",
+      "transaction_id": "F65-3322838",
+      "entity_type": "IND",
+      "employer": "Bushwick Potato",
+      "occupation": "CEO",
+      "committee_id": "C00815415",
+      "file_number": 2044536
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "Gross, Danielle",
+      "state": "AZ",
+      "transaction_id": "F65-3322840",
+      "entity_type": "IND",
+      "employer": "DRG Behavioral Health LLC",
+      "occupation": "Therapist",
+      "committee_id": "C00815415",
+      "file_number": 2044536
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "Lady Washington PAC",
+      "state": "WA",
+      "transaction_id": "F65-3322576",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00815415",
+      "file_number": 2044536
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 200000,
+      "contributor": "Lerman, Scott",
+      "state": "NY",
+      "transaction_id": "F65-3322843",
+      "entity_type": "IND",
+      "employer": "Rialto Management Corp.",
+      "occupation": "Property Manager",
+      "committee_id": "C00815415",
+      "file_number": 2044536
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 166700,
+      "contributor": "Levine, David",
+      "state": "NY",
+      "transaction_id": "F65-3322839",
+      "entity_type": "IND",
+      "employer": "Paul, Weiss",
+      "occupation": "Attorney",
+      "committee_id": "C00815415",
+      "file_number": 2044536
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 214300,
+      "contributor": "Shlesinger, Yaron",
+      "state": "NY",
+      "transaction_id": "F65-3322836",
+      "entity_type": "IND",
+      "employer": "Atalan Capital",
+      "occupation": "Managing Director",
+      "committee_id": "C00815415",
+      "file_number": 2044536
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "Steifman, Michael",
+      "state": "PR",
+      "transaction_id": "F65-3322841",
+      "entity_type": "IND",
+      "employer": "Utilisave LLC",
+      "occupation": "Consultant",
+      "committee_id": "C00815415",
+      "file_number": 2044536
+    },
+    {
+      "date": "2026-10-28",
+      "amount_cents": 100000,
+      "contributor": "Viest, Nicholas",
+      "state": "NY",
+      "transaction_id": "F65-3322831",
+      "entity_type": "IND",
+      "employer": "Lindenmeyr Central",
+      "occupation": "Paper Sales",
+      "committee_id": "C00815415",
+      "file_number": 2044536
+    },
+    {
+      "date": "2026-10-28",
       "amount_cents": 200000,
       "contributor": "AMERICAN DEFENSE AND MILITARY PAC (ADAM PAC)",
       "state": "DC",
@@ -5969,7 +6096,7 @@
       "file_number": 2043995
     }
   ],
-  "report_count": 18,
+  "report_count": 19,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
