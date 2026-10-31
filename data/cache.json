@@ -5114,6 +5114,412 @@
       "most_recent_filing": 2044536,
       "is_amended": false,
       "filed_date": "2026-10-30"
+    },
+    "C00815415/2045123": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-29",
+          "amount_cents": 200000,
+          "contributor": "Adcock, Carson Dee",
+          "state": "PA",
+          "transaction_id": "F65-3321939",
+          "entity_type": "IND",
+          "employer": "Rydal Ventures LLC",
+          "occupation": "Vice President"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 200000,
+          "contributor": "American Academy of Otolaryngology-Head and Neck Surgery Ent PAC",
+          "state": "VA",
+          "transaction_id": "F65-3321938",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 120000,
+          "contributor": "Bakken, Brian S.",
+          "state": "AL",
+          "transaction_id": "F65-3322588",
+          "entity_type": "IND",
+          "employer": "Lsb",
+          "occupation": "Manager"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 250000,
+          "contributor": "Bancroft, Christopher",
+          "state": "TX",
+          "transaction_id": "F65-3321943",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 200000,
+          "contributor": "Brooks, Richard A.",
+          "state": "AL",
+          "transaction_id": "F65-3322819",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 400000,
+          "contributor": "Capital One Financial Corp. Assoc. Political Fund",
+          "state": "VA",
+          "transaction_id": "F65-3322820",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "Craft, Joe",
+          "state": "OK",
+          "transaction_id": "F65-3321952",
+          "entity_type": "IND",
+          "employer": "Alliance Resource Partners LP",
+          "occupation": "Executive"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 200000,
+          "contributor": "Dr. Brian Babin for Congress",
+          "state": "TX",
+          "transaction_id": "F65-3321940",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "Dunbar, Bruce C.",
+          "state": "AL",
+          "transaction_id": "F65-3321933",
+          "entity_type": "IND",
+          "employer": "McGriff, Seibels & Williams",
+          "occupation": "Chairman"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 250000,
+          "contributor": "Edward Jones PAC",
+          "state": "DC",
+          "transaction_id": "F65-3321942",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 300000,
+          "contributor": "Edwards, Karen",
+          "state": "SD",
+          "transaction_id": "F65-3321944",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "Friedman, David",
+          "state": "NY",
+          "transaction_id": "F65-3321947",
+          "entity_type": "IND",
+          "employer": "AE Networks",
+          "occupation": "Sr Mgr"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "Garland, Lucille",
+          "state": "PA",
+          "transaction_id": "F65-3322584",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "Horowitz, Asher",
+          "state": "NY",
+          "transaction_id": "F65-3321949",
+          "entity_type": "IND",
+          "employer": "RTC Fashion",
+          "occupation": "Owner"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "Impact Committee",
+          "state": "VA",
+          "transaction_id": "F65-3322851",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "Indig, Joel",
+          "state": "NY",
+          "transaction_id": "F65-3321950",
+          "entity_type": "IND",
+          "employer": "JI Builders",
+          "occupation": "Executive"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "Indig, Mayer",
+          "state": "NY",
+          "transaction_id": "F65-3321948",
+          "entity_type": "IND",
+          "employer": "Keren Mayer Indig",
+          "occupation": "Executive"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 120000,
+          "contributor": "Jones, E. Carlisle",
+          "state": "AL",
+          "transaction_id": "F65-3321935",
+          "entity_type": "IND",
+          "employer": "Birmingham Rail & Locomotive Co",
+          "occupation": "Executive"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 200000,
+          "contributor": "Just Elect Super Stars PAC",
+          "state": "TX",
+          "transaction_id": "F65-3322818",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "Mittelman, Bernard",
+          "state": "NY",
+          "transaction_id": "F65-3321946",
+          "entity_type": "IND",
+          "employer": "Simply Funding",
+          "occupation": "Founder"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 120000,
+          "contributor": "Morton, William B.",
+          "state": "AL",
+          "transaction_id": "F65-3321937",
+          "entity_type": "IND",
+          "employer": "Robins & Morton",
+          "occupation": "Chairman"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 120000,
+          "contributor": "Muir-Taylor, Alastair",
+          "state": "AL",
+          "transaction_id": "F65-3321936",
+          "entity_type": "IND",
+          "employer": "McGriff, Seibels & Williams",
+          "occupation": "Sr Executive VP"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "National Association of Postal Supervisors PAC",
+          "state": "VA",
+          "transaction_id": "F65-3321934",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "National Council of Textile Organizations Inc. Political Action Committee",
+          "state": "NC",
+          "transaction_id": "F65-3321932",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "National Stripper Well Association PAC (NSWA PAC)",
+          "state": "OK",
+          "transaction_id": "F65-3322586",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "National Treasury Employees Union Political Action Committee",
+          "state": "DC",
+          "transaction_id": "F65-3322816",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "Piekarski, Chayim",
+          "state": "NY",
+          "transaction_id": "F65-3321953",
+          "entity_type": "IND",
+          "employer": "C+A Global",
+          "occupation": "Executive"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "Piekarski, Fruma",
+          "state": "NY",
+          "transaction_id": "F65-3322144",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 500000,
+          "contributor": "Reaching For A Brighter America PAC",
+          "state": "AL",
+          "transaction_id": "F65-3322821",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "Ripps, Harold W.",
+          "state": "AL",
+          "transaction_id": "F65-3321951",
+          "entity_type": "IND",
+          "employer": "The Rime Companies",
+          "occupation": "Officer"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 250000,
+          "contributor": "S&p Global Inc. Political Action Committee",
+          "state": "NY",
+          "transaction_id": "F65-3322652",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 125000,
+          "contributor": "Scott, Charles David",
+          "state": "AL",
+          "transaction_id": "F65-3322589",
+          "entity_type": "IND",
+          "employer": "Scott Land Company",
+          "occupation": "Developer"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 250000,
+          "contributor": "Scott, Isaac J.",
+          "state": "AL",
+          "transaction_id": "F65-3322592",
+          "entity_type": "IND",
+          "employer": "Scott Bridge Company",
+          "occupation": "Engineer"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 125000,
+          "contributor": "Scott, William M.",
+          "state": "AL",
+          "transaction_id": "F65-3322590",
+          "entity_type": "IND",
+          "employer": "Self employed",
+          "occupation": "Self employed"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "Sherman, Jean Outlaw",
+          "state": "AL",
+          "transaction_id": "F65-3321945",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 200000,
+          "contributor": "Together United for Liberty, Integrity and Prosperity PAC (Tulip PAC)",
+          "state": "MI",
+          "transaction_id": "F65-3321941",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "U.s. Mortgage Insurers Political Action Committee (USMI-PAC)",
+          "state": "DC",
+          "transaction_id": "F65-3322815",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "Ward, T. B.",
+          "state": "AL",
+          "transaction_id": "F65-3322587",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Self employed"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "Williams, Mark",
+          "state": "GA",
+          "transaction_id": "F65-3322585",
+          "entity_type": "IND",
+          "employer": "Southern Heritage Fine Furniture",
+          "occupation": "Executive"
+        }
+      ],
+      "file_number": 2045123,
+      "committee_id": "C00815415",
+      "sha256": "e45bf2667d42dcdfdf0eb587e1620fc7691247f51d06a3feb74dc47c3b85d7a5",
+      "amendment_chain": [
+        2045123
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045123,
+      "is_amended": false,
+      "filed_date": "2026-10-31"
     }
   }
 }
