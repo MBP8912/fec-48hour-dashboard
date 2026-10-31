@@ -1904,6 +1904,52 @@
       "most_recent_filing": 2044490,
       "is_amended": false,
       "filed_date": "2026-10-30"
+    },
+    "C00865592/2044800": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "CONSTANTINO, ANTHONY",
+          "state": "NY",
+          "transaction_id": "180447293",
+          "entity_type": "IND",
+          "employer": "INFORMATION REQUESTED",
+          "occupation": "INFORMATION REQUESTED"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 250000,
+          "contributor": "GENERAL ATOMICS POLITICAL ACTION COMMITTEE",
+          "state": "CA",
+          "transaction_id": "180447291",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "SMITH & WESSON BRANDS, INC. POLITICAL ACTION COMMITTEE",
+          "state": "TN",
+          "transaction_id": "180447290",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2044800,
+      "committee_id": "C00865592",
+      "sha256": "785928fe4371108cbc9f6eb94ab05b2c710ba178629e55ae8912a4ddac2f75df",
+      "amendment_chain": [
+        2044800
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2044800,
+      "is_amended": false,
+      "filed_date": "2026-10-31"
     }
   }
 }

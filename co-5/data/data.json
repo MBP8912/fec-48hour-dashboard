@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-31T10:37:17+00:00",
+  "generated_at": "2026-10-31T11:36:38+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -231,15 +231,15 @@
     {
       "date": "2026-10-29",
       "totals": {
-        "lawler": 0,
+        "lawler": 700000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 7900000,
+        "lawler": 8600000,
         "conley": 27050500
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 3,
         "conley": 0
       }
     },
@@ -250,7 +250,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 7900000,
+        "lawler": 8600000,
         "conley": 27050500
       },
       "counts": {
@@ -265,7 +265,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 7900000,
+        "lawler": 8600000,
         "conley": 27050500
       },
       "counts": {
@@ -442,6 +442,13 @@
       "filed_date": "2026-10-30",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00911941/2044490/f65"
+    },
+    {
+      "committee_id": "C00865592",
+      "file_number": 2044800,
+      "filed_date": "2026-10-31",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00865592/2044800/f65"
     }
   ],
   "contributions": [
@@ -2268,9 +2275,45 @@
       "occupation": "Not Employed",
       "committee_id": "C00911941",
       "file_number": 2044490
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 350000,
+      "contributor": "CONSTANTINO, ANTHONY",
+      "state": "NY",
+      "transaction_id": "180447293",
+      "entity_type": "IND",
+      "employer": "INFORMATION REQUESTED",
+      "occupation": "INFORMATION REQUESTED",
+      "committee_id": "C00865592",
+      "file_number": 2044800
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 250000,
+      "contributor": "GENERAL ATOMICS POLITICAL ACTION COMMITTEE",
+      "state": "CA",
+      "transaction_id": "180447291",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2044800
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "SMITH & WESSON BRANDS, INC. POLITICAL ACTION COMMITTEE",
+      "state": "TN",
+      "transaction_id": "180447290",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2044800
     }
   ],
-  "report_count": 24,
+  "report_count": 25,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
