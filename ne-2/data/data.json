@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-31T15:36:34+00:00",
+  "generated_at": "2026-10-31T16:37:43+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -232,30 +232,30 @@
       "date": "2026-10-29",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 1150000
       },
       "cumulative": {
         "lawler": 28077551,
-        "conley": 14085634
+        "conley": 15235634
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 7
       }
     },
     {
       "date": "2026-10-30",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 900000
       },
       "cumulative": {
         "lawler": 28077551,
-        "conley": 14085634
+        "conley": 16135634
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 7
       }
     },
     {
@@ -266,7 +266,7 @@
       },
       "cumulative": {
         "lawler": 28077551,
-        "conley": 14085634
+        "conley": 16135634
       },
       "counts": {
         "lawler": 0,
@@ -365,6 +365,13 @@
       "filed_date": "2026-10-29",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00909515/2043757/f65"
+    },
+    {
+      "committee_id": "C00903948",
+      "file_number": 2044863,
+      "filed_date": "2026-10-31",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00903948/2044863/f65"
     }
   ],
   "contributions": [
@@ -2155,9 +2162,177 @@
       "occupation": "",
       "committee_id": "C00909515",
       "file_number": 2043757
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "Betancourt, Mirta",
+      "state": "FL",
+      "transaction_id": "15437597",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00903948",
+      "file_number": 2044863
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "COMMITTEE FOR A STRONGER AMERICA",
+      "state": "CA",
+      "transaction_id": "15450509",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2044863
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 300000,
+      "contributor": "Holzman, Leonard",
+      "state": "TX",
+      "transaction_id": "15447601",
+      "entity_type": "IND",
+      "employer": "Liverpool Enterprises",
+      "occupation": "President",
+      "committee_id": "C00903948",
+      "file_number": 2044863
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 250000,
+      "contributor": "INT'L UNION OF BRICKLAYERS AND ALLIED CRAFTWORKERS",
+      "state": "DC",
+      "transaction_id": "15437658",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2044863
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "Kasdan, Jake",
+      "state": "CA",
+      "transaction_id": "15449671",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Filmmaker",
+      "committee_id": "C00903948",
+      "file_number": 2044863
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 200000,
+      "contributor": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+      "state": "DC",
+      "transaction_id": "15437732",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2044863
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "VERONICA ESCOBAR FOR CONGRESS",
+      "state": "TX",
+      "transaction_id": "15370126",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2044863
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "BARRAGAN FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "15450514",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2044863
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "Brashear, Tre",
+      "state": "NE",
+      "transaction_id": "15540602",
+      "entity_type": "IND",
+      "employer": "Lozier Enterprise",
+      "occupation": "Chief Operating Officer",
+      "committee_id": "C00903948",
+      "file_number": 2044863
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "CISNEROS FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "15542612",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2044863
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "PEOPLE IN RURAL AREAS TRANSFORM ELECTIONS (PIRATE) PAC",
+      "state": "DC",
+      "transaction_id": "15542631",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2044863
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 150000,
+      "contributor": "Richards, Jeffrey",
+      "state": "CO",
+      "transaction_id": "15540598",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00903948",
+      "file_number": 2044863
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 300000,
+      "contributor": "Sankari, Michael",
+      "state": "TX",
+      "transaction_id": "15540559",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Real Estate Broker",
+      "committee_id": "C00903948",
+      "file_number": 2044863
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 50000,
+      "contributor": "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB",
+      "state": "DC",
+      "transaction_id": "15502275",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2044863
     }
   ],
-  "report_count": 13,
+  "report_count": 14,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

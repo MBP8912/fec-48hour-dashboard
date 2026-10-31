@@ -656,6 +656,52 @@
       "most_recent_filing": 2044328,
       "is_amended": false,
       "filed_date": "2026-10-30"
+    },
+    "C00793760/2044873": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "Weinberg, Joseph",
+          "state": "MD",
+          "transaction_id": "11664851",
+          "entity_type": "IND",
+          "employer": "The Cordish Companies",
+          "occupation": "Real Estate"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "Kramer, Dillof, Livingston & Moore, LLP",
+          "state": "NY",
+          "transaction_id": "11664793",
+          "entity_type": "ORG",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "Travis, Carol",
+          "state": "NY",
+          "transaction_id": "11664805",
+          "entity_type": "IND",
+          "employer": "Transcendental Meditation Program",
+          "occupation": "Teacher"
+        }
+      ],
+      "file_number": 2044873,
+      "committee_id": "C00793760",
+      "sha256": "c3a972855b10b4602775a3ffff92c750e181bd4feb282b887b870b0ebcc2893b",
+      "amendment_chain": [
+        2044873
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2044873,
+      "is_amended": false,
+      "filed_date": "2026-10-31"
     }
   }
 }

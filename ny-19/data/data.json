@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-31T15:36:34+00:00",
+  "generated_at": "2026-10-31T16:37:43+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -232,15 +232,15 @@
       "date": "2026-10-29",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 800000
       },
       "cumulative": {
         "lawler": 650000,
-        "conley": 8650000
+        "conley": 9450000
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 3
       }
     },
     {
@@ -251,7 +251,7 @@
       },
       "cumulative": {
         "lawler": 650000,
-        "conley": 8650000
+        "conley": 9450000
       },
       "counts": {
         "lawler": 0,
@@ -266,7 +266,7 @@
       },
       "cumulative": {
         "lawler": 650000,
-        "conley": 8650000
+        "conley": 9450000
       },
       "counts": {
         "lawler": 0,
@@ -351,6 +351,13 @@
       "filed_date": "2026-10-30",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00793760/2044328/f65"
+    },
+    {
+      "committee_id": "C00793760",
+      "file_number": 2044873,
+      "filed_date": "2026-10-31",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00793760/2044873/f65"
     }
   ],
   "contributions": [
@@ -929,9 +936,45 @@
       "occupation": "",
       "committee_id": "C00793760",
       "file_number": 2044328
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 350000,
+      "contributor": "Kramer, Dillof, Livingston & Moore, LLP",
+      "state": "NY",
+      "transaction_id": "11664793",
+      "entity_type": "ORG",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00793760",
+      "file_number": 2044873
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "Travis, Carol",
+      "state": "NY",
+      "transaction_id": "11664805",
+      "entity_type": "IND",
+      "employer": "Transcendental Meditation Program",
+      "occupation": "Teacher",
+      "committee_id": "C00793760",
+      "file_number": 2044873
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 350000,
+      "contributor": "Weinberg, Joseph",
+      "state": "MD",
+      "transaction_id": "11664851",
+      "entity_type": "IND",
+      "employer": "The Cordish Companies",
+      "occupation": "Real Estate",
+      "committee_id": "C00793760",
+      "file_number": 2044873
     }
   ],
-  "report_count": 11,
+  "report_count": 12,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
