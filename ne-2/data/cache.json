@@ -1952,6 +1952,62 @@
       "most_recent_filing": 2044863,
       "is_amended": false,
       "filed_date": "2026-10-31"
+    },
+    "C00909515/2044953": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "FREEDOM FORCE PAC",
+          "state": "FL",
+          "transaction_id": "6CC2EEBE25C134F7781A",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "IOWA FIRST PAC",
+          "state": "IA",
+          "transaction_id": "6A4ED9EB2FD334F7787B",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 500000,
+          "contributor": "CONSERVATIVE LEADERSHIP PAC",
+          "state": "VA",
+          "transaction_id": "6FC1C1FA79EB04F73A07",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 200000,
+          "contributor": "BRIAN JACK FOR CONGRESS",
+          "state": "GA",
+          "transaction_id": "652A3F1AF114B4236BB5",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2044953,
+      "committee_id": "C00909515",
+      "sha256": "62db1e766c4291f22a44ab2a1354b10d29d1981cc7f237abec62b4ba63a60a1f",
+      "amendment_chain": [
+        2044953
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2044953,
+      "is_amended": false,
+      "filed_date": "2026-10-31"
     }
   }
 }

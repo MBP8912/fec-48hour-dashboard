@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-31T17:34:05+00:00",
+  "generated_at": "2026-10-31T18:42:19+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -231,30 +231,30 @@
     {
       "date": "2026-10-29",
       "totals": {
-        "lawler": 0,
+        "lawler": 1200000,
         "conley": 1150000
       },
       "cumulative": {
-        "lawler": 28077551,
+        "lawler": 29277551,
         "conley": 15235634
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 3,
         "conley": 7
       }
     },
     {
       "date": "2026-10-30",
       "totals": {
-        "lawler": 0,
+        "lawler": 200000,
         "conley": 900000
       },
       "cumulative": {
-        "lawler": 28077551,
+        "lawler": 29477551,
         "conley": 16135634
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 1,
         "conley": 7
       }
     },
@@ -265,7 +265,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 28077551,
+        "lawler": 29477551,
         "conley": 16135634
       },
       "counts": {
@@ -372,6 +372,13 @@
       "filed_date": "2026-10-31",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00903948/2044863/f65"
+    },
+    {
+      "committee_id": "C00909515",
+      "file_number": 2044953,
+      "filed_date": "2026-10-31",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00909515/2044953/f65"
     }
   ],
   "contributions": [
@@ -2248,6 +2255,42 @@
       "file_number": 2044863
     },
     {
+      "date": "2026-10-29",
+      "amount_cents": 500000,
+      "contributor": "CONSERVATIVE LEADERSHIP PAC",
+      "state": "VA",
+      "transaction_id": "6FC1C1FA79EB04F73A07",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2044953
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 350000,
+      "contributor": "FREEDOM FORCE PAC",
+      "state": "FL",
+      "transaction_id": "6CC2EEBE25C134F7781A",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2044953
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 350000,
+      "contributor": "IOWA FIRST PAC",
+      "state": "IA",
+      "transaction_id": "6A4ED9EB2FD334F7787B",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2044953
+    },
+    {
       "date": "2026-10-30",
       "amount_cents": 100000,
       "contributor": "BARRAGAN FOR CONGRESS",
@@ -2330,9 +2373,21 @@
       "occupation": "",
       "committee_id": "C00903948",
       "file_number": 2044863
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 200000,
+      "contributor": "BRIAN JACK FOR CONGRESS",
+      "state": "GA",
+      "transaction_id": "652A3F1AF114B4236BB5",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00909515",
+      "file_number": 2044953
     }
   ],
-  "report_count": 14,
+  "report_count": 15,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

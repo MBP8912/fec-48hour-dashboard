@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-31T17:34:05+00:00",
+  "generated_at": "2026-10-31T18:42:19+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -232,15 +232,15 @@
       "date": "2026-10-29",
       "totals": {
         "lawler": 700000,
-        "conley": 0
+        "conley": 2100000
       },
       "cumulative": {
         "lawler": 8600000,
-        "conley": 27050500
+        "conley": 29150500
       },
       "counts": {
         "lawler": 3,
-        "conley": 0
+        "conley": 11
       }
     },
     {
@@ -251,7 +251,7 @@
       },
       "cumulative": {
         "lawler": 8600000,
-        "conley": 27050500
+        "conley": 29150500
       },
       "counts": {
         "lawler": 0,
@@ -266,7 +266,7 @@
       },
       "cumulative": {
         "lawler": 8600000,
-        "conley": 27050500
+        "conley": 29150500
       },
       "counts": {
         "lawler": 0,
@@ -449,6 +449,13 @@
       "filed_date": "2026-10-31",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00865592/2044800/f65"
+    },
+    {
+      "committee_id": "C00911941",
+      "file_number": 2044980,
+      "filed_date": "2026-10-31",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00911941/2044980/f65"
     }
   ],
   "contributions": [
@@ -2311,9 +2318,141 @@
       "occupation": "",
       "committee_id": "C00865592",
       "file_number": 2044800
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "Calderone, Jeff",
+      "state": "CO",
+      "transaction_id": "15479641",
+      "entity_type": "IND",
+      "employer": "Elevated Third",
+      "occupation": "Marketing",
+      "committee_id": "C00911941",
+      "file_number": 2044980
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 200000,
+      "contributor": "Cisneros, Gilbert",
+      "state": "CA",
+      "transaction_id": "15479639",
+      "entity_type": "IND",
+      "employer": "House Of Representatives",
+      "occupation": "Representative",
+      "committee_id": "C00911941",
+      "file_number": 2044980
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 200000,
+      "contributor": "Dick, Martha",
+      "state": "CO",
+      "transaction_id": "15479640",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00911941",
+      "file_number": 2044980
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "Ehrbeck, Tilman",
+      "state": "DC",
+      "transaction_id": "15479642",
+      "entity_type": "IND",
+      "employer": "Fair Finance Company",
+      "occupation": "Manager",
+      "committee_id": "C00911941",
+      "file_number": 2044980
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 350000,
+      "contributor": "Gumport, Leonard",
+      "state": "CA",
+      "transaction_id": "15389500",
+      "entity_type": "IND",
+      "employer": "Gumport Law Firm PC",
+      "occupation": "Attorney",
+      "committee_id": "C00911941",
+      "file_number": 2044980
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "Kopcho, Richard",
+      "state": "CA",
+      "transaction_id": "15479643",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00911941",
+      "file_number": 2044980
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 350000,
+      "contributor": "Munger, Wendy",
+      "state": "CA",
+      "transaction_id": "15389499",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00911941",
+      "file_number": 2044980
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "Murawski, Thomas",
+      "state": "CO",
+      "transaction_id": "15426483",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00911941",
+      "file_number": 2044980
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 250000,
+      "contributor": "Stanton, Mary Beth",
+      "state": "DC",
+      "transaction_id": "15479638",
+      "entity_type": "IND",
+      "employer": "Invariant",
+      "occupation": "Lobbyist",
+      "committee_id": "C00911941",
+      "file_number": 2044980
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "TOKUDA FOR HAWAII",
+      "state": "HI",
+      "transaction_id": "15418580",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00911941",
+      "file_number": 2044980
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 250000,
+      "contributor": "Witkowski, Iris",
+      "state": "DC",
+      "transaction_id": "15426482",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00911941",
+      "file_number": 2044980
     }
   ],
-  "report_count": 25,
+  "report_count": 26,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

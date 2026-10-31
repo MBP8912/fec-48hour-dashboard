@@ -1950,6 +1950,132 @@
       "most_recent_filing": 2044800,
       "is_amended": false,
       "filed_date": "2026-10-31"
+    },
+    "C00911941/2044980": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "Calderone, Jeff",
+          "state": "CO",
+          "transaction_id": "15479641",
+          "entity_type": "IND",
+          "employer": "Elevated Third",
+          "occupation": "Marketing"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 200000,
+          "contributor": "Cisneros, Gilbert",
+          "state": "CA",
+          "transaction_id": "15479639",
+          "entity_type": "IND",
+          "employer": "House Of Representatives",
+          "occupation": "Representative"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 200000,
+          "contributor": "Dick, Martha",
+          "state": "CO",
+          "transaction_id": "15479640",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "Ehrbeck, Tilman",
+          "state": "DC",
+          "transaction_id": "15479642",
+          "entity_type": "IND",
+          "employer": "Fair Finance Company",
+          "occupation": "Manager"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "Gumport, Leonard",
+          "state": "CA",
+          "transaction_id": "15389500",
+          "entity_type": "IND",
+          "employer": "Gumport Law Firm PC",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "Kopcho, Richard",
+          "state": "CA",
+          "transaction_id": "15479643",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "Munger, Wendy",
+          "state": "CA",
+          "transaction_id": "15389499",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "Murawski, Thomas",
+          "state": "CO",
+          "transaction_id": "15426483",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 250000,
+          "contributor": "Stanton, Mary Beth",
+          "state": "DC",
+          "transaction_id": "15479638",
+          "entity_type": "IND",
+          "employer": "Invariant",
+          "occupation": "Lobbyist"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "TOKUDA FOR HAWAII",
+          "state": "HI",
+          "transaction_id": "15418580",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 250000,
+          "contributor": "Witkowski, Iris",
+          "state": "DC",
+          "transaction_id": "15426482",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        }
+      ],
+      "file_number": 2044980,
+      "committee_id": "C00911941",
+      "sha256": "3face702a5eeba7f95f13a349ac997917be4e5c4dde883164a4d30ebee6e7151",
+      "amendment_chain": [
+        2044980
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2044980,
+      "is_amended": false,
+      "filed_date": "2026-10-31"
     }
   }
 }
