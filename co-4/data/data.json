@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-31T16:37:43+00:00",
+  "generated_at": "2026-10-31T17:34:05+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -231,30 +231,30 @@
     {
       "date": "2026-10-29",
       "totals": {
-        "lawler": 0,
+        "lawler": 250000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 4643492,
+        "lawler": 4893492,
         "conley": 7148000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 1,
         "conley": 0
       }
     },
     {
       "date": "2026-10-30",
       "totals": {
-        "lawler": 0,
+        "lawler": 700000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 4643492,
+        "lawler": 5593492,
         "conley": 7148000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 2,
         "conley": 0
       }
     },
@@ -265,7 +265,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 4643492,
+        "lawler": 5593492,
         "conley": 7148000
       },
       "counts": {
@@ -351,6 +351,13 @@
       "filed_date": "2026-10-30",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00904284/2044251/f65"
+    },
+    {
+      "committee_id": "C00728238",
+      "file_number": 2044932,
+      "filed_date": "2026-10-31",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00728238/2044932/f65"
     }
   ],
   "contributions": [
@@ -989,9 +996,45 @@
       "occupation": "Toxicologist",
       "committee_id": "C00904284",
       "file_number": 2044251
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 250000,
+      "contributor": "IN THE ARENA PAC",
+      "state": "AR",
+      "transaction_id": "6B6CB8831E4D64138AD8",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00728238",
+      "file_number": 2044932
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 200000,
+      "contributor": "GUY FOR CONGRESS",
+      "state": "PA",
+      "transaction_id": "6A72EE3D23A6B4A7C9C0",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00728238",
+      "file_number": 2044932
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 500000,
+      "contributor": "WORKING FOR OHIO",
+      "state": "VA",
+      "transaction_id": "65507B659493E4D2AAF2",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00728238",
+      "file_number": 2044932
     }
   ],
-  "report_count": 11,
+  "report_count": 12,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

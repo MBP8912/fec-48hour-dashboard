@@ -706,6 +706,52 @@
       "most_recent_filing": 2044251,
       "is_amended": false,
       "filed_date": "2026-10-30"
+    },
+    "C00728238/2044932": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-29",
+          "amount_cents": 250000,
+          "contributor": "IN THE ARENA PAC",
+          "state": "AR",
+          "transaction_id": "6B6CB8831E4D64138AD8",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 500000,
+          "contributor": "WORKING FOR OHIO",
+          "state": "VA",
+          "transaction_id": "65507B659493E4D2AAF2",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 200000,
+          "contributor": "GUY FOR CONGRESS",
+          "state": "PA",
+          "transaction_id": "6A72EE3D23A6B4A7C9C0",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2044932,
+      "committee_id": "C00728238",
+      "sha256": "83612ec6175bae1d67d42774b76c73d31afd227a695bd0d51682252e69c8a0a2",
+      "amendment_chain": [
+        2044932
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2044932,
+      "is_amended": false,
+      "filed_date": "2026-10-31"
     }
   }
 }
