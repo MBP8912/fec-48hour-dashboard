@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-31T18:42:19+00:00",
+  "generated_at": "2026-10-31T19:38:49+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -231,11 +231,26 @@
     {
       "date": "2026-10-29",
       "totals": {
-        "lawler": 500000,
+        "lawler": 2100000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 17660153,
+        "lawler": 19260153,
+        "conley": 18282427
+      },
+      "counts": {
+        "lawler": 8,
+        "conley": 0
+      }
+    },
+    {
+      "date": "2026-10-30",
+      "totals": {
+        "lawler": 460000,
+        "conley": 0
+      },
+      "cumulative": {
+        "lawler": 19720153,
         "conley": 18282427
       },
       "counts": {
@@ -244,32 +259,17 @@
       }
     },
     {
-      "date": "2026-10-30",
-      "totals": {
-        "lawler": 0,
-        "conley": 0
-      },
-      "cumulative": {
-        "lawler": 17660153,
-        "conley": 18282427
-      },
-      "counts": {
-        "lawler": 0,
-        "conley": 0
-      }
-    },
-    {
       "date": "2026-10-31",
       "totals": {
-        "lawler": 0,
+        "lawler": 250000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 17660153,
+        "lawler": 19970153,
         "conley": 18282427
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 2,
         "conley": 0
       }
     }
@@ -407,6 +407,13 @@
       "filed_date": "2026-10-30",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00787820/2044409/f65"
+    },
+    {
+      "committee_id": "C00558825",
+      "file_number": 2045023,
+      "filed_date": "2026-10-31",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00558825/2045023/f65"
     }
   ],
   "contributions": [
@@ -2392,6 +2399,18 @@
     },
     {
       "date": "2026-10-29",
+      "amount_cents": 500000,
+      "contributor": "ANDERSON, CYNTHIA",
+      "state": "GA",
+      "transaction_id": "67656F717D5E84C8E86B",
+      "entity_type": "IND",
+      "employer": "RETIRED",
+      "occupation": "RETIRED",
+      "committee_id": "C00558825",
+      "file_number": 2045023
+    },
+    {
+      "date": "2026-10-29",
       "amount_cents": 100000,
       "contributor": "INTERSTATE NATURAL GAS ASSOCIATION OF AMERICA PAC",
       "state": "DC",
@@ -2413,9 +2432,117 @@
       "occupation": "",
       "committee_id": "C00558825",
       "file_number": 2043245
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 150000,
+      "contributor": "SCHNEIDERMANN, GEORGE K",
+      "state": "IA",
+      "transaction_id": "6A5805DEAD78B41F48BB",
+      "entity_type": "IND",
+      "employer": "FRONTIER BANK",
+      "occupation": "COMMUNITY BANKER",
+      "committee_id": "C00558825",
+      "file_number": 2045023
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "SWANSON, JAKE",
+      "state": "IA",
+      "transaction_id": "68DB2DA2298A04AA8AD4",
+      "entity_type": "IND",
+      "employer": "SELF",
+      "occupation": "CONSULTANT",
+      "committee_id": "C00558825",
+      "file_number": 2045023
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 350000,
+      "contributor": "TIMBERLINE PAC",
+      "state": "WA",
+      "transaction_id": "6B1A5CDECB5DB493F954",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00558825",
+      "file_number": 2045023
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 350000,
+      "contributor": "WEBER, SCOTT",
+      "state": "MN",
+      "transaction_id": "6032D13A781744C838F2",
+      "entity_type": "IND",
+      "employer": "SELF",
+      "occupation": "REAL ESTATE",
+      "committee_id": "C00558825",
+      "file_number": 2045023
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 150000,
+      "contributor": "ZOOK, SUSAN",
+      "state": "VA",
+      "transaction_id": "61CCFA01E5D064A72BB0",
+      "entity_type": "IND",
+      "employer": "MASON STREET LLC",
+      "occupation": "CONSULTANT",
+      "committee_id": "C00558825",
+      "file_number": 2045023
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 200000,
+      "contributor": "LAHOOD FOR CONGRESS",
+      "state": "IL",
+      "transaction_id": "6EF9AD5D80B4F4637A67",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00558825",
+      "file_number": 2045023
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 260000,
+      "contributor": "SMITH, DYAN",
+      "state": "FL",
+      "transaction_id": "6D7E4936917034F49BC4",
+      "entity_type": "IND",
+      "employer": "HOMEMAKER",
+      "occupation": "HOMEMAKER",
+      "committee_id": "C00558825",
+      "file_number": 2045023
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 100000,
+      "contributor": "BECKWITH, KATHY",
+      "state": "IA",
+      "transaction_id": "64BF9EA877A0E4AE3BBC",
+      "entity_type": "IND",
+      "employer": "RETIRED",
+      "occupation": "RETIRED",
+      "committee_id": "C00558825",
+      "file_number": 2045023
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 150000,
+      "contributor": "WHEELER, ANNA",
+      "state": "IA",
+      "transaction_id": "62768B404BC3044999E5",
+      "entity_type": "IND",
+      "employer": "RETIRED",
+      "occupation": "RETIRED",
+      "committee_id": "C00558825",
+      "file_number": 2045023
     }
   ],
-  "report_count": 19,
+  "report_count": 20,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

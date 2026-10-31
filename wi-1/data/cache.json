@@ -3460,6 +3460,92 @@
       "most_recent_filing": 2044360,
       "is_amended": false,
       "filed_date": "2026-10-30"
+    },
+    "C00915637/2045048": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "ADAM GRAY FOR CONGRESS",
+          "state": "CA",
+          "transaction_id": "15499193",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "Devlin, Dean",
+          "state": "CA",
+          "transaction_id": "15479925",
+          "entity_type": "IND",
+          "employer": "Electric Entertainment",
+          "occupation": "Filmmaker"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "Devries, Barbara",
+          "state": "MI",
+          "transaction_id": "15479900",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "Immerman, Eileen",
+          "state": "WI",
+          "transaction_id": "15479969",
+          "entity_type": "IND",
+          "employer": "Self-Employed",
+          "occupation": "Registered Nurse"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 150000,
+          "contributor": "McQuiddy, Patricia",
+          "state": "WI",
+          "transaction_id": "15449265",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 150000,
+          "contributor": "Sollinger, Mary Lang",
+          "state": "WI",
+          "transaction_id": "15479891",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 200000,
+          "contributor": "Steves, Buddy",
+          "state": "TX",
+          "transaction_id": "15500847",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Retired"
+        }
+      ],
+      "file_number": 2045048,
+      "committee_id": "C00915637",
+      "sha256": "c6511605918d2b3626f4a7ed12d1aa3706ce94bba71b5ac4cd79ed016ac22fd1",
+      "amendment_chain": [
+        2045048
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045048,
+      "is_amended": false,
+      "filed_date": "2026-10-31"
     }
   }
 }

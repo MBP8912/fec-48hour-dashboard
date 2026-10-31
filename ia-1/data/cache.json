@@ -1974,6 +1974,122 @@
       "most_recent_filing": 2044409,
       "is_amended": false,
       "filed_date": "2026-10-30"
+    },
+    "C00558825/2045023": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-29",
+          "amount_cents": 150000,
+          "contributor": "SCHNEIDERMANN, GEORGE K",
+          "state": "IA",
+          "transaction_id": "6A5805DEAD78B41F48BB",
+          "entity_type": "IND",
+          "employer": "FRONTIER BANK",
+          "occupation": "COMMUNITY BANKER"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "SWANSON, JAKE",
+          "state": "IA",
+          "transaction_id": "68DB2DA2298A04AA8AD4",
+          "entity_type": "IND",
+          "employer": "SELF",
+          "occupation": "CONSULTANT"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 500000,
+          "contributor": "ANDERSON, CYNTHIA",
+          "state": "GA",
+          "transaction_id": "67656F717D5E84C8E86B",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 150000,
+          "contributor": "ZOOK, SUSAN",
+          "state": "VA",
+          "transaction_id": "61CCFA01E5D064A72BB0",
+          "entity_type": "IND",
+          "employer": "MASON STREET LLC",
+          "occupation": "CONSULTANT"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "WEBER, SCOTT",
+          "state": "MN",
+          "transaction_id": "6032D13A781744C838F2",
+          "entity_type": "IND",
+          "employer": "SELF",
+          "occupation": "REAL ESTATE"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "TIMBERLINE PAC",
+          "state": "WA",
+          "transaction_id": "6B1A5CDECB5DB493F954",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 260000,
+          "contributor": "SMITH, DYAN",
+          "state": "FL",
+          "transaction_id": "6D7E4936917034F49BC4",
+          "entity_type": "IND",
+          "employer": "HOMEMAKER",
+          "occupation": "HOMEMAKER"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 200000,
+          "contributor": "LAHOOD FOR CONGRESS",
+          "state": "IL",
+          "transaction_id": "6EF9AD5D80B4F4637A67",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 100000,
+          "contributor": "BECKWITH, KATHY",
+          "state": "IA",
+          "transaction_id": "64BF9EA877A0E4AE3BBC",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 150000,
+          "contributor": "WHEELER, ANNA",
+          "state": "IA",
+          "transaction_id": "62768B404BC3044999E5",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        }
+      ],
+      "file_number": 2045023,
+      "committee_id": "C00558825",
+      "sha256": "3d9dc70db6d7c564722b8289acd149c7f69dd487374213c1d64f7f9717e1ad4e",
+      "amendment_chain": [
+        2045023
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045023,
+      "is_amended": false,
+      "filed_date": "2026-10-31"
     }
   }
 }

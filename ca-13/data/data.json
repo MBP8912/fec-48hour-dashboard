@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-31T18:42:19+00:00",
+  "generated_at": "2026-10-31T19:38:50+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -232,15 +232,15 @@
       "date": "2026-10-29",
       "totals": {
         "lawler": 300000,
-        "conley": 0
+        "conley": 2300000
       },
       "cumulative": {
         "lawler": 11375000,
-        "conley": 14742588
+        "conley": 17042588
       },
       "counts": {
         "lawler": 2,
-        "conley": 0
+        "conley": 13
       }
     },
     {
@@ -251,7 +251,7 @@
       },
       "cumulative": {
         "lawler": 11375000,
-        "conley": 14742588
+        "conley": 17042588
       },
       "counts": {
         "lawler": 0,
@@ -266,7 +266,7 @@
       },
       "cumulative": {
         "lawler": 11375000,
-        "conley": 14742588
+        "conley": 17042588
       },
       "counts": {
         "lawler": 0,
@@ -395,13 +395,6 @@
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00801431/2043571/f65"
     },
     {
-      "committee_id": "C00801431",
-      "file_number": 2043913,
-      "filed_date": "2026-10-29",
-      "form_type": "F6N",
-      "url": "https://docquery.fec.gov/cgi-bin/forms/C00801431/2043913/f65"
-    },
-    {
       "committee_id": "C00845826",
       "file_number": 2044144,
       "filed_date": "2026-10-30",
@@ -414,6 +407,20 @@
       "filed_date": "2026-10-30",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00801431/2044574/f65"
+    },
+    {
+      "committee_id": "C00801431",
+      "file_number": 2045016,
+      "filed_date": "2026-10-31",
+      "form_type": "F6A",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00801431/2045016/f65"
+    },
+    {
+      "committee_id": "C00801431",
+      "file_number": 2045018,
+      "filed_date": "2026-10-31",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00801431/2045018/f65"
     }
   ],
   "contributions": [
@@ -1752,26 +1759,26 @@
     {
       "date": "2026-10-27",
       "amount_cents": 100000,
-      "contributor": "Adam, Robin",
+      "contributor": "Adam, Robin N.",
       "state": "CA",
       "transaction_id": "11621481",
       "entity_type": "IND",
-      "employer": "California State Legislature",
-      "occupation": "Senior Consultant",
+      "employer": "Not Employed",
+      "occupation": "Retired",
       "committee_id": "C00801431",
-      "file_number": 2043913
+      "file_number": 2045016
     },
     {
       "date": "2026-10-27",
       "amount_cents": 500000,
-      "contributor": "American Defense and Military PAC (ADAM PAC)",
-      "state": "WA",
-      "transaction_id": "11621186",
+      "contributor": "Advancing Democracy and Mobilization PAC",
+      "state": "DC",
+      "transaction_id": "11675249",
       "entity_type": "PAC",
       "employer": "",
       "occupation": "",
       "committee_id": "C00801431",
-      "file_number": 2043913
+      "file_number": 2045016
     },
     {
       "date": "2026-10-27",
@@ -1783,7 +1790,7 @@
       "employer": "",
       "occupation": "",
       "committee_id": "C00801431",
-      "file_number": 2043913
+      "file_number": 2045016
     },
     {
       "date": "2026-10-27",
@@ -1795,7 +1802,7 @@
       "employer": "",
       "occupation": "",
       "committee_id": "C00801431",
-      "file_number": 2043913
+      "file_number": 2045016
     },
     {
       "date": "2026-10-27",
@@ -1807,7 +1814,7 @@
       "employer": "",
       "occupation": "",
       "committee_id": "C00801431",
-      "file_number": 2043913
+      "file_number": 2045016
     },
     {
       "date": "2026-10-27",
@@ -1919,6 +1926,162 @@
     },
     {
       "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "Adam, Robin N.",
+      "state": "CA",
+      "transaction_id": "11675099",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Retired",
+      "committee_id": "C00801431",
+      "file_number": 2045018
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 350000,
+      "contributor": "Boyett, Dale",
+      "state": "CA",
+      "transaction_id": "11675098",
+      "entity_type": "IND",
+      "employer": "Boyett Petroleum",
+      "occupation": "CEO",
+      "committee_id": "C00801431",
+      "file_number": 2045018
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "Bruno, Anthony",
+      "state": "CA",
+      "transaction_id": "11675096",
+      "entity_type": "IND",
+      "employer": "TDR Development, Inc.",
+      "occupation": "President",
+      "committee_id": "C00801431",
+      "file_number": 2045018
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "Carroll, Sean P.",
+      "state": "CA",
+      "transaction_id": "11675095",
+      "entity_type": "IND",
+      "employer": "Ross F. Carroll, Inc.",
+      "occupation": "General Contractor",
+      "committee_id": "C00801431",
+      "file_number": 2045018
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 175000,
+      "contributor": "Cattle and Wine LLC",
+      "state": "CA",
+      "transaction_id": "11674668",
+      "entity_type": "ORG",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2045018
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 250000,
+      "contributor": "Chervinsky, Jake",
+      "state": "VA",
+      "transaction_id": "11674865",
+      "entity_type": "IND",
+      "employer": "Hyperliquid Policy Center",
+      "occupation": "Executive",
+      "committee_id": "C00801431",
+      "file_number": 2045018
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "Coelho, Tony",
+      "state": "PA",
+      "transaction_id": "11674867",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00801431",
+      "file_number": 2045018
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 250000,
+      "contributor": "Frantz, Michael J.",
+      "state": "CA",
+      "transaction_id": "11675092",
+      "entity_type": "IND",
+      "employer": "Frantz Wholesale Nursery",
+      "occupation": "Farmer",
+      "committee_id": "C00801431",
+      "file_number": 2045018
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "Health Care Service Corporation Employees' Politcal Action Committee",
+      "state": "IL",
+      "transaction_id": "11663441",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2045018
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 250000,
+      "contributor": "Jacinto, John",
+      "state": "CA",
+      "transaction_id": "11675097",
+      "entity_type": "IND",
+      "employer": "Vistech Manufacturing Solutions",
+      "occupation": "CEO",
+      "committee_id": "C00801431",
+      "file_number": 2045018
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 175000,
+      "contributor": "Lyons, William",
+      "state": "CA",
+      "transaction_id": "11675094",
+      "entity_type": "IND",
+      "employer": "Lyons Investment Management, LLC",
+      "occupation": "CEO",
+      "committee_id": "C00801431",
+      "file_number": 2045018
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 250000,
+      "contributor": "National Automobile Dealers Association Political Action Committee",
+      "state": "DC",
+      "transaction_id": "11663566",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2045018
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "Porter, David",
+      "state": "TX",
+      "transaction_id": "11674866",
+      "entity_type": "IND",
+      "employer": "The PNL Companies",
+      "occupation": "Real Estate",
+      "committee_id": "C00801431",
+      "file_number": 2045018
+    },
+    {
+      "date": "2026-10-29",
       "amount_cents": 200000,
       "contributor": "Brian Jack for Congress",
       "state": "GA",
@@ -1942,7 +2105,9 @@
       "file_number": 2044144
     }
   ],
-  "report_count": 20,
-  "warnings": [],
+  "report_count": 21,
+  "warnings": [
+    "F6 amendment 2045016 refers to a date with several original notices; review against FEC source"
+  ],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

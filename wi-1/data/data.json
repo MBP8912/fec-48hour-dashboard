@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-10-31T18:42:19+00:00",
+  "generated_at": "2026-10-31T19:38:50+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -232,15 +232,15 @@
       "date": "2026-10-29",
       "totals": {
         "lawler": 2403306,
-        "conley": 0
+        "conley": 1150000
       },
       "cumulative": {
         "lawler": 31662340,
-        "conley": 30845000
+        "conley": 31995000
       },
       "counts": {
         "lawler": 9,
-        "conley": 0
+        "conley": 7
       }
     },
     {
@@ -251,7 +251,7 @@
       },
       "cumulative": {
         "lawler": 31662340,
-        "conley": 30845000
+        "conley": 31995000
       },
       "counts": {
         "lawler": 0,
@@ -266,7 +266,7 @@
       },
       "cumulative": {
         "lawler": 31662340,
-        "conley": 30845000
+        "conley": 31995000
       },
       "counts": {
         "lawler": 0,
@@ -449,6 +449,13 @@
       "filed_date": "2026-10-30",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00915637/2044360/f65"
+    },
+    {
+      "committee_id": "C00915637",
+      "file_number": 2045048,
+      "filed_date": "2026-10-31",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00915637/2045048/f65"
     }
   ],
   "contributions": [
@@ -3655,9 +3662,93 @@
       "occupation": "MARKETING",
       "committee_id": "C00677286",
       "file_number": 2044227
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "ADAM GRAY FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "15499193",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2045048
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 350000,
+      "contributor": "Devlin, Dean",
+      "state": "CA",
+      "transaction_id": "15479925",
+      "entity_type": "IND",
+      "employer": "Electric Entertainment",
+      "occupation": "Filmmaker",
+      "committee_id": "C00915637",
+      "file_number": 2045048
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "Devries, Barbara",
+      "state": "MI",
+      "transaction_id": "15479900",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2045048
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "Immerman, Eileen",
+      "state": "WI",
+      "transaction_id": "15479969",
+      "entity_type": "IND",
+      "employer": "Self-Employed",
+      "occupation": "Registered Nurse",
+      "committee_id": "C00915637",
+      "file_number": 2045048
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 150000,
+      "contributor": "McQuiddy, Patricia",
+      "state": "WI",
+      "transaction_id": "15449265",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2045048
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 150000,
+      "contributor": "Sollinger, Mary Lang",
+      "state": "WI",
+      "transaction_id": "15479891",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00915637",
+      "file_number": 2045048
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 200000,
+      "contributor": "Steves, Buddy",
+      "state": "TX",
+      "transaction_id": "15500847",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Retired",
+      "committee_id": "C00915637",
+      "file_number": 2045048
     }
   ],
-  "report_count": 25,
+  "report_count": 26,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
