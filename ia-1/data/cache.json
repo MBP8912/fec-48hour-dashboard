@@ -2090,6 +2090,112 @@
       "most_recent_filing": 2045023,
       "is_amended": false,
       "filed_date": "2026-10-31"
+    },
+    "C00787820/2045177": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-29",
+          "amount_cents": 500000,
+          "contributor": "314 ACTION FUND",
+          "state": "DC",
+          "transaction_id": "20922391",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 200000,
+          "contributor": "Cisneros, Jacki",
+          "state": "CA",
+          "transaction_id": "20922815",
+          "entity_type": "IND",
+          "employer": "The Gilbert & Jacki Cisneros Foundatio",
+          "occupation": "President"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "DEMOCRACY & FREEDOM PAC",
+          "state": "DC",
+          "transaction_id": "20922153",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "DEMOCRATIC ACTION NETWORK",
+          "state": "DC",
+          "transaction_id": "20921857",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "DIRT ROAD DEMOCRATS PAC",
+          "state": "TX",
+          "transaction_id": "20921646",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "Dodds, William",
+          "state": "IA",
+          "transaction_id": "20922816",
+          "entity_type": "IND",
+          "employer": "Optimae LifeServices Inc.",
+          "occupation": "Chair Of The Board Of Directors"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "LADDER 2 PAC",
+          "state": "PA",
+          "transaction_id": "20922356",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "MAKING A DIFFERENCE PAC",
+          "state": "DC",
+          "transaction_id": "20922372",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 200000,
+          "contributor": "PRAIRIE BELLE PAC",
+          "state": "WI",
+          "transaction_id": "20921817",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2045177,
+      "committee_id": "C00787820",
+      "sha256": "3774585af80bef63fcf2f4578a07b9bf1ba4cac28a877e22ad2b9e6df8ced1e7",
+      "amendment_chain": [
+        2045177
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045177,
+      "is_amended": false,
+      "filed_date": "2026-10-31"
     }
   }
 }
