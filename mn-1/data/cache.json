@@ -2466,6 +2466,122 @@
       "most_recent_filing": 2044667,
       "is_amended": false,
       "filed_date": "2026-10-30"
+    },
+    "C00902684/2045215": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "AMERICAN DEFENSE AND MILITARY PAC",
+          "state": "DC",
+          "transaction_id": "15541216",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "CISNEROS FOR CONGRESS",
+          "state": "CA",
+          "transaction_id": "15467255",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "ELECT MORE DEMOCRATS PAC",
+          "state": "DC",
+          "transaction_id": "15467164",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "ERIC SORENSEN FOR ILLINOIS",
+          "state": "IL",
+          "transaction_id": "15467296",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 200000,
+          "contributor": "FUTURES PAC",
+          "state": "CA",
+          "transaction_id": "15467208",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "JEREMY MOSS FOR CONGRESS",
+          "state": "MI",
+          "transaction_id": "15467237",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "LORI TRAHAN FOR CONGRESS COMMITTEE",
+          "state": "MA",
+          "transaction_id": "15541199",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "Roberts, David",
+          "state": "MO",
+          "transaction_id": "15473468",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "TIMBER PAC",
+          "state": "WA",
+          "transaction_id": "15467183",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 250000,
+          "contributor": "UNITY FIRST PAC",
+          "state": "MD",
+          "transaction_id": "15541123",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2045215,
+      "committee_id": "C00902684",
+      "sha256": "d06a0877c12c4939de9ee7d2cac5b6f71b04ffb228021cf53db8e9566120d786",
+      "amendment_chain": [
+        2045215
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045215,
+      "is_amended": false,
+      "filed_date": "2026-10-31"
     }
   }
 }
