@@ -2162,6 +2162,72 @@
       "most_recent_filing": 2045404,
       "is_amended": false,
       "filed_date": "2026-11-01"
+    },
+    "C00865592/2045507": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-30",
+          "amount_cents": 250000,
+          "contributor": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
+          "state": "NC",
+          "transaction_id": "180495349",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 200000,
+          "contributor": "FRENCH HILL FOR ARKANSAS",
+          "state": "AR",
+          "transaction_id": "180456446",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 250000,
+          "contributor": "LEADERSHIP AND LOYALTY ONLY TO AMERICA PAC",
+          "state": "NY",
+          "transaction_id": "180495348",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 350000,
+          "contributor": "RIGHT TRACK USA PAC",
+          "state": "ND",
+          "transaction_id": "180495350",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 200000,
+          "contributor": "RVFPAC",
+          "state": "GA",
+          "transaction_id": "180495351",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2045507,
+      "committee_id": "C00865592",
+      "sha256": "6a05d54086299cc97e61c3076bbf367a8100aa01aeb68085e66138f2532c8516",
+      "amendment_chain": [
+        2045507
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045507,
+      "is_amended": false,
+      "filed_date": "2026-11-01"
     }
   }
 }

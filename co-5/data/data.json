@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-01T20:36:48+00:00",
+  "generated_at": "2026-11-01T21:37:05+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -246,15 +246,15 @@
     {
       "date": "2026-10-30",
       "totals": {
-        "lawler": 0,
+        "lawler": 1250000,
         "conley": 1250000
       },
       "cumulative": {
-        "lawler": 8600000,
+        "lawler": 9850000,
         "conley": 30400500
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 5,
         "conley": 7
       }
     },
@@ -265,7 +265,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 8600000,
+        "lawler": 9850000,
         "conley": 30400500
       },
       "counts": {
@@ -463,6 +463,13 @@
       "filed_date": "2026-11-01",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00911941/2045404/f65"
+    },
+    {
+      "committee_id": "C00865592",
+      "file_number": 2045507,
+      "filed_date": "2026-11-01",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00865592/2045507/f65"
     }
   ],
   "contributions": [
@@ -2460,6 +2467,66 @@
     },
     {
       "date": "2026-10-30",
+      "amount_cents": 250000,
+      "contributor": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS POLITICAL ACTION COMMITTEE",
+      "state": "NC",
+      "transaction_id": "180495349",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2045507
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 200000,
+      "contributor": "FRENCH HILL FOR ARKANSAS",
+      "state": "AR",
+      "transaction_id": "180456446",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2045507
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 250000,
+      "contributor": "LEADERSHIP AND LOYALTY ONLY TO AMERICA PAC",
+      "state": "NY",
+      "transaction_id": "180495348",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2045507
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 350000,
+      "contributor": "RIGHT TRACK USA PAC",
+      "state": "ND",
+      "transaction_id": "180495350",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2045507
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 200000,
+      "contributor": "RVFPAC",
+      "state": "GA",
+      "transaction_id": "180495351",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00865592",
+      "file_number": 2045507
+    },
+    {
+      "date": "2026-10-30",
       "amount_cents": 100000,
       "contributor": "AMERICAN DEFENSE AND MILITARY PAC",
       "state": "DC",
@@ -2543,7 +2610,7 @@
       "file_number": 2045404
     }
   ],
-  "report_count": 27,
+  "report_count": 28,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
