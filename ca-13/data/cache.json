@@ -1854,6 +1854,52 @@
       "most_recent_filing": 2045018,
       "is_amended": false,
       "filed_date": "2026-10-31"
+    },
+    "C00801431/2045545": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "DMFI PAC",
+          "state": "DC",
+          "transaction_id": "11683730",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 250000,
+          "contributor": "Rebuild America PAC",
+          "state": "DC",
+          "transaction_id": "11684727",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "Unity First PAC",
+          "state": "MD",
+          "transaction_id": "11683767",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2045545,
+      "committee_id": "C00801431",
+      "sha256": "9535af4f00d6ed74805f1718a1d10770f735fd4a96de67b9071d685c90b34938",
+      "amendment_chain": [
+        2045545
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045545,
+      "is_amended": false,
+      "filed_date": "2026-11-01"
     }
   }
 }

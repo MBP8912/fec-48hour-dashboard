@@ -2582,6 +2582,42 @@
       "most_recent_filing": 2045215,
       "is_amended": false,
       "filed_date": "2026-10-31"
+    },
+    "C00902684/2045536": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-31",
+          "amount_cents": 100000,
+          "contributor": "JUSTICE LEAGUE PAC",
+          "state": "DC",
+          "transaction_id": "15541142",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 100000,
+          "contributor": "Woolverton, Kate",
+          "state": "CA",
+          "transaction_id": "15541150",
+          "entity_type": "IND",
+          "employer": "Google DeepMind",
+          "occupation": "Software Engineer"
+        }
+      ],
+      "file_number": 2045536,
+      "committee_id": "C00902684",
+      "sha256": "1a245074efdd0916ca845a9c234beb8ff070ca93e68fd187c934e96cf110a224",
+      "amendment_chain": [
+        2045536
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045536,
+      "is_amended": false,
+      "filed_date": "2026-11-01"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-01T21:37:05+00:00",
+  "generated_at": "2026-11-01T22:37:02+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -247,15 +247,15 @@
       "date": "2026-10-30",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 450000
       },
       "cumulative": {
         "lawler": 11375000,
-        "conley": 17042588
+        "conley": 17492588
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 3
       }
     },
     {
@@ -266,7 +266,7 @@
       },
       "cumulative": {
         "lawler": 11375000,
-        "conley": 17042588
+        "conley": 17492588
       },
       "counts": {
         "lawler": 0,
@@ -421,6 +421,13 @@
       "filed_date": "2026-10-31",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00801431/2045018/f65"
+    },
+    {
+      "committee_id": "C00801431",
+      "file_number": 2045545,
+      "filed_date": "2026-11-01",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00801431/2045545/f65"
     }
   ],
   "contributions": [
@@ -2103,9 +2110,45 @@
       "occupation": "Property Management",
       "committee_id": "C00845826",
       "file_number": 2044144
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "DMFI PAC",
+      "state": "DC",
+      "transaction_id": "11683730",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2045545
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 250000,
+      "contributor": "Rebuild America PAC",
+      "state": "DC",
+      "transaction_id": "11684727",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2045545
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "Unity First PAC",
+      "state": "MD",
+      "transaction_id": "11683767",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00801431",
+      "file_number": 2045545
     }
   ],
-  "report_count": 21,
+  "report_count": 22,
   "warnings": [
     "F6 amendment 2045016 refers to a date with several original notices; review against FEC source"
   ],
