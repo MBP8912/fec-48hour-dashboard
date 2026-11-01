@@ -702,6 +702,52 @@
       "most_recent_filing": 2044873,
       "is_amended": false,
       "filed_date": "2026-10-31"
+    },
+    "C00793760/2045425": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-30",
+          "amount_cents": 200000,
+          "contributor": "Ottaway, James W.",
+          "state": "MA",
+          "transaction_id": "11696361",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Songwriter"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "Unity First PAC",
+          "state": "MD",
+          "transaction_id": "11696432",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "More, Jeffery",
+          "state": "MD",
+          "transaction_id": "11696362",
+          "entity_type": "IND",
+          "employer": "Capitol Solutions LLC",
+          "occupation": "Principal"
+        }
+      ],
+      "file_number": 2045425,
+      "committee_id": "C00793760",
+      "sha256": "9484b0082f3636c2953a8f1f423f74b8c7e0906263368189bf5104a8abf6c8a1",
+      "amendment_chain": [
+        2045425
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045425,
+      "is_amended": false,
+      "filed_date": "2026-11-01"
     }
   }
 }

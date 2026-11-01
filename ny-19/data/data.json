@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-01T18:42:11+00:00",
+  "generated_at": "2026-11-01T19:39:21+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -247,15 +247,15 @@
       "date": "2026-10-30",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 400000
       },
       "cumulative": {
         "lawler": 650000,
-        "conley": 9450000
+        "conley": 9850000
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 3
       }
     },
     {
@@ -266,7 +266,7 @@
       },
       "cumulative": {
         "lawler": 650000,
-        "conley": 9450000
+        "conley": 9850000
       },
       "counts": {
         "lawler": 0,
@@ -358,6 +358,13 @@
       "filed_date": "2026-10-31",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00793760/2044873/f65"
+    },
+    {
+      "committee_id": "C00793760",
+      "file_number": 2045425,
+      "filed_date": "2026-11-01",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00793760/2045425/f65"
     }
   ],
   "contributions": [
@@ -972,9 +979,45 @@
       "occupation": "Real Estate",
       "committee_id": "C00793760",
       "file_number": 2044873
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "More, Jeffery",
+      "state": "MD",
+      "transaction_id": "11696362",
+      "entity_type": "IND",
+      "employer": "Capitol Solutions LLC",
+      "occupation": "Principal",
+      "committee_id": "C00793760",
+      "file_number": 2045425
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 200000,
+      "contributor": "Ottaway, James W.",
+      "state": "MA",
+      "transaction_id": "11696361",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Songwriter",
+      "committee_id": "C00793760",
+      "file_number": 2045425
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "Unity First PAC",
+      "state": "MD",
+      "transaction_id": "11696432",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00793760",
+      "file_number": 2045425
     }
   ],
-  "report_count": 12,
+  "report_count": 13,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
