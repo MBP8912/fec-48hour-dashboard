@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-01T19:39:20+00:00",
+  "generated_at": "2026-11-01T20:36:49+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -247,15 +247,15 @@
       "date": "2026-10-30",
       "totals": {
         "lawler": 960000,
-        "conley": 0
+        "conley": 1650000
       },
       "cumulative": {
         "lawler": 20363903,
-        "conley": 19782427
+        "conley": 21432427
       },
       "counts": {
         "lawler": 3,
-        "conley": 0
+        "conley": 9
       }
     },
     {
@@ -266,7 +266,7 @@
       },
       "cumulative": {
         "lawler": 20713903,
-        "conley": 19782427
+        "conley": 21432427
       },
       "counts": {
         "lawler": 3,
@@ -435,6 +435,13 @@
       "filed_date": "2026-11-01",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00558825/2045375/f65"
+    },
+    {
+      "committee_id": "C00787820",
+      "file_number": 2045458,
+      "filed_date": "2026-11-01",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00787820/2045458/f65"
     }
   ],
   "contributions": [
@@ -2671,6 +2678,114 @@
       "file_number": 2045023
     },
     {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "FAITH IN IOWA POLITICAL ACTION COMM",
+      "state": "IA",
+      "transaction_id": "20926140",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2045458
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "GOOD NEWS PAC",
+      "state": "PA",
+      "transaction_id": "20926169",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2045458
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 350000,
+      "contributor": "Gelbard, Alene",
+      "state": "DC",
+      "transaction_id": "20926188",
+      "entity_type": "IND",
+      "employer": "Self",
+      "occupation": "Consultant",
+      "committee_id": "C00787820",
+      "file_number": 2045458
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 350000,
+      "contributor": "Grossman, Beth",
+      "state": "CA",
+      "transaction_id": "20913442",
+      "entity_type": "IND",
+      "employer": "No Employer",
+      "occupation": "No Employer",
+      "committee_id": "C00787820",
+      "file_number": 2045458
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "Kirkham, Rick",
+      "state": "WA",
+      "transaction_id": "20926192",
+      "entity_type": "IND",
+      "employer": "Microsoft",
+      "occupation": "Writer",
+      "committee_id": "C00787820",
+      "file_number": 2045458
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 200000,
+      "contributor": "LA BAMBA PAC",
+      "state": "DC",
+      "transaction_id": "20926160",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2045458
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 250000,
+      "contributor": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+      "state": "DC",
+      "transaction_id": "20925477",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2045458
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "PROGRESSIVE TURNOUT PROJECT",
+      "state": "IL",
+      "transaction_id": "20925490",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00787820",
+      "file_number": 2045458
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "Scott, John",
+      "state": "CA",
+      "transaction_id": "20926189",
+      "entity_type": "IND",
+      "employer": "Wells Fargo",
+      "occupation": "Financial Advisor",
+      "committee_id": "C00787820",
+      "file_number": 2045458
+    },
+    {
       "date": "2026-10-31",
       "amount_cents": 100000,
       "contributor": "AGRICULTURAL RETAILERS ASSOCIATION POLITICAL ACTION COMMITTE",
@@ -2707,7 +2822,7 @@
       "file_number": 2045023
     }
   ],
-  "report_count": 23,
+  "report_count": 24,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

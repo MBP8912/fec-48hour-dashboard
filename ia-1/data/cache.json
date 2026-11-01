@@ -2258,6 +2258,112 @@
       "most_recent_filing": 2045375,
       "is_amended": false,
       "filed_date": "2026-11-01"
+    },
+    "C00787820/2045458": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "FAITH IN IOWA POLITICAL ACTION COMM",
+          "state": "IA",
+          "transaction_id": "20926140",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 350000,
+          "contributor": "Gelbard, Alene",
+          "state": "DC",
+          "transaction_id": "20926188",
+          "entity_type": "IND",
+          "employer": "Self",
+          "occupation": "Consultant"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "GOOD NEWS PAC",
+          "state": "PA",
+          "transaction_id": "20926169",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 350000,
+          "contributor": "Grossman, Beth",
+          "state": "CA",
+          "transaction_id": "20913442",
+          "entity_type": "IND",
+          "employer": "No Employer",
+          "occupation": "No Employer"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "Kirkham, Rick",
+          "state": "WA",
+          "transaction_id": "20926192",
+          "entity_type": "IND",
+          "employer": "Microsoft",
+          "occupation": "Writer"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 200000,
+          "contributor": "LA BAMBA PAC",
+          "state": "DC",
+          "transaction_id": "20926160",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 250000,
+          "contributor": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. POLITICAL FUND (LETTER CARRIER POLITICAL FUND)",
+          "state": "DC",
+          "transaction_id": "20925477",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "PROGRESSIVE TURNOUT PROJECT",
+          "state": "IL",
+          "transaction_id": "20925490",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "Scott, John",
+          "state": "CA",
+          "transaction_id": "20926189",
+          "entity_type": "IND",
+          "employer": "Wells Fargo",
+          "occupation": "Financial Advisor"
+        }
+      ],
+      "file_number": 2045458,
+      "committee_id": "C00787820",
+      "sha256": "bec5d0cd0c58ba5b1ca00f3a38b1670718f0f484559c47ed6e4408ec71930693",
+      "amendment_chain": [
+        2045458
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045458,
+      "is_amended": false,
+      "filed_date": "2026-11-01"
     }
   }
 }
