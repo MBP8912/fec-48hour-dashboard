@@ -3622,6 +3622,172 @@
       "most_recent_filing": 2045341,
       "is_amended": false,
       "filed_date": "2026-11-01"
+    },
+    "C00915637/2045569": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "AMERICAN DEFENSE AND MILITARY PAC",
+          "state": "DC",
+          "transaction_id": "15499026",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 500000,
+          "contributor": "AMERICAN NURSES ASSOCIATION PAC",
+          "state": "MD",
+          "transaction_id": "15547095",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "BARRAGAN FOR CONGRESS",
+          "state": "CA",
+          "transaction_id": "15547125",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "COMMITTEE FOR A DEMOCRATIC FUTURE",
+          "state": "DC",
+          "transaction_id": "15547415",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "ELECT MORE DEMOCRATS PAC",
+          "state": "DC",
+          "transaction_id": "15547289",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 250000,
+          "contributor": "EQUALITY PAC",
+          "state": "DC",
+          "transaction_id": "15547411",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 500000,
+          "contributor": "FORWARD TOGETHER PAC",
+          "state": "VA",
+          "transaction_id": "15547146",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 500000,
+          "contributor": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+          "state": "DC",
+          "transaction_id": "15570915",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 250000,
+          "contributor": "JOINT ACTION COMMITTEE FOR POLITICAL AFFAIRS",
+          "state": "IL",
+          "transaction_id": "15570928",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "LORI TRAHAN FOR CONGRESS COMMITTEE",
+          "state": "MA",
+          "transaction_id": "15498874",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "MAKING A DIFFERENCE PAC",
+          "state": "DC",
+          "transaction_id": "15547438",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 250000,
+          "contributor": "MIDWEST VALUES PAC",
+          "state": "MN",
+          "transaction_id": "15547463",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 200000,
+          "contributor": "STORM PAC",
+          "state": "IL",
+          "transaction_id": "15547212",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 350000,
+          "contributor": "Trone, Robert",
+          "state": "MD",
+          "transaction_id": "15547190",
+          "entity_type": "IND",
+          "employer": "Total Wine More",
+          "occupation": "Owner"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 250000,
+          "contributor": "UNITY FIRST PAC",
+          "state": "MD",
+          "transaction_id": "15547376",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2045569,
+      "committee_id": "C00915637",
+      "sha256": "47897488390e7890039e448937aadb7f08089c9dcea0be8c58a0586f72f7bb3c",
+      "amendment_chain": [
+        2045569
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045569,
+      "is_amended": false,
+      "filed_date": "2026-11-01"
     }
   }
 }

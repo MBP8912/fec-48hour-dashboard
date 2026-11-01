@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-01T22:37:02+00:00",
+  "generated_at": "2026-11-01T23:36:04+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -247,15 +247,15 @@
       "date": "2026-10-30",
       "totals": {
         "lawler": 2150000,
-        "conley": 0
+        "conley": 3650000
       },
       "cumulative": {
         "lawler": 33812340,
-        "conley": 31995000
+        "conley": 35645000
       },
       "counts": {
         "lawler": 6,
-        "conley": 0
+        "conley": 15
       }
     },
     {
@@ -266,7 +266,7 @@
       },
       "cumulative": {
         "lawler": 33812340,
-        "conley": 31995000
+        "conley": 35645000
       },
       "counts": {
         "lawler": 0,
@@ -463,6 +463,13 @@
       "filed_date": "2026-11-01",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00677286/2045341/f65"
+    },
+    {
+      "committee_id": "C00915637",
+      "file_number": 2045569,
+      "filed_date": "2026-11-01",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00915637/2045569/f65"
     }
   ],
   "contributions": [
@@ -3825,9 +3832,189 @@
       "occupation": "",
       "committee_id": "C00677286",
       "file_number": 2045341
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "AMERICAN DEFENSE AND MILITARY PAC",
+      "state": "DC",
+      "transaction_id": "15499026",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2045569
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 500000,
+      "contributor": "AMERICAN NURSES ASSOCIATION PAC",
+      "state": "MD",
+      "transaction_id": "15547095",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2045569
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "BARRAGAN FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "15547125",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2045569
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "COMMITTEE FOR A DEMOCRATIC FUTURE",
+      "state": "DC",
+      "transaction_id": "15547415",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2045569
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "ELECT MORE DEMOCRATS PAC",
+      "state": "DC",
+      "transaction_id": "15547289",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2045569
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 250000,
+      "contributor": "EQUALITY PAC",
+      "state": "DC",
+      "transaction_id": "15547411",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2045569
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 500000,
+      "contributor": "FORWARD TOGETHER PAC",
+      "state": "VA",
+      "transaction_id": "15547146",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2045569
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 500000,
+      "contributor": "INTERNATIONAL ASSOCIATION OF SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS POLITICAL ACTION LEAGUE",
+      "state": "DC",
+      "transaction_id": "15570915",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2045569
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 250000,
+      "contributor": "JOINT ACTION COMMITTEE FOR POLITICAL AFFAIRS",
+      "state": "IL",
+      "transaction_id": "15570928",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2045569
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "LORI TRAHAN FOR CONGRESS COMMITTEE",
+      "state": "MA",
+      "transaction_id": "15498874",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2045569
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "MAKING A DIFFERENCE PAC",
+      "state": "DC",
+      "transaction_id": "15547438",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2045569
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 250000,
+      "contributor": "MIDWEST VALUES PAC",
+      "state": "MN",
+      "transaction_id": "15547463",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2045569
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 200000,
+      "contributor": "STORM PAC",
+      "state": "IL",
+      "transaction_id": "15547212",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2045569
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 350000,
+      "contributor": "Trone, Robert",
+      "state": "MD",
+      "transaction_id": "15547190",
+      "entity_type": "IND",
+      "employer": "Total Wine More",
+      "occupation": "Owner",
+      "committee_id": "C00915637",
+      "file_number": 2045569
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 250000,
+      "contributor": "UNITY FIRST PAC",
+      "state": "MD",
+      "transaction_id": "15547376",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00915637",
+      "file_number": 2045569
     }
   ],
-  "report_count": 27,
+  "report_count": 28,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
