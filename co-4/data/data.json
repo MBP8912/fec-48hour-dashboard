@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-01T16:38:39+00:00",
+  "generated_at": "2026-11-01T17:35:07+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -247,15 +247,15 @@
       "date": "2026-10-30",
       "totals": {
         "lawler": 700000,
-        "conley": 0
+        "conley": 130000
       },
       "cumulative": {
         "lawler": 5593492,
-        "conley": 8098000
+        "conley": 8228000
       },
       "counts": {
         "lawler": 2,
-        "conley": 0
+        "conley": 1
       }
     },
     {
@@ -266,7 +266,7 @@
       },
       "cumulative": {
         "lawler": 5593492,
-        "conley": 8098000
+        "conley": 8228000
       },
       "counts": {
         "lawler": 0,
@@ -365,6 +365,13 @@
       "filed_date": "2026-10-31",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00904284/2045257/f65"
+    },
+    {
+      "committee_id": "C00904284",
+      "file_number": 2045358,
+      "filed_date": "2026-11-01",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00904284/2045358/f65"
     }
   ],
   "contributions": [
@@ -1075,9 +1082,21 @@
       "occupation": "",
       "committee_id": "C00728238",
       "file_number": 2044932
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 130000,
+      "contributor": "Stogel, Steven J",
+      "state": "MO",
+      "transaction_id": "15515565",
+      "entity_type": "IND",
+      "employer": "DFC Group",
+      "occupation": "President",
+      "committee_id": "C00904284",
+      "file_number": 2045358
     }
   ],
-  "report_count": 13,
+  "report_count": 14,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

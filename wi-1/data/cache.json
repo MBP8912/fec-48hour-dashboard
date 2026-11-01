@@ -3546,6 +3546,82 @@
       "most_recent_filing": 2045048,
       "is_amended": false,
       "filed_date": "2026-10-31"
+    },
+    "C00677286/2045341": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-30",
+          "amount_cents": 500000,
+          "contributor": "UPSPAC",
+          "state": "GA",
+          "transaction_id": "TX95567",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 500000,
+          "contributor": "FIRST IN FREEDOM PAC",
+          "state": "GA",
+          "transaction_id": "TX95568",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "U.S. ISRAEL PAC  (USI PAC)",
+          "state": "FL",
+          "transaction_id": "TX95570",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 350000,
+          "contributor": "HILLIS, GENEVIEVE",
+          "state": "WI",
+          "transaction_id": "TX95573",
+          "entity_type": "IND",
+          "employer": "DIRECT SUPPLY, INC.",
+          "occupation": "GOVERNMENT RELATIONS"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 350000,
+          "contributor": "OBST, MARTIN",
+          "state": "DC",
+          "transaction_id": "TX95572",
+          "entity_type": "IND",
+          "employer": "MO STRATEGIES",
+          "occupation": "FOUNDER"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 350000,
+          "contributor": "SHALIT, ILAN J",
+          "state": "IL",
+          "transaction_id": "TX95571",
+          "entity_type": "IND",
+          "employer": "CONSOLIDATED TRADING",
+          "occupation": "BROKER"
+        }
+      ],
+      "file_number": 2045341,
+      "committee_id": "C00677286",
+      "sha256": "07e228bde0be5bc3be49f6d02c2dee86a88b27c470587d867d83767e0692dd59",
+      "amendment_chain": [
+        2045341
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045341,
+      "is_amended": false,
+      "filed_date": "2026-11-01"
     }
   }
 }

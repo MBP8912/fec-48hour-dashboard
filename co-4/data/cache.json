@@ -798,6 +798,32 @@
       "most_recent_filing": 2045257,
       "is_amended": false,
       "filed_date": "2026-10-31"
+    },
+    "C00904284/2045358": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-30",
+          "amount_cents": 130000,
+          "contributor": "Stogel, Steven J",
+          "state": "MO",
+          "transaction_id": "15515565",
+          "entity_type": "IND",
+          "employer": "DFC Group",
+          "occupation": "President"
+        }
+      ],
+      "file_number": 2045358,
+      "committee_id": "C00904284",
+      "sha256": "6b2b62f7d729f5ae9e72ac6ee7964ba15d8a0408ed953c5590ea16711048a001",
+      "amendment_chain": [
+        2045358
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045358,
+      "is_amended": false,
+      "filed_date": "2026-11-01"
     }
   }
 }
