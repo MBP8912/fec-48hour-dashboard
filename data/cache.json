@@ -5520,6 +5520,132 @@
       "most_recent_filing": 2045123,
       "is_amended": false,
       "filed_date": "2026-10-31"
+    },
+    "C00815415/2045369": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "Brooker, Brian",
+          "state": "NY",
+          "transaction_id": "F65-3323038",
+          "entity_type": "IND",
+          "employer": "Brooker Engineering",
+          "occupation": "Owner"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 500000,
+          "contributor": "Defend Freedom PAC",
+          "state": "WI",
+          "transaction_id": "F65-3322860",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "Derrico, Donald",
+          "state": "NY",
+          "transaction_id": "F65-3323040",
+          "entity_type": "IND",
+          "employer": "Gordon Rees",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "Dlugash, Alan",
+          "state": "NY",
+          "transaction_id": "F65-3323041",
+          "entity_type": "IND",
+          "employer": "Alan J Dlugash LLC",
+          "occupation": "Cpa"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 250000,
+          "contributor": "Gerson, El",
+          "state": "IL",
+          "transaction_id": "F65-3323045",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 200000,
+          "contributor": "Lahood for Congress",
+          "state": "IL",
+          "transaction_id": "F65-3322856",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 350000,
+          "contributor": "Lutnick, Brandon",
+          "state": "NY",
+          "transaction_id": "F65-3323044",
+          "entity_type": "IND",
+          "employer": "Cantor Fitzgerald",
+          "occupation": "Chairman"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "Oros, George",
+          "state": "NY",
+          "transaction_id": "F65-3323037",
+          "entity_type": "IND",
+          "employer": "Retired",
+          "occupation": "Retired"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 250000,
+          "contributor": "Quinn, Colette A.",
+          "state": "NY",
+          "transaction_id": "F65-3323042",
+          "entity_type": "IND",
+          "employer": "Unemployed",
+          "occupation": "Unemployed"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 250000,
+          "contributor": "Republican Italian American Committee",
+          "state": "VA",
+          "transaction_id": "F65-3322858",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 350000,
+          "contributor": "Weisfeld, Barry",
+          "state": "NY",
+          "transaction_id": "F65-3323043",
+          "entity_type": "IND",
+          "employer": "Strategic Vision Group",
+          "occupation": "COO"
+        }
+      ],
+      "file_number": 2045369,
+      "committee_id": "C00815415",
+      "sha256": "de6ed40047e0fd336949747247905d939ea790c82ce5de3dc52588be6f1b8b8d",
+      "amendment_chain": [
+        2045369
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045369,
+      "is_amended": false,
+      "filed_date": "2026-11-01"
     }
   }
 }

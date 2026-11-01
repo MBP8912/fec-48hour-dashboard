@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-01T17:35:07+00:00",
+  "generated_at": "2026-11-01T18:42:11+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -246,15 +246,15 @@
     {
       "date": "2026-10-30",
       "totals": {
-        "lawler": 0,
+        "lawler": 2550000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 63000060,
+        "lawler": 65550060,
         "conley": 45243120
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 11,
         "conley": 0
       }
     },
@@ -265,7 +265,7 @@
         "conley": 0
       },
       "cumulative": {
-        "lawler": 63000060,
+        "lawler": 65550060,
         "conley": 45243120
       },
       "counts": {
@@ -414,6 +414,13 @@
       "filed_date": "2026-10-31",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00815415/2045123/f65"
+    },
+    {
+      "committee_id": "C00815415",
+      "file_number": 2045369,
+      "filed_date": "2026-11-01",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00815415/2045369/f65"
     }
   ],
   "contributions": [
@@ -6584,9 +6591,141 @@
       "occupation": "Executive",
       "committee_id": "C00815415",
       "file_number": 2045123
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "Brooker, Brian",
+      "state": "NY",
+      "transaction_id": "F65-3323038",
+      "entity_type": "IND",
+      "employer": "Brooker Engineering",
+      "occupation": "Owner",
+      "committee_id": "C00815415",
+      "file_number": 2045369
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 500000,
+      "contributor": "Defend Freedom PAC",
+      "state": "WI",
+      "transaction_id": "F65-3322860",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00815415",
+      "file_number": 2045369
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "Derrico, Donald",
+      "state": "NY",
+      "transaction_id": "F65-3323040",
+      "entity_type": "IND",
+      "employer": "Gordon Rees",
+      "occupation": "Attorney",
+      "committee_id": "C00815415",
+      "file_number": 2045369
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "Dlugash, Alan",
+      "state": "NY",
+      "transaction_id": "F65-3323041",
+      "entity_type": "IND",
+      "employer": "Alan J Dlugash LLC",
+      "occupation": "Cpa",
+      "committee_id": "C00815415",
+      "file_number": 2045369
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 250000,
+      "contributor": "Gerson, El",
+      "state": "IL",
+      "transaction_id": "F65-3323045",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00815415",
+      "file_number": 2045369
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 200000,
+      "contributor": "Lahood for Congress",
+      "state": "IL",
+      "transaction_id": "F65-3322856",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00815415",
+      "file_number": 2045369
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 350000,
+      "contributor": "Lutnick, Brandon",
+      "state": "NY",
+      "transaction_id": "F65-3323044",
+      "entity_type": "IND",
+      "employer": "Cantor Fitzgerald",
+      "occupation": "Chairman",
+      "committee_id": "C00815415",
+      "file_number": 2045369
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "Oros, George",
+      "state": "NY",
+      "transaction_id": "F65-3323037",
+      "entity_type": "IND",
+      "employer": "Retired",
+      "occupation": "Retired",
+      "committee_id": "C00815415",
+      "file_number": 2045369
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 250000,
+      "contributor": "Quinn, Colette A.",
+      "state": "NY",
+      "transaction_id": "F65-3323042",
+      "entity_type": "IND",
+      "employer": "Unemployed",
+      "occupation": "Unemployed",
+      "committee_id": "C00815415",
+      "file_number": 2045369
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 250000,
+      "contributor": "Republican Italian American Committee",
+      "state": "VA",
+      "transaction_id": "F65-3322858",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00815415",
+      "file_number": 2045369
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 350000,
+      "contributor": "Weisfeld, Barry",
+      "state": "NY",
+      "transaction_id": "F65-3323043",
+      "entity_type": "IND",
+      "employer": "Strategic Vision Group",
+      "occupation": "COO",
+      "committee_id": "C00815415",
+      "file_number": 2045369
     }
   ],
-  "report_count": 20,
+  "report_count": 21,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

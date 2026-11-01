@@ -2008,6 +2008,42 @@
       "most_recent_filing": 2044953,
       "is_amended": false,
       "filed_date": "2026-10-31"
+    },
+    "C00903948/2045390": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-31",
+          "amount_cents": 100000,
+          "contributor": "SHERMAN FOR CONGRESS",
+          "state": "CA",
+          "transaction_id": "15564038",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 100000,
+          "contributor": "SOUTHERN CALIFORNIA FUND",
+          "state": "CA",
+          "transaction_id": "15564025",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2045390,
+      "committee_id": "C00903948",
+      "sha256": "a916758bbeb81d4165807fe16d4b6f360563838082eaaddc4904b548aea884a6",
+      "amendment_chain": [
+        2045390
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045390,
+      "is_amended": false,
+      "filed_date": "2026-11-01"
     }
   }
 }

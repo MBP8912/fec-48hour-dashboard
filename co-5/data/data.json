@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-01T17:35:07+00:00",
+  "generated_at": "2026-11-01T18:42:11+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -247,15 +247,15 @@
       "date": "2026-10-30",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 1250000
       },
       "cumulative": {
         "lawler": 8600000,
-        "conley": 29150500
+        "conley": 30400500
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 7
       }
     },
     {
@@ -266,7 +266,7 @@
       },
       "cumulative": {
         "lawler": 8600000,
-        "conley": 29150500
+        "conley": 30400500
       },
       "counts": {
         "lawler": 0,
@@ -456,6 +456,13 @@
       "filed_date": "2026-10-31",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00911941/2044980/f65"
+    },
+    {
+      "committee_id": "C00911941",
+      "file_number": 2045404,
+      "filed_date": "2026-11-01",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00911941/2045404/f65"
     }
   ],
   "contributions": [
@@ -2450,9 +2457,93 @@
       "occupation": "Retired",
       "committee_id": "C00911941",
       "file_number": 2044980
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "AMERICAN DEFENSE AND MILITARY PAC",
+      "state": "DC",
+      "transaction_id": "15527857",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00911941",
+      "file_number": 2045404
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 250000,
+      "contributor": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+      "state": "DC",
+      "transaction_id": "15544895",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00911941",
+      "file_number": 2045404
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "DEMOCRATIC ACTION NETWORK",
+      "state": "DC",
+      "transaction_id": "15483809",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00911941",
+      "file_number": 2045404
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "DEMOCRATS WIN SEATS (DWS PAC)",
+      "state": "DC",
+      "transaction_id": "15525087",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00911941",
+      "file_number": 2045404
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "ELECT MORE DEMOCRATS PAC",
+      "state": "DC",
+      "transaction_id": "15483841",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00911941",
+      "file_number": 2045404
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 500000,
+      "contributor": "FIGHTING BACK PAC",
+      "state": "CO",
+      "transaction_id": "15527855",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00911941",
+      "file_number": 2045404
+    },
+    {
+      "date": "2026-10-30",
+      "amount_cents": 100000,
+      "contributor": "PROGRESSIVE TURNOUT PROJECT",
+      "state": "IL",
+      "transaction_id": "15523968",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00911941",
+      "file_number": 2045404
     }
   ],
-  "report_count": 26,
+  "report_count": 27,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

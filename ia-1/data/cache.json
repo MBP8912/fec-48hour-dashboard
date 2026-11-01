@@ -2196,6 +2196,68 @@
       "most_recent_filing": 2045177,
       "is_amended": false,
       "filed_date": "2026-10-31"
+    },
+    "C00558825/2045374": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-30",
+          "amount_cents": 500000,
+          "contributor": "ABRAHAM LINCOLN PAC",
+          "state": "GA",
+          "transaction_id": "614BE4935641C4529BD3",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 100000,
+          "contributor": "AGRICULTURAL RETAILERS ASSOCIATION POLITICAL ACTION COMMITTE",
+          "state": "DC",
+          "transaction_id": "6285D2A510D784796A5E",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2045374,
+      "committee_id": "C00558825",
+      "sha256": "c2c0423b8267415a573adc22a4f1ee43ba7c4d74874b1c7fba63b03ddce7cb01",
+      "amendment_chain": [
+        2045374
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045374,
+      "is_amended": false,
+      "filed_date": "2026-11-01"
+    },
+    "C00558825/2045375": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-16",
+          "amount_cents": 143750,
+          "contributor": "SUNDQUIST, LARRY",
+          "state": "WA",
+          "transaction_id": "6BC25A32F6FAD4EB2A5D",
+          "entity_type": "IND",
+          "employer": "ADAMANT HOMES, INC.",
+          "occupation": "HOMEBUILDER"
+        }
+      ],
+      "file_number": 2045375,
+      "committee_id": "C00558825",
+      "sha256": "a6e33fce89008573d3d576824fe3277b9ddb323073a0fb29af809e76ebcb3de3",
+      "amendment_chain": [
+        2045375
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045375,
+      "is_amended": false,
+      "filed_date": "2026-11-01"
     }
   }
 }

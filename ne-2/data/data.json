@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-01T17:35:07+00:00",
+  "generated_at": "2026-11-01T18:42:11+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -262,15 +262,15 @@
       "date": "2026-10-31",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 200000
       },
       "cumulative": {
         "lawler": 29477551,
-        "conley": 16135634
+        "conley": 16335634
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 2
       }
     }
   ],
@@ -379,6 +379,13 @@
       "filed_date": "2026-10-31",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00909515/2044953/f65"
+    },
+    {
+      "committee_id": "C00903948",
+      "file_number": 2045390,
+      "filed_date": "2026-11-01",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00903948/2045390/f65"
     }
   ],
   "contributions": [
@@ -2385,9 +2392,33 @@
       "occupation": "",
       "committee_id": "C00909515",
       "file_number": 2044953
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 100000,
+      "contributor": "SHERMAN FOR CONGRESS",
+      "state": "CA",
+      "transaction_id": "15564038",
+      "entity_type": "CCM",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2045390
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 100000,
+      "contributor": "SOUTHERN CALIFORNIA FUND",
+      "state": "CA",
+      "transaction_id": "15564025",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00903948",
+      "file_number": 2045390
     }
   ],
-  "report_count": 15,
+  "report_count": 16,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

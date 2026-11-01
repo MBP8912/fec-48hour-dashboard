@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-01T17:35:07+00:00",
+  "generated_at": "2026-11-01T18:42:11+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -36,15 +36,15 @@
     {
       "date": "2026-10-16",
       "totals": {
-        "lawler": 1200000,
+        "lawler": 1343750,
         "conley": 1700000
       },
       "cumulative": {
-        "lawler": 1700000,
+        "lawler": 1843750,
         "conley": 3550000
       },
       "counts": {
-        "lawler": 5,
+        "lawler": 6,
         "conley": 9
       }
     },
@@ -55,7 +55,7 @@
         "conley": 800000
       },
       "cumulative": {
-        "lawler": 1700000,
+        "lawler": 1843750,
         "conley": 4350000
       },
       "counts": {
@@ -70,7 +70,7 @@
         "conley": 100000
       },
       "cumulative": {
-        "lawler": 1700000,
+        "lawler": 1843750,
         "conley": 4450000
       },
       "counts": {
@@ -85,7 +85,7 @@
         "conley": 2300000
       },
       "cumulative": {
-        "lawler": 4840000,
+        "lawler": 4983750,
         "conley": 6750000
       },
       "counts": {
@@ -100,7 +100,7 @@
         "conley": 1700000
       },
       "cumulative": {
-        "lawler": 4940000,
+        "lawler": 5083750,
         "conley": 8450000
       },
       "counts": {
@@ -115,7 +115,7 @@
         "conley": 1246177
       },
       "cumulative": {
-        "lawler": 9800000,
+        "lawler": 9943750,
         "conley": 9696177
       },
       "counts": {
@@ -130,7 +130,7 @@
         "conley": 2225000
       },
       "cumulative": {
-        "lawler": 11500000,
+        "lawler": 11643750,
         "conley": 11921177
       },
       "counts": {
@@ -145,7 +145,7 @@
         "conley": 2086250
       },
       "cumulative": {
-        "lawler": 12100000,
+        "lawler": 12243750,
         "conley": 14007427
       },
       "counts": {
@@ -160,7 +160,7 @@
         "conley": 250000
       },
       "cumulative": {
-        "lawler": 12100000,
+        "lawler": 12243750,
         "conley": 14257427
       },
       "counts": {
@@ -175,7 +175,7 @@
         "conley": 200000
       },
       "cumulative": {
-        "lawler": 12325000,
+        "lawler": 12468750,
         "conley": 14457427
       },
       "counts": {
@@ -190,7 +190,7 @@
         "conley": 1500000
       },
       "cumulative": {
-        "lawler": 13725000,
+        "lawler": 13868750,
         "conley": 15957427
       },
       "counts": {
@@ -205,7 +205,7 @@
         "conley": 1600000
       },
       "cumulative": {
-        "lawler": 16560153,
+        "lawler": 16703903,
         "conley": 17557427
       },
       "counts": {
@@ -220,7 +220,7 @@
         "conley": 725000
       },
       "cumulative": {
-        "lawler": 17160153,
+        "lawler": 17303903,
         "conley": 18282427
       },
       "counts": {
@@ -235,7 +235,7 @@
         "conley": 1500000
       },
       "cumulative": {
-        "lawler": 19260153,
+        "lawler": 19403903,
         "conley": 19782427
       },
       "counts": {
@@ -246,30 +246,30 @@
     {
       "date": "2026-10-30",
       "totals": {
-        "lawler": 460000,
+        "lawler": 960000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 19720153,
+        "lawler": 20363903,
         "conley": 19782427
       },
       "counts": {
-        "lawler": 2,
+        "lawler": 3,
         "conley": 0
       }
     },
     {
       "date": "2026-10-31",
       "totals": {
-        "lawler": 250000,
+        "lawler": 350000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 19970153,
+        "lawler": 20713903,
         "conley": 19782427
       },
       "counts": {
-        "lawler": 2,
+        "lawler": 3,
         "conley": 0
       }
     }
@@ -421,6 +421,20 @@
       "filed_date": "2026-10-31",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00787820/2045177/f65"
+    },
+    {
+      "committee_id": "C00558825",
+      "file_number": 2045374,
+      "filed_date": "2026-11-01",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00558825/2045374/f65"
+    },
+    {
+      "committee_id": "C00558825",
+      "file_number": 2045375,
+      "filed_date": "2026-11-01",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00558825/2045375/f65"
     }
   ],
   "contributions": [
@@ -663,6 +677,18 @@
       "occupation": "",
       "committee_id": "C00558825",
       "file_number": 2029968
+    },
+    {
+      "date": "2026-10-16",
+      "amount_cents": 143750,
+      "contributor": "SUNDQUIST, LARRY",
+      "state": "WA",
+      "transaction_id": "6BC25A32F6FAD4EB2A5D",
+      "entity_type": "IND",
+      "employer": "ADAMANT HOMES, INC.",
+      "occupation": "HOMEBUILDER",
+      "committee_id": "C00558825",
+      "file_number": 2045375
     },
     {
       "date": "2026-10-16",
@@ -2610,6 +2636,18 @@
     },
     {
       "date": "2026-10-30",
+      "amount_cents": 500000,
+      "contributor": "ABRAHAM LINCOLN PAC",
+      "state": "GA",
+      "transaction_id": "614BE4935641C4529BD3",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00558825",
+      "file_number": 2045374
+    },
+    {
+      "date": "2026-10-30",
       "amount_cents": 200000,
       "contributor": "LAHOOD FOR CONGRESS",
       "state": "IL",
@@ -2631,6 +2669,18 @@
       "occupation": "HOMEMAKER",
       "committee_id": "C00558825",
       "file_number": 2045023
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 100000,
+      "contributor": "AGRICULTURAL RETAILERS ASSOCIATION POLITICAL ACTION COMMITTE",
+      "state": "DC",
+      "transaction_id": "6285D2A510D784796A5E",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00558825",
+      "file_number": 2045374
     },
     {
       "date": "2026-10-31",
@@ -2657,7 +2707,7 @@
       "file_number": 2045023
     }
   ],
-  "report_count": 21,
+  "report_count": 23,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
