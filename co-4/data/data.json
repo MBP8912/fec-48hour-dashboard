@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-01T02:49:55+00:00",
+  "generated_at": "2026-11-01T03:50:47+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -232,15 +232,15 @@
       "date": "2026-10-29",
       "totals": {
         "lawler": 250000,
-        "conley": 0
+        "conley": 950000
       },
       "cumulative": {
         "lawler": 4893492,
-        "conley": 7148000
+        "conley": 8098000
       },
       "counts": {
         "lawler": 1,
-        "conley": 0
+        "conley": 3
       }
     },
     {
@@ -251,7 +251,7 @@
       },
       "cumulative": {
         "lawler": 5593492,
-        "conley": 7148000
+        "conley": 8098000
       },
       "counts": {
         "lawler": 2,
@@ -266,7 +266,7 @@
       },
       "cumulative": {
         "lawler": 5593492,
-        "conley": 7148000
+        "conley": 8098000
       },
       "counts": {
         "lawler": 0,
@@ -358,6 +358,13 @@
       "filed_date": "2026-10-31",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00728238/2044932/f65"
+    },
+    {
+      "committee_id": "C00904284",
+      "file_number": 2045257,
+      "filed_date": "2026-10-31",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00904284/2045257/f65"
     }
   ],
   "contributions": [
@@ -1010,6 +1017,42 @@
       "file_number": 2044932
     },
     {
+      "date": "2026-10-29",
+      "amount_cents": 500000,
+      "contributor": "ELECT DEMOCRATIC WOMEN",
+      "state": "DC",
+      "transaction_id": "15453404",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00904284",
+      "file_number": 2045257
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 100000,
+      "contributor": "Sedlacek, Scot",
+      "state": "CO",
+      "transaction_id": "15347307",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00904284",
+      "file_number": 2045257
+    },
+    {
+      "date": "2026-10-29",
+      "amount_cents": 350000,
+      "contributor": "Shearing, Miriam",
+      "state": "NV",
+      "transaction_id": "15347306",
+      "entity_type": "IND",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00904284",
+      "file_number": 2045257
+    },
+    {
       "date": "2026-10-30",
       "amount_cents": 200000,
       "contributor": "GUY FOR CONGRESS",
@@ -1034,7 +1077,7 @@
       "file_number": 2044932
     }
   ],
-  "report_count": 12,
+  "report_count": 13,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

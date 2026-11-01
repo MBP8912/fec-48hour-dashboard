@@ -752,6 +752,52 @@
       "most_recent_filing": 2044932,
       "is_amended": false,
       "filed_date": "2026-10-31"
+    },
+    "C00904284/2045257": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-29",
+          "amount_cents": 500000,
+          "contributor": "ELECT DEMOCRATIC WOMEN",
+          "state": "DC",
+          "transaction_id": "15453404",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 100000,
+          "contributor": "Sedlacek, Scot",
+          "state": "CO",
+          "transaction_id": "15347307",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-29",
+          "amount_cents": 350000,
+          "contributor": "Shearing, Miriam",
+          "state": "NV",
+          "transaction_id": "15347306",
+          "entity_type": "IND",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2045257,
+      "committee_id": "C00904284",
+      "sha256": "43ca4647fe6c6089d2a0240f3173eeb61ae8075f14e38d4f6073b72ffb993e8b",
+      "amendment_chain": [
+        2045257
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045257,
+      "is_amended": false,
+      "filed_date": "2026-10-31"
     }
   }
 }
