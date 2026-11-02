@@ -53,19 +53,24 @@ jobs:
         if: steps.window.outputs.active == 'true'
         run: |
           cd election-night
-          python -m unittest test_refresh_mn.py -v
+          python -m unittest test_refresh_mn.py test_refresh_ne.py -v
       - name: Refresh the Minnesota Secretary of State file
         if: steps.window.outputs.active == 'true'
         id: county
         continue-on-error: true
         run: python election-night/refresh_mn.py
-      - name: Archive verified county snapshot if changed
-        if: steps.window.outputs.active == 'true' && steps.county.outcome == 'success'
+      - name: Refresh the Nebraska Secretary of State county pages
+        if: steps.window.outputs.active == 'true'
+        id: ne
+        continue-on-error: true
+        run: python election-night/refresh_ne.py
+      - name: Archive verified county snapshots if changed
+        if: steps.window.outputs.active == 'true' && (steps.county.outcome == 'success' || steps.ne.outcome == 'success')
         shell: bash
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add election-night/data/official-mn.json
+          git add election-night/data/official-mn.json election-night/data/official-ne.json
           if ! git diff --cached --quiet; then
             git commit -m 'Update 2026 MN-1 county snapshot [skip ci]'
             git pull --rebase -X theirs origin main
