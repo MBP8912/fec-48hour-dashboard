@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-02T15:59:06+00:00",
+  "generated_at": "2026-11-02T17:02:12+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -261,15 +261,15 @@
     {
       "date": "2026-10-31",
       "totals": {
-        "lawler": 0,
+        "lawler": 600000,
         "conley": 0
       },
       "cumulative": {
-        "lawler": 33812340,
+        "lawler": 34412340,
         "conley": 35645000
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 2,
         "conley": 0
       }
     }
@@ -470,6 +470,13 @@
       "filed_date": "2026-11-01",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00915637/2045569/f65"
+    },
+    {
+      "committee_id": "C00677286",
+      "file_number": 2045724,
+      "filed_date": "2026-11-02",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00677286/2045724/f65"
     }
   ],
   "contributions": [
@@ -4012,9 +4019,33 @@
       "occupation": "",
       "committee_id": "C00915637",
       "file_number": 2045569
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 100000,
+      "contributor": "DEFEND DEVELOPERS PAC",
+      "state": "VA",
+      "transaction_id": "TX95576",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00677286",
+      "file_number": 2045724
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 500000,
+      "contributor": "MI PAC",
+      "state": "GA",
+      "transaction_id": "TX95575",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00677286",
+      "file_number": 2045724
     }
   ],
-  "report_count": 28,
+  "report_count": 29,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
