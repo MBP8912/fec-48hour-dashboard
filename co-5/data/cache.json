@@ -2228,6 +2228,112 @@
       "most_recent_filing": 2045507,
       "is_amended": false,
       "filed_date": "2026-11-01"
+    },
+    "C00911941/2045886": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-31",
+          "amount_cents": 100000,
+          "contributor": "Barbour, Andrew",
+          "state": "VA",
+          "transaction_id": "15612160",
+          "entity_type": "IND",
+          "employer": "FS Vector",
+          "occupation": "Consultant"
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 200000,
+          "contributor": "Bickwit, Leonard",
+          "state": "DC",
+          "transaction_id": "15612174",
+          "entity_type": "IND",
+          "employer": "K&L Gates LLP",
+          "occupation": "Attorney"
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 100000,
+          "contributor": "Conaway, Herbert",
+          "state": "NJ",
+          "transaction_id": "15612568",
+          "entity_type": "IND",
+          "employer": "US House Of Representatives",
+          "occupation": "Representative"
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 100000,
+          "contributor": "Greuel, Wendy",
+          "state": "CA",
+          "transaction_id": "15612545",
+          "entity_type": "IND",
+          "employer": "Csun Manatt",
+          "occupation": "Consultant Exec. In Residence National"
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 100000,
+          "contributor": "HUSKY PAC",
+          "state": "DC",
+          "transaction_id": "15552909",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 100000,
+          "contributor": "Kennedy, Len",
+          "state": "MD",
+          "transaction_id": "15612137",
+          "entity_type": "IND",
+          "employer": "Cornell University",
+          "occupation": "Adjunct Professor"
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 350000,
+          "contributor": "Nelson, Jeffrey",
+          "state": "ND",
+          "transaction_id": "15612323",
+          "entity_type": "IND",
+          "employer": "Not Employed",
+          "occupation": "Not Employed"
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 350000,
+          "contributor": "Sharp, Christopher",
+          "state": "VA",
+          "transaction_id": "15612549",
+          "entity_type": "IND",
+          "employer": "Self Employed",
+          "occupation": "Investor"
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 100000,
+          "contributor": "Shipowitz, Jay",
+          "state": "TX",
+          "transaction_id": "15612487",
+          "entity_type": "IND",
+          "employer": "Populus Financial Group",
+          "occupation": "CEO"
+        }
+      ],
+      "file_number": 2045886,
+      "committee_id": "C00911941",
+      "sha256": "ca82d9318739f2467807036eaea1ea881902cb659e08724ea9d5ca4e107503d2",
+      "amendment_chain": [
+        2045886
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045886,
+      "is_amended": false,
+      "filed_date": "2026-11-02"
     }
   }
 }

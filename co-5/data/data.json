@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-02T21:41:10+00:00",
+  "generated_at": "2026-11-02T22:41:32+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -262,15 +262,15 @@
       "date": "2026-10-31",
       "totals": {
         "lawler": 0,
-        "conley": 0
+        "conley": 1500000
       },
       "cumulative": {
         "lawler": 9850000,
-        "conley": 30400500
+        "conley": 31900500
       },
       "counts": {
         "lawler": 0,
-        "conley": 0
+        "conley": 9
       }
     }
   ],
@@ -470,6 +470,13 @@
       "filed_date": "2026-11-01",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00865592/2045507/f65"
+    },
+    {
+      "committee_id": "C00911941",
+      "file_number": 2045886,
+      "filed_date": "2026-11-02",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00911941/2045886/f65"
     }
   ],
   "contributions": [
@@ -2608,9 +2615,117 @@
       "occupation": "",
       "committee_id": "C00911941",
       "file_number": 2045404
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 100000,
+      "contributor": "Barbour, Andrew",
+      "state": "VA",
+      "transaction_id": "15612160",
+      "entity_type": "IND",
+      "employer": "FS Vector",
+      "occupation": "Consultant",
+      "committee_id": "C00911941",
+      "file_number": 2045886
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 200000,
+      "contributor": "Bickwit, Leonard",
+      "state": "DC",
+      "transaction_id": "15612174",
+      "entity_type": "IND",
+      "employer": "K&L Gates LLP",
+      "occupation": "Attorney",
+      "committee_id": "C00911941",
+      "file_number": 2045886
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 100000,
+      "contributor": "Conaway, Herbert",
+      "state": "NJ",
+      "transaction_id": "15612568",
+      "entity_type": "IND",
+      "employer": "US House Of Representatives",
+      "occupation": "Representative",
+      "committee_id": "C00911941",
+      "file_number": 2045886
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 100000,
+      "contributor": "Greuel, Wendy",
+      "state": "CA",
+      "transaction_id": "15612545",
+      "entity_type": "IND",
+      "employer": "Csun Manatt",
+      "occupation": "Consultant Exec. In Residence National",
+      "committee_id": "C00911941",
+      "file_number": 2045886
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 100000,
+      "contributor": "HUSKY PAC",
+      "state": "DC",
+      "transaction_id": "15552909",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00911941",
+      "file_number": 2045886
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 100000,
+      "contributor": "Kennedy, Len",
+      "state": "MD",
+      "transaction_id": "15612137",
+      "entity_type": "IND",
+      "employer": "Cornell University",
+      "occupation": "Adjunct Professor",
+      "committee_id": "C00911941",
+      "file_number": 2045886
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 350000,
+      "contributor": "Nelson, Jeffrey",
+      "state": "ND",
+      "transaction_id": "15612323",
+      "entity_type": "IND",
+      "employer": "Not Employed",
+      "occupation": "Not Employed",
+      "committee_id": "C00911941",
+      "file_number": 2045886
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 350000,
+      "contributor": "Sharp, Christopher",
+      "state": "VA",
+      "transaction_id": "15612549",
+      "entity_type": "IND",
+      "employer": "Self Employed",
+      "occupation": "Investor",
+      "committee_id": "C00911941",
+      "file_number": 2045886
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 100000,
+      "contributor": "Shipowitz, Jay",
+      "state": "TX",
+      "transaction_id": "15612487",
+      "entity_type": "IND",
+      "employer": "Populus Financial Group",
+      "occupation": "CEO",
+      "committee_id": "C00911941",
+      "file_number": 2045886
     }
   ],
-  "report_count": 28,
+  "report_count": 29,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
