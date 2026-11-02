@@ -6112,6 +6112,92 @@
       "most_recent_filing": 2045610,
       "is_amended": false,
       "filed_date": "2026-11-01"
+    },
+    "C00815415/2045714": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-31",
+          "amount_cents": 500000,
+          "contributor": "Abraham Lincoln PAC",
+          "state": "GA",
+          "transaction_id": "F65-3323019",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 250000,
+          "contributor": "Deere & Company PAC (aka John Deere PAC)",
+          "state": "IL",
+          "transaction_id": "F65-3323012",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 350000,
+          "contributor": "Dolan, James L.",
+          "state": "NY",
+          "transaction_id": "F65-3323013",
+          "entity_type": "IND",
+          "employer": "The Knickerbocker Group",
+          "occupation": "Owner"
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 250000,
+          "contributor": "Nooga PAC",
+          "state": "TN",
+          "transaction_id": "F65-3323011",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 350000,
+          "contributor": "Russell, Chris",
+          "state": "NJ",
+          "transaction_id": "F65-3323169",
+          "entity_type": "IND",
+          "employer": "Self",
+          "occupation": "Consultant"
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 350000,
+          "contributor": "RWA Fund, Inc.",
+          "state": "GA",
+          "transaction_id": "F65-3323014",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 200000,
+          "contributor": "White Plains Firefighters PAC Fund",
+          "state": "NY",
+          "transaction_id": "F65-3323016",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2045714,
+      "committee_id": "C00815415",
+      "sha256": "14d33861c7689fb538b34b93d3911f9138aa6a7729053963018ef3a4616796d5",
+      "amendment_chain": [
+        2045714
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045714,
+      "is_amended": false,
+      "filed_date": "2026-11-02"
     }
   }
 }

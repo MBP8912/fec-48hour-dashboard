@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-02T14:17:17+00:00",
+  "generated_at": "2026-11-02T15:59:06+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -261,15 +261,15 @@
     {
       "date": "2026-10-31",
       "totals": {
-        "lawler": 0,
+        "lawler": 2250000,
         "conley": 550000
       },
       "cumulative": {
-        "lawler": 65550060,
+        "lawler": 67800060,
         "conley": 53443120
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 7,
         "conley": 3
       }
     }
@@ -428,6 +428,13 @@
       "filed_date": "2026-11-01",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00900431/2045610/f65"
+    },
+    {
+      "committee_id": "C00815415",
+      "file_number": 2045714,
+      "filed_date": "2026-11-02",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00815415/2045714/f65"
     }
   ],
   "contributions": [
@@ -7237,6 +7244,90 @@
     },
     {
       "date": "2026-10-31",
+      "amount_cents": 500000,
+      "contributor": "Abraham Lincoln PAC",
+      "state": "GA",
+      "transaction_id": "F65-3323019",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00815415",
+      "file_number": 2045714
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 250000,
+      "contributor": "Deere & Company PAC (aka John Deere PAC)",
+      "state": "IL",
+      "transaction_id": "F65-3323012",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00815415",
+      "file_number": 2045714
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 350000,
+      "contributor": "Dolan, James L.",
+      "state": "NY",
+      "transaction_id": "F65-3323013",
+      "entity_type": "IND",
+      "employer": "The Knickerbocker Group",
+      "occupation": "Owner",
+      "committee_id": "C00815415",
+      "file_number": 2045714
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 250000,
+      "contributor": "Nooga PAC",
+      "state": "TN",
+      "transaction_id": "F65-3323011",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00815415",
+      "file_number": 2045714
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 350000,
+      "contributor": "RWA Fund, Inc.",
+      "state": "GA",
+      "transaction_id": "F65-3323014",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00815415",
+      "file_number": 2045714
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 350000,
+      "contributor": "Russell, Chris",
+      "state": "NJ",
+      "transaction_id": "F65-3323169",
+      "entity_type": "IND",
+      "employer": "Self",
+      "occupation": "Consultant",
+      "committee_id": "C00815415",
+      "file_number": 2045714
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 200000,
+      "contributor": "White Plains Firefighters PAC Fund",
+      "state": "NY",
+      "transaction_id": "F65-3323016",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00815415",
+      "file_number": 2045714
+    },
+    {
+      "date": "2026-10-31",
       "amount_cents": 100000,
       "contributor": "GRAY, CATHERINE",
       "state": "CA",
@@ -7272,7 +7363,7 @@
       "file_number": 2045610
     }
   ],
-  "report_count": 22,
+  "report_count": 23,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }

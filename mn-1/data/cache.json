@@ -2614,10 +2614,58 @@
       "amendment_chain": [
         2045536
       ],
+      "most_recent": false,
+      "most_recent_filing": 2045698,
+      "is_amended": true,
+      "filed_date": "2026-11-01",
+      "amended_by": 2045698
+    },
+    "C00902684/2045698": {
+      "form_type": "F6A",
+      "original_amendment_date": "2026-11-02",
+      "contributions": [
+        {
+          "date": "2026-10-31",
+          "amount_cents": 100000,
+          "contributor": "JUSTICE LEAGUE PAC",
+          "state": "DC",
+          "transaction_id": "15541142",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 100000,
+          "contributor": "PROGRESSIVE TURNOUT PROJECT",
+          "state": "IL",
+          "transaction_id": "15583132",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 100000,
+          "contributor": "Woolverton, Kate",
+          "state": "CA",
+          "transaction_id": "15541150",
+          "entity_type": "IND",
+          "employer": "Google DeepMind",
+          "occupation": "Software Engineer"
+        }
+      ],
+      "file_number": 2045698,
+      "committee_id": "C00902684",
+      "sha256": "ecada689dbcab7e446407ad54e29c97f8cc276481dcee82f71276113d7885f76",
+      "amendment_chain": [
+        2045536,
+        2045698
+      ],
       "most_recent": true,
-      "most_recent_filing": 2045536,
+      "most_recent_filing": 2045698,
       "is_amended": false,
-      "filed_date": "2026-11-01"
+      "filed_date": "2026-11-02"
     }
   }
 }
