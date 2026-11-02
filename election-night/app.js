@@ -166,6 +166,23 @@
     return true;
   }
 
+  function parseNewYork(json){
+    if (!json || !json.races || typeof json.races!== 'object') return false;
+    const ts=getTime(json.source_updated_at);
+    for(const id of ['NY-17','NY-19']){
+      const row=json.races[id],r=raceIndex.get(id);
+      if(!row||!r||!Array.isArray(row.candidates))continue;
+      const cands=row.candidates.filter(v=>v&&v.name).map(v=>candidate(v.name,v.party,v.votes,null));
+      const reported=int(row.precincts_reporting),total=int(row.precincts_total);
+      const progress=total>0&&reported<=total?100*reported/total:null;
+      if(json.test_data===true)continue;
+      acceptRace(r,{candidates:cands,total:sumVotes(cands),progress,
+        progressKind:progress===null?null:'election districts',
+        source:'New York State Board of Elections',asof:ts});
+    }
+    return true;
+  }
+
   async function fetchJSON(url){
     const ctrl=new AbortController();const timeout=setTimeout(()=>ctrl.abort(),DATA_TIMEOUT);
     try{const res=await fetch(url,{cache:'no-store',credentials:'omit',signal:ctrl.signal,headers:{Accept:'application/json'}});
@@ -184,6 +201,7 @@
       fetchJSON('https://thepeoplestally.com/data/results.json').then(parseTally),
       fetchJSON('./data/official-mn.json?v='+Date.now()).then(parseMinnesota),
       fetchJSON('./data/official-ne.json?v='+Date.now()).then(parseNebraska),
+      fetchJSON('./data/official-ny.json?v='+Date.now()).then(parseNewYork),
     ];
     const results=await Promise.allSettled(jobs);
     state.checkedAt=Date.now();
@@ -234,7 +252,7 @@
       const hasVotes=data.total>0;
       const candidateHtml=shown.map(c=>`<div class="vote-line"><span class="vote-name"><i class="party-swatch p-${escapeHtml(c.party)}"></i><span>${escapeHtml(c.name)}</span></span><span class="vote-number">${hasVotes?fmt(c.votes):'—'}${hasVotes?` <span class="muted">${pct(100*c.votes/data.total)}</span>`:''}</span></div>`).join('');
       const bars=hasVotes?`<div class="micro-bars">${candidates.map(c=>`<i style="width:${Math.max(0,100*c.votes/data.total)}%;background:${c.party==='D'?'#367ed0':c.party==='R'?'#d34d52':'#9d9cb2'}"></i>`).join('')}</div>`:'';
-      const progressHtml=data.progress==null?`<span class="muted">Not available</span>`:`<div class="progress-value">${pct(data.progress)}</div><div class="progress-type">${data.progressKind==='estimated votes'?'Est. votes counted':'Precincts reporting'}</div><div class="tiny-progress"><div style="width:${data.progress}%"></div></div>`;
+      const progressHtml=data.progress==null?`<span class="muted">Not available</span>`:`<div class="progress-value">${pct(data.progress)}</div><div class="progress-type">${data.progressKind==='estimated votes'?'Est. votes counted':data.progressKind==='election districts'?'Election districts reporting':'Precincts reporting'}</div><div class="tiny-progress"><div style="width:${data.progress}%"></div></div>`;
       const officialCounty = r.state==='MN'||r.state==='NE';
       const status=!closed(r)?['Polls open','pre']:hasVotes?[fresh(data.asof)?'Reporting':'Snapshot','active']:(r.openAmerica||officialCounty)?['Awaiting feed','stale']:['No live feed','missing'];
       const progressExplanation=hasVotes?` <span class="muted">· ${fmt(data.total)} votes</span>`:'';
@@ -254,10 +272,10 @@
       return `<article class="candidate-card"><div class="candidate-topline"><span><i class="party-swatch p-${c.party}"></i> ${escapeHtml(c.name)}</span><small>${c.party==='D'?'DEMOCRATIC':c.party==='R'?'REPUBLICAN':'OTHER'}</small></div><div class="candidate-total">${hasVotes?fmt(c.votes):'—'}</div><div class="candidate-share">${hasVotes?pct(share)+' of reported votes':'Votes not yet reported'}</div><div class="candidate-track"><i style="width:${share}%;background:${c.party==='D'?'#69a9ee':c.party==='R'?'#f1898c':'#b4acd4'}"></i></div></article>`;
     }).join('');
     el('detail-asof').textContent=hasVotes?`${data.source} · last feed update ${timeText(data.asof)}`:'No verified live totals yet';
-    el('detail-progress').textContent=data.progress==null?'Reporting percentage not available':`${pct(data.progress)} ${data.progressKind==='estimated votes'?'of estimated vote counted':'of precincts reporting'}`;
+    el('detail-progress').textContent=data.progress==null?'Reporting percentage not available':`${pct(data.progress)} ${data.progressKind==='estimated votes'?'of estimated vote counted':data.progressKind==='election districts'?'of election districts reporting':'of precincts reporting'}`;
     const warn=el('detail-warning');
     if(!closed(r)){warn.classList.remove('warning');warn.innerHTML='<span class="banner-symbol">i</span><div><b>Polls have not closed.</b> This page will display only verified returns from November 3, 2026; any pre-election test data is ignored.</div>';}
-    else if(!hasVotes){warn.classList.add('warning');warn.innerHTML=`<span class="banner-symbol">!</span><div><b>No verified vote totals from a supported feed.</b> ${r.openAmerica||r.state==='NE'?'A free official-data feed is configured but no returns have arrived.':'The available free feeds have not provided usable totals for this race.'} Check ${htmlSource(STATES[r.state].name+' official results',STATES[r.state].url)}.</div>`;}
+    else if(!hasVotes){warn.classList.add('warning');warn.innerHTML=`<span class="banner-symbol">!</span><div><b>No verified vote totals from a supported feed.</b> ${r.openAmerica||r.state==='NE'||r.state==='NY'?'A free official-data feed is configured but no returns have arrived.':'The available free feeds have not provided usable totals for this race.'} Check ${htmlSource(STATES[r.state].name+' official results',STATES[r.state].url)}.</div>`;}
     else if(!fresh(data.asof)){warn.classList.add('warning');warn.innerHTML=`<span class="banner-symbol">!</span><div><b>Last source update may be stale.</b> These are the last successfully obtained unofficial results from ${escapeHtml(data.source)} as of ${escapeHtml(timeText(data.asof))}. Check ${htmlSource('official results',STATES[r.state].url)}.</div>`;}
     else{warn.classList.remove('warning');warn.innerHTML=`<span class="banner-symbol">i</span><div><b>Unofficial returns, not a race call.</b> Source: ${escapeHtml(data.source)}. Last source update: ${escapeHtml(timeText(data.asof))}. ${htmlSource('Official state election website',STATES[r.state].url)}.</div>`;}
     renderCounties(r,data);

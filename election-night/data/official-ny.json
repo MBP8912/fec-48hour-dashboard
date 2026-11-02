@@ -1,0 +1,8 @@
+{
+  "source": "New York State Board of Elections",
+  "source_url": "https://nyenr.elections.ny.gov/HomeNoJS.aspx",
+  "source_updated_at": null,
+  "test_data": true,
+  "metric": "election districts",
+  "races": {}
+}
