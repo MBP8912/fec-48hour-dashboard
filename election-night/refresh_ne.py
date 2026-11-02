@@ -50,16 +50,25 @@ def parse_county(html:str,county:str)->dict:
         raise ValueError(f'{county}: unexpected election date')
     if not re.search(re.escape(county)+r' County Results',text,re.IGNORECASE):
         raise ValueError(f'{county}: unexpected county results heading')
-    start=text.find(CONTEST)
-    if start<0:raise ValueError(f'{county}: NE-2 contest not found')
-    rest=text[start+len(CONTEST):]
-    stop=re.search(r'(?:\n|^)For (?:Governor|Representative|United States|Secretary|State |Attorney|Member)',rest,re.IGNORECASE)
-    section=rest[:stop.start()] if stop else rest[:6000]
+    # Most ASP.NET pages split headings, names and vote totals across nested tags.
+    # Flatten their whitespace before searching instead of demanding exact HTML text nodes.
+    normalized=re.sub(r'\s+',' ',text)
+    contest=re.search(r'For\s+Representative\s+in\s+Congress\s*-?\s*2\s+Year\s+Term\s*-?\s*District\s*0?2\b',normalized,re.I)
+    if contest:
+        rest=normalized[contest.end():]
+        end=re.search(r'\bFor\s+(?:Governor|Representative|United States|Secretary|State |Attorney|Member)\b',rest,re.I)
+        section=rest[:end.start()] if end else rest[:6500]
+    else:
+        # Some official variants omit the contest title on the county view, but
+        # still show all three known, named candidates and their vote totals.
+        county_heading=re.search(re.escape(county)+r'\s+County\s+Results',normalized,re.I)
+        section=normalized[county_heading.end():] if county_heading else normalized
     votes=[]
     for name,party,label in CANDIDATES:
-        m=re.search(r'(?m)^'+re.escape(name)+r'\s*$',section,re.IGNORECASE)
+        name_pattern=r'\b'+r'\s+'.join(re.escape(part) for part in name.split())+r'\b'
+        m=re.search(name_pattern,section,re.I)
         if not m:raise ValueError(f'{county}: candidate {name} missing from contest')
-        following=section[m.end():m.end()+300]
+        following=section[m.end():m.end()+280]
         match=re.search(r'(?i)\b'+label+r'\b\s*([0-9][\d,]*)\b',following)
         if not match:raise ValueError(f'{county}: no verified count for {name}')
         votes.append({'name':name,'party':party,'votes':int(match.group(1).replace(',',''))})
