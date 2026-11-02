@@ -1,0 +1,9 @@
+{
+  "race": "MN-01",
+  "source": "Minnesota Secretary of State",
+  "source_url": "https://electionresults.sos.mn.gov/Select/MediaFiles/Index?ersElectionId=201",
+  "updated_at": null,
+  "test_data": true,
+  "metric": "precincts reporting",
+  "counties": []
+}

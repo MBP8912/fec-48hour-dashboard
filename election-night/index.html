@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="theme-color" content="#f5f7fb">
+  <meta name="description" content="2026 election-night results for eleven congressional and gubernatorial races. Live unofficial vote totals, reporting progress, and county breakdowns where available.">
+  <title>Election Night 2026 | Results Monitor</title>
+  <link rel="stylesheet" href="./styles.css?v=20261102-1">
+  <script defer src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+  <script defer src="./app.js?v=20261102-1"></script>
+</head>
+<body>
+  <div class="site-shell">
+    <header class="site-header">
+      <a class="site-brand" href="./" aria-label="Election Night 2026 home"><span class="site-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span><span><b>2026 ELECTION NIGHT</b><small>RESULTS MONITOR</small></span></a>
+      <div class="site-header-right"><span class="time-label" id="clock-label">Eastern time</span><span class="live-chip" id="live-chip"><span class="live-dot"></span><span id="connection-state">Connecting</span></span></div>
+    </header>
+    <main>
+      <div id="overview-view">
+        <section class="hero">
+          <div class="eyebrow"><span class="accent-line"></span> TUESDAY, NOVEMBER 3, 2026 <span class="slash">/</span> UNOFFICIAL RESULTS</div>
+          <div class="hero-split"><div><h1>Election night<br><span>at a glance.</span></h1><p>Live results for nine U.S. House contests and two governor races, with a closer look at reporting by county.</p></div><div class="hero-aside"><div class="hero-label">NEXT POLL CLOSING</div><div class="closing-big" id="next-closing">9:00 PM ET</div><div class="closing-caption" id="next-closing-caption">Most tracked races</div></div></div>
+          <div class="hero-rule"></div>
+          <div class="meta-items"><span><span class="meta-symbol">◷</span> Auto-refresh every 60 seconds</span><span><span class="meta-symbol">▣</span> All times Eastern</span><span><span class="meta-symbol">◉</span> Updated only when a source reports</span></div>
+        </section>
+        <section class="stats" aria-label="Election overview">
+          <article class="stat"><div class="stat-label">TRACKED RACES</div><strong id="stat-races">11</strong><span>9 House · 2 Governors</span></article>
+          <article class="stat"><div class="stat-label">WITH REPORTED VOTES</div><strong id="stat-reporting">0</strong><span id="stat-reporting-detail">Awaiting election night</span></article>
+          <article class="stat"><div class="stat-label">POLLS CLOSED</div><strong id="stat-closed">0</strong><span>of 11 tracked contests</span></article>
+          <article class="stat"><div class="stat-label">MOST RECENT SOURCE UPDATE</div><strong class="stat-time" id="stat-updated">—</strong><span id="stat-source">Not yet available</span></article>
+        </section>
+        <section id="system-banner" class="system-banner" aria-live="polite"><span class="banner-symbol">i</span><div><b>Results have not started.</b> Polls close at 9 PM ET for most tracked races and 11 PM ET for CA-13.</div></section>
+        <section class="results-panel">
+          <div class="section-top"><div><div class="section-kicker">THE BOARD</div><h2>All tracked races <span class="count-suffix">/ 11</span></h2><p>Candidate totals are unofficial. Select any race for a county map and verified county-level detail when available.</p></div><div class="board-tools"><label class="sr-only" for="race-filter">Filter races</label><select id="race-filter"><option value="all">All races</option><option value="house">U.S. House</option><option value="governor">Governors</option><option value="reporting">With votes</option></select><button type="button" id="refresh-button" class="btn-light"><span aria-hidden="true">↻</span> Refresh</button></div></div>
+          <div class="table-scroll" role="region" aria-label="Election results table" tabindex="0"><table class="race-table"><thead><tr><th scope="col">RACE</th><th scope="col">CANDIDATES / VOTES</th><th scope="col">REPORTING PROGRESS</th><th scope="col">POLLS CLOSE</th><th scope="col">STATUS</th><th scope="col"><span class="sr-only">Details</span></th></tr></thead><tbody id="race-rows"></tbody></table></div>
+          <div class="panel-bottom"><span id="board-refresh">Checking public data sources…</span><span>Select a race to view counties <span aria-hidden="true">↗</span></span></div>
+        </section>
+      </div>
+      <div id="detail-view" hidden>
+        <button id="back-button" class="back-button" type="button"><span aria-hidden="true">←</span> All races</button>
+        <section class="detail-hero"><div class="section-kicker">2026 GENERAL ELECTION <span class="slash">/</span> NOV 3</div><div class="detail-heading"><div><h1 id="detail-title">Race results</h1><p id="detail-subtitle">County-level breakdown</p></div><div class="detail-closing"><span>POLLS CLOSE</span><strong id="detail-close">9:00 PM ET</strong></div></div><div id="detail-candidates" class="candidate-summary"></div><div class="detail-foot"><span id="detail-asof">Awaiting results</span><span id="detail-progress">Reporting progress unavailable</span></div></section>
+        <div id="detail-warning" class="system-banner detail-warning"></div>
+        <section class="county-panel"><div class="section-top"><div><div class="section-kicker">GEOGRAPHIC RESULTS</div><h2>County breakdown</h2><p id="county-description">County vote totals and reporting progress, where the source publishes both.</p></div><div class="map-controls"><span class="color-legend"><i class="leg-dem"></i> D lead <i class="leg-rep"></i> R lead <i class="leg-oth"></i> Other lead <i class="leg-none"></i> No votes</span></div></div><div class="county-layout"><div class="county-map-wrap"><div id="county-map" class="county-map" role="img" aria-label="Interactive county results map"><div class="map-loading">Loading county boundaries…</div></div><div class="map-note">County shapes are displayed in full, even where a congressional district includes only part of a county. Colors represent <b>reported votes only</b>, not projected winners.</div></div><div class="county-table-wrap"><div class="county-table-head"><b>County results</b><span id="county-count">—</span></div><div class="table-scroll county-scroll"><table class="county-table"><thead><tr><th scope="col"><button type="button" data-sort="name">COUNTY ↕</button></th><th scope="col"><button type="button" data-sort="votes">VOTES ↕</button></th><th scope="col"><button type="button" data-sort="progress">% IN ↕</button></th><th scope="col">% OUT</th></tr></thead><tbody id="county-rows"><tr><td colspan="4">Awaiting county data</td></tr></tbody></table></div></div></div><div class="county-footer"><span id="county-source">County source: unavailable</span><span id="county-metric-caption">% in/out shown only if supported by source</span></div></section>
+        <section class="method-box"><h2>Reading the results</h2><div class="method-columns"><div><b>Votes vs. reporting</b><p>Candidate vote percentages are the share of ballots counted so far. Reporting progress is labeled as either estimated vote counted or precincts reporting. Those are different measurements.</p></div><div><b>Counties within a district</b><p>Congressional districts may cross county boundaries. County totals must be specific to this race, not total votes from the entire county.</p></div><div><b>Unofficial / incomplete</b><p>A leading candidate has not necessarily won. Official results can change as mail, provisional, and other ballots are counted and certified.</p></div></div></section>
+      </div>
+    </main>
+    <footer class="site-footer"><div><b>2026 / PUBLIC ELECTION DATA</b><p>Independent, nonpartisan display. Unofficial totals are attributed to original election offices and free data providers.</p></div><div><a href="https://openamerica.io/elections/api/" target="_blank" rel="noopener noreferrer">Open America API</a><a href="https://thepeoplestally.com/open-data/" target="_blank" rel="noopener noreferrer">The People's Tally</a><a href="https://www.270towin.com/poll-closing-times/index.php" target="_blank" rel="noopener noreferrer">Poll closing times</a></div></footer>
+  </div>
+</body>
+</html>

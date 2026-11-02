@@ -65,6 +65,7 @@ jobs:
           done
           # Keep the CA-13 trial asset; all other dashboards use the shared identical logo.
           cp ca-13/spiros-consulting-logo.png _site/ca-13/
+          cp -R election-night _site/election-night
           touch _site/.nojekyll
       - name: Set up GitHub Pages
         uses: actions/configure-pages@v5
