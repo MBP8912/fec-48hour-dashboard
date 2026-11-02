@@ -5646,6 +5646,472 @@
       "most_recent_filing": 2045369,
       "is_amended": false,
       "filed_date": "2026-11-01"
+    },
+    "C00900431/2045610": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "BARRAGAN FOR CONGRESS",
+          "state": "CA",
+          "transaction_id": "F65-153876",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 200000,
+          "contributor": "BUNZEL, THEODORE",
+          "state": "NY",
+          "transaction_id": "F65-152989",
+          "entity_type": "IND",
+          "employer": "LAZARD",
+          "occupation": "MANAGING DIRECTOR"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 500000,
+          "contributor": "CFFE PAC",
+          "state": "DC",
+          "transaction_id": "F65-151536",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "CHC BOLD PAC",
+          "state": "TX",
+          "transaction_id": "F65-151526",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "CISNEROS FOR CONGRESS",
+          "state": "CA",
+          "transaction_id": "F65-153874",
+          "entity_type": "CCM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 350000,
+          "contributor": "CLEARED TO LEAD PAC",
+          "state": "DC",
+          "transaction_id": "F65-151534",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "COULSON, DAVID",
+          "state": "NY",
+          "transaction_id": "F65-152995",
+          "entity_type": "IND",
+          "employer": "GOLDMAN SACHS",
+          "occupation": "FINANCE"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "DEMOCRATIC ACTION NETWORK",
+          "state": "DC",
+          "transaction_id": "F65-153877",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "DEMOCRATS WIN SEATS (DWS PAC)",
+          "state": "DC",
+          "transaction_id": "F65-153872",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 250000,
+          "contributor": "DMFI PAC",
+          "state": "DC",
+          "transaction_id": "F65-153875",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "FLAWS, JAMES B",
+          "state": "NY",
+          "transaction_id": "F65-152996",
+          "entity_type": "IND",
+          "employer": "UNEMPLOYED",
+          "occupation": "UNEMPLOYED"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "FORMA, CHARLES",
+          "state": "NY",
+          "transaction_id": "F65-153864",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 350000,
+          "contributor": "FORTE, MF",
+          "state": "NY",
+          "transaction_id": "F65-152987",
+          "entity_type": "IND",
+          "employer": "HB FULLER CO",
+          "occupation": "ATTORNEY"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 250000,
+          "contributor": "FRANK, EILEEN",
+          "state": "NY",
+          "transaction_id": "F65-153854",
+          "entity_type": "IND",
+          "employer": "J P WEST INC",
+          "occupation": "INSURANCE BROKER"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 350000,
+          "contributor": "GIANT, LAUREN",
+          "state": "NY",
+          "transaction_id": "F65-151560",
+          "entity_type": "IND",
+          "employer": "UNEMPLOYED",
+          "occupation": "UNEMPLOYED"
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 100000,
+          "contributor": "GRAY, CATHERINE",
+          "state": "CA",
+          "transaction_id": "F65-153857",
+          "entity_type": "IND",
+          "employer": "IN-Q-TEL",
+          "occupation": "PARTNER"
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 100000,
+          "contributor": "HARROD, JAMES",
+          "state": "NY",
+          "transaction_id": "F65-153867",
+          "entity_type": "IND",
+          "employer": "BERNSTEIN LITOWITZ BERGER & GROSSMANN",
+          "occupation": "LAWYER"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 500000,
+          "contributor": "HONOR BOUND PAC",
+          "state": "KY",
+          "transaction_id": "F65-151535",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "HORWITZ, JEFFREY",
+          "state": "NY",
+          "transaction_id": "F65-153000",
+          "entity_type": "IND",
+          "employer": "PROSKAUER ROSE LLP",
+          "occupation": "ATTORNEY"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "HOTCHANDANI, RAVI",
+          "state": "NY",
+          "transaction_id": "F65-153859",
+          "entity_type": "IND",
+          "employer": "NORTHERN MEDICAL GROUP",
+          "occupation": "PHYSICIAN"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 200000,
+          "contributor": "KAUFMAN, KEN",
+          "state": "IL",
+          "transaction_id": "F65-152990",
+          "entity_type": "IND",
+          "employer": "VIZIENT",
+          "occupation": "CONSULTANT"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 350000,
+          "contributor": "KEENAN, KATIE",
+          "state": "NY",
+          "transaction_id": "F65-152985",
+          "entity_type": "IND",
+          "employer": "BLACKSTONE",
+          "occupation": "FINANCE"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "KENDALL, KATIE",
+          "state": "NC",
+          "transaction_id": "F65-152992",
+          "entity_type": "IND",
+          "employer": "XXX-XX-XXXX",
+          "occupation": "ATTORNEY"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 150000,
+          "contributor": "LAPPIN, MICHAEL",
+          "state": "NY",
+          "transaction_id": "F65-153861",
+          "entity_type": "IND",
+          "employer": "LAPPIN ASSOCIATES",
+          "occupation": "REAL ESTATE"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 250000,
+          "contributor": "LGBTQ VICTORY FUND FEDERAL PAC",
+          "state": "DC",
+          "transaction_id": "F65-151527",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "LYTTON RANCHERIA TRIBAL GOVERNMENT",
+          "state": "CA",
+          "transaction_id": "F65-153871",
+          "entity_type": "COM",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "MAC PAC",
+          "state": "MA",
+          "transaction_id": "F65-153873",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "MAKING A DIFFERENCE PAC",
+          "state": "DC",
+          "transaction_id": "F65-151532",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "MICHACA, ESTEBAN",
+          "state": "NY",
+          "transaction_id": "F65-153852",
+          "entity_type": "IND",
+          "employer": "WESTCHESTER COUNTY",
+          "occupation": "VOTING MACHINE TECH"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "OTTAWAY, JAMES W.",
+          "state": "MA",
+          "transaction_id": "F65-152997",
+          "entity_type": "IND",
+          "employer": "SELF EMPLOYED",
+          "occupation": "SONGWRITER"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "PIETSCH, MICHAEL",
+          "state": "NY",
+          "transaction_id": "F65-152993",
+          "entity_type": "IND",
+          "employer": "HACHETTE BOOK GROUP",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "RICHARDS, JEFFREY",
+          "state": "CO",
+          "transaction_id": "F65-153869",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "RIPLEY, ROSEMARY",
+          "state": "CT",
+          "transaction_id": "F65-152999",
+          "entity_type": "IND",
+          "employer": "NGEN",
+          "occupation": "VC"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "ROSENBLATT, LAWRENCE",
+          "state": "NY",
+          "transaction_id": "F65-152994",
+          "entity_type": "IND",
+          "employer": "BOWERY RESIDENTS COMMITTEE",
+          "occupation": "ADVISOR"
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 350000,
+          "contributor": "ROSENBLUM, BRUCE",
+          "state": "MD",
+          "transaction_id": "F65-153858",
+          "entity_type": "IND",
+          "employer": "THE CARLYLE GROUP",
+          "occupation": "BUSINESS EXECUTIVE"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 250000,
+          "contributor": "RUBIN, ALAN",
+          "state": "NY",
+          "transaction_id": "F65-153868",
+          "entity_type": "IND",
+          "employer": "BLANKROME LLC",
+          "occupation": "PRINCIPLE"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 250000,
+          "contributor": "SAMUELS, CATHERINE",
+          "state": "NY",
+          "transaction_id": "F65-152988",
+          "entity_type": "IND",
+          "employer": "UNEMPLOYED",
+          "occupation": "UNEMPLOYED"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 350000,
+          "contributor": "SCHEUER, ELIZABETH",
+          "state": "NY",
+          "transaction_id": "F65-152986",
+          "entity_type": "IND",
+          "employer": "SELF EMPLOYED",
+          "occupation": "TEACHER"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "SKONY STAMM, MARILYN",
+          "state": "NJ",
+          "transaction_id": "F65-153855",
+          "entity_type": "IND",
+          "employer": "STAMM INTERNATIONAL LLC",
+          "occupation": "PRESIDENT"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 350000,
+          "contributor": "STIEFEL, BARBARA",
+          "state": "FL",
+          "transaction_id": "F65-153851",
+          "entity_type": "IND",
+          "employer": "NOT EMPLOYED",
+          "occupation": "NOT EMPLOYED"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "SUGZDA, ALEXANDER",
+          "state": "NY",
+          "transaction_id": "F65-152991",
+          "entity_type": "IND",
+          "employer": "COHEN ZIFFER FRENCHMAN & MCKENNA LLP",
+          "occupation": "ATTORNEY"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "THE GUNNY PAC",
+          "state": "AZ",
+          "transaction_id": "F65-151533",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "THE MADISON PAC",
+          "state": "MA",
+          "transaction_id": "F65-151537",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 250000,
+          "contributor": "WEBER, MARCIA",
+          "state": "NY",
+          "transaction_id": "F65-151518",
+          "entity_type": "IND",
+          "employer": "RETIRED",
+          "occupation": "RETIRED"
+        },
+        {
+          "date": "2026-10-30",
+          "amount_cents": 100000,
+          "contributor": "ZUKOWSKY, AVA A.",
+          "state": "NY",
+          "transaction_id": "F65-152998",
+          "entity_type": "IND",
+          "employer": "UNEMPLOYED",
+          "occupation": "UNEMPLOYED"
+        }
+      ],
+      "file_number": 2045610,
+      "committee_id": "C00900431",
+      "sha256": "02759f1849bd97814b373fd4c643924543ba7179d6bbba6881dfac511bc1caff",
+      "amendment_chain": [
+        2045610
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045610,
+      "is_amended": false,
+      "filed_date": "2026-11-01"
     }
   }
 }
