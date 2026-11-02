@@ -1,0 +1,9 @@
+{
+  "race": "CA-13",
+  "source": "California Secretary of State",
+  "source_url": "https://media.sos.ca.gov/",
+  "updated_at": null,
+  "test_data": true,
+  "metric": "precincts",
+  "counties": []
+}

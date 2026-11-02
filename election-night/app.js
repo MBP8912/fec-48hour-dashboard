@@ -166,6 +166,34 @@
     return true;
   }
 
+  function parseCalifornia(json){
+    if (!json || json.race!=='CA-13' || !Array.isArray(json.counties))return false;
+    const r=raceIndex.get('CA-13'),existing=state.results.get(r.id);
+    const ts=getTime(json.updated_at);
+    const counties=json.counties.filter(c=>c&&typeof c.name==='string').map(c=>{
+      const cands=Array.isArray(c.candidates)?c.candidates.map(v=>candidate(v.name,v.party,v.votes,null)):[];
+      const report=int(c.precincts_reporting),total=int(c.precincts_total);
+      return {name:c.name,candidates:cands,total:sumVotes(cands),
+        precinctsReporting:report,precinctsTotal:total,
+        progress:total>0&&report<=total?100*report/total:null,progressKind:'precincts'};
+    });
+    if(counties.length!==5)return false;
+    existing.counties=counties;
+    existing.countySource='California Secretary of State';
+    existing.countyAsOf=ts;
+    if(json.test_data===true||!closed(r)||!ts||ts<CLOSE_11)return true;
+    const grouped=new Map();let countReport=0,countTotal=0;
+    for(const c of counties){
+      countReport+=c.precinctsReporting||0;countTotal+=c.precinctsTotal||0;
+      for(const cand of c.candidates){const key=cand.name+'|'+cand.party;
+        const prev=grouped.get(key)||{...cand,votes:0};prev.votes+=cand.votes;grouped.set(key,prev);}
+    }
+    const candidates=[...grouped.values()];
+    acceptRace(r,{candidates,total:sumVotes(candidates),progress:countTotal>0?100*countReport/countTotal:null,
+      progressKind:countTotal>0?'precincts':null,source:'California Secretary of State',asof:ts});
+    return true;
+  }
+
   function parseNewYork(json){
     if (!json || !json.races || typeof json.races!== 'object') return false;
     const ts=getTime(json.source_updated_at);
@@ -202,6 +230,7 @@
       fetchJSON('./data/official-mn.json?v='+Date.now()).then(parseMinnesota),
       fetchJSON('./data/official-ne.json?v='+Date.now()).then(parseNebraska),
       fetchJSON('./data/official-ny.json?v='+Date.now()).then(parseNewYork),
+      fetchJSON('./data/official-ca.json?v='+Date.now()).then(parseCalifornia),
     ];
     const results=await Promise.allSettled(jobs);
     state.checkedAt=Date.now();
@@ -253,7 +282,7 @@
       const candidateHtml=shown.map(c=>`<div class="vote-line"><span class="vote-name"><i class="party-swatch p-${escapeHtml(c.party)}"></i><span>${escapeHtml(c.name)}</span></span><span class="vote-number">${hasVotes?fmt(c.votes):'—'}${hasVotes?` <span class="muted">${pct(100*c.votes/data.total)}</span>`:''}</span></div>`).join('');
       const bars=hasVotes?`<div class="micro-bars">${candidates.map(c=>`<i style="width:${Math.max(0,100*c.votes/data.total)}%;background:${c.party==='D'?'#367ed0':c.party==='R'?'#d34d52':'#9d9cb2'}"></i>`).join('')}</div>`:'';
       const progressHtml=data.progress==null?`<span class="muted">Not available</span>`:`<div class="progress-value">${pct(data.progress)}</div><div class="progress-type">${data.progressKind==='estimated votes'?'Est. votes counted':data.progressKind==='election districts'?'Election districts reporting':'Precincts reporting'}</div><div class="tiny-progress"><div style="width:${data.progress}%"></div></div>`;
-      const officialCounty = r.state==='MN'||r.state==='NE';
+      const officialCounty = r.state==='MN'||r.state==='NE'||r.state==='CA';
       const status=!closed(r)?['Polls open','pre']:hasVotes?[fresh(data.asof)?'Reporting':'Snapshot','active']:(r.openAmerica||officialCounty)?['Awaiting feed','stale']:['No live feed','missing'];
       const progressExplanation=hasVotes?` <span class="muted">· ${fmt(data.total)} votes</span>`:'';
       return `<tr tabindex="0" role="link" data-race="${r.id}" aria-label="Open ${escapeHtml(r.label)} results"><td><div class="race-title">${escapeHtml(r.label)}</div><div class="race-sub">${r.type==='governor'?'Governor':'U.S. House'} · ${escapeHtml(STATES[r.state].name)}</div></td><td class="vote-pair">${candidateHtml}${otherCount>0?`<span class="muted">+ ${otherCount} additional candidate${otherCount>1?'s':''}</span>`:''}${bars}${progressExplanation}</td><td>${progressHtml}</td><td><span class="poll-time">${r.close===CLOSE_11?'11:00':'9:00'} PM ET</span></td><td><span class="pill ${status[1]}">${status[0]}</span></td><td class="row-arrow">›</td></tr>`;
@@ -271,11 +300,11 @@
       const share=hasVotes?100*c.votes/data.total:0;
       return `<article class="candidate-card"><div class="candidate-topline"><span><i class="party-swatch p-${c.party}"></i> ${escapeHtml(c.name)}</span><small>${c.party==='D'?'DEMOCRATIC':c.party==='R'?'REPUBLICAN':'OTHER'}</small></div><div class="candidate-total">${hasVotes?fmt(c.votes):'—'}</div><div class="candidate-share">${hasVotes?pct(share)+' of reported votes':'Votes not yet reported'}</div><div class="candidate-track"><i style="width:${share}%;background:${c.party==='D'?'#69a9ee':c.party==='R'?'#f1898c':'#b4acd4'}"></i></div></article>`;
     }).join('');
-    el('detail-asof').textContent=hasVotes?`${data.source} · last feed update ${timeText(data.asof)}`:'No verified live totals yet';
+    el('detail-asof').textContent=hasVotes?`${data.source} · feed as of ${timeText(data.asof)}`:'No verified live totals yet';
     el('detail-progress').textContent=data.progress==null?'Reporting percentage not available':`${pct(data.progress)} ${data.progressKind==='estimated votes'?'of estimated vote counted':data.progressKind==='election districts'?'of election districts reporting':'of precincts reporting'}`;
     const warn=el('detail-warning');
     if(!closed(r)){warn.classList.remove('warning');warn.innerHTML='<span class="banner-symbol">i</span><div><b>Polls have not closed.</b> This page will display only verified returns from November 3, 2026; any pre-election test data is ignored.</div>';}
-    else if(!hasVotes){warn.classList.add('warning');warn.innerHTML=`<span class="banner-symbol">!</span><div><b>No verified vote totals from a supported feed.</b> ${r.openAmerica||r.state==='NE'||r.state==='NY'?'A free official-data feed is configured but no returns have arrived.':'The available free feeds have not provided usable totals for this race.'} Check ${htmlSource(STATES[r.state].name+' official results',STATES[r.state].url)}.</div>`;}
+    else if(!hasVotes){warn.classList.add('warning');warn.innerHTML=`<span class="banner-symbol">!</span><div><b>No verified vote totals from a supported feed.</b> ${r.openAmerica||r.state==='NE'||r.state==='CA'?'A free official-data feed is configured but no returns have arrived.':'The available free feeds have not provided usable totals for this race.'} Check ${htmlSource(STATES[r.state].name+' official results',STATES[r.state].url)}.</div>`;}
     else if(!fresh(data.asof)){warn.classList.add('warning');warn.innerHTML=`<span class="banner-symbol">!</span><div><b>Last source update may be stale.</b> These are the last successfully obtained unofficial results from ${escapeHtml(data.source)} as of ${escapeHtml(timeText(data.asof))}. Check ${htmlSource('official results',STATES[r.state].url)}.</div>`;}
     else{warn.classList.remove('warning');warn.innerHTML=`<span class="banner-symbol">i</span><div><b>Unofficial returns, not a race call.</b> Source: ${escapeHtml(data.source)}. Last source update: ${escapeHtml(timeText(data.asof))}. ${htmlSource('Official state election website',STATES[r.state].url)}.</div>`;}
     renderCounties(r,data);
