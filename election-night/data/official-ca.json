@@ -2,8 +2,95 @@
   "race": "CA-13",
   "source": "California Secretary of State",
   "source_url": "https://media.sos.ca.gov/",
-  "updated_at": null,
-  "test_data": true,
+  "updated_at": "2026-11-01T20:42:51Z",
   "metric": "precincts",
-  "counties": []
+  "counties": [
+    {
+      "name": "Fresno",
+      "candidates": [
+        {
+          "name": "Adam Gray",
+          "party": "D",
+          "votes": 0
+        },
+        {
+          "name": "Kevin Lincoln",
+          "party": "R",
+          "votes": 0
+        }
+      ],
+      "precincts_reporting": 0,
+      "precincts_total": 8
+    },
+    {
+      "name": "Madera",
+      "candidates": [
+        {
+          "name": "Adam Gray",
+          "party": "D",
+          "votes": 0
+        },
+        {
+          "name": "Kevin Lincoln",
+          "party": "R",
+          "votes": 0
+        }
+      ],
+      "precincts_reporting": 0,
+      "precincts_total": 39
+    },
+    {
+      "name": "Merced",
+      "candidates": [
+        {
+          "name": "Adam Gray",
+          "party": "D",
+          "votes": 0
+        },
+        {
+          "name": "Kevin Lincoln",
+          "party": "R",
+          "votes": 0
+        }
+      ],
+      "precincts_reporting": 0,
+      "precincts_total": 770
+    },
+    {
+      "name": "San Joaquin",
+      "candidates": [
+        {
+          "name": "Adam Gray",
+          "party": "D",
+          "votes": 0
+        },
+        {
+          "name": "Kevin Lincoln",
+          "party": "R",
+          "votes": 0
+        }
+      ],
+      "precincts_reporting": 0,
+      "precincts_total": 64
+    },
+    {
+      "name": "Stanislaus",
+      "candidates": [
+        {
+          "name": "Adam Gray",
+          "party": "D",
+          "votes": 0
+        },
+        {
+          "name": "Kevin Lincoln",
+          "party": "R",
+          "votes": 0
+        }
+      ],
+      "precincts_reporting": 0,
+      "precincts_total": 93
+    }
+  ],
+  "test_data": true,
+  "source_hash": "f04d09b795abdc78bda57dd17e26072593da2ab8119241d2c7a2f6501b7f34b9"
 }
