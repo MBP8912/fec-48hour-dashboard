@@ -2666,6 +2666,92 @@
       "most_recent_filing": 2045698,
       "is_amended": false,
       "filed_date": "2026-11-02"
+    },
+    "C00807743/2045877": {
+      "form_type": "F6N",
+      "original_amendment_date": null,
+      "contributions": [
+        {
+          "date": "2026-10-31",
+          "amount_cents": 350000,
+          "contributor": "MORRELL, TRENT",
+          "state": "MN",
+          "transaction_id": "66459EF43528241058F5",
+          "entity_type": "IND",
+          "employer": "MORRELL COMPANIES",
+          "occupation": "BUSINESS OWNER"
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 100000,
+          "contributor": "DUININCK, JASON",
+          "state": "FL",
+          "transaction_id": "61C98408D42254823BD1",
+          "entity_type": "IND",
+          "employer": "DUININCK COMPANIES",
+          "occupation": "DEVELOPER"
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 208203,
+          "contributor": "STUDER, KRISTEN H",
+          "state": "TX",
+          "transaction_id": "6FB25E9A351B14610A42",
+          "entity_type": "IND",
+          "employer": "BUDDY'S PLANT PLUS",
+          "occupation": "TREASURER"
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 350000,
+          "contributor": "CONSTANTINO, ANTHONY",
+          "state": "NY",
+          "transaction_id": "626F8E50D6CEA4369881",
+          "entity_type": "IND",
+          "employer": "STICKER MULE",
+          "occupation": "CEO"
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 250000,
+          "contributor": "TULLY, JAMES K",
+          "state": "MN",
+          "transaction_id": "6D8D70C2A771E44F6A32",
+          "entity_type": "IND",
+          "employer": "SELF EMPLOYED",
+          "occupation": "FARMER"
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 150000,
+          "contributor": "WILKINSON, JAY",
+          "state": "IN",
+          "transaction_id": "61EA3FED04A644410B94",
+          "entity_type": "IND",
+          "employer": "HOOSIER INVESTMENTS",
+          "occupation": "PARTNER"
+        },
+        {
+          "date": "2026-10-31",
+          "amount_cents": 156152,
+          "contributor": "BARANAY, PETER",
+          "state": "IN",
+          "transaction_id": "61CD575626B014C7F98A",
+          "entity_type": "IND",
+          "employer": "ABRO INDUSTRIES, INC",
+          "occupation": "SALES"
+        }
+      ],
+      "file_number": 2045877,
+      "committee_id": "C00807743",
+      "sha256": "aa654484526827200a0bbc6f1f82bc1dc5537cde0106a7b8b78512a84ee27825",
+      "amendment_chain": [
+        2045877
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2045877,
+      "is_amended": false,
+      "filed_date": "2026-11-02"
     }
   }
 }

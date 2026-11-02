@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-02T20:44:19+00:00",
+  "generated_at": "2026-11-02T21:41:10+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -261,15 +261,15 @@
     {
       "date": "2026-10-31",
       "totals": {
-        "lawler": 0,
+        "lawler": 1564355,
         "conley": 300000
       },
       "cumulative": {
-        "lawler": 23561108,
+        "lawler": 25125463,
         "conley": 27062353
       },
       "counts": {
-        "lawler": 0,
+        "lawler": 7,
         "conley": 3
       }
     }
@@ -435,6 +435,13 @@
       "filed_date": "2026-11-02",
       "form_type": "F6A",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00902684/2045698/f65"
+    },
+    {
+      "committee_id": "C00807743",
+      "file_number": 2045877,
+      "filed_date": "2026-11-02",
+      "form_type": "F6N",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00807743/2045877/f65"
     }
   ],
   "contributions": [
@@ -3116,6 +3123,90 @@
     },
     {
       "date": "2026-10-31",
+      "amount_cents": 156152,
+      "contributor": "BARANAY, PETER",
+      "state": "IN",
+      "transaction_id": "61CD575626B014C7F98A",
+      "entity_type": "IND",
+      "employer": "ABRO INDUSTRIES, INC",
+      "occupation": "SALES",
+      "committee_id": "C00807743",
+      "file_number": 2045877
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 350000,
+      "contributor": "CONSTANTINO, ANTHONY",
+      "state": "NY",
+      "transaction_id": "626F8E50D6CEA4369881",
+      "entity_type": "IND",
+      "employer": "STICKER MULE",
+      "occupation": "CEO",
+      "committee_id": "C00807743",
+      "file_number": 2045877
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 100000,
+      "contributor": "DUININCK, JASON",
+      "state": "FL",
+      "transaction_id": "61C98408D42254823BD1",
+      "entity_type": "IND",
+      "employer": "DUININCK COMPANIES",
+      "occupation": "DEVELOPER",
+      "committee_id": "C00807743",
+      "file_number": 2045877
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 350000,
+      "contributor": "MORRELL, TRENT",
+      "state": "MN",
+      "transaction_id": "66459EF43528241058F5",
+      "entity_type": "IND",
+      "employer": "MORRELL COMPANIES",
+      "occupation": "BUSINESS OWNER",
+      "committee_id": "C00807743",
+      "file_number": 2045877
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 208203,
+      "contributor": "STUDER, KRISTEN H",
+      "state": "TX",
+      "transaction_id": "6FB25E9A351B14610A42",
+      "entity_type": "IND",
+      "employer": "BUDDY'S PLANT PLUS",
+      "occupation": "TREASURER",
+      "committee_id": "C00807743",
+      "file_number": 2045877
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 250000,
+      "contributor": "TULLY, JAMES K",
+      "state": "MN",
+      "transaction_id": "6D8D70C2A771E44F6A32",
+      "entity_type": "IND",
+      "employer": "SELF EMPLOYED",
+      "occupation": "FARMER",
+      "committee_id": "C00807743",
+      "file_number": 2045877
+    },
+    {
+      "date": "2026-10-31",
+      "amount_cents": 150000,
+      "contributor": "WILKINSON, JAY",
+      "state": "IN",
+      "transaction_id": "61EA3FED04A644410B94",
+      "entity_type": "IND",
+      "employer": "HOOSIER INVESTMENTS",
+      "occupation": "PARTNER",
+      "committee_id": "C00807743",
+      "file_number": 2045877
+    },
+    {
+      "date": "2026-10-31",
       "amount_cents": 100000,
       "contributor": "JUSTICE LEAGUE PAC",
       "state": "DC",
@@ -3151,7 +3242,7 @@
       "file_number": 2045698
     }
   ],
-  "report_count": 23,
+  "report_count": 24,
   "warnings": [],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
