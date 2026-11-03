@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-03T15:51:21+00:00",
+  "generated_at": "2026-11-03T16:56:07+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -247,11 +247,11 @@
       "date": "2026-10-30",
       "totals": {
         "lawler": 200000,
-        "conley": 900000
+        "conley": 850000
       },
       "cumulative": {
         "lawler": 29477551,
-        "conley": 16135634
+        "conley": 16085634
       },
       "counts": {
         "lawler": 1,
@@ -266,7 +266,7 @@
       },
       "cumulative": {
         "lawler": 29477551,
-        "conley": 16335634
+        "conley": 16285634
       },
       "counts": {
         "lawler": 0,
@@ -367,13 +367,6 @@
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00909515/2043757/f65"
     },
     {
-      "committee_id": "C00903948",
-      "file_number": 2044863,
-      "filed_date": "2026-10-31",
-      "form_type": "F6N",
-      "url": "https://docquery.fec.gov/cgi-bin/forms/C00903948/2044863/f65"
-    },
-    {
       "committee_id": "C00909515",
       "file_number": 2044953,
       "filed_date": "2026-10-31",
@@ -386,6 +379,13 @@
       "filed_date": "2026-11-01",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00903948/2045390/f65"
+    },
+    {
+      "committee_id": "C00903948",
+      "file_number": 2046058,
+      "filed_date": "2026-11-03",
+      "form_type": "F6A",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00903948/2046058/f65"
     }
   ],
   "contributions": [
@@ -2187,7 +2187,7 @@
       "employer": "Not Employed",
       "occupation": "Not Employed",
       "committee_id": "C00903948",
-      "file_number": 2044863
+      "file_number": 2046058
     },
     {
       "date": "2026-10-29",
@@ -2199,7 +2199,7 @@
       "employer": "",
       "occupation": "",
       "committee_id": "C00903948",
-      "file_number": 2044863
+      "file_number": 2046058
     },
     {
       "date": "2026-10-29",
@@ -2211,7 +2211,7 @@
       "employer": "Liverpool Enterprises",
       "occupation": "President",
       "committee_id": "C00903948",
-      "file_number": 2044863
+      "file_number": 2046058
     },
     {
       "date": "2026-10-29",
@@ -2223,7 +2223,7 @@
       "employer": "",
       "occupation": "",
       "committee_id": "C00903948",
-      "file_number": 2044863
+      "file_number": 2046058
     },
     {
       "date": "2026-10-29",
@@ -2235,7 +2235,7 @@
       "employer": "Self Employed",
       "occupation": "Filmmaker",
       "committee_id": "C00903948",
-      "file_number": 2044863
+      "file_number": 2046058
     },
     {
       "date": "2026-10-29",
@@ -2247,7 +2247,7 @@
       "employer": "",
       "occupation": "",
       "committee_id": "C00903948",
-      "file_number": 2044863
+      "file_number": 2046058
     },
     {
       "date": "2026-10-29",
@@ -2259,7 +2259,7 @@
       "employer": "",
       "occupation": "",
       "committee_id": "C00903948",
-      "file_number": 2044863
+      "file_number": 2046058
     },
     {
       "date": "2026-10-29",
@@ -2307,7 +2307,7 @@
       "employer": "",
       "occupation": "",
       "committee_id": "C00903948",
-      "file_number": 2044863
+      "file_number": 2046058
     },
     {
       "date": "2026-10-30",
@@ -2319,7 +2319,7 @@
       "employer": "Lozier Enterprise",
       "occupation": "Chief Operating Officer",
       "committee_id": "C00903948",
-      "file_number": 2044863
+      "file_number": 2046058
     },
     {
       "date": "2026-10-30",
@@ -2331,7 +2331,7 @@
       "employer": "",
       "occupation": "",
       "committee_id": "C00903948",
-      "file_number": 2044863
+      "file_number": 2046058
     },
     {
       "date": "2026-10-30",
@@ -2343,11 +2343,11 @@
       "employer": "",
       "occupation": "",
       "committee_id": "C00903948",
-      "file_number": 2044863
+      "file_number": 2046058
     },
     {
       "date": "2026-10-30",
-      "amount_cents": 150000,
+      "amount_cents": 100000,
       "contributor": "Richards, Jeffrey",
       "state": "CO",
       "transaction_id": "15540598",
@@ -2355,7 +2355,7 @@
       "employer": "Not Employed",
       "occupation": "Not Employed",
       "committee_id": "C00903948",
-      "file_number": 2044863
+      "file_number": 2046058
     },
     {
       "date": "2026-10-30",
@@ -2367,7 +2367,7 @@
       "employer": "Self Employed",
       "occupation": "Real Estate Broker",
       "committee_id": "C00903948",
-      "file_number": 2044863
+      "file_number": 2046058
     },
     {
       "date": "2026-10-30",
@@ -2379,7 +2379,7 @@
       "employer": "",
       "occupation": "",
       "committee_id": "C00903948",
-      "file_number": 2044863
+      "file_number": 2046058
     },
     {
       "date": "2026-10-30",
