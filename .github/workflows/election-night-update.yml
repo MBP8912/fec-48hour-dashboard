@@ -86,13 +86,24 @@ jobs:
             git pull --rebase -X theirs origin main
             git push
           fi
-      - name: Check for new AP-attributed prediction-pool calls
+      - name: Limit high-frequency prediction checks to 6 AM ET on November 4
         if: steps.window.outputs.active == 'true'
+        id: prediction_window
+        shell: bash
+        run: |
+          local_now="$(TZ=America/New_York date '+%Y-%m-%dT%H:%M:%S')"
+          if [[ "$local_now" < "2026-11-04T06:00:00" ]]; then
+            echo "active=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "active=false" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Check for new AP-attributed prediction-pool calls
+        if: steps.prediction_window.outputs.active == 'true'
         id: prediction_calls
         continue-on-error: true
         run: python predictions/refresh_calls.py
       - name: Archive prediction-pool AP race-call snapshot
-        if: steps.window.outputs.active == 'true' && steps.prediction_calls.outcome == 'success'
+        if: steps.prediction_window.outputs.active == 'true' && steps.prediction_calls.outcome == 'success'
         shell: bash
         run: |
           git config user.name 'github-actions[bot]'
