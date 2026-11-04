@@ -1,10 +1,125 @@
 {
   "electionDate": "2026-11-03",
-  "lastChecked": "2026-11-04T13:00:49.516578+00:00",
-  "lastSuccess": "2026-11-04T13:00:49.516578+00:00",
-  "sourceGenerated": null,
-  "sourceUrl": "https://thepeoplestally.com/data/results.json",
+  "lastChecked": "2026-11-04T13:52:09.214Z",
+  "lastSuccess": "2026-11-04T13:52:09.214Z",
+  "sourceGenerated": "2026-11-04T13:52:09.214Z",
+  "sourceUrl": "https://voteclock.org/2026-election-results",
   "feedRaceCount": 10,
-  "calls": {},
-  "status": "ok"
+  "calls": {
+    "S-ME": {
+      "winner": "Troy Jackson",
+      "calledBy": "AP",
+      "calledAt": null,
+      "verifiedAt": "2026-11-04T13:52:09.214Z",
+      "sourceUrl": "https://voteclock.org/2026-election-results",
+      "sourceFeed": "Vote Clock — AP-attributed call reports"
+    },
+    "S-NC": {
+      "winner": "Roy Cooper",
+      "calledBy": "AP",
+      "calledAt": null,
+      "verifiedAt": "2026-11-04T13:52:09.214Z",
+      "sourceUrl": "https://voteclock.org/2026-election-results",
+      "sourceFeed": "Vote Clock — AP-attributed call reports"
+    },
+    "S-MI": {
+      "winner": "Abdul El-Sayed",
+      "calledBy": "AP",
+      "calledAt": null,
+      "verifiedAt": "2026-11-04T13:52:09.214Z",
+      "sourceUrl": "https://voteclock.org/2026-election-results",
+      "sourceFeed": "Vote Clock — AP-attributed call reports"
+    },
+    "S-IA": {
+      "winner": "Josh Turek",
+      "calledBy": "AP",
+      "calledAt": null,
+      "verifiedAt": "2026-11-04T13:52:09.214Z",
+      "sourceUrl": "https://voteclock.org/2026-election-results",
+      "sourceFeed": "Vote Clock — AP-attributed call reports"
+    },
+    "S-KS": {
+      "winner": "Adam Hamilton",
+      "calledBy": "AP",
+      "calledAt": null,
+      "verifiedAt": "2026-11-04T13:52:09.214Z",
+      "sourceUrl": "https://voteclock.org/2026-election-results",
+      "sourceFeed": "Vote Clock — AP-attributed call reports"
+    },
+    "S-TX": {
+      "winner": "James Talarico",
+      "calledBy": "AP",
+      "calledAt": null,
+      "verifiedAt": "2026-11-04T13:52:09.214Z",
+      "sourceUrl": "https://voteclock.org/2026-election-results",
+      "sourceFeed": "Vote Clock — AP-attributed call reports"
+    },
+    "S-OH-sp": {
+      "winner": "Sherrod Brown",
+      "calledBy": "AP",
+      "calledAt": null,
+      "verifiedAt": "2026-11-04T13:52:09.214Z",
+      "sourceUrl": "https://voteclock.org/2026-election-results",
+      "sourceFeed": "Vote Clock — AP-attributed call reports"
+    },
+    "S-NE": {
+      "winner": "Pete Ricketts",
+      "calledBy": "AP",
+      "calledAt": null,
+      "verifiedAt": "2026-11-04T13:52:09.214Z",
+      "sourceUrl": "https://voteclock.org/2026-election-results",
+      "sourceFeed": "Vote Clock — AP-attributed call reports"
+    },
+    "G-OH": {
+      "winner": "Amy Acton",
+      "calledBy": "AP",
+      "calledAt": null,
+      "verifiedAt": "2026-11-04T13:52:09.214Z",
+      "sourceUrl": "https://voteclock.org/2026-election-results",
+      "sourceFeed": "Vote Clock — AP-attributed call reports"
+    },
+    "G-NE": {
+      "winner": "Jim Pillen",
+      "calledBy": "AP",
+      "calledAt": null,
+      "verifiedAt": "2026-11-04T13:52:09.214Z",
+      "sourceUrl": "https://voteclock.org/2026-election-results",
+      "sourceFeed": "Vote Clock — AP-attributed call reports"
+    },
+    "G-IA": {
+      "winner": "Rob Sand",
+      "calledBy": "AP",
+      "calledAt": null,
+      "verifiedAt": "2026-11-04T13:52:09.214Z",
+      "sourceUrl": "https://voteclock.org/2026-election-results",
+      "sourceFeed": "Vote Clock — AP-attributed call reports"
+    },
+    "G-NV": {
+      "winner": "Aaron Ford",
+      "calledBy": "AP",
+      "calledAt": null,
+      "verifiedAt": "2026-11-04T13:52:09.214Z",
+      "sourceUrl": "https://voteclock.org/2026-election-results",
+      "sourceFeed": "Vote Clock — AP-attributed call reports"
+    },
+    "H-OH-07": {
+      "winner": "Brian Poindexter",
+      "calledBy": "AP",
+      "calledAt": null,
+      "verifiedAt": "2026-11-04T13:52:09.214Z",
+      "sourceUrl": "https://rollcall.com/2026/11/03/key-midterm-election-results/",
+      "sourceFeed": "CQ Roll Call — AP-attributed race calls"
+    },
+    "H-WI-01": {
+      "winner": "Mitchell Berman",
+      "calledBy": "AP",
+      "calledAt": null,
+      "verifiedAt": "2026-11-04T13:52:09.214Z",
+      "sourceUrl": "https://rollcall.com/2026/11/03/key-midterm-election-results/",
+      "sourceFeed": "CQ Roll Call — AP-attributed race calls"
+    }
+  },
+  "status": "ok",
+  "secondarySourceUrl": "https://rollcall.com/2026/11/03/key-midterm-election-results/",
+  "callSourcesNote": "Only explicitly AP-attributed winners verified against named 2026 contests; uncalled contests remain pending."
 }
