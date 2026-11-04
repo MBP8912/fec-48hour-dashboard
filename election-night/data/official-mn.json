@@ -2,8 +2,8 @@
   "race": "MN-01",
   "source": "Minnesota Secretary of State",
   "source_url": "https://electionresults.sos.mn.gov/Select/MediaFiles/Index?ersElectionId=201",
-  "updated_at": "2026-11-04T22:08:13.161428Z",
-  "source_hash": "08f19dddfad97061219aab5b60de46fe5499f9b9f6a44770f958563df536fd88",
+  "updated_at": "2026-11-04T22:50:25.526980Z",
+  "source_hash": "05953698d2274829c67fc166abe53ae085b71f8c7c807adc3521983e3a9266d0",
   "test_data": false,
   "county_count": 21,
   "metric": "precincts reporting",
@@ -436,7 +436,7 @@
         {
           "name": "Brad Finstad",
           "party": "R",
-          "votes": 5135
+          "votes": 5136
         },
         {
           "name": "WRITE-IN",
