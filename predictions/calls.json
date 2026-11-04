@@ -1,10 +1,10 @@
 {
   "electionDate": "2026-11-03",
-  "lastChecked": "2026-11-04T13:56:42.608905+00:00",
-  "lastSuccess": "2026-11-04T13:56:42.608905+00:00",
+  "lastChecked": "2026-11-04T13:57:24.755184+00:00",
+  "lastSuccess": "2026-11-04T13:57:24.755184+00:00",
   "sourceGenerated": null,
-  "sourceUrl": "https://thepeoplestally.com/data/results.json",
-  "feedRaceCount": 10,
+  "sourceUrl": "https://voteclock.org/2026-election-results",
+  "feedRaceCount": 18,
   "calls": {
     "S-ME": {
       "winner": "Troy Jackson",
@@ -119,5 +119,23 @@
       "sourceFeed": "CQ Roll Call — AP-attributed race calls"
     }
   },
-  "status": "ok"
+  "status": "ok",
+  "sourceDetails": [
+    {
+      "url": "https://voteclock.org/2026-election-results",
+      "apMatches": 12
+    },
+    {
+      "url": "https://rollcall.com/2026/11/03/key-midterm-election-results/",
+      "apMatches": 2
+    },
+    {
+      "url": "https://thepeoplestally.com/data/results.json",
+      "apMatches": 0
+    },
+    {
+      "url": "https://thepeoplestally.com/api/live",
+      "apMatches": 0
+    }
+  ]
 }
