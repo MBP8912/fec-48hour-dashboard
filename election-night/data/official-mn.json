@@ -2,9 +2,9 @@
   "race": "MN-01",
   "source": "Minnesota Secretary of State",
   "source_url": "https://electionresults.sos.mn.gov/Select/MediaFiles/Index?ersElectionId=201",
-  "updated_at": "2026-11-02T19:35:37.626345Z",
-  "source_hash": "f07b0a7b204ee5b3ce6f2af57cfd5a9d0e571da9155a0bedfc0c3b66a2bcbe6c",
-  "test_data": true,
+  "updated_at": "2026-11-04T02:24:12.760041Z",
+  "source_hash": "f40b9d7127a4840b820aedb9dcf17de10e8eb71c02be907d68a4b8eb52255cb3",
+  "test_data": false,
   "county_count": 21,
   "metric": "precincts reporting",
   "counties": [
@@ -356,18 +356,18 @@
     {
       "county_id": "67",
       "name": "Rock",
-      "precincts_reporting": 0,
+      "precincts_reporting": 1,
       "precincts_total": 24,
       "candidates": [
         {
           "name": "Jake Johnson",
           "party": "D",
-          "votes": 0
+          "votes": 14
         },
         {
           "name": "Brad Finstad",
           "party": "R",
-          "votes": 0
+          "votes": 73
         },
         {
           "name": "WRITE-IN",

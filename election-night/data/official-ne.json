@@ -2,9 +2,9 @@
   "race": "NE-02",
   "source": "Nebraska Secretary of State",
   "source_url": "https://electionresults.nebraska.gov/",
-  "updated_at": "2026-11-02T19:43:06.594310Z",
-  "source_hash": "ac8caaf97ccf7f5b50851a65d102dfcd37c06c14f7db120b9e0858d3fb87bc6b",
-  "test_data": true,
+  "updated_at": "2026-11-04T02:24:15.830432Z",
+  "source_hash": "ceb92d3e876814023fde81480d9c9c5b63cf89065e3c5b33f5e9c521d5b0f4a4",
+  "test_data": false,
   "metric": null,
   "counties": [
     {
@@ -13,17 +13,17 @@
         {
           "name": "Brinker Harding",
           "party": "R",
-          "votes": 0
+          "votes": 30851
         },
         {
           "name": "Denise Powell",
           "party": "D",
-          "votes": 0
+          "votes": 58665
         },
         {
           "name": "Eric Michael Foreman",
           "party": "O",
-          "votes": 0
+          "votes": 1846
         }
       ],
       "precincts_reporting": null,
@@ -35,17 +35,17 @@
         {
           "name": "Brinker Harding",
           "party": "R",
-          "votes": 0
+          "votes": 2821
         },
         {
           "name": "Denise Powell",
           "party": "D",
-          "votes": 0
+          "votes": 4153
         },
         {
           "name": "Eric Michael Foreman",
           "party": "O",
-          "votes": 0
+          "votes": 97
         }
       ],
       "precincts_reporting": null,
