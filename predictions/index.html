@@ -1,0 +1,2462 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="theme-color" content="#102234">
+  <meta name="description" content="2026 election predictions from twenty participants across eighteen races, graded only after AP race calls.">
+  <title>Spiros Election 2026 · Prediction Pool</title>
+  <style>
+    :root{--navy:#142337;--navy2:#20354b;--ink:#192c3e;--muted:#617185;--stroke:#dbe4eb;--base:#f6f8fa;--white:#fff;--blue:#0e64b4;--blue-bg:#e5f1ff;--red:#b33239;--red-bg:#fff0f0;--other:#795522;--other-bg:#fff5df;--green:#08744b;--green-bg:#d4f7e7;--shadow:0 7px 30px rgba(24,45,70,.06)}
+    *{box-sizing:border-box}html{font-family:Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:var(--ink);scroll-behavior:smooth}body{margin:0;background:var(--base);min-width:320px}button,select,input{font:inherit}button{cursor:pointer}a{color:#176ba5;text-underline-offset:3px}button:focus-visible,select:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid #75acd5;outline-offset:2px}
+    .top{background:var(--navy);color:white;padding:18px clamp(22px,3vw,52px);display:flex;align-items:center;justify-content:space-between;gap:16px}.brand{display:flex;align-items:center;gap:14px}.mark{height:34px;width:34px;display:grid;grid-template-columns:repeat(2,1fr);gap:4px;transform:rotate(-9deg)}.mark b{display:block;border-radius:3px;background:#fff}.mark b:nth-child(2){background:#4b8ec9}.mark b:nth-child(3){background:#d96663}.mark b:nth-child(4){background:#a4bed2}.brand strong{font-size:15px;font-weight:800;letter-spacing:.14em;display:block}.brand small{font-size:10px;color:#b7c5d4;display:block;letter-spacing:.24em;margin-top:4px}.top-right{display:flex;align-items:center;gap:16px;font-size:11px;letter-spacing:.1em;font-weight:750;color:#cad8e5}.live-pill{padding:8px 12px;border:1px solid #56768e;border-radius:30px;white-space:nowrap}.live-pill i{display:inline-block;width:7px;height:7px;border-radius:50%;background:#4fe0a1;margin-right:7px}.clock{font-variant-numeric:tabular-nums}
+    main{padding:36px clamp(16px,3vw,52px) 50px;max-width:1800px;margin:0 auto}.kicker{display:flex;gap:9px;align-items:center;font-size:11px;letter-spacing:.17em;color:#63768c;font-weight:800;text-transform:uppercase}.kicker::before{content:"";display:block;width:20px;height:3px;background:#c85050;border-radius:2px}.hero{display:flex;align-items:end;justify-content:space-between;gap:18px;flex-wrap:wrap;margin:19px 0 30px}.hero h1{font-size:clamp(31px,3.4vw,53px);line-height:1.06;letter-spacing:-.055em;margin:0;font-weight:760}.hero h1 span{color:#55768d}.hero p{color:var(--muted);font-size:14px;line-height:1.6;margin:13px 0 0;max-width:750px}.hero-aside{text-align:right;font-size:12px;color:var(--muted)}.hero-aside strong{color:#183b56;display:block;font-size:13px;font-weight:800;margin-top:5px}
+    .stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-bottom:24px}.stat{background:white;border:1px solid var(--stroke);border-radius:13px;padding:18px 20px 16px;box-shadow:var(--shadow);min-height:116px}.stat-label{font-size:10px;color:#70839a;letter-spacing:.13em;text-transform:uppercase;font-weight:800}.stat strong{display:block;font-size:32px;letter-spacing:-.04em;line-height:1.1;margin:10px 0 5px;font-variant-numeric:tabular-nums}.stat strong.compact{font-size:22px}.stat-foot{font-size:11px;color:#8796a5}.info{border:1px solid #d9e6ed;background:#eff5f9;color:#3b566e;padding:11px 16px;border-radius:10px;font-size:12px;line-height:1.5;display:flex;gap:10px;align-items:center;margin-bottom:25px}.info.warn{background:#fff7e8;color:#7b5831;border-color:#f5e2bd}.info-icon{font-size:15px;flex:none}
+    .sec-head{display:flex;align-items:end;justify-content:space-between;gap:15px;margin:26px 0 15px;flex-wrap:wrap}.sec-head .eyebrow{font-size:10px;letter-spacing:.15em;text-transform:uppercase;font-weight:850;color:#778a9a}.sec-head h2{font-size:23px;letter-spacing:-.04em;margin:6px 0 0}.sec-head p{font-size:12px;color:var(--muted);margin:6px 0 0}.caption-note{color:#728295;font-size:11px}
+    .podium{display:flex;gap:12px;flex-wrap:wrap}.leader{display:flex;align-items:center;gap:10px;background:white;border:1px solid var(--stroke);padding:13px 16px;border-radius:12px;box-shadow:var(--shadow);flex:1 1 220px;max-width:385px}.rank-circle{width:35px;height:35px;border-radius:11px;background:#eaf0f5;display:grid;place-items:center;font-size:14px;font-weight:800;color:#3c617d}.leader:first-child .rank-circle{background:#f7e7b7;color:#85660c}.leader .name{font-size:13px;font-weight:780;display:block}.leader .small{font-size:11px;color:#7a8997;margin-top:3px;display:block}.leader b.score{margin-left:auto;font-size:23px;font-variant-numeric:tabular-nums}
+    .board{background:#fff;border:1px solid var(--stroke);border-radius:14px;box-shadow:var(--shadow);overflow:hidden}.board-top{padding:19px 21px 15px;display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}.board-top strong{font-size:16px;letter-spacing:-.02em}.board-top small{font-size:11px;color:#8592a1;display:block;margin-top:5px}.tools{display:flex;gap:7px;flex-wrap:wrap;align-items:center}.tools select,.tools input,.tools button{height:35px;border:1px solid #d6e0e8;border-radius:8px;background:#fff;color:#41586d;font-size:12px;padding:0 11px}.tools input{width:156px}.tools button{font-weight:680}.tools button:hover{background:#f1f5f8}.tools .active{background:#eaf3f9;color:#184f76;border-color:#bfd4e4}.table-wrap{overflow:auto;max-width:100%;max-height:calc(100vh - 190px);min-height:350px;scrollbar-color:#9bb0bd #f4f7f9;position:relative}table{border-collapse:separate;border-spacing:0;font-size:12px;white-space:nowrap;width:max-content;min-width:100%;font-variant-numeric:tabular-nums}thead th{position:sticky;top:0;z-index:4;background:#edf2f6;border-top:1px solid #dfe7ed;border-bottom:1px solid #d0dce5;height:74px;min-width:139px;text-align:left;padding:12px 12px;vertical-align:middle;border-right:1px solid #e0e7ed}.th-main{display:block;font-size:12px;color:#284155;font-weight:780;max-width:130px;overflow:hidden;text-overflow:ellipsis}.th-sub{display:block;font-size:10px;color:#8796a4;font-weight:610;margin-top:5px}.th-score{display:inline-flex;font-size:10px;font-weight:750;color:#286b55;background:#d7f5e7;padding:4px 7px;border-radius:6px;margin-top:7px}.th-person button{border:0;padding:0;background:transparent;color:inherit;text-align:left;white-space:inherit;cursor:pointer}.th-person button:hover .th-main{text-decoration:underline}.th-person.highlighted{box-shadow:inset 0 3px #496f92}
+    .race-col{position:sticky;left:0;z-index:5;min-width:125px;width:125px;max-width:125px;background:#f8fafb;box-shadow:1px 0 #d9e4eb}.winner-col{position:sticky;left:125px;z-index:5;width:191px;min-width:191px;max-width:191px;background:#f8fafb;box-shadow:2px 0 5px rgba(16,34,52,.04)}thead th.race-col,thead th.winner-col{z-index:8;background:#edf2f6}.race-cell{font-weight:830;color:#284457;line-height:1.35}.race-type{display:block;color:#8596a7;font-size:9px;letter-spacing:.14em;margin-bottom:4px;font-weight:800}.race-tag{padding:0;font-size:13px}.winner-value{font-size:11px;font-weight:800;display:block;white-space:normal;line-height:1.3}.winner-wait{color:#97a4b0;font-size:11px;font-weight:640}.called-sub{display:block;color:#648073;font-size:9px;margin-top:5px}.winner-link{font-size:10px;color:#267baf;text-decoration:none}.winner-link:hover{text-decoration:underline}.party-inline{font-size:10px;font-weight:850;margin-left:4px}.party-inline.D{color:#216aa5}.party-inline.R{color:#b63c42}.party-inline.I{color:#9b742b}
+    tbody tr{height:57px}tbody td{height:57px;min-width:139px;padding:9px 11px;border-bottom:1px solid #e7edf1;border-right:1px solid #e9eef2;background:white;vertical-align:middle}tbody tr:hover td.race-col,tbody tr:hover td.winner-col{background:#eef5f8}.pick{border-radius:8px;min-height:37px;display:flex;align-items:center;gap:5px;padding:7px 8px;position:relative;font-size:11px;font-weight:700;max-width:168px}.pick .pick-name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex:1;min-width:0}.pick.D{color:var(--blue);background:var(--blue-bg)}.pick.R{color:var(--red);background:var(--red-bg)}.pick.I{color:var(--other);background:var(--other-bg)}.pick.blank{color:#a2acb5;background:#f0f3f5}.pick.correct{outline:2px solid #16a56a;outline-offset:-2px}.pick.incorrect{outline:2px solid #e39c9b;outline-offset:-2px}.score-indicator{font-size:14px;line-height:1;font-weight:900;background:#fff;border-radius:100%;width:17px;height:17px;display:grid;place-items:center;flex:none}.score-indicator.correct{color:var(--green)}.score-indicator.incorrect{color:#b72e35}.selected-column{box-shadow:inset 2px 0 0 #5188b6,inset -2px 0 0 #5188b6}
+    tfoot th,tfoot td{height:63px;background:var(--navy2);color:white;position:sticky;bottom:0;z-index:4;border-top:2px solid #61829a;padding:12px 11px;text-align:left;font-size:13px;font-weight:800}tfoot th.race-col,tfoot th.winner-col{background:var(--navy);z-index:8;box-shadow:1px 0 #587084}tfoot td .bottom-count{font-size:18px;display:block;font-weight:850;line-height:1.15}tfoot td .bottom-sub{font-size:10px;display:block;color:#b5c6d4;margin-top:4px;font-weight:600}.board-footer{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;padding:14px 20px;background:#f8fafb;border-top:1px solid var(--stroke);font-size:11px;color:#768797}.legend{display:flex;align-items:center;gap:11px;flex-wrap:wrap}.legend span{display:inline-flex;gap:5px;align-items:center}.sq{display:inline-block;width:10px;height:10px;border-radius:3px;background:#ddd}.sq.D{background:#83b9ed}.sq.R{background:#e98c93}.sq.I{background:#e8c475}.sq.good{background:#24b377}.sq.bad{background:#dd7474}
+    .fineprint{display:flex;justify-content:space-between;gap:24px;flex-wrap:wrap;padding:29px 0 4px;font-size:11px;color:#768797;line-height:1.65}.fineprint p{margin:0;max-width:740px}.fineprint strong{color:#455c6f}.empty{font-size:12px;color:#728396;padding:24px 15px}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+    @media(max-width:950px){.stats{grid-template-columns:repeat(2,1fr)}.top-right .clock{display:none}.hero-aside{text-align:left}.table-wrap{max-height:66vh}.top{padding:15px 19px}}
+    @media(max-width:590px){main{padding:25px 12px}.top{padding:13px}.brand strong{font-size:12px}.brand small{font-size:8px}.top-right{font-size:10px}.hero{margin-bottom:22px}.stats{gap:8px}.stat{min-height:98px;padding:14px}.stat strong{font-size:25px}.stat strong.compact{font-size:18px}.stat-label{font-size:9px}.sec-head h2{font-size:21px}.board-top{padding:15px 12px}.tools input{width:125px}.race-col{min-width:90px;width:90px;max-width:90px}.winner-col{left:90px;min-width:133px;width:133px;max-width:133px}.race-tag{font-size:11px}thead th,tbody td{min-width:127px}.winner-value{font-size:10px}.pick{font-size:10px}}
+  </style>
+</head>
+<body>
+  <header class="top">
+    <div class="brand"><div class="mark" aria-hidden="true"><b></b><b></b><b></b><b></b></div><div><strong>SPIROS ELECTION 2026</strong><small>PREDICTION POOL</small></div></div>
+    <div class="top-right"><span class="clock" id="eastern-clock">EASTERN TIME</span><span class="live-pill"><i></i> AP CALLS ONLY</span></div>
+  </header>
+  <main>
+    <div class="kicker">NOVEMBER 3, 2026 <span style="color:#afbac5">/</span> ELECTION NIGHT CHALLENGE</div>
+    <section class="hero">
+      <div><h1>Who called it <span>right?</span></h1><p>20 participants. 18 races. Every pick stays on the board—and every score updates only when the Associated Press calls the winner.</p></div>
+      <div class="hero-aside">SCHEDULED CHECKS <strong id="schedule-label">Every 10 min until 6 AM ET, then hourly</strong></div>
+    </section>
+    <section class="stats" aria-label="Pool summary">
+      <article class="stat"><div class="stat-label">AP races called</div><strong id="called-total">0 <span style="font-size:15px;color:#9db0c0">/ 18</span></strong><span class="stat-foot" id="called-foot">Awaiting calls</span></article>
+      <article class="stat"><div class="stat-label">Graded predictions</div><strong id="graded-total">0</strong><span class="stat-foot" id="graded-foot">358 submitted predictions</span></article>
+      <article class="stat"><div class="stat-label">Highest score</div><strong id="high-score">—</strong><span class="stat-foot" id="high-score-name">No calls yet</span></article>
+      <article class="stat"><div class="stat-label">Last successful data check</div><strong class="compact" id="last-check">Not yet</strong><span class="stat-foot" id="feed-status">Waiting for feed</span></article>
+    </section>
+    <div class="info" id="status-banner" role="status"><span class="info-icon" aria-hidden="true">ℹ</span><span id="status-text">Standings are provisional. No prediction is graded until an AP call is confirmed.</span></div>
+    <section id="leader-section">
+      <div class="sec-head"><div><div class="eyebrow">STANDINGS</div><h2>Top of the leaderboard</h2></div><span class="caption-note" id="standings-note">Correct picks out of AP-called races</span></div>
+      <div id="podium" class="podium"><div class="empty">Leaderboard activates after the first AP race call.</div></div>
+    </section>
+    <section id="prediction-board">
+      <div class="sec-head"><div><div class="eyebrow">ALL PREDICTIONS</div><h2>The full board <span style="font-size:12px;color:#8195a4;font-weight:600">/ 18 races</span></h2><p>Scroll horizontally to see every person's column. Click a name to spotlight it.</p></div><span class="caption-note">Blue = Democrat · Red = Republican · Gold = Independent</span></div>
+      <div class="board">
+        <div class="board-top"><div><strong>2026 Race Predictions</strong><small>Source: submitted predictions · Results: AP-attributed race calls</small></div>
+          <div class="tools"><label class="sr-only" for="race-filter">Filter races</label><select id="race-filter"><option value="all">All 18 races</option><option value="Senate">Senate</option><option value="Governor">Governors</option><option value="House">U.S. House</option><option value="called">Called only</option><option value="pending">Not called</option></select><label class="sr-only" for="person-search">Find participant</label><input id="person-search" type="search" placeholder="Find a person…"><button id="sort-button" type="button">Sort: Entry order</button><button id="refresh-button" type="button" title="Reload latest verified AP race calls">↻ Refresh</button><button id="export-button" type="button">Export CSV</button></div>
+        </div>
+        <div class="table-wrap" tabindex="0" role="region" aria-label="Scrollable prediction grid">
+          <table aria-label="Election prediction entries and correctness scores"><thead id="prediction-head"></thead><tbody id="prediction-body"></tbody><tfoot id="prediction-foot"></tfoot></table>
+        </div>
+        <div class="board-footer"><div class="legend" aria-label="Color and scoring legend"><span><i class="sq D"></i> Democrat</span><span><i class="sq R"></i> Republican</span><span><i class="sq I"></i> Independent</span><span><i class="sq good"></i> ✓ Correct</span><span><i class="sq bad"></i> × Incorrect</span></div><span id="board-meta">20 people · 18 races · 2 blank picks</span></div>
+      </div>
+    </section>
+    <footer class="fineprint"><p><strong>Scoring.</strong> A correct prediction earns one point. Only races explicitly called by the Associated Press are graded; a candidate's vote lead or a call from another outlet does not count. Blank predictions receive no points. Original answers are preserved, with obvious spelling variants normalized for scoring.</p><p><strong>Data provenance.</strong> AP-attributed calls are read from <a href="https://thepeoplestally.com/open-data/" target="_blank" rel="noopener noreferrer">The People's Tally public feed</a>. AP's <a href="https://www.ap.org/elections/our-role-in-the-u-s-elections/how-we-declare-winners/" target="_blank" rel="noopener noreferrer">race-calling methodology</a>. Updates depend on public feed and GitHub Actions availability. Times are Eastern.</p></footer>
+  </main>
+  <script id="source-picks" type="application/json">{
+  "title": "Spiros Election 2026 predictions",
+  "electionDate": "2026-11-03",
+  "timezone": "America/New_York",
+  "people": [
+    {
+      "id": "p01",
+      "name": "Noah Cramer",
+      "originalName": "Noah Cramer"
+    },
+    {
+      "id": "p02",
+      "name": "Oliver",
+      "originalName": "Oliver"
+    },
+    {
+      "id": "p03",
+      "name": "Connor Veitch",
+      "originalName": "Connor Veitch"
+    },
+    {
+      "id": "p04",
+      "name": "Jamie Feuerman",
+      "originalName": "Jamie Feuerman"
+    },
+    {
+      "id": "p05",
+      "name": "Megan Lucas",
+      "originalName": "Megan Lucas"
+    },
+    {
+      "id": "p06",
+      "name": "Grace",
+      "originalName": "Grace"
+    },
+    {
+      "id": "p07",
+      "name": "Sam",
+      "originalName": "Sam"
+    },
+    {
+      "id": "p08",
+      "name": "owen boxer",
+      "originalName": "owen boxer"
+    },
+    {
+      "id": "p09",
+      "name": "Matt",
+      "originalName": "Matt"
+    },
+    {
+      "id": "p10",
+      "name": "Ben",
+      "originalName": "Ben"
+    },
+    {
+      "id": "p11",
+      "name": "William L",
+      "originalName": "William L"
+    },
+    {
+      "id": "p12",
+      "name": "Clayton",
+      "originalName": "Clayton"
+    },
+    {
+      "id": "p13",
+      "name": "Elise Sturgeon",
+      "originalName": "Elise Sturgeon"
+    },
+    {
+      "id": "p14",
+      "name": "Saakshi Navile",
+      "originalName": "Saakshi Navile"
+    },
+    {
+      "id": "p15",
+      "name": "Gabriel Moskal-Linder",
+      "originalName": "Gabriel Moskal-Linder"
+    },
+    {
+      "id": "p16",
+      "name": "Brennan",
+      "originalName": "Brennan (I hope I place dead last and my judgment was just clouded by pessimism!!!)"
+    },
+    {
+      "id": "p17",
+      "name": "Isabel ghazal",
+      "originalName": "Isabel ghazal"
+    },
+    {
+      "id": "p18",
+      "name": "Asma Rashid",
+      "originalName": "Asma Rashid"
+    },
+    {
+      "id": "p19",
+      "name": "Jordan",
+      "originalName": "Jordan"
+    },
+    {
+      "id": "p20",
+      "name": "Layla Harmon",
+      "originalName": "Layla Harmon"
+    }
+  ],
+  "races": [
+    {
+      "short": "AK Sen",
+      "id": "S-AK",
+      "office": "Senate",
+      "state": "Alaska",
+      "stateCode": "AK",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Dan S. Sullivan",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Dan S. Sullivan",
+          "raw": "Dan S. Sullivan",
+          "party": "R"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Dan S. Sullivan",
+          "raw": "Dan S. Sullivan",
+          "party": "R"
+        },
+        {
+          "name": "Dan S. Sullivan",
+          "raw": "Dan S. Sullivan",
+          "party": "R"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Dan S. Sullivan",
+          "raw": "Dan S. Sullivan",
+          "party": "R"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Dan S. Sullivan",
+          "raw": "Dan S. Sullivan",
+          "party": "R"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "ME Sen",
+      "id": "S-ME",
+      "office": "Senate",
+      "state": "Maine",
+      "stateCode": "ME",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Susan Collins",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Susan Collins",
+          "raw": "Susan Collins",
+          "party": "R"
+        },
+        {
+          "name": "Susan Collins",
+          "raw": "Susan Collins",
+          "party": "R"
+        },
+        {
+          "name": "Susan Collins",
+          "raw": "Susan Collins",
+          "party": "R"
+        },
+        {
+          "name": "Susan Collins",
+          "raw": "Susan Collins",
+          "party": "R"
+        },
+        {
+          "name": "Susan Collins",
+          "raw": "Susan Collins",
+          "party": "R"
+        },
+        {
+          "name": "Susan Collins",
+          "raw": "Susan Collins",
+          "party": "R"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Susan Collins",
+          "raw": "Susan Collins",
+          "party": "R"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Susan Collins",
+          "raw": "Susan Collins",
+          "party": "R"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "NC Sen",
+      "id": "S-NC",
+      "office": "Senate",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Michael Whatley",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Michael Whatley",
+          "raw": "Michael Watley",
+          "party": "R"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "MI Sen",
+      "id": "S-MI",
+      "office": "Senate",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Mike Rogers",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Mike Rogers",
+          "raw": "Mike Rogers",
+          "party": "R"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Mike Rogers",
+          "raw": "Mike Rogers",
+          "party": "R"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "IA Sen",
+      "id": "S-IA",
+      "office": "Senate",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Josh Turek",
+          "party": "D"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Josh Turek",
+          "raw": "Josh Turek",
+          "party": "D"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Josh Turek",
+          "raw": "Josh Turek",
+          "party": "D"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Josh Turek",
+          "raw": "Josh Turek",
+          "party": "D"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Josh Turek",
+          "raw": "Josh Turek",
+          "party": "D"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Josh Turek",
+          "raw": "Josh Turek",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "KS Sen",
+      "id": "S-KS",
+      "office": "Senate",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Roger Marshall",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Roger Marshall",
+          "raw": "Roger Marshall",
+          "party": "R"
+        },
+        {
+          "name": "Roger Marshall",
+          "raw": "Roger Marshall",
+          "party": "R"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Roger Marshall",
+          "raw": "Roger Marshall",
+          "party": "R"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Roger Marshall",
+          "raw": "Roger Marshall",
+          "party": "R"
+        },
+        {
+          "name": "Roger Marshall",
+          "raw": "Roger Marshall",
+          "party": "R"
+        },
+        {
+          "name": "Roger Marshall",
+          "raw": "Roger Marshall",
+          "party": "R"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Roger Marshall",
+          "raw": "Roger Marshall",
+          "party": "R"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Roger Marshall",
+          "raw": "Roger Marshall",
+          "party": "R"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Roger Marshall",
+          "raw": "Roger Marshall",
+          "party": "R"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "TX Sen",
+      "id": "S-TX",
+      "office": "Senate",
+      "state": "Texas",
+      "stateCode": "TX",
+      "district": null,
+      "candidates": [
+        {
+          "name": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "Ken Paxton",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "Ken Paxton",
+          "raw": "Ken Paxton",
+          "party": "R"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "Ken Paxton",
+          "raw": "Ken Paxton",
+          "party": "R"
+        },
+        {
+          "name": "Ken Paxton",
+          "raw": "Ken Paxton",
+          "party": "R"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "Ken Paxton",
+          "raw": "Ken Paxton",
+          "party": "R"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "Ken Paxton",
+          "raw": "Ken Paxton",
+          "party": "R"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "OH Sen",
+      "id": "S-OH-sp",
+      "office": "Senate",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Jon Husted",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "NE Sen",
+      "id": "S-NE",
+      "office": "Senate",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Dan Osborn",
+          "party": "I"
+        },
+        {
+          "name": "Pete Ricketts",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Dan Osborn",
+          "raw": "Dan Osborn",
+          "party": "I"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Dan Osborn",
+          "raw": "Dan Osborn",
+          "party": "I"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Dan Osborn",
+          "raw": "Dan Osborn",
+          "party": "I"
+        }
+      ]
+    },
+    {
+      "short": "OH Gov",
+      "id": "G-OH",
+      "office": "Governor",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Vivek Ramaswamy",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "NE Gov",
+      "id": "G-NE",
+      "office": "Governor",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Jim Pillen",
+          "party": "R"
+        },
+        {
+          "name": "Lynne Walz",
+          "party": "D"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillon",
+          "party": "R"
+        },
+        {
+          "name": "Lynne Walz",
+          "raw": "Lynne Walz",
+          "party": "D"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillon",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillon",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillon",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillon",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillon",
+          "party": "R"
+        },
+        {
+          "name": null,
+          "raw": null,
+          "party": null
+        },
+        {
+          "name": "Lynne Walz",
+          "raw": "Lynne Walz",
+          "party": "D"
+        },
+        {
+          "name": "Lynne Walz",
+          "raw": "Lynne Walz",
+          "party": "D"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillen",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillen",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillen",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillen",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillen",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillen",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillen",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillen",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillen",
+          "party": "R"
+        },
+        {
+          "name": null,
+          "raw": null,
+          "party": null
+        }
+      ]
+    },
+    {
+      "short": "IA Gov",
+      "id": "G-IA",
+      "office": "Governor",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Zach Lahn",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Zach Lahn",
+          "raw": "Zach Lahn",
+          "party": "R"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "NV Gov",
+      "id": "G-NV",
+      "office": "Governor",
+      "state": "Nevada",
+      "stateCode": "NV",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Joe Lombardo",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Joe Lombardo",
+          "raw": "Joe Lombardo",
+          "party": "R"
+        },
+        {
+          "name": "Joe Lombardo",
+          "raw": "Joe Lombardo",
+          "party": "R"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Joe Lombardo",
+          "raw": "Joe Lombardo",
+          "party": "R"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Joe Lombardo",
+          "raw": "Joe Lombardo",
+          "party": "R"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Joe Lombardo",
+          "raw": "Joe Lombardo",
+          "party": "R"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Joe Lombardo",
+          "raw": "Joe Lombardo",
+          "party": "R"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Joe Lombardo",
+          "raw": "Joe Lombardo",
+          "party": "R"
+        },
+        {
+          "name": "Joe Lombardo",
+          "raw": "Joe Lombardo",
+          "party": "R"
+        }
+      ]
+    },
+    {
+      "short": "NY-17",
+      "id": "H-NY-17",
+      "office": "House",
+      "state": "New York",
+      "stateCode": "NY",
+      "district": 17,
+      "candidates": [
+        {
+          "name": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Mike Lawler",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Mike Lawler",
+          "raw": "Mike Lawler",
+          "party": "R"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Mike Lawler",
+          "raw": "Mike Lawler",
+          "party": "R"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Mike Lawler",
+          "raw": "Mike Lawler",
+          "party": "R"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "OH-7",
+      "id": "H-OH-07",
+      "office": "House",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "district": 7,
+      "candidates": [
+        {
+          "name": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Max Miller",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Max Miller",
+          "raw": "Max Miller",
+          "party": "R"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "WI-1",
+      "id": "H-WI-01",
+      "office": "House",
+      "state": "Wisconsin",
+      "stateCode": "WI",
+      "district": 1,
+      "candidates": [
+        {
+          "name": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Mitchell Berman",
+          "party": "D"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Mitchell Berman",
+          "raw": "Mitchell Berman",
+          "party": "D"
+        },
+        {
+          "name": "Mitchell Berman",
+          "raw": "Mitchell Berman",
+          "party": "D"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Mitchell Berman",
+          "raw": "Mitchell Berman",
+          "party": "D"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Mitchell Berman",
+          "raw": "Mitchell Berman",
+          "party": "D"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Mitchell Berman",
+          "raw": "Mitchell Berman",
+          "party": "D"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Mitchell Berman",
+          "raw": "Mitchell Berman",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "SC-1",
+      "id": "H-SC-01",
+      "office": "House",
+      "state": "South Carolina",
+      "stateCode": "SC",
+      "district": 1,
+      "candidates": [
+        {
+          "name": "Jenny Honeycutt",
+          "party": "R"
+        },
+        {
+          "name": "Nancy Lacore",
+          "party": "D"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Nancy Lacore",
+          "raw": "Nancy Lacore",
+          "party": "D"
+        },
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Nancy Lacore",
+          "raw": "Nancy Lacore",
+          "party": "D"
+        },
+        {
+          "name": "Nancy Lacore",
+          "raw": "Nancy Lacore",
+          "party": "D"
+        },
+        {
+          "name": "Nancy Lacore",
+          "raw": "Nancy Lacore",
+          "party": "D"
+        },
+        {
+          "name": "Nancy Lacore",
+          "raw": "Nancy Lacore",
+          "party": "D"
+        },
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Nancy Lacore",
+          "raw": "Nancy Lacore",
+          "party": "D"
+        },
+        {
+          "name": "Nancy Lacore",
+          "raw": "Nancy Lacore",
+          "party": "D"
+        },
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Nancy Lacore",
+          "raw": "Nancy Lacore",
+          "party": "D"
+        },
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Nancy Lacore",
+          "raw": "Nancy Lacore",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "MI-7",
+      "id": "H-MI-07",
+      "office": "House",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "district": 7,
+      "candidates": [
+        {
+          "name": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Tom Barrett",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Tom Barrett",
+          "raw": "Tom Barrett",
+          "party": "R"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Tom Barrett",
+          "raw": "Tom Barrett",
+          "party": "R"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Tom Barrett",
+          "raw": "Tom Barrett",
+          "party": "R"
+        },
+        {
+          "name": "Tom Barrett",
+          "raw": "Tom Barrett",
+          "party": "R"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Tom Barrett",
+          "raw": "Tom Barrett",
+          "party": "R"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Tom Barrett",
+          "raw": "Tom Barrett",
+          "party": "R"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Tom Barrett",
+          "raw": "Tom Barrett",
+          "party": "R"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Tom Barrett",
+          "raw": "Tom Barrett",
+          "party": "R"
+        },
+        {
+          "name": "Tom Barrett",
+          "raw": "Tom Barrett",
+          "party": "R"
+        }
+      ]
+    }
+  ],
+  "source": "2026 Form Responses 1; timestamp excluded"
+}</script>
+  <script>
+  (() => {
+    'use strict';
+    const picks=JSON.parse(document.getElementById('source-picks').textContent);
+    const seed={electionDate:'2026-11-03',lastChecked:null,lastSuccess:null,calls:{},status:'awaiting_first_update'};
+    const state={calls:seed, filter:'all', sortScores:false, spotlight:null, personSearch:'', loading:false};
+    const $=id=>document.getElementById(id);
+    const safe=(str)=>String(str??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    const clean=str=>String(str||'').toLowerCase().normalize('NFKD').replace(/[^a-z0-9]/g,'');
+    const aliases={'jimpillon':'jimpillen','jennyhoneycut':'jennyhoneycutt','jennycostahoneycutt':'jennyhoneycutt','michaelwatley':'michaelwhatley','danielsullivan':'danssullivan','danssullivan':'danssullivan'};
+    const canon=str=>aliases[clean(str)]||clean(str);
+    const belongs=(prediction,winner)=>{
+      if(!prediction?.name || !winner)return false;
+      const a=canon(prediction.name), b=canon(winner);
+      return Boolean(a && b && (a===b || a.endsWith(b) || b.endsWith(a)));
+    };
+    const called=id=>state.calls.calls?.[id]?.calledBy==='AP' && state.calls.calls?.[id]?.winner;
+    const calledCount=()=>picks.races.filter(r=>called(r.id)).length;
+    const summary=()=>picks.people.map((p,j)=>{
+      let correct=0,incorrect=0,scored=0,submitted=0;
+      picks.races.forEach(r=>{
+        const choice=r.picks[j];if(choice?.name)submitted++;
+        if(called(r.id)&&choice?.name){scored++;if(belongs(choice,called(r.id)))correct++;else incorrect++;}
+      });
+      return {...p,index:j,correct,incorrect,scored,submitted};
+    });
+    const standings=()=>summary().sort((a,b)=>b.correct-a.correct||b.scored-a.scored||a.index-b.index);
+    const utcDeadline=Date.parse('2026-11-04T11:00:00Z');
+    const dateET=(str,opts={})=>{
+      if(!str)return null;const d=new Date(str);if(!Number.isFinite(d.getTime()))return null;
+      return new Intl.DateTimeFormat('en-US',{timeZone:'America/New_York',hour:'numeric',minute:'2-digit',...opts}).format(d);
+    };
+    function nextCheck(){
+      const now=Date.now(),step=now<=utcDeadline?600000:3600000;
+      const n=Math.ceil((now+1)/step)*step;
+      return new Date(n).toISOString();
+    }
+    function statsRender(){
+      const n=calledCount(),s=standings(),totalSubmitted=picks.races.flatMap(r=>r.picks).filter(p=>p.name).length;
+      const graded=picks.races.reduce((sum,r)=>sum+(called(r.id)?r.picks.filter(p=>p.name).length:0),0);
+      $('called-total').innerHTML=`${n} <span style="font-size:15px;color:#9db0c0">/ ${picks.races.length}</span>`;
+      $('called-foot').textContent=n?`${picks.races.length-n} races still uncalled`:'Awaiting AP race calls';
+      $('graded-total').textContent=graded;
+      $('graded-foot').textContent=`of ${totalSubmitted} submitted predictions`;
+      $('high-score').textContent=n?s[0].correct:'—';
+      $('high-score-name').textContent=n?s.filter(x=>x.correct===s[0].correct).map(x=>x.name).slice(0,3).join(' · '):'No AP calls yet';
+      $('last-check').textContent=dateET(state.calls.lastSuccess,{month:'short',day:'numeric'}) || 'Not yet';
+      $('feed-status').textContent=state.calls.lastSuccess?`${dateET(state.calls.lastSuccess)} ET · ${state.calls.status==='ok'?'Feed available':'Latest attempt unavailable'}`:'Awaiting first source check';
+      $('schedule-label').textContent=Date.now()<=utcDeadline?'Every 10 min until 6 AM ET, then hourly':'Hourly until all races are called';
+      const error=state.calls.status==='feed_unavailable';
+      const tooOld=state.calls.lastSuccess && Date.now()-Date.parse(state.calls.lastSuccess)>(Date.now()<utcDeadline?30:125)*60000;
+      $('status-banner').className='info'+(error||tooOld?' warn':'');
+      const checked=dateET(state.calls.lastChecked,{month:'short',day:'numeric'})||'not yet';
+      $('status-text').textContent=error||tooOld?`Public AP-attribution feed unavailable or behind schedule. Prior verified calls are retained; last attempted check: ${checked} ET. No unverified winners are scored.`:n===picks.races.length?'All 18 races have verified AP calls. Final leaderboard available.':n?`${n} AP race${n===1?' has':'s have'} been called. Remaining predictions are ungraded. Next scheduled check around ${dateET(nextCheck())} ET.`:'No race has yet been marked called by AP in the verified feed. Picks remain ungraded.';
+      $('board-meta').textContent=`${picks.people.length} people · ${picks.races.length} races · ${totalSubmitted} submitted predictions`;
+    }
+    function podiumRender(){
+      const el=$('podium');const n=calledCount();
+      if(!n){el.innerHTML='<div class="empty">Leaderboard activates after the first verified AP race call.</div>';return;}
+      const ranks=standings();const max=ranks[0].correct;let currentRank=0,lastScore=Infinity;
+      el.innerHTML=ranks.slice(0,3).map((p,i)=>{if(p.correct<lastScore){currentRank=i+1;lastScore=p.correct;}
+        return `<div class="leader"><span class="rank-circle">${currentRank}</span><div><span class="name" title="${safe(p.originalName)}">${safe(p.name)}</span><span class="small">${p.scored} scored · ${p.incorrect} misses</span></div><b class="score">${p.correct}</b></div>`;
+      }).join('');
+    }
+    function personOrder(){
+      const all=state.sortScores?standings():summary();
+      if(!state.personSearch.trim())return all;
+      const needle=state.personSearch.toLowerCase().trim();
+      const matches=all.filter(p=>p.name.toLowerCase().includes(needle)||p.originalName.toLowerCase().includes(needle));
+      const rest=all.filter(p=>!matches.includes(p));
+      return [...matches,...rest];
+    }
+    function raceOrder(){return picks.races.filter(r=>state.filter==='all'||state.filter===r.office||(state.filter==='called'&&called(r.id))||(state.filter==='pending'&&!called(r.id)));}
+    function rowLabel(r){return r.office==='Senate'?`U.S. SENATE`:r.office==='Governor'?'GOVERNOR':'U.S. HOUSE';}
+    function winnerHTML(r){
+      const c=state.calls.calls?.[r.id];
+      if(!c?.winner)return '<span class="winner-wait">Awaiting AP</span>';
+      const candidate=r.candidates.find(p=>belongs(p,c.winner));
+      const party=candidate?.party||'';
+      return `<span class="winner-value">${safe(c.winner)} <span class="party-inline ${party}">${safe(party)}</span></span><span class="called-sub">✓ CALLED BY AP</span>${c.sourceUrl?`<a class="winner-link" target="_blank" rel="noopener noreferrer" href="${safe(c.sourceUrl)}">Source</a>`:''}`;
+    }
+    function predictionHTML(pred,winner,highlight){
+      const part=pred?.party||'blank';let grade='';let sign='';
+      if(winner&&pred?.name){grade=belongs(pred,winner)?'correct':'incorrect';sign=`<span class="score-indicator ${grade}" aria-label="${grade}">${grade==='correct'?'✓':'×'}</span>`;}
+      const original=pred?.raw&&pred?.raw!==pred?.name?` (entered: ${pred.raw})`:'';
+      return `<td class="${highlight?'selected-column':''}"><div class="pick ${part} ${grade}" title="${safe((pred?.name||'No prediction')+original)}${grade?' · '+grade:''}"><span class="pick-name">${safe(pred?.name||'—')}</span>${sign}</div></td>`;
+    }
+    function boardRender(){
+      const people=personOrder(), rows=raceOrder(), sum=summary();const sums=Object.fromEntries(sum.map(p=>[p.id,p]));
+      $('prediction-head').innerHTML='<tr><th class="race-col" scope="col"><span class="th-main">RACE</span><span class="th-sub">18 contests</span></th><th class="winner-col" scope="col"><span class="th-main">AP WINNER</span><span class="th-sub">Call required</span></th>'+people.map(p=>`<th class="th-person ${state.spotlight===p.id?'highlighted':''}" scope="col" title="${safe(p.originalName)}"><button type="button" data-person="${safe(p.id)}"><span class="th-main">${safe(p.name)}</span><span class="th-sub">${p.submitted} predictions</span><span class="th-score">${p.correct} correct</span></button></th>`).join('')+'</tr>';
+      $('prediction-body').innerHTML=rows.map(r=>`<tr><td class="race-col race-cell"><span class="race-type">${safe(rowLabel(r))}</span><span class="race-tag">${safe(r.short)}</span></td><td class="winner-col">${winnerHTML(r)}</td>${people.map(p=>predictionHTML(r.picks[p.index],called(r.id),state.spotlight===p.id)).join('')}</tr>`).join('') || `<tr><td class="empty" colspan="${people.length+2}">No races match the selected filter.</td></tr>`;
+      $('prediction-foot').innerHTML='<tr><th class="race-col" scope="row">CORRECT<br>PREDICTIONS</th><th class="winner-col" style="font-size:11px">Only AP-called races<br><span style="opacity:.7;font-size:10px">${calledCount()} of ${picks.races.length} called</span></th>'+people.map(p=>`<td class="${state.spotlight===p.id?'selected-column':''}"><span class="bottom-count">${sums[p.id].correct}</span><span class="bottom-sub">${sums[p.id].scored} graded · ${sums[p.id].incorrect} misses</span></td>`).join('')+'</tr>';
+      document.querySelectorAll('[data-person]').forEach(b=>b.addEventListener('click',()=>{state.spotlight=state.spotlight===b.dataset.person?null:b.dataset.person;boardRender();}));
+    }
+    function render(){statsRender();podiumRender();boardRender();}
+    function exportCSV(){
+      const people=personOrder();const records=[['Race','AP winner',...people.map(x=>x.name)]];
+      picks.races.forEach(r=>records.push([r.short,called(r.id)||'Not called',...people.map(p=>{const choice=r.picks[p.index];return choice?.name?choice.name+(called(r.id)?(belongs(choice,called(r.id))?' [correct]':' [incorrect]'):' [pending]'):'[blank]';})]));
+      records.push(['Correct predictions','',...people.map(p=>p.correct)]);
+      const csv=records.map(row=>row.map(x=>'"'+String(x??'').replace(/"/g,'""')+'"').join(',')).join('\r\n');
+      const blob=new Blob([csv],{type:'text/csv;charset=utf-8'});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='election-2026-prediction-scores.csv';a.click();URL.revokeObjectURL(url);
+    }
+    async function getCalls(){
+      if(state.loading)return;state.loading=true;
+      $('refresh-button').textContent='↻ Loading';$('refresh-button').disabled=true;
+      try {
+        const response=await fetch(`./calls.json?cache=${Date.now()}`,{cache:'no-store'});
+        if(!response.ok)throw new Error(`HTTP ${response.status}`);
+        const result=await response.json();
+        if(result.electionDate!=='2026-11-03'||!result.calls||typeof result.calls!=='object')throw new Error('Invalid race-call data');
+        state.calls=result;render();
+      }catch(err){
+        // The standalone downloadable HTML works without an HTTP server. In that
+        // case it remains an accurate ungraded snapshot rather than fabricating calls.
+        if(location.protocol!=='file:'){$('status-banner').className='info warn';$('status-text').textContent='Unable to load the latest AP call snapshot. The previous verified snapshot remains on screen; try Refresh.';}
+      }finally{state.loading=false;$('refresh-button').textContent='↻ Refresh';$('refresh-button').disabled=false;}
+    }
+    function clock(){
+      const s=new Intl.DateTimeFormat('en-US',{timeZone:'America/New_York',hour:'numeric',minute:'2-digit',timeZoneName:'short'}).format(new Date());$('eastern-clock').textContent=s;
+    }
+    $('race-filter').addEventListener('change',e=>{state.filter=e.target.value;boardRender()});
+    $('person-search').addEventListener('input',e=>{state.personSearch=e.target.value;boardRender()});
+    $('sort-button').addEventListener('click',()=>{state.sortScores=!state.sortScores;$('sort-button').textContent=state.sortScores?'Sort: Leaders first':'Sort: Entry order';boardRender()});
+    $('refresh-button').addEventListener('click',getCalls);
+    $('export-button').addEventListener('click',exportCSV);
+    clock();render();getCalls();setInterval(getCalls,60000);setInterval(clock,15000);
+  })();
+  </script>
+</body>
+</html>
