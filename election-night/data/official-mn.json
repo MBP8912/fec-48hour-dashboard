@@ -2,8 +2,8 @@
   "race": "MN-01",
   "source": "Minnesota Secretary of State",
   "source_url": "https://electionresults.sos.mn.gov/Select/MediaFiles/Index?ersElectionId=201",
-  "updated_at": "2026-11-04T06:41:36.574693Z",
-  "source_hash": "fba7ccfda96a9814d6aabbc92a15065ea84387f250fd5a06ab4fba3b6e210d37",
+  "updated_at": "2026-11-04T07:56:58.927611Z",
+  "source_hash": "148c09032432b290220b672c2ab85e7074262610df23389fa9629faab95db34d",
   "test_data": false,
   "county_count": 21,
   "metric": "precincts reporting",
@@ -80,23 +80,23 @@
     {
       "county_id": "22",
       "name": "Faribault",
-      "precincts_reporting": 27,
+      "precincts_reporting": 33,
       "precincts_total": 33,
       "candidates": [
         {
           "name": "Jake Johnson",
           "party": "D",
-          "votes": 2165
+          "votes": 2322
         },
         {
           "name": "Brad Finstad",
           "party": "R",
-          "votes": 3647
+          "votes": 4059
         },
         {
           "name": "WRITE-IN",
           "party": "O",
-          "votes": 9
+          "votes": 11
         }
       ]
     },
