@@ -53,6 +53,31 @@ def verify():
         print(f"{district}: HTTP 200, correct title, verified dataset ({count} entries) — {url}", flush=True)
 
 
+    # Prediction contest is hosted alongside the FEC pages. Verify that the
+    # live site received the score data, not merely that deployment succeeded.
+    contest_url = BASE + "predictions/"
+    contest_html = load(contest_url).decode("utf-8")
+    if "<title>Spiros Election Night Contest 2026</title>" not in contest_html:
+        raise RuntimeError("Prediction contest HTML or heading did not deploy")
+    if "Spiros Election Night <span>Contest 2026</span>" not in contest_html:
+        raise RuntimeError("Prediction contest heading is missing")
+    picks = json.loads(load(contest_url + "picks.json"))
+    calls = json.loads(load(contest_url + "calls.json"))
+    if len(picks.get("people", [])) != 20 or len(picks.get("races", [])) != 18:
+        raise RuntimeError("Prediction contest lost participants or races")
+    roster = {race["id"]: race for race in picks["races"]}
+    verified = 0
+    for race_id, call in calls.get("calls", {}).items():
+        if (race_id not in roster or call.get("calledBy") != "AP" or
+            call.get("winner") not in [c["name"] for c in roster[race_id]["candidates"]]):
+            raise RuntimeError(f"Unverified or mismatched AP race winner in {race_id}")
+        verified += 1
+    if verified < 14:
+        raise RuntimeError(f"Only {verified} verified AP calls deployed; expected at least 14")
+    print(f"Prediction contest: HTTP 200, 20 participants, 18 races, "
+          f"{verified} verified AP calls — {contest_url}", flush=True)
+
+
 if __name__ == "__main__":
     for attempt in range(1, 7):
         try:
