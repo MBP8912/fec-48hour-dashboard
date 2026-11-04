@@ -1,0 +1,2270 @@
+{
+  "title": "Spiros Election 2026 predictions",
+  "electionDate": "2026-11-03",
+  "timezone": "America/New_York",
+  "people": [
+    {
+      "id": "p01",
+      "name": "Noah Cramer",
+      "originalName": "Noah Cramer"
+    },
+    {
+      "id": "p02",
+      "name": "Oliver",
+      "originalName": "Oliver"
+    },
+    {
+      "id": "p03",
+      "name": "Connor Veitch",
+      "originalName": "Connor Veitch"
+    },
+    {
+      "id": "p04",
+      "name": "Jamie Feuerman",
+      "originalName": "Jamie Feuerman"
+    },
+    {
+      "id": "p05",
+      "name": "Megan Lucas",
+      "originalName": "Megan Lucas"
+    },
+    {
+      "id": "p06",
+      "name": "Grace",
+      "originalName": "Grace"
+    },
+    {
+      "id": "p07",
+      "name": "Sam",
+      "originalName": "Sam"
+    },
+    {
+      "id": "p08",
+      "name": "owen boxer",
+      "originalName": "owen boxer"
+    },
+    {
+      "id": "p09",
+      "name": "Matt",
+      "originalName": "Matt"
+    },
+    {
+      "id": "p10",
+      "name": "Ben",
+      "originalName": "Ben"
+    },
+    {
+      "id": "p11",
+      "name": "William L",
+      "originalName": "William L"
+    },
+    {
+      "id": "p12",
+      "name": "Clayton",
+      "originalName": "Clayton"
+    },
+    {
+      "id": "p13",
+      "name": "Elise Sturgeon",
+      "originalName": "Elise Sturgeon"
+    },
+    {
+      "id": "p14",
+      "name": "Saakshi Navile",
+      "originalName": "Saakshi Navile"
+    },
+    {
+      "id": "p15",
+      "name": "Gabriel Moskal-Linder",
+      "originalName": "Gabriel Moskal-Linder"
+    },
+    {
+      "id": "p16",
+      "name": "Brennan",
+      "originalName": "Brennan (I hope I place dead last and my judgment was just clouded by pessimism!!!)"
+    },
+    {
+      "id": "p17",
+      "name": "Isabel ghazal",
+      "originalName": "Isabel ghazal"
+    },
+    {
+      "id": "p18",
+      "name": "Asma Rashid",
+      "originalName": "Asma Rashid"
+    },
+    {
+      "id": "p19",
+      "name": "Jordan",
+      "originalName": "Jordan"
+    },
+    {
+      "id": "p20",
+      "name": "Layla Harmon",
+      "originalName": "Layla Harmon"
+    }
+  ],
+  "races": [
+    {
+      "short": "AK Sen",
+      "id": "S-AK",
+      "office": "Senate",
+      "state": "Alaska",
+      "stateCode": "AK",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Dan S. Sullivan",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Dan S. Sullivan",
+          "raw": "Dan S. Sullivan",
+          "party": "R"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Dan S. Sullivan",
+          "raw": "Dan S. Sullivan",
+          "party": "R"
+        },
+        {
+          "name": "Dan S. Sullivan",
+          "raw": "Dan S. Sullivan",
+          "party": "R"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Dan S. Sullivan",
+          "raw": "Dan S. Sullivan",
+          "party": "R"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Dan S. Sullivan",
+          "raw": "Dan S. Sullivan",
+          "party": "R"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        },
+        {
+          "name": "Mary Peltola",
+          "raw": "Mary Peltola",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "ME Sen",
+      "id": "S-ME",
+      "office": "Senate",
+      "state": "Maine",
+      "stateCode": "ME",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Susan Collins",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Susan Collins",
+          "raw": "Susan Collins",
+          "party": "R"
+        },
+        {
+          "name": "Susan Collins",
+          "raw": "Susan Collins",
+          "party": "R"
+        },
+        {
+          "name": "Susan Collins",
+          "raw": "Susan Collins",
+          "party": "R"
+        },
+        {
+          "name": "Susan Collins",
+          "raw": "Susan Collins",
+          "party": "R"
+        },
+        {
+          "name": "Susan Collins",
+          "raw": "Susan Collins",
+          "party": "R"
+        },
+        {
+          "name": "Susan Collins",
+          "raw": "Susan Collins",
+          "party": "R"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Susan Collins",
+          "raw": "Susan Collins",
+          "party": "R"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        },
+        {
+          "name": "Susan Collins",
+          "raw": "Susan Collins",
+          "party": "R"
+        },
+        {
+          "name": "Troy Jackson",
+          "raw": "Troy Jackson",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "NC Sen",
+      "id": "S-NC",
+      "office": "Senate",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Michael Whatley",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Michael Whatley",
+          "raw": "Michael Watley",
+          "party": "R"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        },
+        {
+          "name": "Roy Cooper",
+          "raw": "Roy Cooper",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "MI Sen",
+      "id": "S-MI",
+      "office": "Senate",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Mike Rogers",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Mike Rogers",
+          "raw": "Mike Rogers",
+          "party": "R"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Mike Rogers",
+          "raw": "Mike Rogers",
+          "party": "R"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        },
+        {
+          "name": "Abdul El-Sayed",
+          "raw": "Abdul El-Sayed",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "IA Sen",
+      "id": "S-IA",
+      "office": "Senate",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Josh Turek",
+          "party": "D"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Josh Turek",
+          "raw": "Josh Turek",
+          "party": "D"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Josh Turek",
+          "raw": "Josh Turek",
+          "party": "D"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Josh Turek",
+          "raw": "Josh Turek",
+          "party": "D"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Josh Turek",
+          "raw": "Josh Turek",
+          "party": "D"
+        },
+        {
+          "name": "Ashley Hinson",
+          "raw": "Ashley Hinson",
+          "party": "R"
+        },
+        {
+          "name": "Josh Turek",
+          "raw": "Josh Turek",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "KS Sen",
+      "id": "S-KS",
+      "office": "Senate",
+      "state": "Kansas",
+      "stateCode": "KS",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Roger Marshall",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Roger Marshall",
+          "raw": "Roger Marshall",
+          "party": "R"
+        },
+        {
+          "name": "Roger Marshall",
+          "raw": "Roger Marshall",
+          "party": "R"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Roger Marshall",
+          "raw": "Roger Marshall",
+          "party": "R"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Roger Marshall",
+          "raw": "Roger Marshall",
+          "party": "R"
+        },
+        {
+          "name": "Roger Marshall",
+          "raw": "Roger Marshall",
+          "party": "R"
+        },
+        {
+          "name": "Roger Marshall",
+          "raw": "Roger Marshall",
+          "party": "R"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Roger Marshall",
+          "raw": "Roger Marshall",
+          "party": "R"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Roger Marshall",
+          "raw": "Roger Marshall",
+          "party": "R"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        },
+        {
+          "name": "Roger Marshall",
+          "raw": "Roger Marshall",
+          "party": "R"
+        },
+        {
+          "name": "Adam Hamilton",
+          "raw": "Adam Hamilton",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "TX Sen",
+      "id": "S-TX",
+      "office": "Senate",
+      "state": "Texas",
+      "stateCode": "TX",
+      "district": null,
+      "candidates": [
+        {
+          "name": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "Ken Paxton",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "Ken Paxton",
+          "raw": "Ken Paxton",
+          "party": "R"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "Ken Paxton",
+          "raw": "Ken Paxton",
+          "party": "R"
+        },
+        {
+          "name": "Ken Paxton",
+          "raw": "Ken Paxton",
+          "party": "R"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "Ken Paxton",
+          "raw": "Ken Paxton",
+          "party": "R"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        },
+        {
+          "name": "Ken Paxton",
+          "raw": "Ken Paxton",
+          "party": "R"
+        },
+        {
+          "name": "James Talarico",
+          "raw": "James Talarico",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "OH Sen",
+      "id": "S-OH-sp",
+      "office": "Senate",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Jon Husted",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        },
+        {
+          "name": "Sherrod Brown",
+          "raw": "Sherrod Brown",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "NE Sen",
+      "id": "S-NE",
+      "office": "Senate",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Dan Osborn",
+          "party": "I"
+        },
+        {
+          "name": "Pete Ricketts",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Dan Osborn",
+          "raw": "Dan Osborn",
+          "party": "I"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Dan Osborn",
+          "raw": "Dan Osborn",
+          "party": "I"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Pete Ricketts",
+          "raw": "Pete Ricketts",
+          "party": "R"
+        },
+        {
+          "name": "Dan Osborn",
+          "raw": "Dan Osborn",
+          "party": "I"
+        }
+      ]
+    },
+    {
+      "short": "OH Gov",
+      "id": "G-OH",
+      "office": "Governor",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Vivek Ramaswamy",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        },
+        {
+          "name": "Amy Acton",
+          "raw": "Amy Acton",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "NE Gov",
+      "id": "G-NE",
+      "office": "Governor",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Jim Pillen",
+          "party": "R"
+        },
+        {
+          "name": "Lynne Walz",
+          "party": "D"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillon",
+          "party": "R"
+        },
+        {
+          "name": "Lynne Walz",
+          "raw": "Lynne Walz",
+          "party": "D"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillon",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillon",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillon",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillon",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillon",
+          "party": "R"
+        },
+        {
+          "name": null,
+          "raw": null,
+          "party": null
+        },
+        {
+          "name": "Lynne Walz",
+          "raw": "Lynne Walz",
+          "party": "D"
+        },
+        {
+          "name": "Lynne Walz",
+          "raw": "Lynne Walz",
+          "party": "D"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillen",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillen",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillen",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillen",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillen",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillen",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillen",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillen",
+          "party": "R"
+        },
+        {
+          "name": "Jim Pillen",
+          "raw": "Jim Pillen",
+          "party": "R"
+        },
+        {
+          "name": null,
+          "raw": null,
+          "party": null
+        }
+      ]
+    },
+    {
+      "short": "IA Gov",
+      "id": "G-IA",
+      "office": "Governor",
+      "state": "Iowa",
+      "stateCode": "IA",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Zach Lahn",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        },
+        {
+          "name": "Zach Lahn",
+          "raw": "Zach Lahn",
+          "party": "R"
+        },
+        {
+          "name": "Rob Sand",
+          "raw": "Rob Sand",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "NV Gov",
+      "id": "G-NV",
+      "office": "Governor",
+      "state": "Nevada",
+      "stateCode": "NV",
+      "district": null,
+      "candidates": [
+        {
+          "name": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Joe Lombardo",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Joe Lombardo",
+          "raw": "Joe Lombardo",
+          "party": "R"
+        },
+        {
+          "name": "Joe Lombardo",
+          "raw": "Joe Lombardo",
+          "party": "R"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Joe Lombardo",
+          "raw": "Joe Lombardo",
+          "party": "R"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Joe Lombardo",
+          "raw": "Joe Lombardo",
+          "party": "R"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Joe Lombardo",
+          "raw": "Joe Lombardo",
+          "party": "R"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Joe Lombardo",
+          "raw": "Joe Lombardo",
+          "party": "R"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Aaron Ford",
+          "raw": "Aaron Ford",
+          "party": "D"
+        },
+        {
+          "name": "Joe Lombardo",
+          "raw": "Joe Lombardo",
+          "party": "R"
+        },
+        {
+          "name": "Joe Lombardo",
+          "raw": "Joe Lombardo",
+          "party": "R"
+        }
+      ]
+    },
+    {
+      "short": "NY-17",
+      "id": "H-NY-17",
+      "office": "House",
+      "state": "New York",
+      "stateCode": "NY",
+      "district": 17,
+      "candidates": [
+        {
+          "name": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Mike Lawler",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Mike Lawler",
+          "raw": "Mike Lawler",
+          "party": "R"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Mike Lawler",
+          "raw": "Mike Lawler",
+          "party": "R"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Mike Lawler",
+          "raw": "Mike Lawler",
+          "party": "R"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        },
+        {
+          "name": "Cait Conley",
+          "raw": "Cait Conley",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "OH-7",
+      "id": "H-OH-07",
+      "office": "House",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "district": 7,
+      "candidates": [
+        {
+          "name": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Max Miller",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Max Miller",
+          "raw": "Max Miller",
+          "party": "R"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        },
+        {
+          "name": "Brian Poindexter",
+          "raw": "Brian Poindexter",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "WI-1",
+      "id": "H-WI-01",
+      "office": "House",
+      "state": "Wisconsin",
+      "stateCode": "WI",
+      "district": 1,
+      "candidates": [
+        {
+          "name": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Mitchell Berman",
+          "party": "D"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Mitchell Berman",
+          "raw": "Mitchell Berman",
+          "party": "D"
+        },
+        {
+          "name": "Mitchell Berman",
+          "raw": "Mitchell Berman",
+          "party": "D"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Mitchell Berman",
+          "raw": "Mitchell Berman",
+          "party": "D"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Mitchell Berman",
+          "raw": "Mitchell Berman",
+          "party": "D"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Mitchell Berman",
+          "raw": "Mitchell Berman",
+          "party": "D"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Bryan Steil",
+          "raw": "Bryan Steil",
+          "party": "R"
+        },
+        {
+          "name": "Mitchell Berman",
+          "raw": "Mitchell Berman",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "SC-1",
+      "id": "H-SC-01",
+      "office": "House",
+      "state": "South Carolina",
+      "stateCode": "SC",
+      "district": 1,
+      "candidates": [
+        {
+          "name": "Jenny Honeycutt",
+          "party": "R"
+        },
+        {
+          "name": "Nancy Lacore",
+          "party": "D"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Nancy Lacore",
+          "raw": "Nancy Lacore",
+          "party": "D"
+        },
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Nancy Lacore",
+          "raw": "Nancy Lacore",
+          "party": "D"
+        },
+        {
+          "name": "Nancy Lacore",
+          "raw": "Nancy Lacore",
+          "party": "D"
+        },
+        {
+          "name": "Nancy Lacore",
+          "raw": "Nancy Lacore",
+          "party": "D"
+        },
+        {
+          "name": "Nancy Lacore",
+          "raw": "Nancy Lacore",
+          "party": "D"
+        },
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Nancy Lacore",
+          "raw": "Nancy Lacore",
+          "party": "D"
+        },
+        {
+          "name": "Nancy Lacore",
+          "raw": "Nancy Lacore",
+          "party": "D"
+        },
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Nancy Lacore",
+          "raw": "Nancy Lacore",
+          "party": "D"
+        },
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Jenny Honeycutt",
+          "raw": "Jenny Honeycut",
+          "party": "R"
+        },
+        {
+          "name": "Nancy Lacore",
+          "raw": "Nancy Lacore",
+          "party": "D"
+        }
+      ]
+    },
+    {
+      "short": "MI-7",
+      "id": "H-MI-07",
+      "office": "House",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "district": 7,
+      "candidates": [
+        {
+          "name": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Tom Barrett",
+          "party": "R"
+        }
+      ],
+      "picks": [
+        {
+          "name": "Tom Barrett",
+          "raw": "Tom Barrett",
+          "party": "R"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Tom Barrett",
+          "raw": "Tom Barrett",
+          "party": "R"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Tom Barrett",
+          "raw": "Tom Barrett",
+          "party": "R"
+        },
+        {
+          "name": "Tom Barrett",
+          "raw": "Tom Barrett",
+          "party": "R"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Tom Barrett",
+          "raw": "Tom Barrett",
+          "party": "R"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Tom Barrett",
+          "raw": "Tom Barrett",
+          "party": "R"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Tom Barrett",
+          "raw": "Tom Barrett",
+          "party": "R"
+        },
+        {
+          "name": "Will Lawrence",
+          "raw": "Will Lawrence",
+          "party": "D"
+        },
+        {
+          "name": "Tom Barrett",
+          "raw": "Tom Barrett",
+          "party": "R"
+        },
+        {
+          "name": "Tom Barrett",
+          "raw": "Tom Barrett",
+          "party": "R"
+        }
+      ]
+    }
+  ],
+  "source": "2026 Form Responses 1; timestamp excluded"
+}
