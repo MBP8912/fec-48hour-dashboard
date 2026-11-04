@@ -1,9 +1,10 @@
 {
   "electionDate": "2026-11-03",
-  "lastChecked": null,
-  "lastSuccess": null,
+  "lastChecked": "2026-11-04T00:22:41.644625+00:00",
+  "lastSuccess": "2026-11-04T00:22:41.644625+00:00",
   "sourceGenerated": null,
   "sourceUrl": "https://thepeoplestally.com/data/results.json",
+  "feedRaceCount": 10,
   "calls": {},
-  "status": "awaiting_first_update"
+  "status": "ok"
 }
