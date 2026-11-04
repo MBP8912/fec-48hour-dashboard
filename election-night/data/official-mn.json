@@ -2,8 +2,8 @@
   "race": "MN-01",
   "source": "Minnesota Secretary of State",
   "source_url": "https://electionresults.sos.mn.gov/Select/MediaFiles/Index?ersElectionId=201",
-  "updated_at": "2026-11-04T04:00:38.430837Z",
-  "source_hash": "42ebe08924a1f742060846c0145aa1df6191633b7d87820ad4483b6d8a7c66c0",
+  "updated_at": "2026-11-04T04:52:29.715254Z",
+  "source_hash": "54b9534ad412525cd105e400294af12a8c780206be6f69849c7a110ee2386abc",
   "test_data": false,
   "county_count": 21,
   "metric": "precincts reporting",
@@ -11,69 +11,69 @@
     {
       "county_id": "07",
       "name": "Blue Earth",
-      "precincts_reporting": 29,
+      "precincts_reporting": 56,
       "precincts_total": 56,
       "candidates": [
         {
           "name": "Jake Johnson",
           "party": "D",
-          "votes": 1912
+          "votes": 16682
         },
         {
           "name": "Brad Finstad",
           "party": "R",
-          "votes": 3003
+          "votes": 12943
         },
         {
           "name": "WRITE-IN",
           "party": "O",
-          "votes": 9
+          "votes": 41
         }
       ]
     },
     {
       "county_id": "08",
       "name": "Brown",
-      "precincts_reporting": 9,
+      "precincts_reporting": 17,
       "precincts_total": 22,
       "candidates": [
         {
           "name": "Jake Johnson",
           "party": "D",
-          "votes": 470
+          "votes": 3105
         },
         {
           "name": "Brad Finstad",
           "party": "R",
-          "votes": 1383
+          "votes": 4904
         },
         {
           "name": "WRITE-IN",
           "party": "O",
-          "votes": 1
+          "votes": 11
         }
       ]
     },
     {
       "county_id": "20",
       "name": "Dodge",
-      "precincts_reporting": 16,
+      "precincts_reporting": 22,
       "precincts_total": 22,
       "candidates": [
         {
           "name": "Jake Johnson",
           "party": "D",
-          "votes": 2232
+          "votes": 3978
         },
         {
           "name": "Brad Finstad",
           "party": "R",
-          "votes": 3689
+          "votes": 6342
         },
         {
           "name": "WRITE-IN",
           "party": "O",
-          "votes": 5
+          "votes": 12
         }
       ]
     },
@@ -149,23 +149,23 @@
     {
       "county_id": "25",
       "name": "Goodhue",
-      "precincts_reporting": 7,
+      "precincts_reporting": 13,
       "precincts_total": 40,
       "candidates": [
         {
           "name": "Jake Johnson",
           "party": "D",
-          "votes": 1535
+          "votes": 2603
         },
         {
           "name": "Brad Finstad",
           "party": "R",
-          "votes": 1868
+          "votes": 3530
         },
         {
           "name": "WRITE-IN",
           "party": "O",
-          "votes": 6
+          "votes": 8
         }
       ]
     },
@@ -195,23 +195,23 @@
     {
       "county_id": "32",
       "name": "Jackson",
-      "precincts_reporting": 15,
+      "precincts_reporting": 28,
       "precincts_total": 28,
       "candidates": [
         {
           "name": "Jake Johnson",
           "party": "D",
-          "votes": 392
+          "votes": 1566
         },
         {
           "name": "Brad Finstad",
           "party": "R",
-          "votes": 1170
+          "votes": 3297
         },
         {
           "name": "WRITE-IN",
           "party": "O",
-          "votes": 3
+          "votes": 5
         }
       ]
     },
@@ -310,23 +310,23 @@
     {
       "county_id": "55",
       "name": "Olmsted",
-      "precincts_reporting": 5,
+      "precincts_reporting": 49,
       "precincts_total": 111,
       "candidates": [
         {
           "name": "Jake Johnson",
           "party": "D",
-          "votes": 1341
+          "votes": 19776
         },
         {
           "name": "Brad Finstad",
           "party": "R",
-          "votes": 1118
+          "votes": 13521
         },
         {
           "name": "WRITE-IN",
           "party": "O",
-          "votes": 0
+          "votes": 34
         }
       ]
     },
@@ -379,110 +379,110 @@
     {
       "county_id": "74",
       "name": "Steele",
-      "precincts_reporting": 11,
+      "precincts_reporting": 26,
       "precincts_total": 26,
       "candidates": [
         {
           "name": "Jake Johnson",
           "party": "D",
-          "votes": 1470
+          "votes": 7808
         },
         {
           "name": "Brad Finstad",
           "party": "R",
-          "votes": 2668
+          "votes": 10153
         },
         {
           "name": "WRITE-IN",
           "party": "O",
-          "votes": 3
+          "votes": 26
         }
       ]
     },
     {
       "county_id": "79",
       "name": "Wabasha",
-      "precincts_reporting": 19,
+      "precincts_reporting": 32,
       "precincts_total": 33,
       "candidates": [
         {
           "name": "Jake Johnson",
           "party": "D",
-          "votes": 3218
+          "votes": 4545
         },
         {
           "name": "Brad Finstad",
           "party": "R",
-          "votes": 4213
+          "votes": 6555
         },
         {
           "name": "WRITE-IN",
           "party": "O",
-          "votes": 9
+          "votes": 13
         }
       ]
     },
     {
       "county_id": "81",
       "name": "Waseca",
-      "precincts_reporting": 0,
+      "precincts_reporting": 22,
       "precincts_total": 23,
       "candidates": [
         {
           "name": "Jake Johnson",
           "party": "D",
-          "votes": 0
+          "votes": 3240
         },
         {
           "name": "Brad Finstad",
           "party": "R",
-          "votes": 0
+          "votes": 5135
         },
         {
           "name": "WRITE-IN",
           "party": "O",
-          "votes": 0
+          "votes": 11
         }
       ]
     },
     {
       "county_id": "83",
       "name": "Watonwan",
-      "precincts_reporting": 0,
+      "precincts_reporting": 17,
       "precincts_total": 21,
       "candidates": [
         {
           "name": "Jake Johnson",
           "party": "D",
-          "votes": 0
+          "votes": 1628
         },
         {
           "name": "Brad Finstad",
           "party": "R",
-          "votes": 0
+          "votes": 2247
         },
         {
           "name": "WRITE-IN",
           "party": "O",
-          "votes": 0
+          "votes": 6
         }
       ]
     },
     {
       "county_id": "85",
       "name": "Winona",
-      "precincts_reporting": 18,
+      "precincts_reporting": 41,
       "precincts_total": 49,
       "candidates": [
         {
           "name": "Jake Johnson",
           "party": "D",
-          "votes": 4552
+          "votes": 8959
         },
         {
           "name": "Brad Finstad",
           "party": "R",
-          "votes": 2811
+          "votes": 7592
         },
         {
           "name": "WRITE-IN",
