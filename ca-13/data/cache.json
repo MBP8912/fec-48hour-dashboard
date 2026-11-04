@@ -1186,10 +1186,11 @@
       "amendment_chain": [
         2041805
       ],
-      "most_recent": true,
-      "most_recent_filing": 2041805,
-      "is_amended": false,
-      "filed_date": "2026-10-25"
+      "most_recent": false,
+      "most_recent_filing": 2046303,
+      "is_amended": true,
+      "filed_date": "2026-10-25",
+      "amended_by": 2046303
     },
     "C00845826/2042989": {
       "form_type": "F6N",
@@ -1900,6 +1901,33 @@
       "most_recent_filing": 2045545,
       "is_amended": false,
       "filed_date": "2026-11-01"
+    },
+    "C00845826/2046303": {
+      "form_type": "F6A",
+      "original_amendment_date": "2026-10-25",
+      "contributions": [
+        {
+          "date": "2026-10-23",
+          "amount_cents": 500000,
+          "contributor": "First in Freedom PAC",
+          "state": "GA",
+          "transaction_id": "F65-1390970",
+          "entity_type": "PAC",
+          "employer": "",
+          "occupation": ""
+        }
+      ],
+      "file_number": 2046303,
+      "committee_id": "C00845826",
+      "sha256": "512171d1714fe144340a9a5572a0d2be1d722d1d041e751c9b7f7cb214c6686d",
+      "amendment_chain": [
+        2041805,
+        2046303
+      ],
+      "most_recent": true,
+      "most_recent_filing": 2046303,
+      "is_amended": false,
+      "filed_date": "2026-11-04"
     }
   }
 }

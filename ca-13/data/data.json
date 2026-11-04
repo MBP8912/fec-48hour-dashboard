@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-04T21:50:06+00:00",
+  "generated_at": "2026-11-04T22:47:52+00:00",
   "period": {
     "from": "2026-10-15",
     "through": "2026-10-31"
@@ -375,13 +375,6 @@
     },
     {
       "committee_id": "C00845826",
-      "file_number": 2041805,
-      "filed_date": "2026-10-25",
-      "form_type": "F6N",
-      "url": "https://docquery.fec.gov/cgi-bin/forms/C00845826/2041805/f65"
-    },
-    {
-      "committee_id": "C00845826",
       "file_number": 2042989,
       "filed_date": "2026-10-29",
       "form_type": "F6N",
@@ -428,6 +421,13 @@
       "filed_date": "2026-11-01",
       "form_type": "F6N",
       "url": "https://docquery.fec.gov/cgi-bin/forms/C00801431/2045545/f65"
+    },
+    {
+      "committee_id": "C00845826",
+      "file_number": 2046303,
+      "filed_date": "2026-11-04",
+      "form_type": "F6A",
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00845826/2046303/f65"
     }
   ],
   "contributions": [
@@ -1117,18 +1117,6 @@
     },
     {
       "date": "2026-10-23",
-      "amount_cents": 500000,
-      "contributor": "10 Push Ups PAC",
-      "state": "GA",
-      "transaction_id": "F65-1390970",
-      "entity_type": "PAC",
-      "employer": "",
-      "occupation": "",
-      "committee_id": "C00845826",
-      "file_number": 2041805
-    },
-    {
-      "date": "2026-10-23",
       "amount_cents": 100000,
       "contributor": "Alegre, Lawrence M",
       "state": "CA",
@@ -1150,6 +1138,18 @@
       "occupation": "Retired",
       "committee_id": "C00845826",
       "file_number": 2041420
+    },
+    {
+      "date": "2026-10-23",
+      "amount_cents": 500000,
+      "contributor": "First in Freedom PAC",
+      "state": "GA",
+      "transaction_id": "F65-1390970",
+      "entity_type": "PAC",
+      "employer": "",
+      "occupation": "",
+      "committee_id": "C00845826",
+      "file_number": 2046303
     },
     {
       "date": "2026-10-23",
@@ -2150,7 +2150,8 @@
   ],
   "report_count": 22,
   "warnings": [
-    "F6 amendment 2045016 refers to a date with several original notices; review against FEC source"
+    "F6 amendment 2045016 refers to a date with several original notices; review against FEC source",
+    "F6 amendment 2046303 refers to a date with several original notices; review against FEC source"
   ],
   "method": "FEC Form 6 F65 transactions. Grouped by contribution receipt date; may include loans or in-kind contributions."
 }
