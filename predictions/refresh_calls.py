@@ -77,25 +77,75 @@ def calls_from(payload):
         results[race["id"]]={"winner":w,"calledBy":"AP","calledAt":date(rec.get("called_at") or rec.get("asof") or rec.get("winnerDateTime")) or generated,"sourceUrl":url,"sourceFeed":"The People's Tally (AP-attributed call)"}
     return results,generated,len(races)
 def main():
-    prior=json.loads(CALLS.read_text()) if CALLS.exists() else {"calls":{}}
-    if len(prior.get("calls",{}))==len(PICKS):
-        print("All races already AP-called")
+    from ap_sources import VOTECLOCK, ROLLCALL, from_voteclock, from_rollcall
+
+    prior = json.loads(CALLS.read_text()) if CALLS.exists() else {"calls": {}}
+    previous = dict(prior.get("calls") or {})
+    if len(previous) == len(PICKS):
+        print("All 18 AP calls are already recorded; no further source polling necessary")
         return
-    checked=utc()
-    for url in URLS:
+
+    checked = utc()
+    feeds = (
+        (VOTECLOCK, "html", from_voteclock),
+        (ROLLCALL, "html", from_rollcall),
+        *((url, "json", calls_from) for url in URLS),
+    )
+    successes = []
+    failures = []
+    conflicts = []
+    discovered = {}
+
+    # Try every independently sourced page. A working feed with zero AP calls
+    # must NOT prevent checking the other sources.
+    for url, kind, reader in feeds:
         try:
-            req=Request(url,headers={"User-Agent":"ElectionPredictionPool/1.0","Accept":"application/json"})
-            with urlopen(req,timeout=18) as resp:payload=json.load(resp)
-            updates,generated,n=calls_from(payload)
-            calls=dict(prior.get("calls",{}))
-            calls.update(updates)
-            out={"electionDate":"2026-11-03","lastChecked":checked,"lastSuccess":checked,"sourceGenerated":generated,"sourceUrl":url,"feedRaceCount":n,"calls":calls,"status":"ok"}
-            CALLS.write_text(json.dumps(out,indent=2,ensure_ascii=False)+"\n")
-            print(f"Checked {n} races; {len(calls)} AP-called")
-            return
-        except (OSError,ValueError,TypeError,KeyError,RuntimeError) as e:
-            print(f"Unavailable: {url}: {e}",file=sys.stderr)
-    prior.update({"lastChecked":checked,"status":"feed_unavailable","lastError":"Public AP-attributed results feed unavailable"})
-    CALLS.write_text(json.dumps(prior,indent=2,ensure_ascii=False)+"\n")
-if __name__=="__main__":
+            req = Request(url, headers={
+                "User-Agent": "Mozilla/5.0 (compatible; SpirosElectionScoreboard/1.0)",
+                "Accept": "text/html, application/json",
+            })
+            with urlopen(req, timeout=22) as response:
+                body = response.read()
+            if kind == "html":
+                found = reader(body.decode("utf-8", errors="replace"), PICKS)
+            else:
+                found, generated, n = reader(json.loads(body.decode("utf-8")))
+            successes.append({"url": url, "apMatches": len(found)})
+            for race_id, entry in found.items():
+                known = previous.get(race_id) or discovered.get(race_id)
+                if known and normalize(known.get("winner")) != normalize(entry["winner"]):
+                    conflicts.append(f"{race_id}: {known.get('winner')} != {entry['winner']} ({url})")
+                    continue  # Never auto-grade a disputed or retracted call.
+                if race_id not in previous and race_id not in discovered:
+                    discovered[race_id] = {**entry, "verifiedAt": checked}
+            print(f"{url}: {len(found)} explicitly AP-called tracked races")
+        except (OSError, ValueError, TypeError, KeyError, RuntimeError, UnicodeError) as exc:
+            failures.append(f"{url}: {exc}")
+            print(f"Unavailable: {url}: {exc}", file=sys.stderr)
+
+    merged = dict(previous)
+    merged.update(discovered)
+    reliable = any(item["apMatches"] for item in successes)
+    out = dict(prior)
+    out.update({
+        "electionDate": "2026-11-03",
+        "lastChecked": checked,
+        "lastSuccess": checked if reliable else prior.get("lastSuccess"),
+        "sourceUrl": VOTECLOCK,
+        "sourceDetails": successes,
+        "feedRaceCount": len(PICKS),
+        "calls": merged,
+        "status": "ok" if reliable and not conflicts else "feed_unavailable",
+    })
+    if failures or conflicts:
+        out["lastError"] = "; ".join((failures + conflicts)[:6])[:1000]
+    else:
+        out.pop("lastError", None)
+    CALLS.write_text(json.dumps(out, indent=2, ensure_ascii=False) + "\n")
+    print(f"Total verified AP calls: {len(merged)} of {len(PICKS)} "
+          f"({len(discovered)} new; {len(successes)} feeds read; {len(failures)} failed)")
+    if conflicts:
+        print("Source conflicts require manual review: " + "; ".join(conflicts), file=sys.stderr)
+
+if __name__ == "__main__":
     main()
