@@ -1,25 +1,17 @@
-name: Refresh 2026 election-night county data and publish dashboards
+name: Unpublish retired 2026 election-results dashboard
 
+# One-time site deployment only. No election-result fetching or scheduled runs.
 on:
   push:
     branches: [main]
     paths:
-      - 'election-night/**'
       - '.github/workflows/election-night-update.yml'
-  workflow_dispatch:
-  # Five-minute checks during election night, not an all-year schedule.
-  # UTC: Nov 3 23:00–23:55; Nov 4 all day; Nov 5 00:00–08:55.
-  schedule:
-    - cron: '*/5 23 3 11 *'
-    - cron: '*/5 * 4 11 *'
-    - cron: '*/5 0-8 5 11 *'
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
-# Coordinate with the existing FEC dashboard Pages workflow.
 concurrency:
   group: 2026-district-pages
   cancel-in-progress: false
@@ -27,95 +19,10 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    outputs:
-      active: ${{ steps.window.outputs.active }}
     steps:
-      - name: Limit scheduled runs to 2026 election night
-        id: window
-        shell: bash
-        run: |
-          if [[ "${{ github.event_name }}" != "schedule" || "$(date -u +%Y)" == "2026" ]]; then
-            echo "active=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "active=false" >> "$GITHUB_OUTPUT"
-          fi
-      - name: Check out repository
-        if: steps.window.outputs.active == 'true'
+      - name: Check out frozen dashboards
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true
-      - name: Set up Python
-        if: steps.window.outputs.active == 'true'
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-      - name: Test the county parser
-        if: steps.window.outputs.active == 'true'
-        run: |
-          cd election-night
-          python -m unittest test_refresh_mn.py test_refresh_ne.py test_refresh_ny.py test_refresh_ca.py -v
-      - name: Refresh the Minnesota Secretary of State file
-        if: steps.window.outputs.active == 'true'
-        id: county
-        continue-on-error: true
-        run: python election-night/refresh_mn.py
-      - name: Refresh the Nebraska Secretary of State county pages
-        if: steps.window.outputs.active == 'true'
-        id: ne
-        continue-on-error: true
-        run: python election-night/refresh_ne.py
-      - name: Refresh New York Board of Elections district totals
-        if: steps.window.outputs.active == 'true'
-        id: ny
-        continue-on-error: true
-        run: python election-night/refresh_ny.py
-      - name: Refresh California Secretary of State CA-13 county media files
-        if: steps.window.outputs.active == 'true'
-        id: ca
-        continue-on-error: true
-        run: python election-night/refresh_ca.py
-      - name: Archive verified official results if changed
-        if: steps.window.outputs.active == 'true' && (steps.county.outcome == 'success' || steps.ne.outcome == 'success' || steps.ny.outcome == 'success' || steps.ca.outcome == 'success')
-        shell: bash
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add election-night/data/official-mn.json election-night/data/official-ne.json election-night/data/official-ny.json election-night/data/official-ca.json
-          if ! git diff --cached --quiet; then
-            git commit -m 'Update 2026 official election-night data [skip ci]'
-            git pull --rebase -X theirs origin main
-            git push
-          fi
-      - name: Limit high-frequency prediction checks to 6 AM ET on November 4
-        if: steps.window.outputs.active == 'true'
-        id: prediction_window
-        shell: bash
-        run: |
-          local_now="$(TZ=America/New_York date '+%Y-%m-%dT%H:%M:%S')"
-          if [[ "$local_now" < "2026-11-04T06:00:00" ]]; then
-            echo "active=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "active=false" >> "$GITHUB_OUTPUT"
-          fi
-      - name: Check for new AP-attributed prediction-pool calls
-        if: steps.prediction_window.outputs.active == 'true'
-        id: prediction_calls
-        continue-on-error: true
-        run: python predictions/refresh_calls.py
-      - name: Archive prediction-pool AP race-call snapshot
-        if: steps.prediction_window.outputs.active == 'true' && steps.prediction_calls.outcome == 'success'
-        shell: bash
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add predictions/calls.json
-          if ! git diff --cached --quiet; then
-            git commit -m 'Refresh AP-confirmed election predictions [skip ci]'
-            git pull --rebase -X theirs origin main
-            git push
-          fi
-      - name: Assemble existing FEC pages and election-night dashboard
-        if: steps.window.outputs.active == 'true'
+      - name: Package FEC and prediction dashboards, excluding election-night results
         run: |
           mkdir -p _site/assets _site/data
           cp index.html _site/
@@ -129,28 +36,24 @@ jobs:
             cp "$district/data/data.json" "_site/$district/data/"
           done
           cp ca-13/spiros-consulting-logo.png _site/ca-13/
-          cp -R election-night _site/election-night
           cp -R predictions _site/predictions
           touch _site/.nojekyll
-      - name: Set up GitHub Pages
-        if: steps.window.outputs.active == 'true'
+      - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
         with:
           enablement: true
-      - name: Upload Pages site
-        if: steps.window.outputs.active == 'true'
+      - name: Upload static Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
           path: _site
 
   deploy:
-    if: needs.build.outputs.active == 'true'
     runs-on: ubuntu-latest
     needs: build
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Deploy existing and election-night dashboards
+      - name: Publish remaining dashboards only
         id: deployment
         uses: actions/deploy-pages@v4
