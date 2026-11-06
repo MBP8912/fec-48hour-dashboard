@@ -1,10 +1,7 @@
 name: Refresh nine 2026 FEC district dashboards
 
+# FEC data refreshes are manual only; no scheduled or push-triggered updates.
 on:
-  push:
-    branches: [main]
-  schedule:
-    - cron: '11 * * * *' # GitHub scheduled tasks may be delayed
   workflow_dispatch:
 
 permissions:
